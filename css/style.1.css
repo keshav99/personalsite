@@ -12,9 +12,16 @@ body{
   /*This would hide the scroll bar of the bottom if there is one*/
 }
 
-::-webkit-scrollbar {
-  display: none;
+::-webkit-scrollbar{
+  background: rgba(0, 0, 0, 0.8);
+  width: 15px;
+  height:15px;
 }
+
+::-webkit-scrollbar-thumb{
+  background: rgb(155, 0, 202);
+}
+
 
 @font-face {
   font-family: "Big";
@@ -137,11 +144,11 @@ body{
 .panel.blue{
 }
 
-.panel.bordeaux{
-  background: rgba(255, 255, 255, 1);
+.bordeaux{
   z-index: 3;
+  width: 100%;
+  text-align: center;
   overflow: hidden;
-  height: 30vh;
 }
 
 
@@ -329,22 +336,20 @@ a .exp-box img{
 }
 
 .bordeaux ul{
-  margin: 0;
+  width: 100%;
+  margin: auto;
   padding: 0;
-  position: absolute;
-  top: 25%;
-  left: 50% !important;
-  transform: translate(-50%, -50%);
+  
 }
 .bordeaux ul li {
   list-style: none;
-  float:left;
-  margin: 10px;
+  float:right;
+  margin: 15px;
   width: 70px;
   height:70px;
   line-height: 70px;
   text-align:center;
-  background:rgb(129, 112, 112);
+  background:rgb(154, 96, 248);
   border-radius: 50%;
   font-size: 30px;
   position: relative;
@@ -372,9 +377,9 @@ a .exp-box img{
 }
 .bordeaux ul li:hover{
   cursor: pointer;
-  color: rgb(136, 103, 133);
+  color: rgb(154, 96, 248);
   background: none;
-  border: 3px solid rgb(131, 113, 113);
+  border: 3px solid rgb(154, 96, 248);
   border-radius: 50%;
   
 }
@@ -436,7 +441,7 @@ a .exp-box img{
   
 }
 
-.blocks.four{
+.blocks.six{
   background: rgba(96, 0, 160, 0.85);
   
 }
@@ -449,9 +454,108 @@ a .exp-box img{
   background: rgba(0, 178, 190, 0.85);
 }
 
-.blocks.six{
+.blocks.four{
   background: rgba(66, 165, 0,0.85);
 }
+
+.six img{
+  height: 20vh;
+  display: inline-block;
+  text-align: left;
+  margin: 20px 10px 20px 10px;
+  
+  
+}
+
+.viewport {
+  width: 100%;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.carousel-frame {
+  width: 100%;
+}
+
+
+.scrolli {
+  display: flex;
+  align-items: left;
+  overflow-y: hidden;
+  width: 100%;
+  height: auto;
+  -webkit-overflow-scrolling: touch;
+}
+
+
+.scroll-item-outer {
+  margin-left:-50px;
+  margin-right:35px;
+  height: 40vh;
+  width: auto;
+}
+
+.scroll-item img{
+  height: 40vh;
+  width:auto;
+  cursor: pointer;
+}
+
+#hidden{
+  z-index: 0;
+  position: absolute;
+  top:0;
+  left:-15px;
+  width:99vw;
+  height:100vh;
+  background: rgba(0, 0, 0, 0.9);
+  opacity: 0;
+  
+}
+
+#back{
+  margin:60px;
+  margin-top:100px;
+  cursor: pointer;
+  transition: all 1s ease-in-out;
+  transform: translateY(-50%);
+}
+
+#back:hover{
+  filter: hue-rotate(-90deg);
+}
+
+#hiddenimg{
+  position: absolute;
+  
+}
+
+#myguitar{
+  position: relative;
+  top:0;
+  left:0 !important;
+  display: block !important;
+  width:50%;
+  height: auto !important;
+  margin: 0 auto !important;
+  margin-bottom:0;
+}
+
+.ngo{
+  height:40vh !important;
+  top:0;
+  display: inline-block;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+.translate{
+  transform: translate(-50%,-50%);
+}
+
 
 
 .logo{
@@ -491,7 +595,6 @@ a .exp-box img{
   display: inline-block;
   margin-right: 27px;
   margin-top: 27px; 
-  float: center;
   border-radius: 20px;
   padding: 10px;
   background: rgba(172, 132, 248, 0.8); 
@@ -631,6 +734,10 @@ figcaption p {
   margin-bottom:10px;
 }
 
+.cert h6{
+  font-weight: 100;
+}
+
 .cert:hover:after{
   content: 'Go to certificate';
   background-color: rgba(1, 124, 133, 0.95);
@@ -644,25 +751,53 @@ figcaption p {
     min-height: 100%;
   }
   
+  body{
+    font-size:1.2em;
+  }
+
+  
+  .dock{
+    width: 100%;
+    text-align: center; 
+  }
+
+  .dock img{
+    width: 120px;
+    height: 120px;
+  }
+  
   
   .linkedin{
     font-size: 1.6em;
+  }
+
+  .blocks{
+    width: 100%;
+    margin-left:0;
+    font-size: 1.6em;
+    padding-top:200px; 
+  }
+
+  figure{
+    width:100%;
+    height:500px;
+  }
+
+  .title{
+    margin-left:50%;
+    transform: translateX(-50%);
   }
   
   .panel.green{
     top:200%;
     min-height: 135%;
   }
-  .panel.bordeaux{
-    top:335%;
-    height: 250px;
-  }
-  
   .bordeaux ul{
-    width: 100%;
-    
+    width:30px;
+    height:30px;
     
   }
+
   
   .top-bar ul li, .top-bar ul li a{
     font-size: 1.1em;
@@ -671,6 +806,15 @@ figcaption p {
   }
   .top-bar img{
     margin-left: -25px; 
+  }
+
+  .cert{
+    width:100% !important;
+  }
+
+
+  .cert h6{
+    font-size:0.8em;
   }
   
   .container-intro, .container-intro-middle{
@@ -789,3 +933,7 @@ figcaption p {
     opacity: 0;
   }
 }
+
+
+
+
