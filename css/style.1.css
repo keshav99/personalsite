@@ -765,6 +765,10 @@ figcaption p {
     width: 120px;
     height: 120px;
   }
+
+  .ngo{
+    max-width: 80vw;
+  }
   
   
   .linkedin{
