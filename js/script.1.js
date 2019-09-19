@@ -145,33 +145,53 @@ $(window).load(function() {
                   //   			.setTween(wipeAnimation)
                   //   			// .addIndicators() // add indicators (requires plugin)
                   //         .addTo(controller); -->
-                  console.log($(window).width());
-                  console.log("doesnt");
                   
                 }
                 $('.mypics').click(function(){
-                  
-                  
-                  $('#hiddenimg').attr('src',$(this).attr('src'));
-                  if(this.height>this.width){
-                    $('#hiddenimg').css({'height':'100vh', 'width':'auto', 'top':'50%', 'left':'50%'});
-                    if($('#hiddenimg').hasClass('translate'))
-                    $('#hiddenimg').removeClass('translate');
-                    $('#hiddenimg').addClass('translate');
-                  }
-                  else{
-                    $('#hiddenimg').css({'width':'60vw', 'height':'auto', 'top':'50%', 'left':'50%'});
-                    if($('#hiddenimg').hasClass('translate'))
-                    $('#hiddenimg').removeClass('translate');
-                    $('#hiddenimg').addClass('translate');
-                  }
-                  $('#hidden').animate({'z-index':'100',opacity:'1'}, 500, function(){
-                  });
-                  $('#back').click(function(){
-                    $('#hidden').animate({'z-index':'-100',opacity:'0'}, 500, function(){
+
+                  if($(window).width()<=1024){
+                    $('#hiddenimg').attr('src',$(this).attr('src'));
+                    if(this.height>this.width){
+                      $('#hiddenimg').css({'height':'80vh', 'width':'auto', 'top':'50%', 'left':'50%'});
+                      if($('#hiddenimg').hasClass('translate'))
+                      $('#hiddenimg').removeClass('translate');
+                      $('#hiddenimg').addClass('translate');
+                    }
+                    else{
+                      $('#hiddenimg').css({'width':'100vw', 'height':'auto', 'top':'50%', 'left':'50%'});
+                      if($('#hiddenimg').hasClass('translate'))
+                      $('#hiddenimg').removeClass('translate');
+                      $('#hiddenimg').addClass('translate');
+                    }
+                    $('#hidden').animate({'z-index':'100',opacity:'1'}, 500, function(){
                     });
-                  });
+                    $('#back').click(function(){
+                      $('#hidden').animate({'z-index':'-100',opacity:'0'}, 500, function(){
+                      });
+                    });
+                  }
                   
+                  else{
+                    $('#hiddenimg').attr('src',$(this).attr('src'));
+                    if(this.height>this.width){
+                      $('#hiddenimg').css({'height':'100vh', 'width':'auto', 'top':'50%', 'left':'50%'});
+                      if($('#hiddenimg').hasClass('translate'))
+                      $('#hiddenimg').removeClass('translate');
+                      $('#hiddenimg').addClass('translate');
+                    }
+                    else{
+                      $('#hiddenimg').css({'width':'60vw', 'height':'auto', 'top':'50%', 'left':'50%'});
+                      if($('#hiddenimg').hasClass('translate'))
+                      $('#hiddenimg').removeClass('translate');
+                      $('#hiddenimg').addClass('translate');
+                    }
+                    $('#hidden').animate({'z-index':'100',opacity:'1'}, 500, function(){
+                    });
+                    $('#back').click(function(){
+                      $('#hidden').animate({'z-index':'-100',opacity:'0'}, 500, function(){
+                      });
+                    });
+                  } 
                 });
                 
                 // create scene to pin and link animation
