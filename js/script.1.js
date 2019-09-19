@@ -1,6 +1,7 @@
 $(window).load(function() {
   const observer = lozad();
   observer.observe();
+  
   // Animate loader off screen
   $(".se-pre-con").fadeOut("slow");;
   
