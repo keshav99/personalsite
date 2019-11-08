@@ -16,8 +16,8 @@ let gameOptions = {
     // min and max milliseconds needed by the targets
     // to run all the way around the path
     targetSpeed: {
-        min: 6000,
-        max: 10000
+        min: 600,
+        max: 1000
     },
 
     // min and max target size, in pixels
