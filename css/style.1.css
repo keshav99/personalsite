@@ -677,7 +677,7 @@ figure:hover {
 }
 figure:hover:after {
   content: 'Click for project report';
-  background-color: rgba(132, 15, 241, 0.95);
+  background-color: rgba(66, 165, 0,0.95);
   text-align: center;
   color: white;
   z-index: 2;
