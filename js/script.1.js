@@ -240,7 +240,7 @@ $(window).load(function() {
                     // $(document.getElementById('docktext')).animate({opacity:1});
                     // $(document.getElementById('docktext')).text("I have nearly 4 years of experience in C++. I had created a Conference Team and Task management Application. Using Hashed Trees, tasks could be assigned from one user to another.");
                     $("#docktext").hide(150, function() {
-                      $(this).html("I have nearly 4 years of experience in C++. I had created a Conference Team and Task management Application. Using Hashed Trees, tasks could be assigned from one user to another.").show(100);
+                      $(this).html("I have nearly 4 years of experience in C++. I had created a Conference Team and Task Management Application. Using Hashed Trees, tasks could be assigned from one user to another.").show(100);
                     });
                     
                   },
@@ -261,7 +261,7 @@ $(window).load(function() {
                       // $(document.getElementById('docktext')).animate({opacity:1});
                       // $(document.getElementById('docktext')).text("I have nearly 4 years of experience in C++. I had created a Conference Team and Task management Application. Using Hashed Trees, tasks could be assigned from one user to another.");
                       $("#docktext").hide(50, function() {
-                        $(this).html("Having practised java for nearly 6 years now, I have created many applications with it. From school, I created a Glow Hockey game using java graphics, and then tested java with an arduino board while making a Traffic Signal Light Automated Application").show(100);
+                        $(this).html("Having practised Java for nearly 6 years now, I have created many applications with it. While at school, I created a Glow Hockey game using Java graphics. I have also tested Java with an arduino board while making a Traffic Signal Light Automated Application in my 2nd year.").show(100);
                       });
                       
                     },
@@ -282,7 +282,7 @@ $(window).load(function() {
                         // $(document.getElementById('docktext')).animate({opacity:1});
                         // $(document.getElementById('docktext')).text("I have nearly 4 years of experience in C++. I had created a Conference Team and Task management Application. Using Hashed Trees, tasks could be assigned from one user to another.");
                         $("#docktext").hide(150, function() {
-                          $(this).html("From coding in hackathons to developing APIs, I feel most comfortable in using Python. I have explored web scraping, web APIs (Django and Flask), neural networking(with Tensorflow and Pytorch) and hace accordingly created many applications using this.").show(100);
+                          $(this).html("From coding in hackathons to developing APIs, I feel most comfortable in using Python. I have explored web scraping, web APIs (Django and Flask), Neural Networking (with Tensorflow and Pytorch) and have accordingly created many applications using this.").show(100);
                         });
                         
                       },
@@ -303,7 +303,7 @@ $(window).load(function() {
                           // $(document.getElementById('docktext')).animate({opacity:1});
                           // $(document.getElementById('docktext')).text("I have nearly 4 years of experience in C++. I had created a Conference Team and Task management Application. Using Hashed Trees, tasks could be assigned from one user to another.");
                           $("#docktext").hide(150, function() {
-                            $(this).html("I have completed the Universal Windows Platform developer series for Windows 10 applications where I had worked on C# along with XAML for creating responsive desktop applications. I began wokring with Visual Studio and Windows Form application since my high school.").show(100);
+                            $(this).html("I have completed the Universal Windows Platform developer series for Windows 10 applications where I worked on C# along with XAML for creating responsive desktop applications. I began working with Visual Studio and Windows Form application in my high school.").show(100);
                           });
                           
                         },
@@ -324,7 +324,7 @@ $(window).load(function() {
                             // $(document.getElementById('docktext')).animate({opacity:1});
                             // $(document.getElementById('docktext')).text("I have nearly 4 years of experience in C++. I had created a Conference Team and Task management Application. Using Hashed Trees, tasks could be assigned from one user to another.");
                             $("#docktext").hide(150, function() {
-                              $(this).html("I have worked extensively with Web designing and developmemnt. I have also explored many frameworks with javascript such as AngularJS and JQuery. I had also created a desktoop application when I interned at Vicara Tech using ElectronJS.").show(100);
+                              $(this).html("I have worked extensively on Web designing and developmemnt. I have also explored many frameworks with Javascript, such as AngularJS and JQuery. I had also created a desktop application when I interned at Vicara Tech using ElectronJS.").show(100);
                             });
                             
                           },
@@ -345,7 +345,7 @@ $(window).load(function() {
                               // $(document.getElementById('docktext')).animate({opacity:1});
                               // $(document.getElementById('docktext')).text("I have nearly 4 years of experience in C++. I had created a Conference Team and Task management Application. Using Hashed Trees, tasks could be assigned from one user to another.");
                               $("#docktext").hide(150, function() {
-                                $(this).html("I had very recently completed the Neural Networking And Deep Learning course by deeplearning.ai where various tools including Tensorflow for python had been used.").show(100);
+                                $(this).html("I had very recently completed the 'Neural Networking And Deep Learning' course by deeplearning.ai, where various tools including Tensorflow for Python had been used.").show(100);
                               });
                               
                             },
@@ -366,7 +366,7 @@ $(window).load(function() {
                                 // $(document.getElementById('docktext')).animate({opacity:1});
                                 // $(document.getElementById('docktext')).text("I have nearly 4 years of experience in C++. I had created a Conference Team and Task management Application. Using Hashed Trees, tasks could be assigned from one user to another.");
                                 $("#docktext").hide(150, function() {
-                                  $(this).html("Metasploit software is used for vulnerability and testing. I worked on a project for escalating priviledges on a Windows machine and remotely adding users and administrator to exploit metasploitable").show(100);
+                                  $(this).html("Metasploit software is used for vulnerability and testing. I worked on a project for escalating privileges on a Windows machine and remotely adding users and administrator to exploit Metasploitable.").show(100);
                                 });
                                 
                               },
@@ -450,7 +450,7 @@ $(window).load(function() {
                                         // $(document.getElementById('docktext')).animate({opacity:1});
                                         // $(document.getElementById('docktext')).text("I have nearly 4 years of experience in C++. I had created a Conference Team and Task management Application. Using Hashed Trees, tasks could be assigned from one user to another.");
                                         $("#docktext").hide(150, function() {
-                                          $(this).html('I began learning Unity game development for the last one year. I am currently working on a game that involves navigating through a maze and successfully finding your way out while destroying enemies attack that appear randomly').show(100);
+                                          $(this).html('I had been learning Unity game development last year. I am currently working on a game that involves navigating through a maze and successfully finding the way out while destroying enemy attacks that appear randomly.').show(100);
                                         });
                                         
                                       },
@@ -471,7 +471,7 @@ $(window).load(function() {
                                           // $(document.getElementById('docktext')).animate({opacity:1});
                                           // $(document.getElementById('docktext')).text("I have nearly 4 years of experience in C++. I had created a Conference Team and Task management Application. Using Hashed Trees, tasks could be assigned from one user to another.");
                                           $("#docktext").hide(150, function() {
-                                            $(this).html('I have worked with linux platforms and performs vulnerability attacks from inux to windows xp operating systems. I have also adopted to linux command line and programming in vim editor.').show(100);
+                                            $(this).html('I have worked with Linux platforms and performed vulnerability attacks from Linux to Windows XP operating systems. I have also adopted Linux Command Line and programming VIM editor.').show(100);
                                           });
                                           
                                         },
