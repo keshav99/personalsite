@@ -784,8 +784,9 @@ figcaption p {
   }
 
   figure{
-    width:100%;
-    height:500px;
+    width:90vw;
+    margin:10px;
+    height: auto !important;
   }
 
   .title{
