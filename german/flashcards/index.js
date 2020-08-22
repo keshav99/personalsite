@@ -32,7 +32,6 @@ $.getJSON( "./wordlist.json", function( data ) {
         });
       });
      })
-  })
   .done(function(){
     console.log("issa done")
     console.log(words[5]);
