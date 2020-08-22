@@ -13,3 +13,19 @@ $.getJSON( "./wordlist.json", function( data ) {
   });
   console.log("Printing output");
   console.log(output);
+
+var loadWord = function(){
+    var newword = output[(Math.floor(Math.random() * output.length) + 1)-1];
+    var sentences,color;
+    for(var i=0; i<output.length; i++){
+        if(output[i].word == newword){
+            sentences = output[i].sentences;
+            color = output[i].color;
+            break;
+        }
+    }
+    $("#wordName").val = newword;
+    sentences.forEach(e => {
+        $("#sentences").append('<li>'+e+'</li>');
+    });
+}
