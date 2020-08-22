@@ -33,4 +33,4 @@ var loadWord = function(){
 
 $(window).load(function() {
     loadWord();
-}
+});
