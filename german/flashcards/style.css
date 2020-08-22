@@ -1,0 +1,52 @@
+#container{
+    width: 100vw;
+    height: 60vh !important;
+    vertical-align: center;
+    margin-top:20vh;
+    text-align: center;
+    
+}
+
+.go{
+    position: absolute;
+    width:20vw;
+    height: 60vh;;
+    border: none;
+    top:20vh;
+    background: rgba(230, 194, 194, 0.8);
+}
+#next{
+    left:80vw;  
+}
+
+#back{
+    left:0;
+}
+
+#wordName, #sentences{
+    position: absolute;
+    left: 50%;
+    transform: translate(-50%,-60%);
+}
+
+#wordName{
+    font-size: 5em;
+    top: 30%;
+}
+
+#sentences{
+    top: 60%;
+}
+
+#sentences li{
+    list-style: none;
+    padding:5px;
+}
+
+::-webkit-scrollbar{
+    display: none;
+}
+
+::-webkit-scrollbar-thumb{
+    display: none;
+  }
