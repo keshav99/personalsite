@@ -17,6 +17,7 @@ $.getJSON( "./wordlist.json", function( data ) {
         wordcolors.push(colors[(Math.floor(Math.random() * colors.length) + 1)-1]);
      })
   });
+    console.log(words[5]);
     loadWord(words, sentences, wordcolors);
 });
 
