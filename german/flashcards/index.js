@@ -1,6 +1,7 @@
 
 
 var loadWord = function(output){
+    console.log(output);
     var ran = (Math.floor(Math.random() * output.length) + 1)-1;
 
     var newword = output[ran];
@@ -23,7 +24,7 @@ $(window).load(function() {
     var output = [];
 var colors = ["#5e65db", "#a448d9", "#d94871", "#d97148", "#cad948", "#48d973"]
 $.getJSON( "./wordlist.json", function( data ) {
-    console.log( data);
+
     $.each(data, function(key, val) {
         console.log(key+" "+val);
         output.push({
@@ -33,7 +34,5 @@ $.getJSON( "./wordlist.json", function( data ) {
         })
      })
   });
-  console.log("Printing output");
-  console.log(output);
     loadWord(output);
 });
