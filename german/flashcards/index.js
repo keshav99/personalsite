@@ -7,6 +7,7 @@ var loadWord = function(output){
     var newword = output[ran];
     var sentences,color;
     for(var i=0; i<627; i++){
+        console.log(output[i]);
         if(output[i].word == newword){
             sentences = output[i].sentences;
             color = output[i].color;
