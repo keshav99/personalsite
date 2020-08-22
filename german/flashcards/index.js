@@ -1,9 +1,8 @@
 var output;
-$.getJSON( "./wordlist.json", function() {
+$.getJSON( "./wordlist.json", function( data ) {
     console.log( "success" );
-  })
-  .done(function( data ) {
-    $.each( data.items, function( i, item ) {
-      print(item);
-    });
+    $.each(data.items, function(key, val) {
+        alert(val.fname);
+        alert(val.lname);
+     })
   });
