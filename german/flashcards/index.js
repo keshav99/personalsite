@@ -1,5 +1,11 @@
-var jqxhr = $.getJSON( "./wordlist.json", function() {
+var output;
+$.getJSON( "./wordlist.json", function() {
     console.log( "success" );
-  }).responseJSON;
+  })
+  .done(function(data){
+      output = data;
+  })
 
-console.log(jqxhr);
+  $.each(data.items, function(i, item){
+    console.log(item);
+  })
