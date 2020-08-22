@@ -6,6 +6,6 @@ $.getJSON( "./wordlist.json", function() {
       output = data;
   })
 
-  $.each(data.items, function(i, item){
+  $.each(output.items, function(i, item){
     console.log(item);
   })
