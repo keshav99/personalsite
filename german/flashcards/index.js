@@ -22,6 +22,8 @@ $.getJSON( "./wordlist.json", function( data ) {
 
 var loadWord = function(words, sentences, wordcolors){
 console.log(words);
+console.log(words.length);
+console.log(words[5]);
     var ran = (Math.floor(Math.random() * words.length) + 1)-1;
 
     var newword = words[ran];
