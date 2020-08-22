@@ -42,9 +42,10 @@ var loadWord = function(words, sentences, wordcolors){
     s = sentences[ran];
     c = wordcolors[ran];
     console.log(ran+" "+newword+" "+s+" "+c)
-    $("#wordName").text = newword;
+    $("#wordName").text(newword);
     s.forEach(e => {
         $("#sentences").append('<li>'+e+'</li>');
     });
+    $(".banner").css("background: "+c);
 }
 
