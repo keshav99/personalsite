@@ -24,6 +24,7 @@ var loadWord = function(){
             break;
         }
     }
+    console.log(newword+" "+sentences+" "+color)
     $("#wordName").val = newword;
     sentences.forEach(e => {
         $("#sentences").append('<li>'+e+'</li>');
