@@ -29,3 +29,7 @@ var loadWord = function(){
         $("#sentences").append('<li>'+e+'</li>');
     });
 }
+
+$(window).load(function() {
+    loadWord();
+}
