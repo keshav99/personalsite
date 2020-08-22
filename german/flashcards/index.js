@@ -25,9 +25,9 @@ $.getJSON( "./wordlist.json", function( data ) {
         function(data) {
           $.each(data.items, function(i,item){
             // $("<img/>").attr("src", item.media.m).prependTo("#results");
-            imgs.push(item.media.m)
-            break;
-            if ( i == 10 ) return false;
+            imgs.push(item.media.m);
+            return;
+            
           });
         });
       });
