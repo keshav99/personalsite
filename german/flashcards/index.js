@@ -14,7 +14,7 @@ var loadWord = function(words, sentences, wordcolors){
     //     }
     // }
     s = sentences[ran];
-    c = colors[ran];
+    c = wordcolors[ran];
     console.log(ran+" "+newword+" "+sentences+" "+color)
     $("#wordName").val = newword;
     sentences.forEach(e => {
