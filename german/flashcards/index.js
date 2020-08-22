@@ -16,9 +16,13 @@ $.getJSON( "./wordlist.json", function( data ) {
         sentences.push(val);
         wordcolors.push(colors[(Math.floor(Math.random() * colors.length) + 1)-1]);
      })
-  });
+  })
+  .done(function(){
+    console.log("issa done")
     console.log(words[5]);
     loadWord(words, sentences, wordcolors);
+  });
+    
 });
 
 var loadWord = function(words, sentences, wordcolors){
