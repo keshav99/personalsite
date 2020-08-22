@@ -1,27 +1,3 @@
-
-
-var loadWord = function(words, sentences, wordcolors){
-    var ran = (Math.floor(Math.random() * words.length) + 1)-1;
-
-    var newword = words[ran];
-    var s,c;
-    // for(var i=0; i<627; i++){
-    //     console.log(output[i]);
-    //     if(output[i].word == newword){
-    //         sentences = output[i].sentences;
-    //         color = output[i].color;
-    //         break;
-    //     }
-    // }
-    s = sentences[ran];
-    c = wordcolors[ran];
-    console.log(ran+" "+newword+" "+s+" "+c)
-    $("#wordName").val = newword;
-    sentences.forEach(e => {
-        $("#sentences").append('<li>'+e+'</li>');
-    });
-}
-
 $(window).load(function() {
     var output = {};
 var words = []
@@ -43,3 +19,27 @@ $.getJSON( "./wordlist.json", function( data ) {
   });
     loadWord(words, sentences, wordcolors);
 });
+
+var loadWord = function(words, sentences, wordcolors){
+console.log(words);
+    var ran = (Math.floor(Math.random() * words.length) + 1)-1;
+
+    var newword = words[ran];
+    var s,c;
+    // for(var i=0; i<627; i++){
+    //     console.log(output[i]);
+    //     if(output[i].word == newword){
+    //         sentences = output[i].sentences;
+    //         color = output[i].color;
+    //         break;
+    //     }
+    // }
+    s = sentences[ran];
+    c = wordcolors[ran];
+    console.log(ran+" "+newword+" "+s+" "+c)
+    $("#wordName").val = newword;
+    sentences.forEach(e => {
+        $("#sentences").append('<li>'+e+'</li>');
+    });
+}
+
