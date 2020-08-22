@@ -1,6 +1,6 @@
 
 
-var loadWord = function(){
+var loadWord = function(output){
     var ran = (Math.floor(Math.random() * output.length) + 1)-1;
 
     var newword = output[ran];
@@ -35,5 +35,5 @@ $.getJSON( "./wordlist.json", function( data ) {
   });
   console.log("Printing output");
   console.log(output);
-    loadWord();
+    loadWord(output);
 });
