@@ -32,7 +32,7 @@ var words = []
 var sentences = [];
 var wordcolors = [];
 var colors = ["#5e65db", "#a448d9", "#d94871", "#d97148", "#cad948", "#48d973"];
-var wordVocab = getCookie(wordVocabForGermanFlashcards);
+var wordVocab = getCookie("wordVocabForGermanFlashcards");
 if(wordVocab == null){
   wordVocab = {};
 }
@@ -182,7 +182,7 @@ function saveCookie(cvalue) {
   var d = new Date();
   d.setTime(d.getTime() + (3600 * 24 * 60 * 60 * 1000));
   var expires = "expires="+d.toUTCString();
-  document.cookie = wordVocabForGermanFlashcards + "=" + cvalue + ";" + expires + ";path=/";
+  document.cookie = "wordVocabForGermanFlashcards" + "=" + cvalue + ";" + expires + ";path=/";
 }
 
 
