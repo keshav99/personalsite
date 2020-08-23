@@ -124,7 +124,7 @@ var loadWord = function(words, sentences, wordcolors){
     });
     $("#container").css('background-color', c);
     $("#sample").attr("src",i);
-    $("#meaning").text(wordengs[ran]);
+    $("#meaning").text(sentences);
 }
 
 
