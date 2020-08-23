@@ -42,8 +42,10 @@ $.getJSON( "./wordlist.json", function( data ) {
     else{
       var item = words.indexOf(doneWords[pointer]);
       $("#wordName").text(words[item]);
+      var i = 0;
       sentences[item].forEach(e => {
-          $("#sentences").append('<li>'+e+'</li>');
+        $("#sentences").append('<li>'+e+" ("+sentenceengs[item][i]+')</li>');
+        i++;
       });
       $("#container").css('background-color', wordcolors[item]);
       $("#sample").attr("src",imgs[item]);
@@ -59,6 +61,7 @@ $.getJSON( "./wordlist.json", function( data ) {
       $("#wordName").text(words[item]);
       var i=0;
       sentences[item].forEach(e => {
+        sentenceengs[item][i]
           $("#sentences").append('<li>'+e+" ("+sentenceengs[item][i]+')</li>');
           i++;
       });
@@ -90,8 +93,10 @@ var loadWord = function(words, sentences, wordcolors){
     i = imgs[ran];
     doneWords.push(newword);
     $("#wordName").text(newword);
+    var j=0;
     s.forEach(e => {
-        $("#sentences").append('<li>'+e+'</li>');
+      $("#sentences").append('<li>'+e+" ("+sentenceengs[ran][j]+')</li>');
+      j++;
     });
     $("#container").css('background-color', c);
     $("#sample").attr("src",i);
