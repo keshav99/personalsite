@@ -25,8 +25,14 @@ $.getJSON( "./wordlist.json", function( data ) {
     console.log(words);
     loadWord(words, sentences, wordcolors);
   });
+
+  $("#next").click(function(){
+    loadWord(words, sentences, wordcolors);
+  })
     
 });
+
+
 
 var loadWord = function(words, sentences, wordcolors){
     // console.log(imgs);
