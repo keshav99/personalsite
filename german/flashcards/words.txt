@@ -98,7 +98,6 @@ die Butter
 das Café
 die CD
 der Chef
-[ … ]
 circa/ca.
 der Computer
 daneben
@@ -199,7 +198,6 @@ der Gast
 geben
 geboren
 das Geburtsjahr
-[ … ]
 der Geburtsort
 der Geburtstag
 gefallen
@@ -300,7 +298,6 @@ die Kasse
 kaufen
 kein
 kennen
-[ … ]
 kennenlernen
 das Kind
 der Kindergarten
@@ -401,7 +398,6 @@ nein
 neu
 nicht
 nichts
-[ … ]
 nie
 noch
 normal
@@ -502,7 +498,6 @@ das Sofa
 sofort
 der Sohn
 sollen
-[ … ]
 die Sonne
 spät
 später
@@ -603,7 +598,6 @@ wiederholen
 das Wiederhören
 das Wiedersehen
 willkommen
-[ … ]
 der Wind
 wir
 wissen

@@ -50,7 +50,7 @@ var loadWord = function(words, sentences, wordcolors){
     s.forEach(e => {
         $("#sentences").append('<li>'+e+'</li>');
     });
-    $(".banner").css('background-color', c);
+    $("#banner").css('background-color', c);
     $("#sample").attr("src",i);
 }
 
