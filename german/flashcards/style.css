@@ -95,8 +95,8 @@ body{
     #sentences{
         font-size: 2em;
         position: absolute;
-
-        top: 70%;
+        width:100%;
+        top: 75%;
         transform:translate(-50%,-50%);   
     }
 }
