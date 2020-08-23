@@ -39,5 +39,15 @@ def get_google_img(name):
     # urllib.urlretrieve(url, "image.png")
     # return self.process(cv2.imread("image.png",0))
 
-print(get_google_img("Excuse me"))
+# print(get_google_img("Excuse me"))
+f = open('word_eng.txt', 'r')
+g = open('imgs', 'w+')
+imgs = []
+words = f.read().split('\n')
+# print(words)
+for i in words:
+    url = get_google_img("+"+i)
+    imgs.append(url)
+    g.write(url)
+
     

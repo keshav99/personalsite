@@ -1,0 +1,627 @@
+from
+but
+depart
+the farewell
+submit
+pick up
+the sender
+Caution
+the address
+Alles
+All
+alone
+so
+old
+age
+on
+At the
+to offer
+the offer
+at the
+to begin
+the beginning
+click
+arrive
+the arrival
+Mark with a cross
+to turn on
+the registration
+the salutation
+call
+the calling
+the calling
+the baby
+the bakery
+the bathroom
+to bathe
+the train
+the station
+the platform
+soon
+the balcony
+the banana
+the bench
+bar
+the belly
+the tree
+the official
+mean
+kick off
+at
+At
+both
+the leg
+the example
+brothers
+known
+to get
+to use
+the job
+occupied
+visit
+better
+best
+to order
+to order
+visit
+the bed
+pay
+the beer
+the picture
+cheap
+the pear
+to
+little
+Sorry
+the request
+ask
+bitter
+stay
+the pencil
+the view
+the flower
+the arc
+angry
+need
+wide
+the letter
+the stamp
+bring
+the bread
+the bread bun
+the brother
+the book
+the letter
+spell
+the bus
+the butter
+the cafe
+the CD
+the boss
+approx 
+the computer
+Besides
+to thank
+thank you
+then
+last
+your
+you
+this
+to you
+there
+There
+outside
+to press
+to press
+by
+allowed to
+May
+the husband
+the egg
+hurried
+a
+easy
+the entrance
+shop
+invite
+the invitation
+once
+enter
+the entry
+single room
+the parents
+the email
+the recipient
+Receiver
+recommend
+end up
+the end
+He
+to apologize
+the apology
+he
+the result
+to explain
+allow
+the adult
+tell
+it
+eat
+the food
+your
+drive
+the driver
+the ticket
+the bike
+not correct
+the family
+the family name
+marital status
+the color
+the fax
+Celebration
+to celebrate
+absence
+the mistake
+watch TV
+finished
+the fire
+the fever
+the film
+Find
+the Company
+the fish
+the bottle
+the meat
+to fly
+the airport
+The plane
+the form
+the photo
+ask
+the question
+the woman
+free
+the free time
+strange
+the boyfriend
+earlier
+have breakfast
+breakfast
+the leadership
+For
+the foot
+the football
+the garden
+the guest
+give
+born
+the year of birth
+the birthplace
+the birthday
+like
+against
+go
+belong
+the money
+the vegetable
+the luggage
+straight
+straight
+with pleasure)
+the business
+the gift
+the siblings
+the conversation
+yesterday
+died
+the drink
+the weight
+win
+the glass
+believe
+equal
+the track
+happiness
+happy
+the congratulation
+Degree
+to congratulate
+grilling
+big
+the size
+the grandparents
+the grandmother
+the grandpa
+the group
+the greeting
+valid
+Cheap
+Well
+Good ones
+the hair
+to have
+the chicken
+the half board
+the hall
+Hello
+hold
+the bus stop
+the hand
+The cell phone
+the House
+the homework
+the housewife
+the househusband
+homeland
+marry
+be called
+help
+bright
+the stove
+the gentleman
+cordial
+today
+here
+Here
+the help
+back
+the hobby
+high
+the wedding
+to fetch
+Listen
+the hotel
+the dog
+the hunger
+I
+her / him
+always
+in
+the information
+international
+the Internet
+Yes
+the jacket
+any
+now
+the job
+the youth
+young
+boy
+the coffee
+broken
+the map
+the potato
+the cash register
+to buy
+no
+know
+to get to know
+the child
+the kindergarten
+the cinema
+the kiosk
+clear
+the class
+the clothing
+small
+Cook
+the suitcase
+The colleague
+come
+Come
+can
+Can
+the account
+the head
+costs
+ill
+Obtain
+the kitchen
+the cake
+the ballpen
+the refrigerator
+cultural
+the customer
+The course
+short
+laugh
+the store
+the country
+long
+Long
+slowly
+to run
+according to
+Life
+The life
+the life
+single
+lay
+the teacher
+light
+Unfortunately
+quietly
+learn
+read
+last
+the people
+the light
+dear
+love
+Dear
+Favourite
+the song
+lie
+Left
+the truck
+the pub
+the solution
+funny
+do
+the girl
+man
+the man
+male
+the machine
+Ocean
+more
+my
+most of time
+the human being
+rent
+the rent
+the milk
+With
+bring
+come along
+participate
+take
+the middle
+the furniture
+would like
+to like
+possible
+the moment
+tomorrow
+tired
+the mouth
+have to
+the mother
+to
+next
+the name
+to take
+No
+New
+Not
+Nothing
+never
+yet
+normal
+the number
+just
+above
+the fruit
+or
+often
+without
+the grandmother
+the grandpa
+the order
+the place
+the paper
+the papers
+the partner
+the partner
+the party
+the passport
+the break
+the plan
+the seat
+the police
+The french fries
+the post
+the area code
+the internship
+the practice
+the price
+the problem
+the prospectus
+the exam
+in time
+wheel
+smoke
+the space
+the invoice
+right
+rain
+the rain
+the rice
+to travel
+the trip
+the travel agency
+The Guide
+repair
+the repair
+the restaurant
+the reception
+correct
+smell
+calm
+the juice
+say
+the salad
+the salt
+sentence
+the SBahn
+the desk
+seem to be
+send
+the shield
+the ham
+sleep
+bad
+she
+conclude
+the end
+the key
+taste
+fast
+beautiful
+beautiful
+the cupboard
+write
+the shoe
+the school
+the student
+Student
+heavy
+the sister
+swim
+the pool
+the sea
+see
+the attraction
+very
+be
+since
+selfemployed
+themselves
+she
+sit
+so
+So
+the sofa
+immediately
+the son
+should
+the sun
+late
+later
+the menu
+play
+Play
+the sport
+the language
+speak
+the town
+stand
+the spot
+put
+the Storey
+the street
+the tramway
+to study
+the studies
+the student
+the hour
+search
+to dance
+the pocket
+the taxi
+the tea
+the part
+to phone
+the telephone
+appointment
+the test
+expensive
+the text
+the topic
+Drink
+the ticket
+the table
+the daughter
+the toilet
+the tomato
+dead
+the stairs
+drink
+bye
+to do
+the clock
+around
+move
+and
+our
+below
+under
+the lesson
+sign
+the signature
+the holidays
+the father
+forbidden
+to earn
+the Union
+married
+to sell
+the seller
+to rent
+the landlord
+understand
+the relative
+much
+maybe
+from
+in front
+the first name
+Caution
+imagine
+the code
+hike
+when
+When
+waiting
+Why
+What
+What
+the water
+sore
+Female
+the wine
+far
+further
+what
+the world
+little
+who
+become
+the weather
+important
+how
+How
+to repeat
+listening again
+the reunion
+welcome
+the wind
+we
+knowledge
+Where
+Where
+where from
+where
+Where
+dwell
+the apartment
+want
+the word
+wonderful
+numbers
+the time
+for now
+the newspaper
+the cigarette
+the room
+the customs
+to
+satisfied
+the train
+back
+together
+between
+Between
