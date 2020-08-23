@@ -2,12 +2,20 @@ var doneWords = [];
 var pointer = 0;
 function copyToClipboard(text) {
   var dummy = document.createElement("textarea");
+  var t = "";
   // to avoid breaking orgain page when copying more words
   // cant copy when adding below this code
   // dummy.style.display = 'none'
   document.body.appendChild(dummy);
   //Be careful if you use texarea. setAttribute('value', value), which works with "input" does not work with "textarea". – Eduard
   dummy.value = text;
+  text.forEach(element => {
+    t+='[';
+    element.forEach(ele => {
+      t+=',"'+ele+'"';
+    });
+    t+=']';
+  });
   dummy.select();
   document.execCommand("copy");
   document.body.removeChild(dummy);
@@ -64,7 +72,8 @@ $.getJSON( "./wordlist.json", function( data ) {
       });
       $("#container").css('background-color', wordcolors[item]);
       $("#sample").attr("src",imgs[item]);
-      $("#meaning").text(wordengs[item]);
+      // $("#meaning").text(wordengs[item]);
+      ``
     }
   });
 
