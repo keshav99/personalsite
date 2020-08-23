@@ -138,12 +138,12 @@ var loadWord = function(words, sentences, wordcolors){
     i = imgs[ran];
     doneWords.push(newword);
     $("#wordName").text(newword);
-    if(!(words[item] in wordVocab)){
-      wordVocab[words[item]] = 0;
+    if(!(words[ran] in wordVocab)){
+      wordVocab[words[ran]] = 0;
       $("#top").text("You haven't seen this word before");
     }
     else{
-      wordVocab[words[item]]++;
+      wordVocab[words[ran]]++;
       $("#top").text("You have seen this "+wordVocab[words[item]]+" time(s)");
     }
     saveCookie(wordVocab);
