@@ -34,7 +34,18 @@ $.getJSON( "./wordlist.json", function( data ) {
   $("#next").click(function(){
     pointer+=1;
     $("#sentences").html("");
+    if(pointer>=doneWords.length)
     loadWord(words, sentences, wordcolors);
+    else{
+      pointer++;
+      var item = words.indexOf(doneWords[pointer]);
+      $("#wordName").text(words[item]);
+      sentences[item].forEach(e => {
+          $("#sentences").append('<li>'+e+'</li>');
+      });
+      $("#container").css('background-color', wordcolors[item]);
+      $("#sample").attr("src",imgs[item]);
+    }
   });
 
   $("#back").click(function(){
