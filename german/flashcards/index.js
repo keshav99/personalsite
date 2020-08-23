@@ -4,7 +4,7 @@ var words = []
 var sentences = [];
 var wordcolors = [];
 var colors = ["#5e65db", "#a448d9", "#d94871", "#d97148", "#cad948", "#48d973"];
-var imgs = [];
+// var imgs = [];
 $.getJSON( "./wordlist.json", function( data ) {
 
     $.each(data, function(key, val) {
@@ -16,32 +16,20 @@ $.getJSON( "./wordlist.json", function( data ) {
         words.push(key);
         sentences.push(val);
         wordcolors.push(colors[(Math.floor(Math.random() * colors.length) + 1)-1]);
-        $.getJSON("http://api.flickr.com/services/feeds/photos_public.gne?jsoncallback=?",
-        {
-          tags: $(key).val(),
-          tagmode: "any",
-          format: "json"
-        },
-        function(data) {
-          $.each(data.items, function(i,item){
-            // $("<img/>").attr("src", item.media.m).prependTo("#results");
-            imgs.push(item.media.m);
-            return;
-            
-          });
-        });
+        
+       
       });
      })
   .done(function(){
     console.log("issa done")
     console.log(words[5]);
-    loadWord(words, sentences, wordcolors, imgs);
+    loadWord(words, sentences, wordcolors);
   });
     
 });
 
-var loadWord = function(words, sentences, wordcolors, imgs){
-    console.log(imgs);
+var loadWord = function(words, sentences, wordcolors){
+    // console.log(imgs);
     var ran = (Math.floor(Math.random() * words.length) + 1)-1;
 
     var newword = words[ran];
@@ -56,8 +44,8 @@ var loadWord = function(words, sentences, wordcolors, imgs){
     // }
     s = sentences[ran];
     c = wordcolors[ran];
-    i = imgs[ran];
-    console.log(ran+" "+newword+" "+s+" "+c)
+    // i = imgs[ran];
+    console.log(newword)
     $("#wordName").text(newword);
     s.forEach(e => {
         $("#sentences").append('<li>'+e+'</li>');

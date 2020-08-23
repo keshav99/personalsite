@@ -1,8 +1,8 @@
 #container{
     width: 100vw;
-    height: 60vh !important;
+    height: 80vh !important;
     vertical-align: center;
-    margin-top:20vh;
+    margin-top:10vh;
     text-align: center;
     
 }
@@ -10,9 +10,9 @@
 .go{
     position: absolute;
     width:20vw;
-    height: 60vh;;
+    height: 80vh;;
     border: none;
-    top:20vh;
+    top:10vh;
     background: rgba(230, 194, 194, 0.8);
 }
 #next{
@@ -26,21 +26,30 @@
 #wordName, #sentences{
     position: absolute;
     left: 50%;
-    transform: translate(-50%,-60%);
 }
 
 #wordName{
     font-size: 5em;
     top: 30%;
+    transform: translate(-50%,-30%);
 }
 
 #sentences{
+    font-size: 1.5em;
     top: 60%;
+    transform: translate(-50%,-60%);
+
+}
+
+#sample{
+    height:20vh;
+        
+    opacity: 1;
 }
 
 #sentences li{
     list-style: none;
-    padding:5px;
+    margin:5px 5px 5px -10px;
 }
 
 ::-webkit-scrollbar{
