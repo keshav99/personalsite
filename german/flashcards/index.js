@@ -49,6 +49,7 @@ $.getJSON( "./wordlist.json", function( data ) {
 
   $("#back").click(function(){
     if(pointer>0){
+      $("#sentences").html("");
       pointer--;
       var item = words.indexOf(doneWords[pointer]);
       $("#wordName").text(words[item]);
