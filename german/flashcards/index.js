@@ -52,7 +52,7 @@ $.getJSON( "./wordlist.json", function( data ) {
      })
   .done(function(){
     copyToClipboard(sentences);
-    console.log(sentences);
+    console.log(words);
     loadWord(words, sentences, wordcolors);
   });
 
