@@ -22,7 +22,7 @@ $.getJSON( "./wordlist.json", function( data ) {
      })
   .done(function(){
     console.log("issa done")
-    console.log(words[5]);
+    console.log(words);
     loadWord(words, sentences, wordcolors);
   });
     
@@ -45,7 +45,6 @@ var loadWord = function(words, sentences, wordcolors){
     s = sentences[ran];
     c = wordcolors[ran];
     // i = imgs[ran];
-    console.log(newword)
     $("#wordName").text(newword);
     s.forEach(e => {
         $("#sentences").append('<li>'+e+'</li>');
