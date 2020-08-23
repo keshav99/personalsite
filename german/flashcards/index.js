@@ -59,7 +59,7 @@ $.getJSON( "./wordlist.json", function( data ) {
       $("#wordName").text(words[item]);
       var i=0;
       sentences[item].forEach(e => {
-          $("#sentences").append('<li>'+e+" ("+sentenceengs[item][i]')</li>');
+          $("#sentences").append('<li>'+e+" ("+sentenceengs[item][i]+')</li>');
           i++;
       });
       $("#container").css('background-color', wordcolors[item]);
