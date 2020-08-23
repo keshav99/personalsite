@@ -41,13 +41,13 @@ for i in sentences:
     else:
         wordlist[newWord].append(' '.join(words))
 
-# g = open('wordlist.txt', 'w')
-# r = json.dumps(wordlist, ensure_ascii=False).encode('utf8').decode()
-# print(r)
-# g.write(r)
+g = open('wordlist.txt', 'w')
+r = json.dumps(wordlist, ensure_ascii=False).encode('utf8').decode()
+print(r)
+g.write(r)
 sen = []
 for i in wordlist:
     sen.append(wordlist[i])
-print(sen)
+print(len(wordlist))
 
 
