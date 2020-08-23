@@ -51,6 +51,6 @@ var loadWord = function(words, sentences, wordcolors){
         $("#sentences").append('<li>'+e+'</li>');
     });
     $(".banner").css('background-color', c);
-    $("#sample").attr("src",i);
+    // $("#sample").attr("src",i);
 }
 
