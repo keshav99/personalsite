@@ -44,7 +44,7 @@ $.getJSON( "./wordlist.json", function( data ) {
      })
   .done(function(){
     copyToClipboard(sentences);
-    console.log("issa done");
+    console.log(sentences);
     loadWord(words, sentences, wordcolors);
   });
 
