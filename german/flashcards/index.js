@@ -67,7 +67,7 @@ $.getJSON( "./wordlist.json", function( data ) {
     else{
       var item = words.indexOf(doneWords[pointer]);
       $("#wordName").text(words[item]);
-      if(!(words[item] in wordVocab)){
+      if(!(wordVocab[words[item]])){
         wordVocab[words[item]] = 0;
         $("#top").text("You haven't seen this word before");
       }
@@ -95,7 +95,7 @@ $.getJSON( "./wordlist.json", function( data ) {
       pointer--;
       var item = words.indexOf(doneWords[pointer]);
       $("#wordName").text(words[item]);
-      if(!(words[item] in wordVocab)){
+      if(wordVocab[words[item]]){
         wordVocab[words[item]] = 0;
         $("#top").text("You haven't seen this word before");
       }
@@ -138,7 +138,7 @@ var loadWord = function(words, sentences, wordcolors){
     i = imgs[ran];
     doneWords.push(newword);
     $("#wordName").text(newword);
-    if(!(words[ran] in wordVocab)){
+    if(!(wordVocab[words[ran]])){
       wordVocab[words[ran]] = 0;
       $("#top").text("You haven't seen this word before");
     }

@@ -11,6 +11,12 @@ body{
     
 }
 
+#top{
+    text-align: center;
+    font-size: 2em;
+    padding: 20px;
+}
+
 
 
 .go{
