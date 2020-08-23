@@ -37,7 +37,6 @@ $.getJSON( "./wordlist.json", function( data ) {
     if(pointer>=doneWords.length)
     loadWord(words, sentences, wordcolors);
     else{
-      pointer++;
       var item = words.indexOf(doneWords[pointer]);
       $("#wordName").text(words[item]);
       sentences[item].forEach(e => {
