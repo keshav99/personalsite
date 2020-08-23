@@ -27,6 +27,7 @@ $.getJSON( "./wordlist.json", function( data ) {
   });
 
   $("#next").click(function(){
+    $("#sentences").html("");
     loadWord(words, sentences, wordcolors);
   })
     
