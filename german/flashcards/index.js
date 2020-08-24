@@ -164,7 +164,7 @@ var loadWord = function(words, sentences, wordcolors){
 
 function getCookie() {
   var result = document.cookie.match(new RegExp("wordVocabForGermanFlashcards" + '=([^;]+)'));
-  result && (result = JSON.parse(JSON.stringify(result[1])));
+  result && (result = result[1]);
   return result;
 } 
 
