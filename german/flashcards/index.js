@@ -121,10 +121,10 @@ $.getJSON( "./wordlist.json", function( data ) {
 });
 
 var loadWord = function(words, sentences, wordcolors){
-  console.log(wordVocab[words[item]]);
     // console.log(imgs);
     
     var ran = (Math.floor(Math.random() * words.length) + 1)-1;
+    console.log(wordVocab[words[ran]]);
 
     var newword = words[ran];
     var s,c;
