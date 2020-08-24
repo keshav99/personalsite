@@ -69,7 +69,7 @@ $.getJSON( "./wordlist.json", function( data ) {
       var item = words.indexOf(doneWords[pointer]);
       $("#wordName").text(words[item]);
       console.log( wordVocab[words[item]]);
-      if(!(wordVocab[words[item]])){
+      if(typeof wordVocab[words[item]] == 'undefined'){
         wordVocab[words[item]] = 0;
         $("#top").text("You haven't seen this word before");
       }
@@ -99,12 +99,12 @@ $.getJSON( "./wordlist.json", function( data ) {
       $("#wordName").text(words[item]);
       
     console.log(wordVocab[words[item]]);
-      if(wordVocab[words[item]]){
+      if(typeof wordVocab[words[item]] == 'undefined'){
         wordVocab[words[item]] = 0;
         $("#top").text("You haven't seen this word before");
       }
       else{
-        wordVocab[words[item]]++;
+        wordVocab[words[item]]++;typeof wordVocab[words[item]] !== 'undefined'
         $("#top").text("You have seen this "+wordVocab[words[item]]+" time(s)");
       }
       saveCookie(wordVocab);
@@ -143,7 +143,7 @@ var loadWord = function(words, sentences, wordcolors){
     i = imgs[ran];
     doneWords.push(newword);
     $("#wordName").text(newword);
-    if(!(wordVocab[words[ran]])){
+    if(typeof wordVocab[words[ran]] == 'undefined'){
       wordVocab[words[ran]] = 0;
       $("#top").text("You haven't seen this word before");
     }
