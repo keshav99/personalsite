@@ -60,6 +60,7 @@ $.getJSON( "./wordlist.json", function( data ) {
   });
 
   $("#next").click(function(){
+   console.log( wordVocab[words[item]]);
     pointer+=1;
     $("#sentences").html("");
     if(pointer>=doneWords.length)
@@ -90,6 +91,7 @@ $.getJSON( "./wordlist.json", function( data ) {
   });
 
   $("#back").click(function(){
+    console.log(wordVocab[words[item]]);
     if(pointer>0){
       $("#sentences").html("");
       pointer--;
@@ -119,6 +121,7 @@ $.getJSON( "./wordlist.json", function( data ) {
 });
 
 var loadWord = function(words, sentences, wordcolors){
+  console.log(wordVocab[words[item]]);
     // console.log(imgs);
     
     var ran = (Math.floor(Math.random() * words.length) + 1)-1;
