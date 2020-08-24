@@ -32,7 +32,7 @@ var words = []
 var sentences = [];
 var wordcolors = [];
 var colors = ["#5e65db", "#a448d9", "#d94871", "#d97148", "#cad948", "#48d973"];
-wordVocab = getCookie("wordVocabForGermanFlashcards");
+wordVocab = getCookie();
 if(wordVocab == null){
   wordVocab = {};
 }
@@ -79,7 +79,7 @@ $.getJSON( "./wordlist.json", function( data ) {
       var i = 0;
       sentences[item].forEach(e => {
         $("#sentences").append('<li>'+e+" ("+sentenceengs[item][i]+')</li>');
-        console.log(sentenceengs[item][i])
+        // console.log(sentenceengs[item][i])
         i++;
       });
       $("#container").css('background-color', wordcolors[item]);
@@ -157,32 +157,15 @@ var loadWord = function(words, sentences, wordcolors){
     $("#meaning").text(wordengs[ran]);
 }
 
-function getCookie(name) {
-  var dc = document.cookie;
-  var prefix = name + "=";
-  var begin = dc.indexOf("; " + prefix);
-  if (begin == -1) {
-      begin = dc.indexOf(prefix);
-      if (begin != 0) return null;
-  }
-  else
-  {
-      begin += 2;
-      var end = document.cookie.indexOf(";", begin);
-      if (end == -1) {
-      end = dc.length;
-      }
-  }
-  // because unescape has been deprecated, replaced with decodeURI
-  //return unescape(dc.substring(begin + prefix.length, end));
-  return decodeURI(dc.substring(begin + prefix.length, end));
+function getCookie() {
+  var result = document.cookie.match(new RegExp("wordVocabForGermanFlashcards" + '=([^;]+)'));
+  result && (result = JSON.parse(result[1]));
+  return result;
 } 
 
 function saveCookie(cvalue) {
-  var d = new Date();
-  d.setTime(d.getTime() + (3600 * 24 * 60 * 60 * 1000));
-  var expires = "expires="+d.toUTCString();
-  document.cookie = "wordVocabForGermanFlashcards" + "=" + cvalue + ";" + expires + ";path=/";
+  var cookie = ["wordVocabForGermanFlashcards", '=', JSON.stringify(cvalue), '; domain=.', window.location.host.toString(), '; path=/;'].join('');
+  document.cookie = cookie;
 }
 
 
