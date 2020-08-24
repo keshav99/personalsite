@@ -13,6 +13,8 @@ body{
 }
 
 #top{
+    margin:0;
+    float: top;
     text-align: center;
     height: 10vh;
     font-size: 2em;

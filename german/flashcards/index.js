@@ -60,7 +60,7 @@ $.getJSON( "./wordlist.json", function( data ) {
   });
 
   $("#next").click(function(){
-   console.log( wordVocab[words[item]]);
+  
     pointer+=1;
     $("#sentences").html("");
     if(pointer>=doneWords.length)
@@ -68,6 +68,7 @@ $.getJSON( "./wordlist.json", function( data ) {
     else{
       var item = words.indexOf(doneWords[pointer]);
       $("#wordName").text(words[item]);
+      console.log( wordVocab[words[item]]);
       if(!(wordVocab[words[item]])){
         wordVocab[words[item]] = 0;
         $("#top").text("You haven't seen this word before");
@@ -91,12 +92,13 @@ $.getJSON( "./wordlist.json", function( data ) {
   });
 
   $("#back").click(function(){
-    console.log(wordVocab[words[item]]);
     if(pointer>0){
       $("#sentences").html("");
       pointer--;
       var item = words.indexOf(doneWords[pointer]);
       $("#wordName").text(words[item]);
+      
+    console.log(wordVocab[words[item]]);
       if(wordVocab[words[item]]){
         wordVocab[words[item]] = 0;
         $("#top").text("You haven't seen this word before");
