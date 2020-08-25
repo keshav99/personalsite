@@ -33,6 +33,7 @@ var sentences = [];
 var wordcolors = [];
 var colors = ["#5e65db", "#a448d9", "#d94871", "#d97148", "#cad948", "#48d973"];
 wordVocab = getCookie();
+console.log(wordVocab);
 if(wordVocab == null){
   wordVocab = {};
 }
