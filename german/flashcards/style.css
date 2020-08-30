@@ -64,13 +64,13 @@ body{
 #next{
     left:80vw;  
     transform: translateY(-15%);
-    z-index: 3;
+    z-index: 99;
 }
 
 #back{
     left:0;
     transform: translateY(-15%);
-    z-index: 3;
+    z-index: 99;
 
 }
 
