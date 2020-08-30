@@ -25,6 +25,7 @@ body{
   height: 100%;  
   transition: transform 0.8s;
   transform-style: preserve-3d;
+  z-index:1;
 }
 
 .front, .back{
