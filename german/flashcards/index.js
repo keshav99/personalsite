@@ -122,7 +122,8 @@ $.getJSON( "./wordlist.json", function( data ) {
   });
 
   $("#toback").click(function(){
-    $(".banner.back").css(".banner.back", "transform: rotateY(180deg)");
+    $(".banner.back").css("transform", "rotateY(180deg)");
+    alert('fipped');
   });
     
 });
