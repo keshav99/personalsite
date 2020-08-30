@@ -127,7 +127,7 @@ $.getJSON( "./wordlist.json", function( data ) {
   });
 
   $("#tofront").click(function(){
-    $(".inner").css("transform", "rotateY(180deg)");
+    $(".inner").css("transform", "rotateY(-180deg)");
     // alert('flipped');
   });
     
