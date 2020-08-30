@@ -56,6 +56,7 @@ body{
     display: inline-block;
     text-align: center;
     width: 10%;
+    font-size: 1.5em;
 }
 
 #youveseen{
@@ -63,6 +64,7 @@ body{
     display: inline-block;
     text-align: center;
     width: 80%;
+    transform: translateX(-50%);
 }
 
 
