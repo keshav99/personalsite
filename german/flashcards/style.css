@@ -64,15 +64,23 @@ body{
 #next{
     left:80vw;  
     transform: translateY(-15%);
+    z-index: 3;
 }
 
 #back{
     left:0;
     transform: translateY(-15%);
+    z-index: 3;
 
 }
 
-#next:hover, #back:hover{
+#next:hover{
+    background: rgba(44, 38, 38, 0.6);
+    color: #fff;
+    cursor: pointer;   
+}
+
+#back:hover{
     background: rgba(44, 38, 38, 0.6);
     color: #fff;
     cursor: pointer;   
