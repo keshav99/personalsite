@@ -123,7 +123,12 @@ $.getJSON( "./wordlist.json", function( data ) {
 
   $("#toback").click(function(){
     $(".inner").css("transform", "rotateY(180deg)");
-    alert('flipped');
+    // alert('flipped');
+  });
+
+  $("#tofront").click(function(){
+    $(".inner").css("transform", "rotateY(180deg)");
+    // alert('flipped');
   });
     
 });
