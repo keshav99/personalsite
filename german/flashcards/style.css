@@ -52,11 +52,14 @@ body{
 }
 
 .scores{
+    margin: 0;
     display: inline-block;
     width: 10% !important;
+    text-align: center;
 }
 
 #youveseen{
+    margin: 0;
     width: 80%;
     position: center;
     margin-left: 10%;
