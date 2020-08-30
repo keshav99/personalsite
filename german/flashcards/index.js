@@ -61,7 +61,8 @@ $.getJSON( "./wordlist.json", function( data ) {
   });
 
   $("#next").click(function(){
-  
+    $(".inner").css("transform", "rotateY(0deg)");
+
     pointer+=1;
     $("#sentences").html("");
     if(pointer>=doneWords.length)
@@ -94,6 +95,7 @@ $.getJSON( "./wordlist.json", function( data ) {
 
   $("#back").click(function(){
     if(pointer>0){
+      $(".inner").css("transform", "rotateY(0deg)");
       $("#sentences").html("");
       pointer--;
       var item = words.indexOf(doneWords[pointer]);
@@ -127,7 +129,7 @@ $.getJSON( "./wordlist.json", function( data ) {
   });
 
   $("#tofront").click(function(){
-    $(".inner").css("transform", "rotateY(-180deg)");
+    $(".inner").css("transform", "rotateY(0deg)");
     // alert('flipped');
   });
     
