@@ -127,6 +127,7 @@ $.getJSON( "./wordlist.json", function( data ) {
   });
 
   $(".container").click(function(){
+    console.log(frontorback);
     if(frontorback == 1){
       $(".inner").css("transform", "rotateY(0deg)");
       frontorback = 0;
