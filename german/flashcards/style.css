@@ -14,9 +14,9 @@ body{
     perspective: 1000px;    
 }
 
-.banner:active .banner.front{
+/* .banner:active .banner.front{
     transform: rotateY(180deg);
-}
+} */
 
 .banner.front, .banner.back{
     position: absolute;

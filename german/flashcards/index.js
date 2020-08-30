@@ -120,6 +120,10 @@ $.getJSON( "./wordlist.json", function( data ) {
       $("#meaning").text(wordengs[item]);
     }
   });
+
+  $("#toback").click(function(){
+    $(".banner.back").css(".banner.back", "transform: rotateY(180deg)");
+  });
     
 });
 
