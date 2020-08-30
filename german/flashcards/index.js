@@ -126,7 +126,7 @@ $.getJSON( "./wordlist.json", function( data ) {
     }
   });
 
-  $(".banner").click(function(){
+  $(".container").click(function(){
     if(frontorback == 1){
       $(".inner").css("transform", "rotateY(0deg)");
       frontorback = 0;
