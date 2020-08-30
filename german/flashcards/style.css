@@ -54,7 +54,6 @@ body{
 .scores{
     margin: 0;
     display: inline-block;
-    width: 10% !important;
     text-align: center;
 }
 
@@ -62,7 +61,6 @@ body{
     margin: 0;
     position: center;
     text-align: center;
-    margin-left: 10%;
 }
 
 
