@@ -9,7 +9,22 @@ body{
     vertical-align: center;
     /* margin-top:10vh; */
     text-align: center;
-    
+    transition: transform 0.6s;
+    transform-style: preserve-3d;
+    perspective: 1000px;    
+}
+
+.banner:active .banner.front{
+    transform: rotateY(180deg);
+}
+
+.banner{
+    -webkit-backface-visibility: hidden; /* Safari */
+    backface-visibility: hidden;
+}
+
+.banner.back{
+    transform: rotateY(180deg);
 }
 
 #top{
