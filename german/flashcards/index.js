@@ -125,7 +125,7 @@ $.getJSON( "./wordlist.json", function( data ) {
 
   $("#toback").click(function(){
     $(".inner").css("transform", "rotateY(180deg)");
-    #("#next, #back").css("z-index", "99");
+    $("#next, #back").css("z-index", "99");
     // alert('flipped');
   });
 
