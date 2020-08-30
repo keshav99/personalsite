@@ -52,6 +52,7 @@ body{
 }
 
 .scores{
+    text-align: center;
     width: 10%;
 }
 
