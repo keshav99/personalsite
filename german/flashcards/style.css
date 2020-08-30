@@ -55,12 +55,14 @@ body{
     margin: 0;
     display: inline-block;
     text-align: center;
+    width: 10%;
 }
 
 #youveseen{
     margin: 0;
     display: inline-block;
     text-align: center;
+    width: 80%;
 }
 
 
