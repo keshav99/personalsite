@@ -18,7 +18,10 @@ body{
     transform: rotateY(180deg);
 }
 
-.banner{
+.banner.front, .banner.back{
+    position: absolute;
+    width: 100%;
+    height: 100%;
     -webkit-backface-visibility: hidden; /* Safari */
     backface-visibility: hidden;
 }
