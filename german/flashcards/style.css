@@ -59,7 +59,7 @@ body{
 
 #youveseen{
     margin: 0;
-    position: center;
+    display: inline-block;
     text-align: center;
 }
 
