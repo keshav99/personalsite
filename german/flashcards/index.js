@@ -81,12 +81,12 @@ $.getJSON( "./wordlist.json", function( data ) {
       if(typeof wordVocab[words[item]] == 'undefined'){
         wordVocab[words[item]] = 0;
         $("#youveseen").text("You haven't seen this word before");
-        $("seenno").text(Object.keys(wordVocab));
+        $("#seenno").text(Object.keys(wordVocab));
       }
       else{
         wordVocab[words[item]]++;
         $("#youveseen").text("You have seen this "+wordVocab[words[item]]+" time(s)");
-        $("seenno").text(Object.keys(wordVocab));
+        $("#seenno").text(Object.keys(wordVocab));
       }
       saveCookie("wordVocabForGermanFlashcards",wordVocab);
       var i = 0;
@@ -116,13 +116,13 @@ $.getJSON( "./wordlist.json", function( data ) {
       if(typeof wordVocab[words[item]] == 'undefined'){
         wordVocab[words[item]] = 0;
         $("#youveseen").text("You haven't seen this word before");
-        $("seenno").text(Object.keys(wordVocab));
+        $("#seenno").text(Object.keys(wordVocab));
   
       }
       else{
         wordVocab[words[item]]++;
         $("#youveseen").text("You have seen this "+wordVocab[words[item]]+" time(s)");
-        $("seenno").text(Object.keys(wordVocab));
+        $("#seenno").text(Object.keys(wordVocab));
       }
       saveCookie("wordVocabForGermanFlashcards",wordVocab);
       var i=0;
@@ -145,7 +145,7 @@ $.getJSON( "./wordlist.json", function( data ) {
       frontorback = 0;
       wordVocab[words[item]]++;
       $("#youveseen").text("You have seen this "+wordVocab[words[item]]+" time(s)");
-      $("seenno").text(Object.keys(wordVocab));
+      $("#seenno").text(Object.keys(wordVocab));
     }
     else{
       $(".inner").css("transform", "rotateY(180deg)");
@@ -181,12 +181,12 @@ var loadWord = function(words, sentences, wordcolors){
     if(typeof wordVocab[words[ran]] == 'undefined'){
       wordVocab[words[ran]] = 0;
       $("#youveseen").text("You haven't seen this word before");
-      $("seenno").text(Object.keys(wordVocab));
+      $("#seenno").text(Object.keys(wordVocab));
     }
     else{
       wordVocab[words[ran]]++;
       $("#youveseen").text("You have seen this "+wordVocab[words[item]]+" time(s)");
-      $("seenno").text(Object.keys(wordVocab));
+      $("#seenno").text(Object.keys(wordVocab));
     }
     saveCookie("wordVocabForGermanFlashcards",wordVocab);
     var j=0;
