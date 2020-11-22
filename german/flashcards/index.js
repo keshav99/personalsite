@@ -28,9 +28,9 @@ var sentenceengs = [["I have to work from tomorrow."], ["I am often in the offic
 var wordVocab = {};
 var seenwords = [];
 var masteredwords = [];
-var frontorback = 1;
+var frontorback = 0;
 $(window).load(function() {
-  frontorback = 1;
+  frontorback = 0;
 
     var output = {};
 var words = []
@@ -67,7 +67,7 @@ $.getJSON( "./wordlist.json", function( data ) {
   });
 
   $("#next").click(function(){
-    if(frontorback == 0)
+    if(frontorback == 1)
     $(".inner").css("transform", "rotateY(0deg)");
 
 
@@ -104,7 +104,7 @@ $.getJSON( "./wordlist.json", function( data ) {
   });
 
   $("#back").click(function(){
-    if(frontorback == 0)
+    if(frontorback == 1)
     $(".inner").css("transform", "rotateY(0deg)");
     if(pointer>0){
       $(".inner").css("transform", "rotateY(0deg)");
@@ -141,14 +141,14 @@ $.getJSON( "./wordlist.json", function( data ) {
   $("#container").click(function(){
     console.log(frontorback);
     var item = words.indexOf(doneWords[pointer]);
-    if(frontorback == 0){
+    if(frontorback == 1){
       $(".inner").css("transform", "rotateY(0deg)");
-      frontorback = 1;
+      frontorback = 0;
       
     }
     else{
       $(".inner").css("transform", "rotateY(180deg)");
-      frontorback = 0;
+      frontorback = 1;
       wordVocab[words[item]]++;
       $("#youveseen").text("You have seen this "+wordVocab[words[item]]+" time(s)");
       $("#seenno").text(Object.keys(wordVocab).length);
@@ -186,6 +186,7 @@ var loadWord = function(words, sentences, wordcolors){
     }
     else{
       wordVocab[words[ran]]++;
+      var item = words.indexOf(doneWords[pointer]);
       $("#youveseen").text("You have seen this "+wordVocab[words[item]]+" time(s)");
       $("#seenno").text(Object.keys(wordVocab).length);
     }
