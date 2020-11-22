@@ -38,7 +38,6 @@ var sentences = [];
 var wordcolors = [];
 var colors = ["#5e65db", "#a448d9", "#d94871", "#d97148", "#cad948", "#48d973"];
 wordVocab = getCookie("wordVocabForGermanFlashcards");
-seenwords = getCookie("seenWordsForGermanFlashcards");
 masteredwords = getCookie("masteredWordsForGermanFlashcards");
 console.log(wordVocab);
 if(wordVocab == null){
@@ -68,7 +67,8 @@ $.getJSON( "./wordlist.json", function( data ) {
   });
 
   $("#next").click(function(){
-    $(".inner").css("transform", "rotateY(0deg)");
+    $(".inner").css("transform", "rotateY(180deg)");
+    frontorback = 0;
 
     pointer+=1;
     $("#sentences").html("");
@@ -81,10 +81,12 @@ $.getJSON( "./wordlist.json", function( data ) {
       if(typeof wordVocab[words[item]] == 'undefined'){
         wordVocab[words[item]] = 0;
         $("#youveseen").text("You haven't seen this word before");
+        $("seenno").text(Object.keys(wordVocab));
       }
       else{
         wordVocab[words[item]]++;
         $("#youveseen").text("You have seen this "+wordVocab[words[item]]+" time(s)");
+        $("seenno").text(Object.keys(wordVocab));
       }
       saveCookie("wordVocabForGermanFlashcards",wordVocab);
       var i = 0;
@@ -101,6 +103,8 @@ $.getJSON( "./wordlist.json", function( data ) {
   });
 
   $("#back").click(function(){
+    $(".inner").css("transform", "rotateY(180deg)");
+    frontorback = 0;
     if(pointer>0){
       $(".inner").css("transform", "rotateY(0deg)");
       $("#sentences").html("");
@@ -112,10 +116,13 @@ $.getJSON( "./wordlist.json", function( data ) {
       if(typeof wordVocab[words[item]] == 'undefined'){
         wordVocab[words[item]] = 0;
         $("#youveseen").text("You haven't seen this word before");
+        $("seenno").text(Object.keys(wordVocab));
+  
       }
       else{
         wordVocab[words[item]]++;
         $("#youveseen").text("You have seen this "+wordVocab[words[item]]+" time(s)");
+        $("seenno").text(Object.keys(wordVocab));
       }
       saveCookie("wordVocabForGermanFlashcards",wordVocab);
       var i=0;
@@ -136,13 +143,14 @@ $.getJSON( "./wordlist.json", function( data ) {
     if(frontorback == 1){
       $(".inner").css("transform", "rotateY(0deg)");
       frontorback = 0;
-      
+      wordVocab[words[item]]++;
+      $("#youveseen").text("You have seen this "+wordVocab[words[item]]+" time(s)");
+      $("seenno").text(Object.keys(wordVocab));
     }
     else{
       $(".inner").css("transform", "rotateY(180deg)");
       frontorback = 1;
-      wordVocab[words[item]]++;
-      $("#youveseen").text("You have seen this "+wordVocab[words[item]]+" time(s)");
+      
     }
     // alert('flipped');
   });
@@ -173,10 +181,12 @@ var loadWord = function(words, sentences, wordcolors){
     if(typeof wordVocab[words[ran]] == 'undefined'){
       wordVocab[words[ran]] = 0;
       $("#youveseen").text("You haven't seen this word before");
+      $("seenno").text(Object.keys(wordVocab));
     }
     else{
       wordVocab[words[ran]]++;
       $("#youveseen").text("You have seen this "+wordVocab[words[item]]+" time(s)");
+      $("seenno").text(Object.keys(wordVocab));
     }
     saveCookie("wordVocabForGermanFlashcards",wordVocab);
     var j=0;
