@@ -67,8 +67,9 @@ $.getJSON( "./wordlist.json", function( data ) {
   });
 
   $("#next").click(function(){
+    if(frontorback == 0)
     $(".inner").css("transform", "rotateY(180deg)");
-    frontorback = 0;
+
 
     pointer+=1;
     $("#sentences").html("");
@@ -103,8 +104,8 @@ $.getJSON( "./wordlist.json", function( data ) {
   });
 
   $("#back").click(function(){
+    if(frontorback == 0)
     $(".inner").css("transform", "rotateY(180deg)");
-    frontorback = 0;
     if(pointer>0){
       $(".inner").css("transform", "rotateY(0deg)");
       $("#sentences").html("");
@@ -143,14 +144,14 @@ $.getJSON( "./wordlist.json", function( data ) {
     if(frontorback == 1){
       $(".inner").css("transform", "rotateY(0deg)");
       frontorback = 0;
-      wordVocab[words[item]]++;
-      $("#youveseen").text("You have seen this "+wordVocab[words[item]]+" time(s)");
-      $("#seenno").text(Object.keys(wordVocab));
+      
     }
     else{
       $(".inner").css("transform", "rotateY(180deg)");
       frontorback = 1;
-      
+      wordVocab[words[item]]++;
+      $("#youveseen").text("You have seen this "+wordVocab[words[item]]+" time(s)");
+      $("#seenno").text(Object.keys(wordVocab));
     }
     // alert('flipped');
   });
