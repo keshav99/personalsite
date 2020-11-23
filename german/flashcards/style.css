@@ -72,6 +72,7 @@ body{
 .go{
     position: absolute;
     font-family: 'Montesserat';
+    font-size: large;
     width:20vw;
     height: 80vh;;
     border: none;

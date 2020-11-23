@@ -136,7 +136,7 @@ $.getJSON( "./wordlist.json", function( data ) {
     }
   });
 
-  $("#container").click(function(){
+  $("#inner").click(function(){
     console.log(frontorback);
     var item = words.indexOf(doneWords[pointer]);
     if(frontorback == 0){
