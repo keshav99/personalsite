@@ -67,7 +67,7 @@ $.getJSON( "./wordlist.json", function( data ) {
   });
 
   $("#next").click(function(){
-    $(".inner").css("transform", "rotateY(0deg)");
+    $("#inner").css("transform", "rotateY(0deg)");
 
 
     pointer+=1;
@@ -103,9 +103,9 @@ $.getJSON( "./wordlist.json", function( data ) {
   });
 
   $("#back").click(function(){
-    $(".inner").css("transform", "rotateY(0deg)");
+    $("#inner").css("transform", "rotateY(0deg)");
     if(pointer>0){
-      $(".inner").css("transform", "rotateY(0deg)");
+      $("#inner").css("transform", "rotateY(0deg)");
       $("#sentences").html("");
       pointer--;
       var item = words.indexOf(doneWords[pointer]);
@@ -140,14 +140,14 @@ $.getJSON( "./wordlist.json", function( data ) {
     console.log(frontorback);
     var item = words.indexOf(doneWords[pointer]);
     if(frontorback == 0){
-      $(".inner").css("transform", "rotateY(0deg)");
+      $("#inner").css("transform", "rotateY(0deg)");
       frontorback = 1;
       wordVocab[words[item]]++;
       $("#youveseen").text("You have seen this "+wordVocab[words[item]]+" time(s)");
       $("#seenno").text(Object.keys(wordVocab).length);
     }
     else{
-      $(".inner").css("transform", "rotateY(180deg)");
+      $("#inner").css("transform", "rotateY(180deg)");
       frontorback = 0;
       
     }
