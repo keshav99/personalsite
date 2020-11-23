@@ -141,17 +141,17 @@ $.getJSON( "./wordlist.json", function( data ) {
   $("#container").click(function(){
     console.log(frontorback);
     var item = words.indexOf(doneWords[pointer]);
-    if(frontorback == 1){
+    if(frontorback == 0){
       $(".inner").css("transform", "rotateY(0deg)");
-      frontorback = 0;
-      
-    }
-    else{
-      $(".inner").css("transform", "rotateY(180deg)");
       frontorback = 1;
       wordVocab[words[item]]++;
       $("#youveseen").text("You have seen this "+wordVocab[words[item]]+" time(s)");
       $("#seenno").text(Object.keys(wordVocab).length);
+    }
+    else{
+      $(".inner").css("transform", "rotateY(180deg)");
+      frontorback = 0;
+      
     }
     // alert('flipped');
   });
