@@ -28,9 +28,9 @@ var sentenceengs = [["I have to work from tomorrow."], ["I am often in the offic
 var wordVocab = {};
 var seenwords = [];
 var masteredwords = [];
-var frontorback = 0;
+var frontorback = 1;
 $(window).load(function() {
-  frontorback = 0;
+  frontorback = 1;
 
     var output = {};
 var words = []
@@ -67,7 +67,6 @@ $.getJSON( "./wordlist.json", function( data ) {
   });
 
   $("#next").click(function(){
-    if(frontorback == 1)
     $(".inner").css("transform", "rotateY(0deg)");
 
 
@@ -104,7 +103,6 @@ $.getJSON( "./wordlist.json", function( data ) {
   });
 
   $("#back").click(function(){
-    if(frontorback == 1)
     $(".inner").css("transform", "rotateY(0deg)");
     if(pointer>0){
       $(".inner").css("transform", "rotateY(0deg)");
