@@ -279,7 +279,7 @@ var loadWord = function(){
       j++;
     });
     $("#container").css('background-color', item["color"]);
-    $("#sample").attr("src",i);
+    // $("#sample").attr("src",i);
     $("#meaning").text(ranword_en);
 }
 
