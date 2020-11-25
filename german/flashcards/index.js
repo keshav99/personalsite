@@ -250,7 +250,7 @@ var loadWord = function(){
     var item = vocab[ranword];
     var sentences = item["ex"];
     var ranword_en = "";
-
+    var item_en = {}
 
     console.log(ranword);
     console.log(item["num"]);
