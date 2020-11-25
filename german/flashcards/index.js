@@ -1,6 +1,6 @@
 var doneWords = [];
 var pointer = 0;
-var a1 = true, a2 = true, b1 = false;
+var a1 = true, a2 = true, b1 = true;
 
 function getCookie(cook) {
   var result = document.cookie.match(new RegExp(cook+ '=([^;]+)'));
@@ -230,16 +230,16 @@ var loadWord = function(){
     console.log(item["num"]);
     if(ranLevel==0){
       item_eng = get_item_en(item["num"], wordVocab1_en);
-      ranword_en = Object.keys(wordVocab1_en).find(key => wordVocab1_en[key] == item_en)
+      ranword_en = Object.keys(wordVocab1_en).find(key => wordVocab1_en[key] == item_eng)
     }
       
     else if(ranLevel==1){
       item_eng = get_item_en(item["num"], wordVocab2_en);
-      ranword_en = Object.keys(wordVocab2_en).find(key => wordVocab2_en[key] == item_en)
+      ranword_en = Object.keys(wordVocab2_en).find(key => wordVocab2_en[key] == item_eng)
     }
     else if(ranLevel==2){
       item_eng = get_item_en(item["num"], wordVocab3_en);
-      ranword_en = Object.keys(wordVocab3_en).find(key => wordVocab3_en[key] == item_en)
+      ranword_en = Object.keys(wordVocab3_en).find(key => wordVocab3_en[key] == item_eng)
     }
     var newword = ranword;
     // for(var i=0; i<627; i++){
