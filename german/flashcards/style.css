@@ -265,6 +265,16 @@ h3{
         margin-top: 10vh;
         height: 70vh;
     }
+    #top{
+        margin-top: 5vh;
+        
+    }
+    .scores{
+        font-size: 2em;;
+    }
+    #youveseen{
+        width: 50vw;
+    }
 
    
 }
