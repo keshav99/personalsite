@@ -60,13 +60,16 @@ $.getJSON( "./wordlist_compressed.json", function( data ) {
 });
 
 function get_item_en(no, dict){
-  return $.each(Object.keys(dict), function(i, item) {
+  var res = {}
+  $.each(Object.keys(dict), function(i, item) {
     if(dict[item]["num"] == no){
       
       console.log(dict[item]);
-      return dict[item];
+      res = dict[item];
+      break;
     }
   });
+  return res;
 }
 
   $("#next").click(function(){
