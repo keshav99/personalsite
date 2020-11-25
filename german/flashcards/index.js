@@ -241,6 +241,7 @@ var loadWord = function(){
       item_eng = get_item_en(item["num"], wordVocab3_en);
       ranword_en = Object.keys(wordVocab3_en).find(key => wordVocab3_en[key] == item_eng)
     }
+    console.log(item_eng);
     var newword = ranword;
     // for(var i=0; i<627; i++){
     //     console.log(output[i]);
