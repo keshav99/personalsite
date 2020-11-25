@@ -269,6 +269,9 @@ h3{
         margin-top: 5vh;
         display: inline-flex;
     }
+    .go{
+        margin-top: -5vh;
+    }
     .scores{
         font-size: 1em;
         width: 25vw;
