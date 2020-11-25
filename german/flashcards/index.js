@@ -213,24 +213,24 @@ var loadWord = function(){
     
     var nums = [[], [], []];
     $.each(Object.keys(wordVocab1), function(index, value){
-      nums[0].append(wordVocab1[value]["num"]);
+      nums[0].push(wordVocab1[value]["num"]);
     });
 
     $.each(Object.keys(wordVocab2), function(index, value){
-      nums[1].append(wordVocab2[value]["num"]);
+      nums[1].push(wordVocab2[value]["num"]);
     });
 
     $.each(Object.keys(wordVocab1), function(index, value){
-      nums[2].append(wordVocab3[value]["num"]);
+      nums[2].push(wordVocab3[value]["num"]);
     });
 
     var levels = [];
     if(a1)
-      levels.append(wordVocab1);
+      levels.push(wordVocab1);
     if(a2)
-      levels.append(wordVocab2);
+      levels.push(wordVocab2);
     if(b1)
-      levels.append(wordVocab3);
+      levels.push(wordVocab3);
 
     var ranLevel = (Math.floor(Math.random() * $(levels).length) + 1)-1;
     var vocab = levels[ranLevel]
