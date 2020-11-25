@@ -263,19 +263,19 @@ var loadWord = function(){
     var ranword_en = "";
     var item_eng = {};
 
-    if(ranLevel==0){
+    if(vocab==wordVocab1){
       item_eng = get_item_en(item["num"], wordVocab1_en);
       
       ranword_en = Object.keys(wordVocab1_en).find(key => wordVocab1_en[key] == item_eng)
     }
       
-    else if(ranLevel==1){
+    else if(vocab==wordVocab2){
       item_eng = get_item_en(item["num"], wordVocab2_en);
       
     console.log(get_item_en(item["num"], wordVocab2_en));
       ranword_en = Object.keys(wordVocab2_en).find(key => wordVocab2_en[key] == item_eng)
     }
-    else if(ranLevel==2){
+    else if(vocab==wordVocab3){
       item_eng = get_item_en(item["num"], wordVocab3_en);
       
     console.log(get_item_en(item["num"], wordVocab3_en));
