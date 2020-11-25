@@ -60,7 +60,7 @@ $.getJSON( "./wordlist_compressed.json", function( data ) {
 });
 
 function get_item_en(no, dict){
-  $.each(Object.keys(dict), function(i, item) {
+  return $.each(Object.keys(dict), function(i, item) {
     if(dict[item]["num"] == no){
       
       console.log(dict[item]);
