@@ -59,7 +59,7 @@ $.getJSON( "./wordlist_compressed.json", function( data ) {
 });
 });
 
-var get_item_en = function(no, dict){
+function get_item_en(no, dict){
   $.each(Object.keys(dict), function(i, item) {
     if(dict[item]["num"] == no){
       
@@ -230,15 +230,21 @@ var loadWord = function(){
     console.log(item["num"]);
     if(ranLevel==0){
       item_eng = get_item_en(item["num"], wordVocab1_en);
+      
+    console.log(get_item_en(item["num"], wordVocab1_en));
       ranword_en = Object.keys(wordVocab1_en).find(key => wordVocab1_en[key] == item_eng)
     }
       
     else if(ranLevel==1){
       item_eng = get_item_en(item["num"], wordVocab2_en);
+      
+    console.log(get_item_en(item["num"], wordVocab2_en));
       ranword_en = Object.keys(wordVocab2_en).find(key => wordVocab2_en[key] == item_eng)
     }
     else if(ranLevel==2){
       item_eng = get_item_en(item["num"], wordVocab3_en);
+      
+    console.log(get_item_en(item["num"], wordVocab3_en));
       ranword_en = Object.keys(wordVocab3_en).find(key => wordVocab3_en[key] == item_eng)
     }
     console.log(item_eng);
