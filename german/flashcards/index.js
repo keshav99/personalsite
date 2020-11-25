@@ -57,7 +57,7 @@ $.getJSON( "./wordlist_compressed2.json", function( data ) {
 }).done(function(){
   loadWord();
 });
-
+});
 
 var get_item_en = function(no, dict){
   $.each(Object.keys(dict), function(i, item) {
