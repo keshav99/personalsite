@@ -71,15 +71,15 @@ $("#next").click(function(){
     var item, item_en;
     if(wordVocab1[word]){
       item = wordVocab1[word];
-      item_en = get_item_en(wordVocab1[no], wordVocab1_en);
+      item_en = get_item_en(item["num"], wordVocab1_en);
     }
     if(wordVocab2[word]){
       item = wordVocab2[word];
-      item_en = get_item_en(wordVocab2[no], wordVocab2_en);
+      item_en = get_item_en(item["num"], wordVocab2_en);
     }
     if(wordVocab3[word]){
       item = wordVocab3[word];
-      item_en = get_item_en(wordVocab3[no], wordVocab3_en);
+      item_en = get_item_en(item["num"], wordVocab3_en);
     }
     $("#wordName").text(word);
     console.log( word);
@@ -117,15 +117,15 @@ $("#back").click(function(){
     var item, item_en;
     if(wordVocab1[word]){
       item = wordVocab1[word];
-      item_en = get_item_en(wordVocab1[no], wordVocab1_en);
+      item_en = get_item_en(item["num"], wordVocab1_en);
     }
     if(wordVocab2[word]){
       item = wordVocab2[word];
-      item_en = get_item_en(wordVocab1[no], wordVocab2_en);
+      item_en = get_item_en(item["num"], wordVocab2_en);
     }
     if(wordVocab3[word]){
       item = wordVocab3[word];
-      item_en = get_item_en(wordVocab1[no], wordVocab3_en);
+      item_en = get_item_en(item["num"], wordVocab3_en);
     }
     $("#wordName").text(word);
     
