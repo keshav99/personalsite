@@ -45,7 +45,7 @@ if(wordVocab == null){
 
 
 // var imgs = [];
-$.getJSON( "./wordlist_compressed.json", function( data ) {
+$.getJSON( "./wordlist_compressed2.json", function( data ) {
 
     wordVocab1 = data["a1"];
     wordVocab2 = data["a2"];
