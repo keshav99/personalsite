@@ -47,54 +47,38 @@ if(wordVocab == null){
 // var imgs = [];
 $.getJSON( "./wordlist.json", function( data ) {
 
-    wordVocab1 = data
-  .done(function(){
-    // copyToClipboard(sentences);
-    console.log(wordVocab1);
-  });
+    wordVocab1 = data;
+ 
 
 });
 $.getJSON( "./wordlist2_clean.json", function( data ) {
 
-  wordVocab2 = data
-.done(function(){
-  // copyToClipboard(sentences);
-  console.log(wordVocab2);
-});
+  wordVocab2 = data;
+
 
 });
 $.getJSON( "./wordlist3_clean.json", function( data ) {
 
-  wordVocab3 = data
-.done(function(){
-  // copyToClipboard(sentences);
-  console.log(wordVocab3);
-});
+  wordVocab3 = data;
+
 
 });
 $.getJSON( "./wordlist_eng.json", function( data ) {
 
-  wordVocab1_en = data
-.done(function(){
-  // copyToClipboard(sentences);
-});
+  wordVocab1_en = data;
+
 
 });
 $.getJSON( "./wordlist2_eng.json", function( data ) {
 
-  wordVocab2_en = data
-.done(function(){
-  // copyToClipboard(sentences);
-});
+  wordVocab2_en = data;
+
 
 });
 $.getJSON( "./wordlist3_eng.json", function( data ) {
 
-  wordVocab3_en = data
-.done(function(){
-  // copyToClipboard(sentences);
-  loadWord();
-});
+  wordVocab3_en = data;
+
 
 });
 
