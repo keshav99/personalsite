@@ -227,6 +227,11 @@ var loadWord = function(){
     // console.log(imgs);
     
     var nums = [[], [], []];
+    console.log(a1);
+    console.log(a1);
+    console.log(a1);
+
+
     $.each(Object.keys(wordVocab1), function(index, value){
       nums[0].push(wordVocab1[value]["num"]);
     });
