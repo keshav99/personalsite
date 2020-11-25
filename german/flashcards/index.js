@@ -251,6 +251,9 @@ var loadWord = function(){
     var sentences = item["ex"];
     var ranword_en = "";
 
+
+    console.log(ranword);
+    console.log(item["num"]);
     if(ranLevel==0){
       item_en = get_item_en(item["num"], wordVocab1_en);
       ranword_en = Object.keys(wordVocab1_en).find(key => wordVocab1_en[key] == item_en)
