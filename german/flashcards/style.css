@@ -147,10 +147,15 @@ h3{
 
 }
 
+#footer{
+    display: inline-flex;
+    margin: 5px;
+}
+
 .box {
     width: 15vw;
-    margin: 25px 0;
-    display: flex;
+    margin: 0px 10px 0px 20px;
+    display: inline-flex;
     align-items: center;
     user-select: none;
   }
