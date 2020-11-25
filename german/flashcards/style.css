@@ -154,7 +154,7 @@ h3{
 
 .box {
     width: 15vw;
-    margin: 0px 10px 0px 20px;
+    margin: 0px 0px 0px 15px;
     display: inline-flex;
     align-items: center;
     user-select: none;
@@ -188,10 +188,21 @@ h3{
     align-items: center;
     position: relative;
     border-radius: 100px;
-    background-color: #FFF;
-    border: 2px solid #00EA90;
-    box-shadow: 0px 0px 0px 0px #00EA90 inset;
+    background-color: rgb(0, 0, 0);
+    
     transition: all 0.15s cubic-bezier(0, 1.05, 0.72, 1.07);
+  }
+  .box .check.one {
+    border: 2px solid #e7e135;
+    box-shadow: 0px 0px 0px 0px #e7e135 inset;
+  }
+  .box .check.two {
+    border: 2px solid #5e75db;
+    box-shadow: 0px 0px 0px 0px #5e75db inset;
+  }
+  .box .check.three {
+    border: 2px solid #9c2754;
+    box-shadow: 0px 0px 0px 0px #9c2754 inset;
   }
   .box .check::after {
     content: '';
@@ -201,10 +212,6 @@ h3{
     z-index: 4;
     position: absolute;
     transform: scale(0);
-    background-size: 50%;
-    background-image: url("http://s6.picofile.com/d/8392306668/c38c12a0-6db3-47d4-a80c-7dad8fab5186/checkmark.svg");
-    background-repeat: no-repeat;
-    background-position: center;
     transition-delay: 0.2s !important;
     transition: all 0.25s cubic-bezier(0, 1.05, 0.72, 1.07);
   }
