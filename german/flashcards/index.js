@@ -243,6 +243,9 @@ var loadWord = function(){
     console.log(wordVocab1);
     console.log(wordVocab2);
     console.log(wordVocab3);
+    console.log(wordVocab1_en);
+    console.log(wordVocab2_en);
+    console.log(wordVocab3_en);
     var vocab = levels[ranLevel];
 
     var itemsInLevel = Object.keys(vocab);
