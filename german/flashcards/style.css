@@ -256,7 +256,7 @@ h3{
         font-weight: 100;
         color: rgb(221, 220, 220);
         /* padding-top: -5vh; */
-        height: 50vh;
+        height: 50vh; 
     }
     #next:hover{
         background: rgba(44, 38, 38, 0.02);
