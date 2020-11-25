@@ -1,0 +1,7046 @@
+{
+    "ab": {
+      "ex": [
+        "Ab morgen muss ich wieder arbeiten."
+      ],
+      "num": 0
+    },
+    "aber": {
+      "ex": [
+        "Heute kann ich nicht kommen, aber morgen habe ich Zeit.",
+        "Wir haben nur eine kleine Wohnung, sind aber damit zufrieden.",
+        "Es war sehr schön. Jetzt muss ich aber gehen. Das ist aber nett von dir."
+      ],
+      "num": 1
+    },
+    "abgeben,": {
+      "ex": [
+        "Ich muss meinen Schlüssel an der Rezeption gibt ab, abgeben.",
+        "hat abgegeben"
+      ],
+      "num": 2
+    },
+    "abholen,": {
+      "ex": [
+        "holt ab, Wann kann ich die Sachen bei dir abholen? hat abgeholt Wir müssen noch meinen Bruder abholen."
+      ],
+      "num": 3
+    },
+    "abschließen,": {
+      "ex": [
+        "Hast du die Tür abgeschlossen?",
+        "schließt ab, Ich schließe dieses Jahr mein Studium/ hat abgeschlossen meine Ausbildung ab."
+      ],
+      "num": 4
+    },
+    "Achtung": {
+      "ex": [
+        "(Sg.) Achtung an Gleis drei: Die Türen schließen. Der Zug fährt jetzt ab."
+      ],
+      "num": 5
+    },
+    "Achtung!": {
+      "ex": [
+        "Pass auf! Der Verkehr ist hier gefährlich. die Adresse, -n Können Sie mir Ihre Adresse geben?"
+      ],
+      "num": 6
+    },
+    "die Ahnung,": {
+      "ex": [
+        "-en Ich hatte keine Ahnung, dass du heute Geburtstag hast.",
+        "Wie spät ist es? - Ich habe keine Ahnung."
+      ],
+      "num": 7
+    },
+    "aktiv": {
+      "ex": [
+        "Peter ist sehr aktiv und macht viel Sport."
+      ],
+      "num": 8
+    },
+    "aktuell": {
+      "ex": [
+        "Das ist das aktuelle Kinoprogramm."
+      ],
+      "num": 9
+    },
+    "all-": {
+      "ex": [
+        "Ich wünsche dir alles Gute!",
+        "Hast du alles?",
+        "Möchten Sie noch etwas? - Nein, danke. Das ist alles.",
+        "Sind alle da? - Nein, Rita fehlt noch. Alle Freunde kommen."
+      ],
+      "num": 10
+    },
+    "allein": {
+      "ex": [
+        "Kommt seine Freundin mit? - Nein, er kommt allein. Soll ich Ihnen/dir helfen? - Nein danke, ich schaffe das schon allein."
+      ],
+      "num": 11
+    },
+    "als": {
+      "ex": [
+        "Hector ist jünger als seine Schwester.",
+        "Sie arbeitet als Krankenschwester."
+      ],
+      "num": 12
+    },
+    "also": {
+      "ex": [
+        "Also, die Sache ist so: …",
+        "Er hat Zeit, also kann er uns helfen."
+      ],
+      "num": 13
+    },
+    "alt": {
+      "ex": [
+        "Wie alt sind Sie?",
+        "Mein Computer ist schon sehr alt.",
+        "Wir wohnen in einem ganz alten Haus. Köln ist eine alte Stadt."
+      ],
+      "num": 14
+    },
+    "das Alter": {
+      "ex": [
+        "(Sg.) Alter: 18 Jahre."
+      ],
+      "num": 15
+    },
+    "die Ampel,": {
+      "ex": [
+        "-n Du kannst fahren, die Ampel ist grün.",
+        "Nach der Ampel musst du nach links fahren."
+      ],
+      "num": 16
+    },
+    "an": {
+      "ex": [
+        "Fahren Sie an der nächsten Kreuzung nach rechts. Wir treffen uns am Bahnhof/am Kino/am Stand. Am nächsten Montag geht es leider nicht.",
+        "Das Licht war die ganze Nacht an."
+      ],
+      "num": 17
+    },
+    "anbieten,": {
+      "ex": [
+        "Darf ich Ihnen/dir ein Stück Kuchen anbieten? bietet an,",
+        "",
+        "hat angeboten Er hat mir eine Stelle als Verkäuferin angeboten. das Angebot, -e Heute sind Bananen im Angebot.",
+        "Stellenangebote finden Sie in der Zeitung oder im Internet."
+      ],
+      "num": 18
+    },
+    "ander-": {
+      "ex": [
+        "Willst du diesen Mantel? – Nein, ich möchte den anderen.",
+        "Die anderen sind schon nach Hause gegangen.",
+        "Bitte nicht alle auf einmal! Einer nach dem anderen.",
+        "ändern, ändert, Das Wetter hat sich geändert.",
+        "hat geändert Wie kann ich mein Passwort ändern?"
+      ],
+      "num": 19
+    },
+    "anders": {
+      "ex": [
+        "Anders geht das leider nicht.",
+        "Oliver ist anders als seine Freunde."
+      ],
+      "num": 20
+    },
+    "anfangen,": {
+      "ex": [
+        "Hier fängt die Bahnhofstraße an. fängt an, Der Unterricht fängt gleich an.",
+        "hat angefangen Würden Sie bitte anfangen?",
+        "Ich fange im Herbst meine Ausbildung an."
+      ],
+      "num": 21
+    },
+    "der Anfang,": {
+      "ex": [
+        "¨-e Sie wohnt am Anfang der Straße.",
+        "Wir machen Anfang Juli Urlaub."
+      ],
+      "num": 22
+    },
+    "die Angst,": {
+      "ex": [
+        "¨-e Hab keine Angst!",
+        "Ich habe Angst vor großen Hunden."
+      ],
+      "num": 23
+    },
+    "ankommen,": {
+      "ex": [
+        "Wann kommt dieser Zug in Hamburg an?",
+        "kommt an, Auf diesem Fahrplan steht nur die Ankunft der Züge. ist angekommen"
+      ],
+      "num": 24
+    },
+    "die Ankunft,": {
+      "ex": [
+        "-¨e"
+      ],
+      "num": 25
+    },
+    "anmachen,": {
+      "ex": [
+        "Mach bitte das Licht an! macht an,",
+        "hat angemacht"
+      ],
+      "num": 26
+    },
+    "anmelden": {
+      "ex": [
+        "(sich), Wo kann ich mich anmelden?",
+        "meldet an, Eine Anmeldung für diesen Kurs ist nicht mehr hat angemeldet möglich."
+      ],
+      "num": 27
+    },
+    "die Anmeldung,-en": {
+      "ex": [
+        "Wo bekomme ich das Formular für die Anmeldung?"
+      ],
+      "num": 28
+    },
+    "der Anruf-": {
+      "ex": [
+        "Wir sind im Moment nicht da. Sprechen Sie bitte auf beantworter, - den Anrufbeantworter."
+      ],
+      "num": 29
+    },
+    "anrufen,": {
+      "ex": [
+        "ruft an, Kann ich Sie heute Abend anrufen? hat angerufen Juan ruft seine Freundin an."
+      ],
+      "num": 30
+    },
+    "der Anruf,": {
+      "ex": [
+        "-e Eva bekommt viele Anrufe von ihrem Freund Juan."
+      ],
+      "num": 31
+    },
+    "der Anschluss,": {
+      "ex": [
+        "¨-e In Mannheim haben Sie Anschluss nach",
+        "Saarbrücken.",
+        "In Stuttgart erreichen Sie alle Anschlüsse. Auch der Zug nach Paris wartet.",
+        "Gibt es in der Wohnung einen Waschmaschinen- anschluss?"
+      ],
+      "num": 32
+    },
+    "ansehen,": {
+      "ex": [
+        "sieht an, Darf ich eure Urlaubsfotos ansehen?",
+        "hat angesehen Ich sehe (mir) diese Sendung jeden Tag an."
+      ],
+      "num": 33
+    },
+    "antworten,": {
+      "ex": [
+        "Er antwortet nicht. antwortet,",
+        "hat geantwortet"
+      ],
+      "num": 34
+    },
+    "die Antwort,": {
+      "ex": [
+        "-en Er gibt leider keine Antwort."
+      ],
+      "num": 35
+    },
+    "die Anzeige,": {
+      "ex": [
+        "-n Ich habe Ihre Anzeige in der Zeitung gelesen."
+      ],
+      "num": 36
+    },
+    "der Anzug,": {
+      "ex": [
+        "¨-e Mein Mann muss sich einen neuen Anzug kaufen. der Apfel, ¨- Ein Kilo Äpfel, bitte."
+      ],
+      "num": 37
+    },
+    "die Apotheke,": {
+      "ex": [
+        "-n Das Medikament bekommen Sie in der Apotheke.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "num": 38
+    },
+    "der Apparat,": {
+      "ex": [
+        "-e Was machen wir mit deinem alten Apparat?",
+        "Ich habe einen neuen Fotoapparat. arbeiten, arbeitet, Wo arbeiten Sie?",
+        "hat gearbeitet Ich arbeite als Krankenschwester in einem",
+        "Krankenhaus."
+      ],
+      "num": 39
+    },
+    "die Arbeit,": {
+      "ex": [
+        "-en Mein Bruder sucht Arbeit."
+      ],
+      "num": 40
+    },
+    "arbeitslos": {
+      "ex": [
+        "Seit wann ist er schon arbeitslos?",
+        "Es gibt bei uns viele Leute, die schon lange arbeitslos sind.",
+        "ärgern (sich), Warum ärgerst du dich? - Ich ärgere mich, weil das ärgert, Wetter schlecht ist.",
+        "hat geärgert"
+      ],
+      "num": 41
+    },
+    "arm": {
+      "ex": [
+        "Sie haben nicht viel Geld, sie sind arm."
+      ],
+      "num": 42
+    },
+    "der Arm,": {
+      "ex": [
+        "-e Mein Arm tut weh."
+      ],
+      "num": 43
+    },
+    "der Artikel,": {
+      "ex": [
+        "- Im Deutschen gibt es drei Artikel: der, die und das. Ich habe in der Zeitung einen interessanten Artikel gelesen."
+      ],
+      "num": 44
+    },
+    "auch": {
+      "ex": [
+        "Ich bin auch Spanier.",
+        "Maria muss auch am Wochenende arbeiten."
+      ],
+      "num": 45
+    },
+    "auf": {
+      "ex": [
+        "jeden/ Ich möchte auf jeden Fall den neuen James-Bond- keinen Fall Film sehen. - Wirklich? Ich finde James-Bond-Filme",
+        "langweilig. Ich sehe ihn auf keinen Fall an!"
+      ],
+      "num": 48
+    },
+    "Am": {
+      "ex": [
+        "Samstag gehen wir auf eine Party. Meine Eltern wohnen auf dem Land. Auf dem Foto ist auch meine Schwester. Die Tür ist auf, kommen Sie rein!",
+        "Hat das Geschäft noch auf? Auf Wiedersehen.",
+        "Wie heißt das auf Deutsch?"
+      ],
+      "num": 47
+    },
+    "aufhören,": {
+      "ex": [
+        "Wann hört ihr mit der Arbeit auf?",
+        "hört auf, Kannst du bitte damit aufhören? Ich muss jetzt hat aufgehört arbeiten."
+      ],
+      "num": 49
+    },
+    "aufmachen,": {
+      "ex": [
+        "Kannst du bitte die Tür aufmachen? macht auf,",
+        "hat aufgemacht"
+      ],
+      "num": 50
+    },
+    "aufpassen,": {
+      "ex": [
+        "Pass auf, der Teller fällt gleich auf den Boden! passt auf, Der Babysitter passt heute Abend auf die Kinder"
+      ],
+      "num": 51
+    },
+    "auf.": {
+      "ex": [
+        "",
+        "hat aufgepasst Er passt im Unterricht nicht auf."
+      ],
+      "num": 52
+    },
+    "aufräumen,": {
+      "ex": [
+        "Die Kinder müssen ihr Zimmer aufräumen. räumt auf,",
+        "hat aufgeräumt"
+      ],
+      "num": 53
+    },
+    "aufregend": {
+      "ex": [
+        "Die letzte Woche war sehr aufregend.",
+        "Der Film ist nicht besonders aufregend."
+      ],
+      "num": 54
+    },
+    "aufstehen,": {
+      "ex": [
+        "Ich stehe jeden Morgen um sieben Uhr auf. steht auf,",
+        "ist aufgestanden"
+      ],
+      "num": 55
+    },
+    "der Aufzug,": {
+      "ex": [
+        "¨-e In diesem Haus gibt es keinen Aufzug.",
+        "Der Aufzug ist leider kaputt."
+      ],
+      "num": 56
+    },
+    "das Auge,": {
+      "ex": [
+        "-n Er hat blaue Augen.",
+        "Mein rechtes Auge tut seit Sonntag weh.",
+        ""
+      ],
+      "num": 57
+    },
+    "aus": {
+      "ex": [
+        "Michele kommt aus Brasilien.",
+        "Frau Müller geht immer um acht Uhr aus dem Haus. Der Tisch ist aus Glas.",
+        "Ich sehe nichts. Das Licht ist aus."
+      ],
+      "num": 58
+    },
+    "die Ausbildung,-en": {
+      "ex": [
+        "Ich möchte eine Ausbildung zum Krankenpfleger machen."
+      ],
+      "num": 59
+    },
+    "der Ausflug,": {
+      "ex": [
+        "¨-e Morgen machen wir einen Ausflug nach Heidelberg/ an die Ostsee."
+      ],
+      "num": 60
+    },
+    "ausfüllen,": {
+      "ex": [
+        "Füllen Sie/Füll bitte dieses Formular aus! füllt aus,",
+        "hat ausgefüllt"
+      ],
+      "num": 61
+    },
+    "der Ausgang,": {
+      "ex": [
+        "¨-e Entschuldigung, wo ist der Ausgang?"
+      ],
+      "num": 62
+    },
+    "ausgeben,": {
+      "ex": [
+        "Agata gibt viel Geld für Bücher aus. gibt aus, Ich möchte nicht so viel Geld ausgeben. hat ausgegeben"
+      ],
+      "num": 63
+    },
+    "ausgehen,": {
+      "ex": [
+        "Gehen wir am Freitag zusammen aus? geht aus, Plötzlich ist das Licht ausgegangen. ist ausgegangen"
+      ],
+      "num": 64
+    },
+    "die Auskunft,": {
+      "ex": [
+        "¨-e Wo ist die Auskunft?",
+        "Können Sie mir bitte eine Auskunft geben? das Ausland (Sg.) Fahren Sie ins Ausland?"
+      ],
+      "num": 65
+    },
+    "ausmachen,": {
+      "ex": [
+        "Mach bitte das Licht aus! macht aus,",
+        "hat ausgemacht"
+      ],
+      "num": 66
+    },
+    "auspacken,": {
+      "ex": [
+        "Packst du bitte den Koffer aus? packt aus,",
+        "hat ausgepackt"
+      ],
+      "num": 67
+    },
+    "ausruhen": {
+      "ex": [
+        "(sich), Ruh dich erst mal aus! Du bist sicher müde. ruht aus, Er ruht sich nach der Arbeit immer aus. hat ausgeruht"
+      ],
+      "num": 68
+    },
+    "aussehen,": {
+      "ex": [
+        "Wie sieht er aus? - Groß und blond. sieht aus, Sie sieht wie ihre Mutter aus.",
+        "hat ausgesehen Das Kleid sieht hübsch aus."
+      ],
+      "num": 69
+    },
+    "außer": {
+      "ex": [
+        "Außer Lisa möchte niemand den Film sehen. Wir haben täglich außer Samstag geöffnet."
+      ],
+      "num": 70
+    },
+    "außerdem": {
+      "ex": [
+        "Vier Brötchen, möchten Sie außerdem noch etwas?"
+      ],
+      "num": 71
+    },
+    "außerhalb": {
+      "ex": [
+        "Die Wohnung ist nicht in der Stadt, sie liegt etwas außerhalb."
+      ],
+      "num": 72
+    },
+    "aussprechen,": {
+      "ex": [
+        "Wie spricht man das Wort aus? spricht aus,",
+        "hat ausgesprochen"
+      ],
+      "num": 73
+    },
+    "aussteigen,": {
+      "ex": [
+        "Wo müssen wir aussteigen? – An der nächsten steigt aus, Haltestelle.",
+        "ist ausgestiegen"
+      ],
+      "num": 74
+    },
+    "die Ausstellung,-en": {
+      "ex": [
+        "Gehen wir morgen zusammen in die Ausstellung? austragen, Er trägt jeden Morgen die Zeitung aus.",
+        "trägt aus,",
+        "hat ausgetragen"
+      ],
+      "num": 75
+    },
+    "der Ausweis,": {
+      "ex": [
+        "-e Darf ich bitte mal Ihren Ausweis sehen? – Hier ist mein Ausweis."
+      ],
+      "num": 76
+    },
+    "das Auto,": {
+      "ex": [
+        "-s Er fährt mit dem Auto."
+      ],
+      "num": 77
+    },
+    "die Autobahn,": {
+      "ex": [
+        "-en Darf ich mit dem Motorroller auf der Autobahn fahren?",
+        "Das Dorf liegt direkt an der Autobahn.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "num": 78
+    },
+    "der Automat,": {
+      "ex": [
+        "-en Fahrkarten gibt es nur am Automaten.",
+        "In Berlin ist der Fahrkartenautomat auf dem Bahnsteig."
+      ],
+      "num": 79
+    },
+    "automatisch": {
+      "ex": [
+        "Achtung, die Türen schließen automatisch!",
+        ""
+      ],
+      "num": 80
+    },
+    "das Baby,": {
+      "ex": [
+        "-s Wir haben ein Baby. Es ist sechs Wochen alt. der Babysitter,- Meine Tochter arbeitet als Babysitter bei einer",
+        "Familie mit vier Kindern."
+      ],
+      "num": 81
+    },
+    "backen,": {
+      "ex": [
+        "Wenn du kommst, backe ich einen Kuchen. bäckt/backt,",
+        "hat gebacken"
+      ],
+      "num": 82
+    },
+    "die Bäckerei,": {
+      "ex": [
+        "-en Ich geh mal schnell zur Bäckerei."
+      ],
+      "num": 83
+    },
+    "das Bad,": {
+      "ex": [
+        "¨-er Das Haus ist sehr alt. Es hat kein Bad.",
+        "Im Winter nehme ich gern ein warmes Bad."
+      ],
+      "num": 84
+    },
+    "baden,": {
+      "ex": [
+        "badet, Ich bade nicht so gern, ich dusche lieber. hat gebadet In diesem See darf man nicht baden."
+      ],
+      "num": 85
+    },
+    "die Bahn,": {
+      "ex": [
+        "-en Wir fahren lieber mit der Bahn als mit dem Bus.",
+        "Ich nehme die nächste S-Bahn."
+      ],
+      "num": 86
+    },
+    "der Bahnhof,": {
+      "ex": [
+        "¨-e Entschuldigung, komme ich hier zum Bahnhof?"
+      ],
+      "num": 87
+    },
+    "der Bahnsteig,": {
+      "ex": [
+        "-e Auf Hauptbahnhöfen gibt es meist viele Bahnsteige. bald Ich komme bald.",
+        "Auf Wiedersehen! Bis bald!"
+      ],
+      "num": 88
+    },
+    "der Balkon,": {
+      "ex": [
+        "-e Die Wohnung hat auch einen kleinen Balkon. der Ball, ¨-e Meine Kinder spielen gern Ball."
+      ],
+      "num": 89
+    },
+    "die Banane,": {
+      "ex": [
+        "-n Drei Bananen, bitte!"
+      ],
+      "num": 90
+    },
+    "die Band,": {
+      "ex": [
+        "-s Was ist deine Lieblingsband? Anton spielt in einer Band."
+      ],
+      "num": 91
+    },
+    "die Bank,": {
+      "ex": [
+        "-en Bei welcher Bank haben Sie Ihr Konto? die Bank, ¨-e Kommt, wir setzen uns auf diese Bank."
+      ],
+      "num": 92
+    },
+    "bar": {
+      "ex": [
+        "Muss ich bar zahlen oder geht‘s auch mit Karte? der Basketball, ¨-e Yannick spielt lieber Basketball als Fußball."
+      ],
+      "num": 93
+    },
+    "basteln,": {
+      "ex": [
+        "bastelt, Die Kinder haben etwas gebastelt. hat gebastelt"
+      ],
+      "num": 94
+    },
+    "der Bauch,": {
+      "ex": [
+        "¨-e Seit gestern tut mir der Bauch weh."
+      ],
+      "num": 95
+    },
+    "bauen,": {
+      "ex": [
+        "baut, Unsere Nachbarn bauen ein neues Haus. hat gebaut"
+      ],
+      "num": 96
+    },
+    "der Baum,": {
+      "ex": [
+        "¨-e Der Baum ist über hundert Jahre alt.",
+        "Wir haben zwei Apfelbäume im Garten. die Baustelle, -n Vor unserem Haus ist eine große Baustelle."
+      ],
+      "num": 97
+    },
+    "beantworten,": {
+      "ex": [
+        "Können Sie meine Frage bitte beantworten? beantwortet, Hast du die Mail schon beantwortet?",
+        "hat beantwortet"
+      ],
+      "num": 98
+    },
+    "bedanken": {
+      "ex": [
+        "(sich), Ich möchte mich noch einmal sehr herzlich für Ihre bedankt, Hilfe bedanken.",
+        "hat bedankt"
+      ],
+      "num": 99
+    },
+    "bedeuten,": {
+      "ex": [
+        "Was bedeutet das Wort? bedeutet,",
+        "hat bedeutet"
+      ],
+      "num": 100
+    },
+    "beeilen": {
+      "ex": [
+        "(sich), Kannst du dich bitte beeilen? Der Bus fährt beeilt, gleich ab!",
+        "hat beeilt",
+        ""
+      ],
+      "num": 101
+    },
+    "beenden,": {
+      "ex": [
+        "Du musst deine Ausbildung auf jeden Fall beenden. beendet,",
+        "hat beendet"
+      ],
+      "num": 102
+    },
+    "beginnen,": {
+      "ex": [
+        "Das Spiel beginnt um 15.30 Uhr. beginnt,",
+        "hat begonnen"
+      ],
+      "num": 103
+    },
+    "begründen,": {
+      "ex": [
+        "Bitte begründen Sie Ihre Meinung. begründet,",
+        "hat begründet"
+      ],
+      "num": 104
+    },
+    "bei": {
+      "ex": [
+        "Offenbach liegt bei Frankfurt. Ich wohne bei meinen Eltern. Bei uns ist das anders als hier. Er arbeitet bei Siemens.",
+        "Ich möchte euch nicht beim Essen stören."
+      ],
+      "num": 105
+    },
+    "beide": {
+      "ex": [
+        "Wir kommen beide.",
+        "Welche Bluse möchten Sie, die rote oder die grüne?",
+        "- Ich nehme beide."
+      ],
+      "num": 106
+    },
+    "das Bein,": {
+      "ex": [
+        "-e Mein rechtes Bein tut weh."
+      ],
+      "num": 107
+    },
+    "bekannt": {
+      "ex": [
+        "Picasso ist sehr bekannt. Er ist ein bekannter Maler. der/die Ein Bekannter von mir heißt Klaus."
+      ],
+      "num": 108
+    },
+    "Bekannte,": {
+      "ex": [
+        "-n"
+      ],
+      "num": 109
+    },
+    "bekommen,": {
+      "ex": [
+        "Haben Sie meinen Brief bekommen? bekommt, Aspirin bekommen Sie in der Apotheke. hat bekommen"
+      ],
+      "num": 110
+    },
+    "beliebt": {
+      "ex": [
+        "Fußball ist bei vielen Menschen beliebt."
+      ],
+      "num": 111
+    },
+    "benutzen,": {
+      "ex": [
+        "Die Aufzüge bitte nicht benutzen! benutzt,",
+        "hat benutzt"
+      ],
+      "num": 112
+    },
+    "bequem": {
+      "ex": [
+        "Das Sofa ist sehr bequem.",
+        "Meine Kinder ziehen am liebsten bequeme Schuhe an."
+      ],
+      "num": 113
+    },
+    "beraten,": {
+      "ex": [
+        "berät, Unsere Sekretärin berät Sie gern, wenn Sie hat beraten Fragen haben."
+      ],
+      "num": 114
+    },
+    "der Berg,": {
+      "ex": [
+        "-e Die Zugspitze ist der höchste Berg in Deutschland.",
+        "Wir fahren am Wochenende in die Berge."
+      ],
+      "num": 115
+    },
+    "berichten,": {
+      "ex": [
+        "Alle Zeitungen berichten von dem Unfall. berichtet,",
+        "hat berichtet"
+      ],
+      "num": 116
+    },
+    "der Beruf,": {
+      "ex": [
+        "-e Was bist du von Beruf?"
+      ],
+      "num": 117
+    },
+    "berühmt": {
+      "ex": [
+        "Thomas Müller ist ein berühmter Fußballspieler."
+      ],
+      "num": 118
+    },
+    "der Bescheid": {
+      "ex": [
+        "Kann Lisa in Heidelberg studieren? - Sie weiß es (bekommen/ noch nicht. Sie bekommt erst nächste Woche geben/sagen) Bescheid.",
+        "Kannst du mir bis morgen Bescheid geben? Ich frage Herrn Maier und sage Ihnen dann Bescheid."
+      ],
+      "num": 119
+    },
+    "beschreiben,": {
+      "ex": [
+        "Kannst du mir den Weg zum Bahnhof beschreiben? beschreibt,",
+        "hat beschrieben"
+      ],
+      "num": 120
+    },
+    "beschweren": {
+      "ex": [
+        "(sich), Hier ist es zu laut. Wo können wir uns beschweren? beschwert, Mein Nachbar beschwert sich immer über unsere hat beschwert Kinder, wenn sie im Garten spielen."
+      ],
+      "num": 121
+    },
+    "besetzt": {
+      "ex": [
+        "Ist dieser Platz frei? - Nein, er ist besetzt.",
+        "Die Nummer ist immer besetzt.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "num": 122
+    },
+    "besichtigen,": {
+      "ex": [
+        "Ich möchte gern das Schloss besichtigen. besichtigt, Sie können die Wohnung am Mittwochabend hat besichtigt besichtigen."
+      ],
+      "num": 123
+    },
+    "besonders": {
+      "ex": [
+        "Dieses Angebot ist besonders günstig.",
+        "Hier ist die Pizza besonders gut. Wie geht's? - Nicht besonders."
+      ],
+      "num": 124
+    },
+    "bestätigen,": {
+      "ex": [
+        "Ich kann bestätigen, dass er hier war. bestätigt,",
+        "hat bestätigt"
+      ],
+      "num": 125
+    },
+    "bestehen,": {
+      "ex": [
+        "Ich habe die Prüfung bestanden!"
+      ],
+      "num": 126
+    },
+    "besteht,": {
+      "ex": [
+        "Die Prüfung besteht aus vier Teilen: Hören, Lesen, hat bestanden Schreiben und Sprechen."
+      ],
+      "num": 127
+    },
+    "bestellen,": {
+      "ex": [
+        "Wir möchten bitte bestellen."
+      ],
+      "num": 128
+    },
+    "bestellt,": {
+      "ex": [
+        "Dieses Buch haben wir nicht da. Sollen wir es für hat bestellt Sie bestellen?"
+      ],
+      "num": 129
+    },
+    "der Besuch,": {
+      "ex": [
+        "-e Wir bekommen am Wochenende Besuch.",
+        "Ich mache einen Besuch im Krankenhaus."
+      ],
+      "num": 130
+    },
+    "besuchen,": {
+      "ex": [
+        "Darf ich dich mal besuchen?"
+      ],
+      "num": 131
+    },
+    "besucht,": {
+      "ex": [
+        "Möchtest du mich in den Ferien besuchen? hat besucht"
+      ],
+      "num": 132
+    },
+    "das Bett,": {
+      "ex": [
+        "-en Sie ist krank und muss heute im Bett bleiben."
+      ],
+      "num": 133
+    },
+    "bewerben": {
+      "ex": [
+        "(sich), Ich möchte mich um diese Stelle bewerben. bewirbt, Kannst du mir bei meiner Bewerbung helfen? hat beworben"
+      ],
+      "num": 134
+    },
+    "die Bewerbung,": {
+      "ex": [
+        "-en"
+      ],
+      "num": 135
+    },
+    "bewölkt": {
+      "ex": [
+        "Heute ist es bewölkt.",
+        "die Wolke, -n Es gibt viele Wolken am Himmel."
+      ],
+      "num": 136
+    },
+    "bezahlen,": {
+      "ex": [
+        "Wo kann ich bezahlen? bezahlt,",
+        "hat bezahlt"
+      ],
+      "num": 137
+    },
+    "die Bibliothek,": {
+      "ex": [
+        "-en Sie lernt jeden Tag in der Bibliothek. das Bier, -e Noch ein Bier, bitte."
+      ],
+      "num": 138
+    },
+    "das Bild,": {
+      "ex": [
+        "-er Hast du ein Bild von deinem Sohn?"
+      ],
+      "num": 139
+    },
+    "billig": {
+      "ex": [
+        "Das Wörterbuch kostet nur fünf Euro. - Fünf Euro?",
+        "Das ist aber billig! die Birne, -n Ein Kilo Birnen, bitte!"
+      ],
+      "num": 140
+    },
+    "bis": {
+      "ex": [
+        "Ich fahre nur bis Stuttgart.",
+        "Ich warte bis Freitag. Tschüss, bis gleich!"
+      ],
+      "num": 141
+    },
+    "bisschen": {
+      "ex": [
+        "Können Sie bitte ein bisschen lauter sprechen?",
+        "Ich spreche ein bisschen Französisch. Möchten Sie noch ein bisschen Salat?"
+      ],
+      "num": 142
+    },
+    "bitte": {
+      "ex": [
+        "Eine Tasse Kaffee bitte! - Bitte schön!",
+        "Wie bitte? Sprechen Sie bitte ein bisschen lauter! die Bitte, -n Ich habe noch eine Bitte."
+      ],
+      "num": 143
+    },
+    "bitten,": {
+      "ex": [
+        "Darf ich Sie um etwas bitten? bittet,",
+        "hat gebeten"
+      ],
+      "num": 144
+    },
+    "bitter": {
+      "ex": [
+        "Kaffee ohne Zucker schmeckt bitter. das Blatt, ¨-er Haben Sie ein Blatt Papier für mich?",
+        "Die Bäume haben schon gelbe Blätter.",
+        ""
+      ],
+      "num": 145
+    },
+    "bleiben,": {
+      "ex": [
+        "Wir bleiben drei Tage in Berlin."
+      ],
+      "num": 146
+    },
+    "bleibt,": {
+      "ex": [
+        "Bitte bleiben Sie stehen!",
+        "ist geblieben Oh nein, meine Uhr ist stehen geblieben. Wie spät ist es?",
+        "Ich bleibe heute zu Hause. der Bleistift, -e Hast du einen Bleistift?"
+      ],
+      "num": 147
+    },
+    "blöd": {
+      "ex": [
+        "Ich finde es blöd, dass du morgen gehen musst. der/das Blog, -s Ich schreibe einen Blog über Mode."
+      ],
+      "num": 148
+    },
+    "blond": {
+      "ex": [
+        "Lisa hat blonde Haare. die Blume, -n Gefallen dir die Blumen?"
+      ],
+      "num": 149
+    },
+    "die Bluse,": {
+      "ex": [
+        "-n Ich suche eine weiße Bluse. die Bohne, -n Hans isst nicht gern Bohnen."
+      ],
+      "num": 150
+    },
+    "böse": {
+      "ex": [
+        "Sie ist richtig böse auf mich.",
+        "Ich habe dein Buch vergessen. Hoffentlich bist du mir nicht böse."
+      ],
+      "num": 151
+    },
+    "braten,": {
+      "ex": [
+        "Braten Sie das Fleisch in etwas Öl!"
+      ],
+      "num": 152
+    },
+    "brät,": {
+      "ex": [
+        "Der Fisch brät in der Pfanne. hat gebraten"
+      ],
+      "num": 153
+    },
+    "brauchen,": {
+      "ex": [
+        "Ich brauche ein neues Auto."
+      ],
+      "num": 154
+    },
+    "braucht,": {
+      "ex": [
+        "Brauchst du die Zeitung noch oder kann ich sie hat gebraucht haben?",
+        "Meine Großmutter ist krank. Sie braucht viel Ruhe. der Brief, -e Haben Sie einen Brief für mich?"
+      ],
+      "num": 155
+    },
+    "die Briefmarke,": {
+      "ex": [
+        "-n Bitte die Briefmarke nicht vergessen!"
+      ],
+      "num": 156
+    },
+    "die Brille,": {
+      "ex": [
+        "-n Wo ist meine Brille?",
+        "Mit dieser Brille kann ich nicht mehr gut sehen."
+      ],
+      "num": 157
+    },
+    "bringen,": {
+      "ex": [
+        "Bringen Sie mir bitte noch einen Kaffee! bringt, Wir müssen Max ins Krankenhaus bringen. hat gebracht"
+      ],
+      "num": 158
+    },
+    "das Brot,": {
+      "ex": [
+        "-e Nimm doch noch ein Brot für das Abendessen.",
+        "Haben Sie auch Weißbrot?"
+      ],
+      "num": 159
+    },
+    "das Brötchen,": {
+      "ex": [
+        "- Möchtest du Brot oder Brötchen zum Frühstück? die Brücke, -n Fahren Sie über die nächste Brücke und dann",
+        "nach links."
+      ],
+      "num": 160
+    },
+    "das Buch,": {
+      "ex": [
+        "¨-er Was kostet das Buch, bitte?",
+        "In diesem Wörterbuch finden Sie mehr als 20.000 Wörter."
+      ],
+      "num": 161
+    },
+    "buchen,": {
+      "ex": [
+        "Morgen buche ich unsere Urlaubsreise. bucht,",
+        "hat gebucht"
+      ],
+      "num": 162
+    },
+    "der Buchstabe,": {
+      "ex": [
+        "-n Diesen Buchstaben gibt es in meiner Sprache nicht."
+      ],
+      "num": 163
+    },
+    "buchstabieren,": {
+      "ex": [
+        "Würden Sie bitte Ihren Namen buchstabieren? buchstabiert,",
+        "hat buchstabiert"
+      ],
+      "num": 164
+    },
+    "bunt": {
+      "ex": [
+        "Anna trägt gern bunte Kleider.",
+        "Meine Wohnung ist sehr bunt: Das Wohnzimmer ist rot, die Küche grün und das Bad blau."
+      ],
+      "num": 165
+    },
+    "das Büro,": {
+      "ex": [
+        "-s Ich arbeite in einem Büro.",
+        "Unser Büro ist bis Dienstag geschlossen. der Bus, -se Wann kommt der nächste Bus?"
+      ],
+      "num": 166
+    },
+    "die Butter": {
+      "ex": [
+        "(Sg.) Möchtest du Butter aufs Brot oder nur Käse?",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "num": 167
+    },
+    "das Café,": {
+      "ex": [
+        "-s Kommst du mit ins Café? Ich möchte gern einen Kaffee trinken."
+      ],
+      "num": 168
+    },
+    "die Cafeteria,": {
+      "ex": [
+        "-s Ich gehe jetzt in die Cafeteria. Soll ich dir etwas mitbringen?"
+      ],
+      "num": 169
+    },
+    "chatten,": {
+      "ex": [
+        "Luis chattet gern mit seinen Freunden im Internet. chattet,",
+        "hat gechattet"
+      ],
+      "num": 170
+    },
+    "der Chef,": {
+      "ex": [
+        "-s /"
+      ],
+      "num": 171
+    },
+    "die Chefin,-nen": {
+      "ex": [
+        "Wir haben eine neue Chefin."
+      ],
+      "num": 172
+    },
+    "der Club,": {
+      "ex": [
+        "-s / Gibt es hier einen Tennis-Club/Klub?",
+        "Klub, -s Ich möchte gern tanzen gehen. Wo gibt es hier",
+        "einen Club/Klub mit guter Musik? der/das Comic, -s Mein Sohn liest immer nur Comics."
+      ],
+      "num": 173
+    },
+    "der Computer,": {
+      "ex": [
+        "- Wann bekommst du deinen neuen Computer?"
+      ],
+      "num": 174
+    },
+    "die Creme,": {
+      "ex": [
+        "-s/-n Ich suche eine Creme für die Hände.",
+        "Der Kuchen schmeckt super! Was ist in der Creme?",
+        "– Das ist eine Buttercreme mit viel Schokolade.",
+        ""
+      ],
+      "num": 175
+    },
+    "da": {
+      "ex": [
+        "Welche Bluse nehmen Sie? - Die da.",
+        "Ist Herr Klein schon da?",
+        "Wir sprechen gerade über Paul. Da kommt er ja. Da drüben ist der Bahnhof."
+      ],
+      "num": 176
+    },
+    "da(r)": {
+      "ex": [
+        "(Bsp. darauf, Darauf fällt mir keine Antwort ein. darüber) Darüber spreche ich nicht gern."
+      ],
+      "num": 177
+    },
+    "dabei": {
+      "ex": [
+        "(sein), Hast du einen Stift dabei?",
+        "ist dabei, Schön, dass du da bist. Ist deine Familie auch war dabei, dabei?",
+        "ist dabei gewesen"
+      ],
+      "num": 178
+    },
+    "dafür/dagegen": {
+      "ex": [
+        "sein, Ich bin dafür/dagegen. ist dafür/dagegen,",
+        "war dafür/dagegen, ist dafür/"
+      ],
+      "num": 179
+    },
+    "dagegen": {
+      "ex": [
+        "gewesen"
+      ],
+      "num": 180
+    },
+    "damals": {
+      "ex": [
+        "Als Student hatte ich viel Zeit und wollte reisen.",
+        "Aber damals hatte ich kein Geld."
+      ],
+      "num": 181
+    },
+    "die": {
+      "ex": [
+        "Disco, -s / Wir gehen heute Abend in die Disco/Disko. die Disko, -s"
+      ],
+      "num": 199
+    },
+    "daneben": {
+      "ex": [
+        "Du weißt doch, wo die Post ist. Daneben ist die Bank."
+      ],
+      "num": 183
+    },
+    "der": {
+      "ex": [
+        "Durst (Sing.) Hast du etwas zu trinken? Ich habe großen Durst. die Dusche, -n Unsere Wohnung hat nur eine Dusche."
+      ],
+      "num": 219
+    },
+    "danke": {
+      "ex": [
+        "Soll ich Ihnen helfen? - Sehr freundlich, ja danke!",
+        "Guten Appetit! - Danke gleichfalls."
+      ],
+      "num": 185
+    },
+    "danken,": {
+      "ex": [
+        "dankt, Ich danke Ihnen für die Einladung. hat gedankt"
+      ],
+      "num": 186
+    },
+    "dann": {
+      "ex": [
+        "Ich muss noch schnell zur Post, dann komme ich.",
+        "Wenn es nicht regnet, dann kommen wir."
+      ],
+      "num": 187
+    },
+    "dass": {
+      "ex": [
+        "Rico hat gesagt, dass er auch zur Party kommt.",
+        "Ich finde es super, dass du mich besuchst."
+      ],
+      "num": 188
+    },
+    "das": {
+      "ex": [
+        "Dorf, ¨-er Unser Dorf liegt direkt an der Autobahn.",
+        "Meine Familie lebt in einem Dorf."
+      ],
+      "num": 203
+    },
+    "dauern,": {
+      "ex": [
+        "dauert, Wie lange dauert die Pause? - Eine halbe Stunde. hat gedauert"
+      ],
+      "num": 191
+    },
+    "denken,": {
+      "ex": [
+        "denkt, Ich denke, du hast recht.",
+        "hat gedacht Ich denke oft an meine Freundin.",
+        "Was denktst du? Sollen wir heute Abend ins Kino gehen?"
+      ],
+      "num": 192
+    },
+    "denn": {
+      "ex": [
+        "Ich kann nicht kommen, denn ich bin krank."
+      ],
+      "num": 193
+    },
+    "deshalb": {
+      "ex": [
+        "Ich bin krank. Deshalb komme ich heute nicht ins Büro."
+      ],
+      "num": 194
+    },
+    "deutlich": {
+      "ex": [
+        "Sprechen Sie bitte deutlich!",
+        "Können Sie das bitte deutlicher schreiben? Ich kann das nicht lesen."
+      ],
+      "num": 195
+    },
+    "dick": {
+      "ex": [
+        "Ich bin zu dick. Ich muss weniger essen."
+      ],
+      "num": 196
+    },
+    "direkt": {
+      "ex": [
+        "Wir wohnen direkt über dem Café.",
+        "Gibt es keinen direkten Zug nach Hamburg? - Nein, Sie müssen immer umsteigen.",
+        "Ich möchte nicht direkt nach der Schule studieren. Ich möchte erst reisen.",
+        "Wir liefern Ihnen das Sofa direkt ins Haus."
+      ],
+      "num": 198
+    },
+    "diskutieren,": {
+      "ex": [
+        "Ich möchte das mit meinen Kollegen diskutieren. diskutiert,",
+        "hat diskutiert"
+      ],
+      "num": 200
+    },
+    "doch": {
+      "ex": [
+        "Hast du keinen Hunger? - Doch, ich bin sehr hungrig.",
+        "Kannst du morgen nicht kommen? - Doch. Geh doch mal wieder ins Kino!"
+      ],
+      "num": 201
+    },
+    "Das": {
+      "ex": [
+        "macht doch nichts!"
+      ],
+      "num": 202
+    },
+    "dort,": {
+      "ex": [
+        "-her, -hin Wir treffen uns vor dem Kino. - Gut, ich bin in fünf Minuten dort."
+      ],
+      "num": 204
+    },
+    "Dort": {
+      "ex": [
+        "ist unser Haus."
+      ],
+      "num": 205
+    },
+    "Deine": {
+      "ex": [
+        "Tasche kannst du dorthin stellen. Kommst du mit in die Stadt? - Nein, ich komme gerade dorther/von dort."
+      ],
+      "num": 206
+    },
+    "draußen": {
+      "ex": [
+        "Das Wetter ist so schön. Wollen wir draußen sitzen?",
+        "Hunde müssen draußen bleiben."
+      ],
+      "num": 207
+    },
+    "dringend": {
+      "ex": [
+        "Bitte kommen Sie schnell. Es ist dringend. drinnen Wollen Sie drinnen oder draußen sitzen?",
+        "Hier drinnen ist es sehr warm."
+      ],
+      "num": 208
+    },
+    "drüben": {
+      "ex": [
+        "Da drüben ist die Haltestelle."
+      ],
+      "num": 209
+    },
+    "drücken,": {
+      "ex": [
+        "drückt, An dieser Tür musst du drücken, nicht ziehen, hat gedrückt dann geht sie auf."
+      ],
+      "num": 210
+    },
+    "Drücken": {
+      "ex": [
+        "Sie „Bestätigen“! Meine Schuhe drücken.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "num": 211
+    },
+    "drucken,": {
+      "ex": [
+        "druckt, Wähle einfach „Datei drucken“! hat gedruckt"
+      ],
+      "num": 212
+    },
+    "dumm": {
+      "ex": [
+        "Ich finde den Film dumm.",
+        "Entschuldigung, das war dumm von mir. Das ist mir zu dumm."
+      ],
+      "num": 214
+    },
+    "dunkel": {
+      "ex": [
+        "Um sechs Uhr ist es schon dunkel. Meine Schwester hat dunkle Haare.",
+        "Ich will eine dunkelblaue Bluse kaufen."
+      ],
+      "num": 215
+    },
+    "dünn": {
+      "ex": [
+        "Das Buch ist sehr dünn. Es hat nur 40 Seiten. Mein Bruder ist 1,80 Meter groß und 62 Kilo schwer, er ist zu dünn."
+      ],
+      "num": 216
+    },
+    "durch": {
+      "ex": [
+        "Am besten gehen Sie durch die Tengstraße. Wir fahren mit dem Fahrrad durch den Wald."
+      ],
+      "num": 217
+    },
+    "dürfen,": {
+      "ex": [
+        "darf, Sie dürfen hier nicht parken. durfte, Dürfen wir heute länger fernsehen?",
+        "hat gedurft Darf ich Sie zu einem Kaffee einladen?"
+      ],
+      "num": 218
+    },
+    "duschen": {
+      "ex": [
+        "(sich), Ich bade nicht so gern, ich dusche lieber."
+      ],
+      "num": 220
+    },
+    "duscht,": {
+      "ex": [
+        "Möchten Sie sich duschen? Das Badezimmer ist dort hat geduscht hinten links.",
+        ""
+      ],
+      "num": 221
+    },
+    "das E-Book,": {
+      "ex": [
+        "-s Liest du lieber E-Books oder Bücher aus Papier? Entschuldigung, kann man hier E-Books kaufen?"
+      ],
+      "num": 222
+    },
+    "echt": {
+      "ex": [
+        "Ist das Bild ein echter Picasso?",
+        "Der Film ist echt gut."
+      ],
+      "num": 223
+    },
+    "die Ecke,": {
+      "ex": [
+        "-n Gehen Sie an der nächsten Ecke links. Dann",
+        "kommen Sie zur Apotheke.",
+        "Wir stellen das Regal in die Ecke."
+      ],
+      "num": 224
+    },
+    "egal": {
+      "ex": [
+        "Das ist mir egal.",
+        "Willst du Tee oder Kaffee trinken? – Egal."
+      ],
+      "num": 225
+    },
+    "die Ehefrau,": {
+      "ex": [
+        "-en /"
+      ],
+      "num": 226
+    },
+    "der Ehemann,": {
+      "ex": [
+        "¨-er/ Das ist mein Ehemann/meine Ehefrau. der Ehepartner, -"
+      ],
+      "num": 227
+    },
+    "das Ei,": {
+      "ex": [
+        "-er Möchtest du ein Ei zum Frühstück?"
+      ],
+      "num": 228
+    },
+    "eigen-": {
+      "ex": [
+        "Nicht alle Kinder haben ein eigenes Zimmer. eigentlich Wir wollten eigentlich Freunde besuchen, aber dann",
+        "sind wir doch zu Hause geblieben. Kennst du eigentlich Susanne?"
+      ],
+      "num": 229
+    },
+    "eilig": {
+      "ex": [
+        "Hast du es eilig?"
+      ],
+      "num": 230
+    },
+    "einfach": {
+      "ex": [
+        "Die Prüfung ist ganz einfach.",
+        "Ich verstehe das nicht. Kannst du es bitte einfacher sagen?",
+        "Hin und zurück? – Nein, bitte nur eine einfache Fahrt nach Berlin."
+      ],
+      "num": 231
+    },
+    "der Eingang,": {
+      "ex": [
+        "¨-e Der Eingang ist um die Ecke."
+      ],
+      "num": 232
+    },
+    "einig-": {
+      "ex": [
+        "In diesem Text sind einige Fehler.",
+        "Das dauert noch einige Zeit, bis das Essen fertig ist."
+      ],
+      "num": 233
+    },
+    "einkaufen,": {
+      "ex": [
+        "Ich muss noch für morgen einkaufen. kauft ein,",
+        "hat eingekauft",
+        ""
+      ],
+      "num": 234
+    },
+    "das Einkaufs-": {
+      "ex": [
+        "Kommst du morgen mit ins Einkaufszentrum? zentrum, -en"
+      ],
+      "num": 235
+    },
+    "einladen,": {
+      "ex": [
+        "Darf ich Sie zu einem Kaffee einladen? lädt ein,",
+        "hat eingeladen"
+      ],
+      "num": 236
+    },
+    "die Einladung,": {
+      "ex": [
+        "-en Danke für die Einladung zu deinem Geburtstag! einmal Rufen Sie/Ruf mich bitte morgen noch einmal an.",
+        "Diese Prüfung mache ich nicht noch einmal. Warst du schon einmal in Paris?"
+      ],
+      "num": 237
+    },
+    "einpacken,": {
+      "ex": [
+        "Pack bitte die Handtücher ein !",
+        "packt ein, Soll ich Ihnen das als Geschenk einpacken? hat eingepackt"
+      ],
+      "num": 238
+    },
+    "einsteigen,": {
+      "ex": [
+        "Schnell, steig ein, der Zug fährt gleich ab. steigt ein, Bitte ab 20 Uhr vorn im Bus einsteigen. ist eingestiegen"
+      ],
+      "num": 239
+    },
+    "eintragen": {
+      "ex": [
+        "(sich), Tragen Sie sich bitte in diese Liste ein! trägt ein, Sie müssen Ihren Namen und Ihre Adresse hat eingetragen eintragen."
+      ],
+      "num": 240
+    },
+    "der Eintritt,": {
+      "ex": [
+        "-e Der Eintritt kostet fünf Euro.",
+        "Der Eintritt ist frei. Sie müssen nichts bezahlen."
+      ],
+      "num": 241
+    },
+    "einverstanden": {
+      "ex": [
+        "Als Termin schlage ich den 11. Juni vor. - Gut, (ich sein, bin) einverstanden.",
+        "ist einverstanden, Bist du einverstanden, wenn wir bald nach Hause war einverstanden, gehen?",
+        "ist einverstanden gewesen"
+      ],
+      "num": 242
+    },
+    "einzel-": {
+      "ex": [
+        "Nicht alle zusammen. Könnt ihr bitte einzeln sprechen?",
+        "Florian ist ein Einzelkind. Er hat keine Geschwister. Ein Einzelzimmer ist noch frei."
+      ],
+      "num": 243
+    },
+    "einziehen,": {
+      "ex": [
+        "Im Juni ziehen unsere neuen Nachbarn ein. zieht ein, Wann können wir in die Wohnung einziehen? ist eingezogen"
+      ],
+      "num": 244
+    },
+    "das Eis": {
+      "ex": [
+        "(Sg.) Möchtest du auch ein Eis?",
+        "die (E-)Mail, -s Ich schreibe Ihnen/dir eine E-Mail."
+      ],
+      "num": 245
+    },
+    "der Empfänger,": {
+      "ex": [
+        "– Auf dem Brief steht dein Name, also bist du der Empfänger."
+      ],
+      "num": 246
+    },
+    "empfehlen,": {
+      "ex": [
+        "Welchen Wein können Sie mir empfehlen? empfiehlt,",
+        "hat empfohlen"
+      ],
+      "num": 247
+    },
+    "das Ende,": {
+      "ex": [
+        "-n Sie wohnt am Ende der Straße."
+      ],
+      "num": 248
+    },
+    "Er": {
+      "ex": [
+        "bekommt sein Geld am Monatsende."
+      ],
+      "num": 249
+    },
+    "enden,": {
+      "ex": [
+        "endet, Die Straße endet hier.",
+        "hat geendet Der Kurs endet in einer Woche."
+      ],
+      "num": 250
+    },
+    "endlich": {
+      "ex": [
+        "Wann kommst du endlich? Der Film fängt gleich an."
+      ],
+      "num": 251
+    },
+    "Endlich": {
+      "ex": [
+        "bist du da!"
+      ],
+      "num": 252
+    },
+    "eng": {
+      "ex": [
+        "Diese Hose ist zu eng. Gibt es sie auch eine Nummer größer?"
+      ],
+      "num": 253
+    },
+    "entschuldigen": {
+      "ex": [
+        "Entschuldigen Sie bitte!",
+        "(sich), Ich möchte mich bei dir entschuldigen. entschuldigt,",
+        "hat entschuldigt"
+      ],
+      "num": 254
+    },
+    "die Entschuldi-": {
+      "ex": [
+        "Oh, Entschuldigung! – Macht nichts. Kein Problem. gung, -en",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "num": 255
+    },
+    "das Erdgeschoss,-e": {
+      "ex": [
+        "Ich wohne im Erdgeschoss."
+      ],
+      "num": 256
+    },
+    "die Erfahrung,": {
+      "ex": [
+        "-en Ich habe zehn Jahre Erfahrung in diesem Beruf."
+      ],
+      "num": 257
+    },
+    "erinnern": {
+      "ex": [
+        "(sich), Erinnerst du dich an José? - Nein, ich erinnere mich erinnert, nicht an ihn, tut mir leid.",
+        "hat erinnert Kannst du mich morgen bitte an meinen Arzttermin erinnern?"
+      ],
+      "num": 258
+    },
+    "erkältet": {
+      "ex": [
+        "sein, Lisa ist erkältet. Sie kann heute nicht zur Schule ist erkältet, gehen.",
+        "war erkältet, ist erkältet gewesen"
+      ],
+      "num": 259
+    },
+    "erklären,": {
+      "ex": [
+        "erklärt, Ich verstehe das nicht. Kannst du mir das erklären? hat erklärt"
+      ],
+      "num": 260
+    },
+    "erlauben,": {
+      "ex": [
+        "erlaubt, Meine Kinder dürfen diesen Film sehen. Ich habe es hat erlaubt ihnen erlaubt."
+      ],
+      "num": 261
+    },
+    "erlaubt": {
+      "ex": [
+        "sein, Parken ist hier nicht erlaubt. ist erlaubt,",
+        "war erlaubt,",
+        "ist erlaubt gewesen"
+      ],
+      "num": 262
+    },
+    "die Erlaubnis": {
+      "ex": [
+        "(Sg.) Haben Sie eine Arbeitserlaubnis?"
+      ],
+      "num": 263
+    },
+    "die Ermäßigung,-en": {
+      "ex": [
+        "Für Schüler, Studenten und Rentner gibt es eine Ermäßigung."
+      ],
+      "num": 264
+    },
+    "erreichen,": {
+      "ex": [
+        "Wenn wir uns beeilen, erreichen wir noch den Zug erreicht, um acht Uhr.",
+        "hat erreicht Bis 18 Uhr können Sie mich im Büro erreichen."
+      ],
+      "num": 265
+    },
+    "erst": {
+      "ex": [
+        "Wir können erst morgen kommen.",
+        "Dina ist keine 18, sie ist erst 16 Jahre alt."
+      ],
+      "num": 266
+    },
+    "der Erwachsene,": {
+      "ex": [
+        "-n Erwachsene zahlen zehn Euro, für Kinder ist der Eintritt frei.",
+        "Dieser Film ist nur für Erwachsene."
+      ],
+      "num": 267
+    },
+    "erzählen,": {
+      "ex": [
+        "erzählt, Wir müssen euch etwas erzählen! hat erzählt Erzählst du mir eine Geschichte?"
+      ],
+      "num": 268
+    },
+    "essen,": {
+      "ex": [
+        "isst, Was gibt es zu essen? hat gegessen"
+      ],
+      "num": 269
+    },
+    "das Essen,": {
+      "ex": [
+        "- Das Essen in der Cafeteria ist meistens ganz gut.",
+        "Darf ich Sie zum Essen einladen?"
+      ],
+      "num": 270
+    },
+    "etwas": {
+      "ex": [
+        "Ich muss dir etwas erzählen!",
+        "Haben Sie etwas zum Schreiben?",
+        "Ich habe leider nur Tee. Etwas anderes kann ich dir leider nicht anbieten.",
+        ""
+      ],
+      "num": 271
+    },
+    "das Fach,": {
+      "ex": [
+        "¨-er Welches Fach magst du in der Schule am liebsten? (ab)fahren, Ich fahre mit dem Auto zur Arbeit."
+      ],
+      "num": 272
+    },
+    "fährt": {
+      "ex": [
+        "(ab), Achtung an Gleis 17! Der Zug München - Paris fährt ist (ab)gefahren jetzt ab.",
+        "die Abfahrt, -en Wir haben noch zwanzig Minuten bis zur Abfahrt."
+      ],
+      "num": 273
+    },
+    "die Fahrkarte,": {
+      "ex": [
+        "-n Hast du schon eine Fahrkarte?",
+        "Ihre Fahrkarten, bitte!"
+      ],
+      "num": 274
+    },
+    "der Fahrplan,": {
+      "ex": [
+        "¨-e Ist das der neue Fahrplan?",
+        "das (Fahr)Rad, ¨-er Wenn es nicht regnet, fahre ich mit dem Fahrrad. fallen, fällt, Pass auf, das Glas fällt gleich vom Tisch.",
+        "ist gefallen",
+        ""
+      ],
+      "num": 275
+    },
+    "falsch": {
+      "ex": [
+        "Die Lösung ist falsch.",
+        "Sie haben die falsche Nummer gewählt."
+      ],
+      "num": 276
+    },
+    "die Familie,": {
+      "ex": [
+        "-n Meine Familie lebt in Spanien.",
+        "Ich habe eine große Familie."
+      ],
+      "num": 277
+    },
+    "der Familien-": {
+      "ex": [
+        "Mein Familienname ist González. name, -n"
+      ],
+      "num": 278
+    },
+    "der Fan,": {
+      "ex": [
+        "-s Er ist ein großer Fußballfan.",
+        "Bella ist ein Fan von Rammstein."
+      ],
+      "num": 279
+    },
+    "fantastisch": {
+      "ex": [
+        "Dein neues Kleid sieht fantastisch aus!",
+        "Das Buch ist fantastisch. Du musst es unbedingt lesen!"
+      ],
+      "num": 280
+    },
+    "die Farbe,": {
+      "ex": [
+        "-n Die Farbe gefällt mir gut.",
+        "Was ist deine Lieblingsfarbe?"
+      ],
+      "num": 281
+    },
+    "fast": {
+      "ex": [
+        "Der Film ist fast zu Ende.",
+        "Ich habe fast alles verstanden."
+      ],
+      "num": 282
+    },
+    "faul": {
+      "ex": [
+        "Heute sind wir faul: Wir machen keine Hausauf- gaben und arbeiten nicht."
+      ],
+      "num": 283
+    },
+    "fehlen,": {
+      "ex": [
+        "fehlt, Herr Müller ist nicht da, er fehlt schon seit drei hat gefehlt Tagen.",
+        "Was fehlt Ihnen?"
+      ],
+      "num": 284
+    },
+    "der Fehler,": {
+      "ex": [
+        "- Diesen Fehler mache ich immer wieder. die Feier, -n Wann hast du Feierabend?",
+        "(z. B. Feierabend, Am ersten Mai ist ein Feiertag. Feiertag)"
+      ],
+      "num": 285
+    },
+    "feiern,": {
+      "ex": [
+        "feiert, Wir feiern heute meinen Geburtstag. hat gefeiert Die Feier war sehr schön."
+      ],
+      "num": 286
+    },
+    "das Fenster,": {
+      "ex": [
+        "- Kannst du bitte das Fenster öffnen?"
+      ],
+      "num": 287
+    },
+    "die Ferien": {
+      "ex": [
+        "(Pl.) Bald haben wir Ferien."
+      ],
+      "num": 288
+    },
+    "Fährst": {
+      "ex": [
+        "du in den Ferien weg oder bleibst du zu Hause?"
+      ],
+      "num": 289
+    },
+    "fernsehen,": {
+      "ex": [
+        "Lass uns heute Abend mal fernsehen. sieht fern,",
+        "hat ferngesehen"
+      ],
+      "num": 290
+    },
+    "der Fernseher,": {
+      "ex": [
+        "- Der Fernseher ist kaputt."
+      ],
+      "num": 291
+    },
+    "fertig": {
+      "ex": [
+        "sein, Das Essen ist gleich fertig. Kommst du? ist fertig, Wir müssen gleich gehen. Bist du fertig? war fertig,",
+        "ist fertig gewesen"
+      ],
+      "num": 292
+    },
+    "das Fest,": {
+      "ex": [
+        "-e Frohes Fest!",
+        "Am Wochenende feiern wir ein Fest. Meine Tochter hat Geburtstag."
+      ],
+      "num": 293
+    },
+    "das Festival,": {
+      "ex": [
+        "-s Am Wochenende ist in der Stadt ein Musik-Festival. fett Die Wurst ist mir zu fett."
+      ],
+      "num": 294
+    },
+    "das Fieber": {
+      "ex": [
+        "(Sg.) Sie hat hohes Fieber."
+      ],
+      "num": 295
+    },
+    "der Film,": {
+      "ex": [
+        "-e Ich möchte gern diesen Film sehen. finden, findet, Wir müssen den Schlüssel finden.",
+        "hat gefunden Ich finde es nicht gut, dass du so viel arbeitest.",
+        "Ich finde ihn sehr nett."
+      ],
+      "num": 296
+    },
+    "die Firma,": {
+      "ex": [
+        "-en Er arbeitet jetzt bei einer anderen Firma. der Fisch, -e Fisch mag ich lieber als Fleisch."
+      ],
+      "num": 297
+    },
+    "fit": {
+      "ex": [
+        "sein, ist fit, Tom will fit sein. Er geht jeden Tag ins Fitness- war fit, studio.",
+        "ist fit gewesen",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "num": 298
+    },
+    "die Flasche,": {
+      "ex": [
+        "-n Eine Flasche Mineralwasser, bitte! das Fleisch (Sg.) Fleisch mag ich nicht."
+      ],
+      "num": 299
+    },
+    "fleißig": {
+      "ex": [
+        "Ibrahim ist sehr fleißig. Er macht immer seine Hausaufgaben.",
+        "(ab)fliegen, Ich fliege nicht gern; ich fahre lieber mit dem Zug. fliegt (ab), Ich fliege in den Ferien nach Spanien.",
+        "ist (ab)geflogen Wann fliegst du ab?"
+      ],
+      "num": 300
+    },
+    "der Flohmarkt,": {
+      "ex": [
+        "¨-e Ich gehe gern auf den Flohmarkt.",
+        "Diesen Hut habe ich auf dem Flohmarkt gekauft."
+      ],
+      "num": 301
+    },
+    "der Flug,": {
+      "ex": [
+        "¨-e Ich möchte einen Flug nach Kanada buchen.",
+        "Der Flug LH123 von München nach Frankfurt ist um 21:00 Uhr."
+      ],
+      "num": 302
+    },
+    "der Flughafen,": {
+      "ex": [
+        "¨ Kannst du mich zum Flughafen bringen?"
+      ],
+      "num": 303
+    },
+    "das Flugzeug,": {
+      "ex": [
+        "-e Das Flugzeug aus Berlin hat Verspätung.",
+        "Das Flugzeug startet in einer halben Stunde. Wir müssen uns beeilen."
+      ],
+      "num": 304
+    },
+    "der Fluss,": {
+      "ex": [
+        "¨-e Der Rhein ist ein großer Fluss."
+      ],
+      "num": 305
+    },
+    "das Formular,": {
+      "ex": [
+        "-e Sie müssen dieses Formular ausfüllen. der Fotoapparat, -e Ich möchte mir einen Fotoapparat kaufen. fotografieren, Ich fotografiere gern."
+      ],
+      "num": 306
+    },
+    "fotografiert,": {
+      "ex": [
+        "hat fotografiert"
+      ],
+      "num": 307
+    },
+    "das Foto,": {
+      "ex": [
+        "-s Darf ich ein Foto machen? die Frage, -n Ich habe eine Frage."
+      ],
+      "num": 308
+    },
+    "fragen,": {
+      "ex": [
+        "fragt, Er fragt, wann er kommen kann. hat gefragt Ich möchte Sie etwas fragen."
+      ],
+      "num": 309
+    },
+    "die Frau,": {
+      "ex": [
+        "-en Das ist Frau Becker.",
+        "Guten Tag, Frau Schmitt!",
+        "Hier arbeiten mehr Frauen als Männer."
+      ],
+      "num": 310
+    },
+    "frei": {
+      "ex": [
+        "Entschuldigung, ist dieser Platz noch frei?",
+        "Morgen haben wir frei. Eintritt frei."
+      ],
+      "num": 311
+    },
+    "freiwillig": {
+      "ex": [
+        "Manchmal bleibe ich freiwillig länger im Büro. die Freizeit (Sg.) In meiner Freizeit spiele ich oft Fußball."
+      ],
+      "num": 312
+    },
+    "fremd": {
+      "ex": [
+        "Das weiß ich nicht; ich bin fremd hier.",
+        "Ich reise gern in fremde Länder."
+      ],
+      "num": 313
+    },
+    "freuen": {
+      "ex": [
+        "(sich), Zum Geburtstag habe ich ein interessantes Buch bekommen. Ich freue mich sehr über das Geschenk."
+      ],
+      "num": 314
+    },
+    "freut,": {
+      "ex": [
+        "Die Kinder freuen sich schon auf die Ferien.",
+        "hat gefreut Ich freue mich, weil ich heute mit meinen Freunden Fußball spiele.",
+        "Es/Das freut mich!"
+      ],
+      "num": 315
+    },
+    "der Freund,": {
+      "ex": [
+        "-e, Das ist ein Freund von mir."
+      ],
+      "num": 316
+    },
+    "die Freundin,": {
+      "ex": [
+        "-nen Das ist meine Freundin Susanne."
+      ],
+      "num": 317
+    },
+    "freundlich": {
+      "ex": [
+        "Er ist immer sehr freundlich zu mir.",
+        "Mit freundlichen Grüßen"
+      ],
+      "num": 318
+    },
+    "frisch": {
+      "ex": [
+        "Das Brot ist noch ganz frisch. Ich habe es gerade gekauft."
+      ],
+      "num": 319
+    },
+    "froh": {
+      "ex": [
+        "Ich bin froh, dass du kommen kannst."
+      ],
+      "num": 320
+    },
+    "Frohes": {
+      "ex": [
+        "Fest!"
+      ],
+      "num": 321
+    },
+    "früh": {
+      "ex": [
+        "Geht es auch später? Sechs Uhr ist mir zu früh.",
+        "Ich muss morgen sehr früh aufstehen.",
+        ""
+      ],
+      "num": 322
+    },
+    "früher": {
+      "ex": [
+        "Früher habe ich in Berlin gewohnt.",
+        "Wir nehmen den früheren Zug."
+      ],
+      "num": 323
+    },
+    "das Frühstück": {
+      "ex": [
+        "(Sg.) Möchtest du ein Ei zum Frühstück?"
+      ],
+      "num": 324
+    },
+    "frühstücken,": {
+      "ex": [
+        "Ich frühstücke immer um 9:00 Uhr. frühstückt,",
+        "hat gefrühstückt"
+      ],
+      "num": 325
+    },
+    "fühlen": {
+      "ex": [
+        "(sich), Wie fühlen Sie sich?"
+      ],
+      "num": 326
+    },
+    "fühlt,": {
+      "ex": [
+        "hat gefühlt Ich fühle mich heute nicht gut."
+      ],
+      "num": 327
+    },
+    "der Führer-": {
+      "ex": [
+        "Hast du den Führerschein?",
+        "schein, -e Sie hat die Führerscheinprüfung bestanden. die Führung, -en Die nächste Führung beginnt um 15 Uhr."
+      ],
+      "num": 328
+    },
+    "die Fundsachen": {
+      "ex": [
+        "Haben Sie meinen Schirm gefunden? - Sie können (Pl.) dort bei den Fundsachen schauen."
+      ],
+      "num": 329
+    },
+    "für": {
+      "ex": [
+        "Das Paket ist für Sie.",
+        "Das ist der Schlüssel für die Haustür.",
+        "Gibt es hier einen Sportverein für Jugendliche?"
+      ],
+      "num": 330
+    },
+    "furchtbar": {
+      "ex": [
+        "Er hat furchtbare Schmerzen.",
+        "Die Hose sieht ja furchtbar aus. So kannst du nicht zur Arbeit gehen!"
+      ],
+      "num": 331
+    },
+    "der Fuß,": {
+      "ex": [
+        "¨-e Der linke Fuß tut mir weh.",
+        "Gehen Sie zu Fuß zur Arbeit? der Fußball, ¨-e Spielt ihr gern Fußball?",
+        ""
+      ],
+      "num": 332
+    },
+    "die Gabel,": {
+      "ex": [
+        "-n Kann ich bitte eine Gabel haben?"
+      ],
+      "num": 333
+    },
+    "ganz": {
+      "ex": [
+        "Oh nein! Was ist passiert? Ist deine Brille jetzt kaputt? - Nein, zum Glück ist sie noch ganz! Morgen haben wir den ganzen Tag Schule.",
+        "Ich bin ganz sicher, dass dein Termin am Montag ist.",
+        "Ich finde Lara ganz nett.",
+        "Oh, ich habe meinen Zahnarzttermin ganz vergessen."
+      ],
+      "num": 334
+    },
+    "die Garage,": {
+      "ex": [
+        "-n Hier ist eine Garage für dein Auto. der Garten, ¨ Wir haben leider keinen Garten. der Gast, ¨-e Heute Abend haben wir Gäste."
+      ],
+      "num": 335
+    },
+    "geben,": {
+      "ex": [
+        "gibt, Kannst du mir mal deinen Stift geben?",
+        "hat gegeben Es gibt keine Karten mehr für das Konzert."
+      ],
+      "num": 336
+    },
+    "geboren": {
+      "ex": [
+        "Ich bin in Zagreb geboren.",
+        "Wann und wo sind Sie geboren?"
+      ],
+      "num": 337
+    },
+    "Geburts-": {
+      "ex": [
+        "Das Geburtsjahr Ihres Sohnes, bitte?",
+        "(jahr, ort, tag), Bitte tragen Sie Ihren Geburtsort noch ein. (-e, -e, -e) Herzlichen Glückwunsch zum Geburtstag!"
+      ],
+      "num": 338
+    },
+    "geehrt-": {
+      "ex": [
+        "Sehr geehrte Damen und Herren,"
+      ],
+      "num": 339
+    },
+    "gefährlich": {
+      "ex": [
+        "Du darfst nicht bei Rot über die Straße gehen. Das ist gefährlich."
+      ],
+      "num": 340
+    },
+    "gefallen,": {
+      "ex": [
+        "gefällt, Das Bild gefällt mir.",
+        "hat gefallen Wie gefällt es Ihnen in Berlin?"
+      ],
+      "num": 341
+    },
+    "gegen": {
+      "ex": [
+        "Fahr nicht gegen den Baum!",
+        "Ich bin gegen diesen Vorschlag.",
+        "Wer spielt gegen wen? - Bayern gegen Dortmund. Haben Sie etwas gegen Grippe?",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "num": 342
+    },
+    "das Gegenteil": {
+      "ex": [
+        ", -e Das Gegenteil von „klein“ ist „groß“. gegenüber Die Post ist gegenüber vom Bahnhof.",
+        "Die Hausnummer 84 ist gleich gegenüber. das Gehalt, ¨-er Sie ist mit ihrem Gehalt zufrieden."
+      ],
+      "num": 343
+    },
+    "gehen,": {
+      "ex": [
+        "geht, Ich weiß nicht, wie das geht. ist gegangen Wie geht‘s? - Es geht.",
+        "Ich muss jetzt leider gehen. Ich muss zum Arzt gehen. Das geht (doch) nicht!",
+        "Nimmst du die Straßenbahn? - Nein, ich gehe lieber zu Fuß."
+      ],
+      "num": 344
+    },
+    "gehören,": {
+      "ex": [
+        "gehört, Gehört der Stift dir? hat gehört"
+      ],
+      "num": 345
+    },
+    "das Geld": {
+      "ex": [
+        "(Sg.) Hast du noch Geld?",
+        "Kannst du mir ein bisschen Geld leihen? die Geldbörse, -n Sie hat ihre Geldbörse verloren."
+      ],
+      "num": 346
+    },
+    "das Gemüse": {
+      "ex": [
+        "(Sg.) Wir kaufen das Gemüse immer auf dem Markt.",
+        "Tomaten sind mein Lieblingsgemüse."
+      ],
+      "num": 347
+    },
+    "genau": {
+      "ex": [
+        "Sind Sie sicher, dass die Prüfung am 15. Juni ist? - Ja, das weiß ich genau.",
+        "Die Uhr geht genau. Es ist genau acht Uhr."
+      ],
+      "num": 348
+    },
+    "genug": {
+      "ex": [
+        "Es ist noch genug Pizza da. Möchtest du noch ein Stück?",
+        "Ich verdiene nicht genug."
+      ],
+      "num": 349
+    },
+    "das Gepäck": {
+      "ex": [
+        "(Sg.) Wollen Sie Ihr Gepäck mitnehmen?",
+        "Sie können Ihr Gepäck auch im Hotel lassen."
+      ],
+      "num": 350
+    },
+    "gerade": {
+      "ex": [
+        "Kannst du später anrufen? Wir essen gerade.",
+        "Was machst du gerade? Da kommt er ja gerade."
+      ],
+      "num": 351
+    },
+    "geradeaus": {
+      "ex": [
+        "Gehen Sie immer geradeaus!"
+      ],
+      "num": 352
+    },
+    "das Gerät,": {
+      "ex": [
+        "-e Elektrogeräte finden Sie im dritten Stock. das Gericht, -e Mein Lieblingsgericht ist Pizza."
+      ],
+      "num": 353
+    },
+    "gern,": {
+      "ex": [
+        "lieber, Ich helfe Ihnen gern.",
+        "am liebsten Kaffee oder Tee? - Ich trinke lieber einen Tee.",
+        "Am liebsten trinke ich Kaffee."
+      ],
+      "num": 354
+    },
+    "das Geschäft,": {
+      "ex": [
+        "-e Die Geschäfte schließen um 18.30 Uhr. das Geschenk, -e Danke für das schöne Geschenk."
+      ],
+      "num": 355
+    },
+    "die Geschichte,": {
+      "ex": [
+        "-n Erzählst du mir eine Geschichte?",
+        "Ich interessiere mich nicht für Geschichte. Paul hat gute Noten in Geschichte."
+      ],
+      "num": 356
+    },
+    "das Geschirr": {
+      "ex": [
+        "(Sg.) Stellst du bitte das Geschirr in den Schrank?"
+      ],
+      "num": 357
+    },
+    "das Gesicht,": {
+      "ex": [
+        "-er Wasch dir bitte das Gesicht.",
+        "Sie hat ein freundliches Gesicht."
+      ],
+      "num": 358
+    },
+    "das Gespräch,": {
+      "ex": [
+        "-e Sie hören ein Gespräch. Zu diesem Gespräch gibt es fünf Aufgaben.",
+        "Das Gespräch mit Frau Kunz ist um 14 Uhr.",
+        ""
+      ],
+      "num": 359
+    },
+    "gewinnen,": {
+      "ex": [
+        "Unsere Mannschaft hat gewonnen."
+      ],
+      "num": 360
+    },
+    "gewinnt,": {
+      "ex": [
+        "Mein Sohn will bei diesem Spiel immer gewinnen. hat gewonnen"
+      ],
+      "num": 361
+    },
+    "das Gewitter,": {
+      "ex": [
+        "- Ich glaube, es gibt heute ein Gewitter. die Gitarre, -n Er kann gut Gitarre spielen."
+      ],
+      "num": 362
+    },
+    "das Glas,": {
+      "ex": [
+        "¨-er Bitte noch ein Glas Apfelsaft!",
+        "Wir brauchen noch drei Gläser."
+      ],
+      "num": 363
+    },
+    "glauben,": {
+      "ex": [
+        "glaubt, Sie können mir glauben, es ist so. hat geglaubt Ich glaube, er kommt gleich."
+      ],
+      "num": 364
+    },
+    "gleich": {
+      "ex": [
+        "Ich komme gleich. Wir sind gleich alt."
+      ],
+      "num": 365
+    },
+    "das Gleis,": {
+      "ex": [
+        "-e Der ICE nach Berlin hält heute an Gleis 12."
+      ],
+      "num": 366
+    },
+    "das Glück": {
+      "ex": [
+        "(Sg.) Viel Glück!",
+        "Oh, es regnet. Zum Glück habe ich meinen Schirm dabei."
+      ],
+      "num": 367
+    },
+    "glücklich": {
+      "ex": [
+        "Meine Tochter ist glücklich verheiratet.",
+        "Ein glückliches neues Jahr!"
+      ],
+      "num": 368
+    },
+    "der Glück-": {
+      "ex": [
+        "Herzlichen Glückwunsch zum Geburtstag! wunsch, ¨-e"
+      ],
+      "num": 369
+    },
+    "gratulieren,": {
+      "ex": [
+        "Ich gratuliere dir! gratuliert,",
+        "hat gratuliert"
+      ],
+      "num": 370
+    },
+    "grillen,": {
+      "ex": [
+        "grillt, Heute grillen wir im Garten. hat gegrillt"
+      ],
+      "num": 371
+    },
+    "die Grippe": {
+      "ex": [
+        "(Sg.) Ich habe eine Grippe und kann leider nicht",
+        "kommen."
+      ],
+      "num": 372
+    },
+    "groß": {
+      "ex": [
+        "Mein Bruder und ich sind gleich groß.",
+        "Frankfurt ist eine große Stadt. Unsere Wohnung ist 80 m² groß."
+      ],
+      "num": 373
+    },
+    "die Größe,": {
+      "ex": [
+        "-n Haben Sie das T-Shirt auch in Größe M?"
+      ],
+      "num": 374
+    },
+    "die Gruppe,": {
+      "ex": [
+        "-n Die erste Gruppe beginnt um 16 Uhr.",
+        "Für Gruppen gibt es eine Ermäßigung."
+      ],
+      "num": 375
+    },
+    "der Gruß,": {
+      "ex": [
+        "¨-e Viele Grüße an Ihre Frau.",
+        "Liebe Grüße",
+        "Mit freundlichen Grüßen"
+      ],
+      "num": 376
+    },
+    "gültig": {
+      "ex": [
+        "sein, Der Pass ist nicht mehr gültig. ist gültig,",
+        "war gültig,",
+        "ist gültig gewesen"
+      ],
+      "num": 377
+    },
+    "günstig": {
+      "ex": [
+        "In diesem Laden gibt es immer günstige Angebote.",
+        "Ich suche ein günstiges Sofa."
+      ],
+      "num": 378
+    },
+    "gut,": {
+      "ex": [
+        "besser, Das finde ich gut.",
+        "am besten Ich komme um 17 Uhr. – Gut!"
+      ],
+      "num": 379
+    },
+    "Guten": {
+      "ex": [
+        "Morgen!",
+        "Ein gutes neues Jahr! Guten Appetit!",
+        "Welches Bild gefällt dir besser? Dieses Kleid finde ich am besten.",
+        ""
+      ],
+      "num": 380
+    },
+    "gestern": {
+      "ex": [
+        "Gestern wollte ich dich anrufen."
+      ],
+      "num": 381
+    },
+    "gesund": {
+      "ex": [
+        "Ich hatte Grippe. Jetzt bin ich wieder gesund. die Gesundheit Gesundheit! Sind Sie erkältet?",
+        "(Sg.)"
+      ],
+      "num": 382
+    },
+    "das Getränk,": {
+      "ex": [
+        "-e Mein Lieblingsgetränk ist Tomatensaft.",
+        "Die Getränkekarte, bitte!",
+        ""
+      ],
+      "num": 383
+    },
+    "das Haar,": {
+      "ex": [
+        "-e Sie hat lange Haare."
+      ],
+      "num": 384
+    },
+    "haben,": {
+      "ex": [
+        "hat, Ich habe ein neues Auto. hatte, hat gehabt Hast du kurz Zeit?"
+      ],
+      "num": 385
+    },
+    "das Hähnchen,": {
+      "ex": [
+        "- Ein Hähnchen mit Pommes, bitte!",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "num": 386
+    },
+    "die Halle,": {
+      "ex": [
+        "-n Wir treffen uns in Halle B.",
+        "Wo ist die neue Sporthalle?"
+      ],
+      "num": 387
+    },
+    "hallo": {
+      "ex": [
+        "Hallo Inge! Wie geht’s? der Hals, ¨-e Mir tut der Hals weh.",
+        "Ich habe seit gestern Halsschmerzen."
+      ],
+      "num": 388
+    },
+    "halten,": {
+      "ex": [
+        "hält, Dieser Zug hält nicht in Rüdesheim."
+      ],
+      "num": 389
+    },
+    "hat": {
+      "ex": [
+        "gehustet",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "num": 437
+    },
+    "die Haltestelle,": {
+      "ex": [
+        "-n An der nächsten Haltestelle müssen Sie aussteigen. der Hamburger, - Einen Hamburger ohne Salat, bitte."
+      ],
+      "num": 391
+    },
+    "die Hand,": {
+      "ex": [
+        "¨-e Wasch dir bitte die Hände vor dem Essen. das Handtuch, ¨-er Gibst du mir bitte ein frisches Handtuch?"
+      ],
+      "num": 392
+    },
+    "das Handy,": {
+      "ex": [
+        "-s In der Schule bitte die Handys ausmachen!",
+        "Kannst du mir bitte deine Handynummer geben?"
+      ],
+      "num": 393
+    },
+    "hängen,": {
+      "ex": [
+        "hängt, Im Museum hängen moderne Bilder."
+      ],
+      "num": 394
+    },
+    "hart": {
+      "ex": [
+        "Ich finde das Bett zu hart.",
+        "Die Brötchen sind ja ganz hart."
+      ],
+      "num": 396
+    },
+    "hässlich": {
+      "ex": [
+        "Ich finde das Kleid hässlich. Es gefällt mir nicht. die Hauptstadt, ¨-e Berlin ist die Hauptstadt von Deutschland."
+      ],
+      "num": 397
+    },
+    "das Haus,": {
+      "ex": [
+        "¨-er In welchem Haus wohnst du?",
+        "Ich gehe jetzt nach Hause. Paul ist nicht zu Hause."
+      ],
+      "num": 398
+    },
+    "der Haushalt,": {
+      "ex": [
+        "-e Wer macht bei euch den Haushalt? - Meine Frau und ich machen den Haushalt zusammen:",
+        "Ich wasche die Wäsche und sie putzt und räumt auf. das Heft, -e Hast du dein Heft dabei?"
+      ],
+      "num": 399
+    },
+    "die Heimat": {
+      "ex": [
+        "(Sg.) Ich komme aus der Schweiz. Das ist meine Heimat. Mein Heimatland ist Italien. Dort bin ich geboren. Jetzt lebe ich in Deutschland, das ist meine neue Heimat."
+      ],
+      "num": 400
+    },
+    "heiraten,": {
+      "ex": [
+        "heiratet, Meine Schwester heiratet nächsten Monat. hat geheiratet"
+      ],
+      "num": 401
+    },
+    "heiß": {
+      "ex": [
+        "Vorsicht, der Tee ist heiß!",
+        "Mir ist heiß. Kannst du das Fenster öffnen?"
+      ],
+      "num": 402
+    },
+    "heißen,": {
+      "ex": [
+        "heißt, Ich heiße Charlotte Meier. hat geheißen Wie heißt das auf Deutsch?"
+      ],
+      "num": 403
+    },
+    "die Heizung,": {
+      "ex": [
+        "-en Es ist kalt. Ist die Heizung kaputt?"
+      ],
+      "num": 404
+    },
+    "helfen,": {
+      "ex": [
+        "hilft, Würden Sie mir bitte helfen? hat geholfen"
+      ],
+      "num": 405
+    },
+    "hell": {
+      "ex": [
+        "Im Sommer ist es bis 21 Uhr hell.",
+        "Mein Zimmer ist sehr hell."
+      ],
+      "num": 406
+    },
+    "Haben": {
+      "ex": [
+        "Sie das T-Shirt auch in hellblau? das Hemd, -en Nick trägt heute ein neues Hemd."
+      ],
+      "num": 407
+    },
+    "her/her-/-her": {
+      "ex": [
+        "Komm bitte mal her!"
+      ],
+      "num": 408
+    },
+    "Herein!": {
+      "ex": [
+        "Die Tür ist offen. Woher kommen Sie?"
+      ],
+      "num": 409
+    },
+    "heraus/raus": {
+      "ex": [
+        "Möchtet ihr nicht rauskommen? Das Wetter ist",
+        "so schön.",
+        "Kannst du bitte den Müll rausbringen?",
+        ""
+      ],
+      "num": 410
+    },
+    "herein/rein": {
+      "ex": [
+        "Herein! Die Tür ist offen.",
+        "Möchtest du nicht reinkommen? Ich kann uns einen Tee machen."
+      ],
+      "num": 411
+    },
+    "der Herd,": {
+      "ex": [
+        "-e In der neuen Küche fehlt noch der Herd. der Herr, -en Guten Tag, Herr Sommer!"
+      ],
+      "num": 412
+    },
+    "herstellen,": {
+      "ex": [
+        "In unserer Firma stellen wir Möbel her. stellt her,"
+      ],
+      "num": 413
+    },
+    "herunterladen,": {
+      "ex": [
+        "Er lädt die Musik aus dem Internet herunter. lädt herunter,"
+      ],
+      "num": 415
+    },
+    "herzlich": {
+      "ex": [
+        "Herzlichen Glückwunsch!"
+      ],
+      "num": 417
+    },
+    "heute": {
+      "ex": [
+        "Heute ist ein schöner Tag."
+      ],
+      "num": 418
+    },
+    "Heute": {
+      "ex": [
+        "muss ich nur bis 16 Uhr arbeiten."
+      ],
+      "num": 419
+    },
+    "hier": {
+      "ex": [
+        "Elektro Bauer, guten Tag. Hier ist Pamela Linke.",
+        "Was kann ich für Sie tun? Hier wohne ich.",
+        "Unterschreiben Sie bitte hier!"
+      ],
+      "num": 420
+    },
+    "die Hilfe": {
+      "ex": [
+        "(Sg.) Hilfe! Bitte helfen Sie mir!",
+        "Er bekommt Hilfe von Freunden."
+      ],
+      "num": 421
+    },
+    "der Himmel": {
+      "ex": [
+        "(Sg.) Heute ist so tolles Wetter: Der Himmel ist blau und es gibt keine Wolken."
+      ],
+      "num": 422
+    },
+    "hin/hin-/-hin": {
+      "ex": [
+        "Wo gehst du hin?/Wohin gehst du?",
+        "Wohin ist Paul gegangen? – Ich glaube dorthin. Er geht in den Garten hinaus.",
+        "Wir gehen ins Haus hinein."
+      ],
+      "num": 423
+    },
+    "hinten": {
+      "ex": [
+        "Die Tür zum Aussteigen ist hinten.",
+        "Bitte hinten aussteigen!"
+      ],
+      "num": 424
+    },
+    "hinter": {
+      "ex": [
+        "Hinter dem Haus haben wir einen Garten. das Hobby, -s Meine Hobbys sind Joggen und Schwimmen."
+      ],
+      "num": 425
+    },
+    "hoch": {
+      "ex": [
+        "Der Mount Everest ist circa 8.880 Meter hoch.",
+        "Die Preise in diesem Laden sind sehr hoch."
+      ],
+      "num": 426
+    },
+    "die Hochzeit,": {
+      "ex": [
+        "-en Zu seiner Hochzeit kommen mehr als einhundert Gäste."
+      ],
+      "num": 427
+    },
+    "hoffen,": {
+      "ex": [
+        "hofft, Ich hoffe, dass es dir gut geht. hat gehofft"
+      ],
+      "num": 428
+    },
+    "hoffentlich": {
+      "ex": [
+        "Hoffentlich hat unser Zug keine Verspätung."
+      ],
+      "num": 429
+    },
+    "holen,": {
+      "ex": [
+        "holt, Soll ich uns etwas zu trinken holen? hat geholt"
+      ],
+      "num": 430
+    },
+    "die Homepage,": {
+      "ex": [
+        "-s Auf der Homepage von Freiburg gibt es alle",
+        "wichtigen Informationen über die Stadt.",
+        "Kennst du eine Homepage mit Deutschübungen?"
+      ],
+      "num": 431
+    },
+    "hören,": {
+      "ex": [
+        "hört, Hör mal! Was ist das?"
+      ],
+      "num": 432
+    },
+    "das Hotel,": {
+      "ex": [
+        "-s Im Urlaub sind wir in einem Hotel am Meer."
+      ],
+      "num": 434
+    },
+    "der Hund,": {
+      "ex": [
+        "-e Magst du Hunde?",
+        "Meine Tochter hat Angst vor Hunden."
+      ],
+      "num": 435
+    },
+    "der Hunger": {
+      "ex": [
+        "(Sg.) Ich habe Hunger! Wann können wir endlich essen? husten, hustet, Sie hustet seit zwei Tagen. Sie ist krank."
+      ],
+      "num": 436
+    },
+    "die Idee,": {
+      "ex": [
+        "-n Was machen wir heute Abend? Hast du eine gute Idee?"
+      ],
+      "num": 438
+    },
+    "immer": {
+      "ex": [
+        "Frau Bast kommt immer zu spät."
+      ],
+      "num": 439
+    },
+    "in": {
+      "ex": [
+        "Ich wohne in Wiesbaden.",
+        "Der Zug kommt in fünf Minuten. Frau Rausch arbeitet im Reisebüro. Komm, wir gehen ins Kino."
+      ],
+      "num": 440
+    },
+    "die Information,-en": {
+      "ex": [
+        "Wir haben hier einige wichtige Informationen",
+        "für Sie.",
+        "Wenn Sie Fragen haben, gehen Sie zur Information."
+      ],
+      "num": 441
+    },
+    "informieren": {
+      "ex": [
+        "Ich möchte mich vor der Reise über das Land (sich) (über), informieren."
+      ],
+      "num": 442
+    },
+    "informiert,": {
+      "ex": [
+        "Hast du dich über die Prüfung informiert? hat informiert"
+      ],
+      "num": 443
+    },
+    "die Insel,": {
+      "ex": [
+        "-n Ich möchte im Sommer auf einer Insel Urlaub",
+        "machen.",
+        "Rügen ist die größte deutsche Insel."
+      ],
+      "num": 444
+    },
+    "das Instrument,": {
+      "ex": [
+        "-e Ich spiele Klavier. Spielen Sie auch ein Instrument? intelligent Einstein war sehr intelligent."
+      ],
+      "num": 445
+    },
+    "das Interesse,": {
+      "ex": [
+        "-n Ich habe viele Interessen: Sport, Lesen, Kultur,",
+        "Reisen."
+      ],
+      "num": 446
+    },
+    "interessieren": {
+      "ex": [
+        "(sich), Ich interessiere mich für Fußball. interessiert, Den Artikel über Brasilien finde ich sehr hat interessiert interessant."
+      ],
+      "num": 447
+    },
+    "interessant": {
+      "ex": [
+        "Ich lese gerade ein interessantes Buch."
+      ],
+      "num": 448
+    },
+    "international": {
+      "ex": [
+        "Unser Deutschkurs ist international: Silvana kommt aus Italien, Conchi aus Spanien, Yin aus China …"
+      ],
+      "num": 449
+    },
+    "das Internet": {
+      "ex": [
+        "(Sg.) Das findest du im Internet.",
+        "Du kannst im Internet Musik hören oder Spiele spielen."
+      ],
+      "num": 450
+    },
+    "das Interview,": {
+      "ex": [
+        "-s Komm schnell! Im Radio kommt ein Interview mit deinem Lieblingssänger.",
+        ""
+      ],
+      "num": 451
+    },
+    "ja": {
+      "ex": [
+        "Sind Sie Herr Watanabe? – Ja.",
+        "Du bist hier in Berlin? Das ist ja toll! die Jacke, -n Zieh dir eine Jacke an. Es ist kalt. die Jeans (Pl.) Ich mag Jeans lieber als Röcke."
+      ],
+      "num": 452
+    },
+    "jeder,": {
+      "ex": [
+        "e, s Das Restaurant hat jeden Tag geöffnet."
+      ],
+      "num": 453
+    },
+    "Jedes": {
+      "ex": [
+        "Kind bekommt einen Ball."
+      ],
+      "num": 454
+    },
+    "jemand": {
+      "ex": [
+        "Hat jemand meinen Stift?",
+        "Hallo, ist jemand da?"
+      ],
+      "num": 455
+    },
+    "jetzt": {
+      "ex": [
+        "Jetzt machen wir eine Pause."
+      ],
+      "num": 456
+    },
+    "der Job,": {
+      "ex": [
+        "-s Jenny hat einen neuen Job bei der Post.",
+        "Ich suche noch einen Ferienjob."
+      ],
+      "num": 457
+    },
+    "joggen,": {
+      "ex": [
+        "joggt, Ich jogge gern im Park. ist/hat gejoggt"
+      ],
+      "num": 458
+    },
+    "die Jugend-": {
+      "ex": [
+        "Wir übernachten in einer Jugendherberge. herberge, -n",
+        "der/die Viele Jugendliche hören den ganzen Tag Musik."
+      ],
+      "num": 459
+    },
+    "Jugendliche,": {
+      "ex": [
+        "-n Der Eintritt für Kinder und Jugendliche bis 16 Jahre ist frei.",
+        ""
+      ],
+      "num": 460
+    },
+    "jung": {
+      "ex": [
+        "Claudia ist 21. – Was? Noch so jung?",
+        "Bei uns im Haus wohnen viele junge Leute. Mein Bruder ist fünf Jahre jünger als ich."
+      ],
+      "num": 461
+    },
+    "der Junge,": {
+      "ex": [
+        "-n In der Klasse von meiner Tochter sind 13 Jungen und 15 Mädchen.",
+        ""
+      ],
+      "num": 462
+    },
+    "der Kaffee,": {
+      "ex": [
+        "-s Zum Frühstück trinke ich immer Kaffee.",
+        "Einen Kaffee, bitte."
+      ],
+      "num": 463
+    },
+    "der Kalender,": {
+      "ex": [
+        "- Haben Sie am Montag Zeit? - Einen Moment, ich schaue in meinem Kalender.",
+        "Ich schreibe alle Termine in meinen Kalender."
+      ],
+      "num": 464
+    },
+    "kalt": {
+      "ex": [
+        "Heute ist es sehr kalt.",
+        "Der Kaffee ist kalt. Ich möchte ihn nicht mehr trinken.",
+        "Mir ist kalt."
+      ],
+      "num": 465
+    },
+    "die Kamera,": {
+      "ex": [
+        "-s Hannes hat eine neue Kamera. Er kann mit der"
+      ],
+      "num": 466
+    },
+    "Kamera": {
+      "ex": [
+        "Fotos und Filme machen."
+      ],
+      "num": 467
+    },
+    "kaputt": {
+      "ex": [
+        "Unsere Waschmaschine ist kaputt."
+      ],
+      "num": 468
+    },
+    "die Karte,": {
+      "ex": [
+        "-n Ich schreibe meinen Bekannten eine Karte aus",
+        "dem Urlaub.",
+        "Wollen wir Karten spielen?",
+        "Du musst noch die Karten für das Konzert abholen, vergiss das bitte nicht!",
+        "Die Karte, bitte! Ich möchte etwas bestellen. Kann ich auch mit Karte (be-)zahlen?"
+      ],
+      "num": 469
+    },
+    "die Kartoffel,": {
+      "ex": [
+        "-n Für Pommes frites braucht man Kartoffeln. der Käse (Sg.) Isst du lieber Käse oder Wurst?"
+      ],
+      "num": 470
+    },
+    "die Kasse,": {
+      "ex": [
+        "-n Zahlen Sie bitte an der Kasse."
+      ],
+      "num": 471
+    },
+    "die Katze,": {
+      "ex": [
+        "-n Meine Tochter wünscht sich eine Katze. kaufen, kauft, Tim kauft sich ein neues Auto.",
+        "hat gekauft"
+      ],
+      "num": 472
+    },
+    "das Kaufhaus,": {
+      "ex": [
+        "-¨er Meine Pullover kaufe ich immer im Kaufhaus",
+        "Hertie."
+      ],
+      "num": 473
+    },
+    "kein,": {
+      "ex": [
+        "e Hast du keinen Hunger?",
+        "Ich habe heute leider keine Zeit. Ich spreche leider kein Chinesisch. Ich habe keine Kinder."
+      ],
+      "num": 474
+    },
+    "der Keller,": {
+      "ex": [
+        "- Bitte bring die Kartoffeln in den Keller!",
+        "Die Waschmaschinen sind im Keller."
+      ],
+      "num": 475
+    },
+    "kennen,": {
+      "ex": [
+        "kennt, Kennen Sie diese Frau? – Nein, leider nicht. hat gekannt Kennen Sie Berlin? – Ja, eine tolle Stadt."
+      ],
+      "num": 476
+    },
+    "kennenlernen,": {
+      "ex": [
+        "Wo habt ihr euch kennengelernt? – Wir haben uns lernt kennen, in München kennengelernt.",
+        "hat kennengelernt"
+      ],
+      "num": 477
+    },
+    "die Kenntnisse": {
+      "ex": [
+        "(Pl.) Deine Deutschkenntnisse sind sehr gut!",
+        "Ich möchte meine Computerkenntnisse verbessern."
+      ],
+      "num": 478
+    },
+    "die Kette,": {
+      "ex": [
+        "-n Meine Mutter bekommt eine schöne Kette zum",
+        "Geburtstag."
+      ],
+      "num": 479
+    },
+    "das Kind,": {
+      "ex": [
+        "-er Wie viele Kinder haben Sie?"
+      ],
+      "num": 480
+    },
+    "der Kindergarten,¨-": {
+      "ex": [
+        "Die kleine Laura geht schon in den Kindergarten. das Kino, -s Gehen wir heute Abend zusammen ins Kino?",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "num": 481
+    },
+    "der Kiosk": {
+      "ex": [
+        ", -e Zeitungen kannst du am Kiosk kaufen. die Kirche, -n Diese Kirche ist fast 800 Jahre alt."
+      ],
+      "num": 482
+    },
+    "klappen,": {
+      "ex": [
+        "klappt, Können wir uns heute Mittag treffen? – Ja, das hat geklappt klappt.",
+        "Wie war die Reise? - Gut, es hat alles super geklappt."
+      ],
+      "num": 483
+    },
+    "klar": {
+      "ex": [
+        "Kommst du mit? – Klar!",
+        "Ich komme morgen zu deiner Party, das ist doch klar."
+      ],
+      "num": 484
+    },
+    "das Klavier,": {
+      "ex": [
+        "-e Jakob kann sehr gut Klavier spielen. das Kleid, -er Julia möchte ein rotes Kleid kaufen."
+      ],
+      "num": 485
+    },
+    "die Kleidung": {
+      "ex": [
+        "(Sg.) Wo finde ich Kleidung? – Hosen im ersten, Kleider und Röcke im zweiten Stock."
+      ],
+      "num": 486
+    },
+    "klein": {
+      "ex": [
+        "Unsere Wohnung ist sehr klein.",
+        "Unsere Tochter ist noch klein. Sie ist erst zwei Jahre alt.",
+        "Wir machen am Wochenende einen kleinen Ausflug."
+      ],
+      "num": 487
+    },
+    "klug": {
+      "ex": [
+        "Molly ist ein kluges Mädchen.",
+        "Lisa ist sehr klug. Sie bekommt immer gute Noten. Das ist klug von dir."
+      ],
+      "num": 488
+    },
+    "kochen,": {
+      "ex": [
+        "kocht, Herr Georgi kann gut kochen. hat gekocht Das Wasser kocht."
+      ],
+      "num": 489
+    },
+    "der Koffer,": {
+      "ex": [
+        "- Hast du den Koffer schon gepackt?"
+      ],
+      "num": 490
+    },
+    "der Kollege,": {
+      "ex": [
+        "-n / Wie heißt die neue Kollegin? die Kollegin, -nen"
+      ],
+      "num": 491
+    },
+    "komisch": {
+      "ex": [
+        "Der Film war sehr komisch. Wir haben viel gelacht.",
+        "Eine grüne Hose und gelbe Schuhe? Das sieht komisch aus.",
+        "Das Essen schmeckt komisch. Probier mal!"
+      ],
+      "num": 492
+    },
+    "kommen,": {
+      "ex": [
+        "kommt, Woher kommen Sie? – Aus Frankreich. ist gekommen Er wird bald kommen."
+      ],
+      "num": 493
+    },
+    "können,": {
+      "ex": [
+        "kann, Ich kann Deutsch und Russisch. Aber Englisch kann konnte, ich nicht.",
+        "hat gekonnt Können Sie mir helfen?",
+        "Du kannst durch den Park laufen, das ist am schnellsten."
+      ],
+      "num": 494
+    },
+    "Kann": {
+      "ex": [
+        "ich Sie kurz sprechen?",
+        ""
+      ],
+      "num": 523
+    },
+    "der Kontakt,": {
+      "ex": [
+        "-e Ich habe wenig Kontakt zu meinen Kollegen.",
+        "Bitte schicken Sie mir Ihre Kontaktdaten!"
+      ],
+      "num": 496
+    },
+    "das Konto,": {
+      "ex": [
+        "-en Das Geld überweisen wir am ersten März auf Ihr Konto."
+      ],
+      "num": 497
+    },
+    "kontrollieren,": {
+      "ex": [
+        "Können Sie bei meinem Auto bitte das Öl kontrolliert, kontrollieren?",
+        "hat kontrolliert Bitte öffnen Sie Ihren Koffer, wir müssen Ihr",
+        "Gepäck kontrollieren."
+      ],
+      "num": 498
+    },
+    "das Konzert,": {
+      "ex": [
+        "-e Für das Konzert am Sonntag gibt es noch Karten. der Kopf, ¨-e Mein Kopf tut weh!"
+      ],
+      "num": 499
+    },
+    "der Körper,": {
+      "ex": [
+        "- Der Arzt sagt, ich muss etwas für meinen Körper tun, z. B. schwimmen oder Fahrrad fahren."
+      ],
+      "num": 500
+    },
+    "die Kosmetik": {
+      "ex": [
+        "(Sg.) Kosmetik können Sie im Erdgeschoss kaufen."
+      ],
+      "num": 501
+    },
+    "kosten,": {
+      "ex": [
+        "kostet,",
+        "hat gekostet Wie viel kostet das Buch? – 20 Euro.",
+        ""
+      ],
+      "num": 502
+    },
+    "kostenlos": {
+      "ex": [
+        "Diese Zeitschrift kostet nichts. Sie ist kostenlos. krank Ich kann heute nicht zur Arbeit kommen, ich bin"
+      ],
+      "num": 503
+    },
+    "krank": {
+      "ex": [
+        "und liege im Bett."
+      ],
+      "num": 504
+    },
+    "das Kranken-": {
+      "ex": [
+        "Meine Tante ist im Krankenhaus.",
+        "haus, ¨-er Er hat sich verletzt und muss ins Krankenhaus."
+      ],
+      "num": 505
+    },
+    "die Kranken-": {
+      "ex": [
+        "Bei welcher Krankenkasse sind Sie? kasse, -n"
+      ],
+      "num": 506
+    },
+    "die Krankheit,": {
+      "ex": [
+        "-en Welche Krankheit hat Herr Brandner?"
+      ],
+      "num": 507
+    },
+    "der Kredit,": {
+      "ex": [
+        "-e Ich brauche einen Kredit von der Bank.",
+        "Bezahlen Sie mit Kreditkarte?"
+      ],
+      "num": 508
+    },
+    "die Kreuzung,": {
+      "ex": [
+        "-en Fahren Sie an der nächsten Kreuzung rechts."
+      ],
+      "num": 509
+    },
+    "kriegen,": {
+      "ex": [
+        "kriegt, Ich kriege 15 Euro pro Stunde für meinen Job. hat gekriegt Auch wenn du schnell läufst: Ich kriege dich.",
+        "Was kriegen Sie? – Ein Käsebrötchen, bitte."
+      ],
+      "num": 510
+    },
+    "der Krimi,": {
+      "ex": [
+        "-s Miriam liest gern spannende Krimis.",
+        "Schauen wir am Sonntag zusammen den Tatort?",
+        "– Nein, ich mag keine Krimis."
+      ],
+      "num": 511
+    },
+    "die Küche,": {
+      "ex": [
+        "-n Ich suche eine neue Wohnung mit drei Zimmern, Küche und Bad."
+      ],
+      "num": 512
+    },
+    "der Kuchen,": {
+      "ex": [
+        "- Er ißt sonntags ein Stück Kuchen.",
+        "Schokoladenkuchen schmeckt mir am besten."
+      ],
+      "num": 513
+    },
+    "kühl": {
+      "ex": [
+        "Es ist kühl draußen. Zieh dir eine Jacke an."
+      ],
+      "num": 514
+    },
+    "der Kühl-": {
+      "ex": [
+        "Haben wir noch Milch? – Ja, im Kühlschrank. schrank, ¨-e"
+      ],
+      "num": 515
+    },
+    "die Kultur,": {
+      "ex": [
+        "-en Ich finde fremde Länder und Kulturen sehr",
+        "interessant.",
+        "Jana interessiert sich sehr für Kultur. Sie geht jede Woche ins Theater oder ins Museum."
+      ],
+      "num": 516
+    },
+    "kümmern": {
+      "ex": [
+        "(sich), Sonja kann nicht arbeiten. Sie muss sich um ihre kümmert, Tochter kümmern.",
+        "hat gekümmert Ich habe jetzt keine Zeit. Ich muss mich um das Essen kümmern."
+      ],
+      "num": 517
+    },
+    "der Kunde,": {
+      "ex": [
+        "-n / Einen Moment, bitte. Ich habe eine Kundin. die Kundin, -nen"
+      ],
+      "num": 518
+    },
+    "kündigen,": {
+      "ex": [
+        "kündigt, Meine Arbeit gefällt mir nicht mehr. Ich habe heute hat gekündigt gekündigt."
+      ],
+      "num": 519
+    },
+    "die Kunst,": {
+      "ex": [
+        "¨-e Ich verstehe nichts von moderner Kunst."
+      ],
+      "num": 520
+    },
+    "Kunst": {
+      "ex": [
+        "war mein Lieblingsfach in der Schule. der Kurs, -e Der Deutschkurs dauert zwei Monate."
+      ],
+      "num": 521
+    },
+    "kurz": {
+      "ex": [
+        "Ricardo hat kurze Haare."
+      ],
+      "num": 522
+    },
+    "lachen,": {
+      "ex": [
+        "lacht, Die Kinder lachen über den Witz. hat gelacht Lachen ist gesund."
+      ],
+      "num": 524
+    },
+    "der Laden,": {
+      "ex": [
+        "¨- Ich kaufe meine Kleider immer in einem kleinen Laden im Zentrum."
+      ],
+      "num": 525
+    },
+    "die Lampe,": {
+      "ex": [
+        "-n Mach bitte die Lampe an. Es ist so dunkel."
+      ],
+      "num": 526
+    },
+    "das Land,": {
+      "ex": [
+        "¨-er Deutschland ist ein schönes Land.",
+        "Möchten Sie lieber auf dem Land oder in der Stadt wohnen?"
+      ],
+      "num": 527
+    },
+    "die Landschaft,": {
+      "ex": [
+        "-en Die Landschaft ist sehr schön.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "num": 528
+    },
+    "lang": {
+      "ex": [
+        "Die Hose ist zu lang. Können Sie sie ändern?"
+      ],
+      "num": 529
+    },
+    "lange": {
+      "ex": [
+        "Wie lange fährt der Zug von Hamburg nach Berlin? langsam Könnten Sie bitte etwas langsamer sprechen? langweilig Mir ist langweilig.",
+        "Sie findet Fußball sehr langweilig. der/das Laptop, -s Ich brauche einen neuen Laptop."
+      ],
+      "num": 530
+    },
+    "lassen,": {
+      "ex": [
+        "lässt, Lass mich in Ruhe!",
+        "hat gelassen Kann ich mein Auto hier stehen lassen?",
+        "Ich kann meine kleine Tochter noch nicht allein lassen."
+      ],
+      "num": 531
+    },
+    "laufen,": {
+      "ex": [
+        "läuft, Ich gehe jeden Morgen laufen.",
+        "ist gelaufen Unsere Tochter ist erst ein Jahr alt, aber sie kann schon laufen.",
+        "Wann läuft der Film?"
+      ],
+      "num": 532
+    },
+    "laut": {
+      "ex": [
+        "Nicht so laut! Das Baby schläft. leben, lebt, Sie lebt bei ihrer Schwester.",
+        "hat gelebt Ihre Großeltern leben nicht mehr. das Leben, - Hier in London ist das Leben teuer."
+      ],
+      "num": 533
+    },
+    "die Lebens-": {
+      "ex": [
+        "Lebensmittel bekommen Sie im Supermarkt. mittel (Pl.)"
+      ],
+      "num": 534
+    },
+    "leer": {
+      "ex": [
+        "Die Kanne ist fast leer. Ich mache neuen Tee."
+      ],
+      "num": 535
+    },
+    "legen,": {
+      "ex": [
+        "legt, Legen Sie das Buch auf den Tisch. hat gelegt"
+      ],
+      "num": 536
+    },
+    "leicht": {
+      "ex": [
+        "Das Paket ist leicht, es wiegt nur ein Kilo.",
+        "Die Aufgabe ist nicht leicht."
+      ],
+      "num": 537
+    },
+    "leider": {
+      "ex": [
+        "Leider kann ich nicht kommen. Ich muss zum Arzt. leidtun/leid tun, Es tut mir leid, dass ich nicht kommen kann.",
+        "tut leid,",
+        "hat leidgetan"
+      ],
+      "num": 538
+    },
+    "leihen,": {
+      "ex": [
+        "leiht, Kannst du mir fünf Euro leihen? hat geliehen"
+      ],
+      "num": 539
+    },
+    "leise": {
+      "ex": [
+        "Seid leise. Die anderen schlafen schon."
+      ],
+      "num": 540
+    },
+    "lernen,": {
+      "ex": [
+        "lernt, Wie lange lernen Sie schon Deutsch? hat gelernt"
+      ],
+      "num": 541
+    },
+    "lesen,": {
+      "ex": [
+        "liest, In der Schule lesen wir ein Buch von Goethe. hat gelesen"
+      ],
+      "num": 542
+    },
+    "letzt-": {
+      "ex": [
+        "Morgen ist der letzte Kurstag.",
+        "Was hast du letzte Woche gemacht? die Leute (Pl.) Auf der Party sind viele Leute."
+      ],
+      "num": 543
+    },
+    "das Licht,": {
+      "ex": [
+        "-er Es ist so dunkel. Mach bitte das Licht an!"
+      ],
+      "num": 544
+    },
+    "lieb-": {
+      "ex": [
+        "Liebe Susanne, lieber Hans,",
+        "Ich fahre lieber mit dem Zug als mit dem Bus. Möchtest du Pommes oder lieber eine Pizza?"
+      ],
+      "num": 545
+    },
+    "lieben,": {
+      "ex": [
+        "liebt, Ich liebe dich! hat geliebt"
+      ],
+      "num": 546
+    },
+    "Lieblings-": {
+      "ex": [
+        "Meine Lieblingsfarbe ist Blau."
+      ],
+      "num": 547
+    },
+    "das Lied,": {
+      "ex": [
+        "-er Zum Geburtstag singen wir dir ein Lied."
+      ],
+      "num": 548
+    },
+    "liefern,": {
+      "ex": [
+        "liefert, Wir liefern Ihnen den Schrank nach Hause. hat geliefert"
+      ],
+      "num": 549
+    },
+    "liegen,": {
+      "ex": [
+        "liegt, Die Zeitung liegt auf dem Tisch. hat/ist gelegen Judith liegt noch im Bett.",
+        "Frankfurt liegt am Main.",
+        ""
+      ],
+      "num": 550
+    },
+    "der Link,": {
+      "ex": [
+        "-s Ich schicke dir einen Link zu Deutschübungen. links Gehen Sie die nächste Straße links."
+      ],
+      "num": 551
+    },
+    "der Löffel,": {
+      "ex": [
+        "- Bitte bringen Sie mir einen Löffel."
+      ],
+      "num": 552
+    },
+    "das Lokal,": {
+      "ex": [
+        "-e Gibt es hier in der Nähe ein gutes Lokal? die Lüge, -n Das stimmt nicht! Das ist eine Lüge! lügen, lügt, Du sollst nicht lügen.",
+        "hat gelogen Glaub ihm nicht, er lügt."
+      ],
+      "num": 553
+    },
+    "die Lust": {
+      "ex": [
+        "(Sg.) Gehen wir heute Abend ins Kino? - Nein, ich habe keine Lust.",
+        "Ich habe Lust auf Schokolade."
+      ],
+      "num": 554
+    },
+    "lustig": {
+      "ex": [
+        "Warum lacht ihr? Was ist so lustig?",
+        "Ich mag lustige Filme.",
+        ""
+      ],
+      "num": 555
+    },
+    "machen,": {
+      "ex": [
+        "macht, Was machst du heute Abend? hat gemacht Ich muss jetzt das Essen machen.",
+        "Das macht 5 Euro 95.",
+        "Entschuldigung! - Das macht doch nichts."
+      ],
+      "num": 556
+    },
+    "das Mädchen,": {
+      "ex": [
+        "- Familie Kurz bekommt ein Baby. – Junge oder"
+      ],
+      "num": 557
+    },
+    "Mädchen?": {
+      "ex": [
+        ""
+      ],
+      "num": 558
+    },
+    "der Magen,": {
+      "ex": [
+        "¨- Mein Magen tut weh."
+      ],
+      "num": 559
+    },
+    "die Mailbox,": {
+      "ex": [
+        "-en Hier ist die Mailbox von Susanne König.",
+        "Ich habe dir auf die Mailbox gesprochen."
+      ],
+      "num": 560
+    },
+    "mal": {
+      "ex": [
+        "/ das Mal Sag mal, wie gefällt dir mein neues Kleid?",
+        "Das erste Mal war ich vor fünf Jahren in England. Tschüss, bis zum nächsten Mal!"
+      ],
+      "num": 561
+    },
+    "malen,": {
+      "ex": [
+        "malt, Mein Sohn kann gut malen. hat gemalt"
+      ],
+      "num": 562
+    },
+    "man": {
+      "ex": [
+        "Wie schreibt man das?",
+        "Hier darf man nicht rauchen."
+      ],
+      "num": 563
+    },
+    "manch-": {
+      "ex": [
+        "Manche Nachbarn sind unfreundlich. manchmal Manchmal essen wir im Restaurant.",
+        "Rauchen Sie? - Manchmal. der Mann, ¨-er Mein Mann ist Polizist."
+      ],
+      "num": 564
+    },
+    "männlich": {
+      "ex": [
+        "Bitte wählen Sie: „weiblich“ oder „männlich“. die Mannschaft,-en Meine Lieblingsmannschaft hat 1:0 verloren. der Mantel, ¨- Es ist kalt. Zieh deinen Mantel an!"
+      ],
+      "num": 565
+    },
+    "der Markt,": {
+      "ex": [
+        "¨-e Ich gehe heute auf den Markt.",
+        "Samstags ist hier Markt."
+      ],
+      "num": 566
+    },
+    "die Maschine,": {
+      "ex": [
+        "-n Die Waschmaschine funktioniert sehr gut."
+      ],
+      "num": 567
+    },
+    "das Medikament,": {
+      "ex": [
+        "-e Nehmen Sie dieses Medikament dreimal pro Tag! das Meer, -e Wir machen Urlaub am Meer."
+      ],
+      "num": 568
+    },
+    "mehr": {
+      "ex": [
+        "Dieses Auto kostet 1.000 Euro mehr als das andere."
+      ],
+      "num": 569
+    },
+    "Mehr": {
+      "ex": [
+        "kann ich nicht essen! Ich möchte mehr Taschengeld."
+      ],
+      "num": 570
+    },
+    "meinen,": {
+      "ex": [
+        "meint, Wie meinst du das? Erklär mir das bitte genauer! hat gemeint Der Film ist gut. Was meinst du?"
+      ],
+      "num": 571
+    },
+    "die Meinung,": {
+      "ex": [
+        "-en Meine Meinung zu dem Thema ist: …",
+        "Was ist deine Meinung dazu?",
+        "Ich habe meine Meinung geändert."
+      ],
+      "num": 572
+    },
+    "meist-": {
+      "ex": [
+        "Ich bin neu hier im Haus. Die meisten Nachbarn kenne ich noch nicht.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "num": 573
+    },
+    "meistens": {
+      "ex": [
+        "Meistens trinke ich zum Frühstück nur einen Kaffee. die Menge, -n Wir haben noch eine Menge Zeit.",
+        "Ich kenne eine Menge Leute in dieser Stadt."
+      ],
+      "num": 574
+    },
+    "der Mensch,": {
+      "ex": [
+        "-en Die Menschen sind hier ein bisschen anders als im Süden."
+      ],
+      "num": 575
+    },
+    "merken,": {
+      "ex": [
+        "merkt, Ich kann mir keine Zahlen merken. Ich vergesse sie hat gemerkt sofort."
+      ],
+      "num": 576
+    },
+    "Merkst": {
+      "ex": [
+        "du, dass es wärmer wird?"
+      ],
+      "num": 577
+    },
+    "die Messe,": {
+      "ex": [
+        "-n Kommst du mit zur Buchmesse nach Frankfurt? das Messer, - Das Messer schneidet nicht gut.",
+        "Ich habe nur ein Messer. Kannst du mir bitte noch eine Gabel bringen?"
+      ],
+      "num": 578
+    },
+    "die Miete,": {
+      "ex": [
+        "-n Wie viel Miete bezahlst du für deine Wohnung?"
+      ],
+      "num": 579
+    },
+    "mieten,": {
+      "ex": [
+        "mietet, Ich möchte ein Auto mieten. hat gemietet"
+      ],
+      "num": 580
+    },
+    "die Milch": {
+      "ex": [
+        "(Sg.) Die Milch steht im Kühlschrank."
+      ],
+      "num": 581
+    },
+    "mindestens": {
+      "ex": [
+        "Bitte kommen Sie mindestens zwei Stunden vor Ihrem Flug zum Flughafen.",
+        "Schreiben Sie mindestens sieben Sätze!",
+        "Ich warte schon mindestens 20 Minuten. Wann kommst du denn endlich?"
+      ],
+      "num": 582
+    },
+    "das Mineral-": {
+      "ex": [
+        "Ein Glas Mineralwasser, bitte. wasser (Sg.)"
+      ],
+      "num": 583
+    },
+    "mit": {
+      "ex": [
+        "(+ mitbringen/ Trinken Sie den Kaffee mit oder ohne Zucker?",
+        "-kommen/-machen/ Fahren wir mit dem Auto oder mit dem Zug nach",
+        "-nehmen/-spielen) Hamburg?",
+        "Ich komme mit meinem Freund.",
+        "Ich gehe einkaufen. Soll ich dir was mitbringen? Ich gehe ins Kino. Kommst du mit?",
+        "Wir organisieren ein Fest. Möchtest du auch mitmachen?",
+        "Wir fahren am Wochenende in die Berge. Ich muss mein Zelt mitnehmen.",
+        "Warum spielt ihr nicht mit?"
+      ],
+      "num": 584
+    },
+    "der Mitarbeiter,": {
+      "ex": [
+        "- Unsere Firma hat sieben Mitarbeiter. das Mittagessen, - Um zwölf Uhr gibt es Mittagessen."
+      ],
+      "num": 585
+    },
+    "die Mitte,": {
+      "ex": [
+        "-n Den Schrank stellen wir an die Wand, den Tisch in die Mitte.",
+        "Ich habe bis Mitte August frei."
+      ],
+      "num": 586
+    },
+    "das Mittel,": {
+      "ex": [
+        "- Haben Sie ein Mittel gegen Magenschmerzen?",
+        "Das neue Waschmittel ist sehr gut. die Möbel (Pl.) Eure Möbel sind sehr schön."
+      ],
+      "num": 587
+    },
+    "das Mobil-": {
+      "ex": [
+        "Wie kann ich Sie erreichen? Haben Sie ein telefon, -e Mobiltelefon?"
+      ],
+      "num": 588
+    },
+    "möchten,": {
+      "ex": [
+        "möchte, Was möchten Sie trinken? mochte,",
+        "hat gemocht"
+      ],
+      "num": 589
+    },
+    "die Mode,": {
+      "ex": [
+        "-n Wie findest du die neue Mode?"
+      ],
+      "num": 590
+    },
+    "modern": {
+      "ex": [
+        "Das Stadtzentrum von Frankfurt ist sehr modern."
+      ],
+      "num": 591
+    },
+    "mögen,": {
+      "ex": [
+        "mag, Magst du Schokolade? - Nein, ich mag keine mochte, Süßigkeiten.",
+        "hat gemocht"
+      ],
+      "num": 592
+    },
+    "möglich": {
+      "ex": [
+        "Kann ich bitte sofort einen Termin haben? - Das ist leider nicht möglich.",
+        ""
+      ],
+      "num": 593
+    },
+    "der Moment,": {
+      "ex": [
+        "-e Einen Moment, bitte.",
+        "Warten Sie bitte einen Moment.",
+        "Ich habe im Moment sehr viel zu tun. morgen Morgen beginnt die Schule erst um zehn Uhr."
+      ],
+      "num": 594
+    },
+    "der Motor,": {
+      "ex": [
+        "-en Der Motor ist kaputt. Das Auto fährt nicht mehr. der Motorroller, - Oskar fährt mit dem Motorroller zur Arbeit. müde Ich bin müde. Ich gehe schlafen."
+      ],
+      "num": 595
+    },
+    "der Müll": {
+      "ex": [
+        "(Sg.) Bringst du bitte den Müll raus?",
+        "Kann ich die Zeitungen wegwerfen? - Ja, sie sind alt. Bring/Wirf sie bitte in den Müll!"
+      ],
+      "num": 596
+    },
+    "der Mund,": {
+      "ex": [
+        "¨-er Öffnen Sie bitte den Mund. Ich möchte in Ihren",
+        "Hals sehen."
+      ],
+      "num": 597
+    },
+    "das Museum,": {
+      "ex": [
+        "-een Im Kunstmuseum gibt es eine neue Ausstellung. die Musik (Sg.) Wie findest du die Musik?",
+        "Spanische Musik gefällt mir gut."
+      ],
+      "num": 598
+    },
+    "müssen,": {
+      "ex": [
+        "muss, Ich muss jeden Tag von 8 Uhr bis 18 Uhr arbeiten. musste"
+      ],
+      "num": 599
+    },
+    "die Mütze,": {
+      "ex": [
+        "-n Haben Sie rote Mützen?",
+        ""
+      ],
+      "num": 600
+    },
+    "nach": {
+      "ex": [
+        "Ich gehe jetzt nach Hause. Ich fliege nach München.",
+        "Es ist schon fünf nach zwölf. Wir treffen uns nach der Arbeit."
+      ],
+      "num": 601
+    },
+    "der Nachbar,": {
+      "ex": [
+        "-n, Mein Nachbar kommt aus Brasilien und meine die Nachbarin,-nen Nachbarin ist Italienerin.",
+        "Die neuen Nachbarn sind sehr nett."
+      ],
+      "num": 602
+    },
+    "die Nachricht,": {
+      "ex": [
+        "-en Ich sehe abends immer die Nachrichten im",
+        "Fernsehen.",
+        "Kommst du mit ins Kino? - Ich weiß es noch nicht. Ich schreibe dir später eine Nachricht.",
+        "Sie haben keine neuen Nachrichten."
+      ],
+      "num": 603
+    },
+    "nächste,": {
+      "ex": [
+        "-er, -es Sehen wir uns nächste Woche?",
+        "Ihr nächster Termin ist in einem Monat. Bis nächstes Mal!"
+      ],
+      "num": 604
+    },
+    "die Nähe": {
+      "ex": [
+        "(Sg.) Die Post ist in der Nähe vom Bahnhof."
+      ],
+      "num": 605
+    },
+    "der Name,": {
+      "ex": [
+        "-n Wie ist Ihr Name?",
+        "Mein Name ist Thomas Schmidt.",
+        "Mein Vorname ist Thomas; Schmidt ist der Familien- name."
+      ],
+      "num": 606
+    },
+    "nass": {
+      "ex": [
+        "Geh nicht mit den nassen Schuhen ins Wohnzimmer!",
+        "Du bist ja ganz nass. Hast du den Regenschirm vergessen?"
+      ],
+      "num": 607
+    },
+    "die Natur": {
+      "ex": [
+        "(Sg.) Ich bin gern draußen in der Natur."
+      ],
+      "num": 608
+    },
+    "natürlich": {
+      "ex": [
+        "Natürlich helfen wir dir.",
+        "Kommst du zu meiner Party? – Natürlich."
+      ],
+      "num": 609
+    },
+    "neben": {
+      "ex": [
+        "Neben mir ist noch ein Platz frei. Die Apotheke ist neben der Post."
+      ],
+      "num": 610
+    },
+    "nebenan": {
+      "ex": [
+        "Das ist José. Er wohnt nebenan."
+      ],
+      "num": 611
+    },
+    "neblig": {
+      "ex": [
+        "Fahr vorsichtig! Es ist neblig."
+      ],
+      "num": 612
+    },
+    "nehmen,": {
+      "ex": [
+        "nimmt, Nehmen Sie die Tabletten vor dem Essen!",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "hat genommen Was möchten Sie? – Ich nehme einen Salat.",
+        "Ich nehme den Bus."
+      ],
+      "num": 613
+    },
+    "nein": {
+      "ex": [
+        "Möchten Sie ein Stück Kuchen? – Nein, danke. Fährst du auch nach München? – Nein, ich habe keine Zeit."
+      ],
+      "num": 614
+    },
+    "nennen,": {
+      "ex": [
+        "nennt, Mein Freund heißt Alexander, aber alle nennen hat genannt ihn Alex."
+      ],
+      "num": 615
+    },
+    "nervös": {
+      "ex": [
+        "Bei Prüfungen bin ich immer sehr nervös."
+      ],
+      "num": 616
+    },
+    "nett": {
+      "ex": [
+        "Ich habe viele nette Kollegen.",
+        "Vielen Dank! Das ist sehr nett von dir."
+      ],
+      "num": 617
+    },
+    "neu": {
+      "ex": [
+        "Ich bin der neue Mitarbeiter.",
+        "Wir haben eine neue Wohnung. Zeig mal! Ist das dein neues Handy?"
+      ],
+      "num": 618
+    },
+    "nicht": {
+      "ex": [
+        "notwendig."
+      ],
+      "num": 630
+    },
+    "nichts": {
+      "ex": [
+        "Das macht nichts.",
+        "Hier kaufe ich nichts. Der Laden gefällt mir nicht."
+      ],
+      "num": 620
+    },
+    "nie": {
+      "ex": [
+        "Er kommt nie pünktlich."
+      ],
+      "num": 621
+    },
+    "niemand": {
+      "ex": [
+        "Hier ist niemand.",
+        "Hier ist der Anrufbeantworter von Familie Klein. Leider ist im Moment niemand zu Hause."
+      ],
+      "num": 622
+    },
+    "nirgends": {
+      "ex": [
+        "Hier kann man nirgends parken.",
+        "Wo ist Stefan? Ich kann ihn nirgends sehen."
+      ],
+      "num": 623
+    },
+    "noch": {
+      "ex": [
+        "Vielleicht kommt er noch.",
+        "Es dauert noch ein paar Minuten. Ich habe noch 20 Euro."
+      ],
+      "num": 624
+    },
+    "normal": {
+      "ex": [
+        "Das ist doch ganz normal."
+      ],
+      "num": 625
+    },
+    "die Note,": {
+      "ex": [
+        "-n Eva hat immer sehr gute Noten in Deutsch."
+      ],
+      "num": 626
+    },
+    "notieren,": {
+      "ex": [
+        "notiert, Notieren Sie bitte alle wichtigen Informationen. hat notiert"
+      ],
+      "num": 627
+    },
+    "die Notiz,": {
+      "ex": [
+        "-en Schreib mir bitte eine Notiz.",
+        "Haben Sie einen Notizzettel für mich?"
+      ],
+      "num": 628
+    },
+    "notwendig": {
+      "ex": [
+        "Muss ich noch einmal kommen? – Nein, das ist"
+      ],
+      "num": 629
+    },
+    "die Nudel,": {
+      "ex": [
+        "-n Möchten Sie lieber Reis oder Nudeln?",
+        "– Lieber Nudeln, bitte."
+      ],
+      "num": 631
+    },
+    "die Nummer,": {
+      "ex": [
+        "-n Sie haben Zimmer Nummer zwölf.",
+        "Welche Hausnummer haben Sie?",
+        "Können Sie mir bitte Ihre Nummer geben? Haben Sie die Bluse auch eine Nummer kleiner?"
+      ],
+      "num": 632
+    },
+    "nur": {
+      "ex": [
+        "Ich möchte nur ein Glas Wasser. Das T-Shirt kostet nur fünf Euro."
+      ],
+      "num": 633
+    },
+    "nützlich": {
+      "ex": [
+        "Danke für den Tipp. Er war sehr nützlich.",
+        ""
+      ],
+      "num": 634
+    },
+    "oben": {
+      "ex": [
+        "Ich wohne oben im 4. Stock."
+      ],
+      "num": 635
+    },
+    "das Obst": {
+      "ex": [
+        "(Sg.) Obst kaufe ich immer auf dem Markt. Heute kaufe ich Äpfel und Orangen."
+      ],
+      "num": 636
+    },
+    "oder": {
+      "ex": [
+        "Wann können Sie kommen – heute oder morgen? Entweder fahren wir mit dem Bus oder wir gehen zu Fuß.",
+        ""
+      ],
+      "num": 637
+    },
+    "offen": {
+      "ex": [
+        "Ist das Fenster im Bad noch offen?",
+        "Ich glaube, der Supermarkt ist jetzt noch offen.",
+        "öffnen, öffnet, Ich öffne die Tür.",
+        "hat geöffnet Der Laden ist samstags bis 16.00 Uhr geöffnet. oft Ich gehe nicht oft ins Kino."
+      ],
+      "num": 638
+    },
+    "ohne": {
+      "ex": [
+        "Bitte einen Kaffee ohne Milch und Zucker.",
+        "Schaffst du das auch ohne mich oder soll ich dir helfen?"
+      ],
+      "num": 639
+    },
+    "das Ohr,": {
+      "ex": [
+        "-en Ich habe Ohrenschmerzen.",
+        "das Öl, -e Machen wir den Salat mit Öl?",
+        "Können Sie bei meinem Auto bitte das Öl kontrollieren?"
+      ],
+      "num": 640
+    },
+    "online": {
+      "ex": [
+        "Wann bist du wieder online?",
+        "Ich habe hier kein Internet. Ich bin erst heute Abend wieder online.",
+        "Sie können das Geld auch online überweisen. die Orange, -n Ich esse gern Orangen."
+      ],
+      "num": 641
+    },
+    "die Ordnung,": {
+      "ex": [
+        "-en Er hat seine Hausaufgabe gut gemacht. Das ist alles in Ordnung.",
+        "Ich mache gleich Ordnung in meinem Zimmer."
+      ],
+      "num": 642
+    },
+    "organisieren,": {
+      "ex": [
+        "Frau Gomez organisiert unseren Ausflug. organisiert, Hast du schon alles für deinen Urlaub organisiert? hat organisiert"
+      ],
+      "num": 643
+    },
+    "der Ort,": {
+      "ex": [
+        "-e Vergessen Sie Ort und Datum nicht, wenn Sie einen Brief schreiben.",
+        "Der Ort liegt in den Bergen. Wohnort: Köln.",
+        ""
+      ],
+      "num": 644
+    },
+    "das Paar,": {
+      "ex": [
+        "-e Romeo und Julia sind ein Paar.",
+        "Ich brauche ein Paar Schuhe.",
+        "ein paar Wir fahren ein paar Tage ans Meer.",
+        "Hast du ein paar Minuten Zeit?"
+      ],
+      "num": 645
+    },
+    "packen,": {
+      "ex": [
+        "packt, Ich muss noch meinen Koffer packen. hat gepackt"
+      ],
+      "num": 646
+    },
+    "das Paket,": {
+      "ex": [
+        "-e Bringst du bitte das Paket zur Post? das Papier, -e Hier sind Papier und Bleistift."
+      ],
+      "num": 647
+    },
+    "die Papiere": {
+      "ex": [
+        "(Pl.) Haben Sie Ihre Papiere dabei?"
+      ],
+      "num": 648
+    },
+    "das Parfüm,": {
+      "ex": [
+        "-s Ich suche ein Parfum als Geschenk für meine Frau. der Park, -s Ich gehe gern im Park spazieren."
+      ],
+      "num": 649
+    },
+    "parken,": {
+      "ex": [
+        "parkt, Darf ich hier parken?",
+        "hat geparkt Hier ist Parken verboten."
+      ],
+      "num": 650
+    },
+    "der Partner,": {
+      "ex": [
+        "- Veronika ist meine Partnerin. die Partnerin, -nen"
+      ],
+      "num": 651
+    },
+    "die Party,": {
+      "ex": [
+        "-s Heute Abend machen wir eine Party."
+      ],
+      "num": 652
+    },
+    "der Pass,": {
+      "ex": [
+        "¨-e Am Flughafen brauchst du deinen Pass. passen, passt, Die Bluse passt mir nicht.",
+        "hat gepasst Welches Wort passt? Wählen Sie."
+      ],
+      "num": 653
+    },
+    "passieren,": {
+      "ex": [
+        "Wie ist der Unfall passiert?"
+      ],
+      "num": 654
+    },
+    "passiert,": {
+      "ex": [
+        "Was ist passiert? ist passiert",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "num": 655
+    },
+    "das Passwort,": {
+      "ex": [
+        "¨-er Bitte schreiben Sie Ihr Passwort.",
+        "Sie brauchen ein Passwort.",
+        "Ich habe mein Passwort vergessen."
+      ],
+      "num": 656
+    },
+    "die Pause,": {
+      "ex": [
+        "-n Von 12.00 bis 12.30 Uhr haben wir Mittagspause. die Person, -en Eintritt pro Person: 5 Euro."
+      ],
+      "num": 657
+    },
+    "das Pferd,": {
+      "ex": [
+        "-e Amira liebt Pferde. Sie reitet seit zehn Jahren."
+      ],
+      "num": 658
+    },
+    "die Pflanze,": {
+      "ex": [
+        "-n Können Sie sich bitte um unsere Pflanzen",
+        "kümmern? Wir sind nächste Woche im Urlaub."
+      ],
+      "num": 659
+    },
+    "die Pizza,": {
+      "ex": [
+        "-s/-en Mein Lieblingsessen ist Pizza.",
+        "Eine Pizza mit viel Käse, bitte."
+      ],
+      "num": 660
+    },
+    "das Plakat,": {
+      "ex": [
+        "-e Wir machen im Unterricht ein Plakat zum Thema",
+        "„Essen und Trinken“."
+      ],
+      "num": 661
+    },
+    "der Plan,": {
+      "ex": [
+        "¨-e Ich kaufe mir einen Stadtplan."
+      ],
+      "num": 662
+    },
+    "planen,": {
+      "ex": [
+        "plant, Wir sollen zusammen eine Klassenparty planen. hat geplant Morgen schwimmen ... ist ein guter Plan."
+      ],
+      "num": 663
+    },
+    "der Platz,": {
+      "ex": [
+        "¨-e Hier ist noch ein Platz frei.",
+        "Bitte nehmen Sie Platz!",
+        "Ich wohne am Messeplatz 5. Ich finde keinen Parkplatz."
+      ],
+      "num": 664
+    },
+    "plötzlich": {
+      "ex": [
+        "Plötzlich war das Licht aus. die Polizei (Sg.) Rufen Sie die Polizei!"
+      ],
+      "num": 665
+    },
+    "die Pommes": {
+      "ex": [
+        "frites Die Kinder essen Bratwurst mit Pommes frites. (Pl.)"
+      ],
+      "num": 666
+    },
+    "die Portion,": {
+      "ex": [
+        "-en Ich nehme eine kleine Portion Eis."
+      ],
+      "num": 667
+    },
+    "die Post": {
+      "ex": [
+        "(Sg.) Entschuldigung, wo ist die Post?",
+        "Ist Post für mich da?"
+      ],
+      "num": 668
+    },
+    "das Poster,": {
+      "ex": [
+        "- Das Poster hängt über dem Bett."
+      ],
+      "num": 669
+    },
+    "die Postkarte,": {
+      "ex": [
+        "-n Schreibst du mir eine Postkarte aus Kanada? die Postleit- Wie ist Ihre Postleitzahl?",
+        "zahl, -en"
+      ],
+      "num": 670
+    },
+    "das Praktikum,": {
+      "ex": [
+        "-a Ich mache ein Praktikum bei Siemens."
+      ],
+      "num": 671
+    },
+    "praktisch": {
+      "ex": [
+        "Mit meinem neuen Handy kann ich auch im Internet surfen und Fotos machen. Das finde ich sehr praktisch."
+      ],
+      "num": 672
+    },
+    "die Praxis,": {
+      "ex": [
+        "-en Unsere Praxis ist ab acht Uhr geöffnet. Frau Doktor Weiß hat ab neun Uhr Sprechstunde."
+      ],
+      "num": 673
+    },
+    "der Preis,": {
+      "ex": [
+        "-e Die Preise sind hier viel höher als bei uns. preiswert Die Jacke ist sehr preiswert. Sie kostet nur 15 Euro."
+      ],
+      "num": 674
+    },
+    "privat": {
+      "ex": [
+        "Das ist meine Nummer im Büro und das ist meine private Handynummer.",
+        "Dieser Strand ist privat. Wir dürfen hier nicht schwimmen gehen.",
+        "Hey, du darfst die Mail nicht lesen! Sie ist privat."
+      ],
+      "num": 675
+    },
+    "pro": {
+      "ex": [
+        "Das Zimmer kostet 100 Euro pro Nacht."
+      ],
+      "num": 676
+    },
+    "probieren,": {
+      "ex": [
+        "Möchten Sie den Käse probieren? probiert, Die Tür geht schwer auf. Probier mal! hat probiert"
+      ],
+      "num": 677
+    },
+    "das Problem,": {
+      "ex": [
+        "-e Ich habe ein Problem. Können Sie mir bitte helfen? das Produkt, -e Unsere Produkte haben eine sehr hohe Qualität."
+      ],
+      "num": 678
+    },
+    "das Programm,": {
+      "ex": [
+        "-e Dieses Programm im Radio interessiert mich nicht. Was kommt heute im Kino? Hast du das Programm hier?",
+        ""
+      ],
+      "num": 679
+    },
+    "das Projekt,": {
+      "ex": [
+        "-e Wir machen ein Projekt über Sehenswürdigkeiten in unserer Stadt."
+      ],
+      "num": 680
+    },
+    "der Prospekt,": {
+      "ex": [
+        "-e Bitte schicken Sie mir einen Prospekt von Ihrem Hotel."
+      ],
+      "num": 681
+    },
+    "prüfen,": {
+      "ex": [
+        "prüft, Bitte prüfen Sie die Rechnung sofort. hat geprüft"
+      ],
+      "num": 682
+    },
+    "die Prüfung,": {
+      "ex": [
+        "-en Ich habe die Prüfung bestanden. der Pullover, - Ich muss mir einen Pullover kaufen."
+      ],
+      "num": 683
+    },
+    "pünktlich": {
+      "ex": [
+        "Der Bus fährt pünktlich um acht Uhr.",
+        "Herr Müller ist immer pünktlich."
+      ],
+      "num": 684
+    },
+    "putzen,": {
+      "ex": [
+        "putzt, Ich muss heute noch das Bad putzen. hat geputzt",
+        ""
+      ],
+      "num": 685
+    },
+    "die Qualität,": {
+      "ex": [
+        "-en Dieser Fernseher hat eine gute Qualität.",
+        "Ich finde die Qualität wichtiger als den Preis."
+      ],
+      "num": 686
+    },
+    "das Quiz": {
+      "ex": [
+        "(Sg.) Er schaut gern Quizsendungen an.",
+        "Sie hat beim Quiz gewonnen.",
+        ""
+      ],
+      "num": 687
+    },
+    "das Radio,": {
+      "ex": [
+        "-s Ich höre im Auto gern Radio."
+      ],
+      "num": 688
+    },
+    "raten,": {
+      "ex": [
+        "rät, Ich weiß nicht, welches Handy ich kaufen soll. Was hat geraten raten Sie mir?"
+      ],
+      "num": 689
+    },
+    "Rate": {
+      "ex": [
+        "mal, wen ich heute gesehen habe! Deinen Lehrer."
+      ],
+      "num": 690
+    },
+    "das Rathaus,": {
+      "ex": [
+        "¨-er Das Formular bekommen Sie im Rathaus.",
+        "Sie müssen sich im Rathaus anmelden."
+      ],
+      "num": 691
+    },
+    "das Rätsel,": {
+      "ex": [
+        "- Das Rätsel ist schwierig! Ich weiß die Antwort nicht. rauchen, raucht, Stört es Sie, wenn ich rauche?",
+        "hat geraucht Rauchen ist hier verboten!"
+      ],
+      "num": 692
+    },
+    "der Raum,": {
+      "ex": [
+        "¨-e Der Unterricht findet heute in Raum 332 statt. rechnen, rechnet, Sarah kann gut rechnen.",
+        "hat gerechnet"
+      ],
+      "num": 693
+    },
+    "die Rechnung,": {
+      "ex": [
+        "-en Schicken Sie die Rechnung an mich.",
+        "Bitte, die Rechnung!"
+      ],
+      "num": 694
+    },
+    "recht": {
+      "ex": [
+        "haben, Du hast (nicht) recht. hat recht,",
+        "hatte recht,",
+        "hat recht gehabt"
+      ],
+      "num": 695
+    },
+    "rechts": {
+      "ex": [
+        "Der Bahnhof ist hier rechts."
+      ],
+      "num": 696
+    },
+    "reden,": {
+      "ex": [
+        "redet, Mit meiner Freundin kann ich über alles reden. hat geredet Rede nicht so viel!"
+      ],
+      "num": 697
+    },
+    "der Regen": {
+      "ex": [
+        "(Sg.) Bei Regen gehe ich nicht aus dem Haus."
+      ],
+      "num": 698
+    },
+    "regnen,": {
+      "ex": [
+        "regnet, Wenn es regnet, bleiben wir zu Hause. hat geregnet"
+      ],
+      "num": 699
+    },
+    "reich": {
+      "ex": [
+        "Lotte ist reich. Sie hat sehr viel Geld. der Reifen, - Ich brauche neue Reifen für mein Auto."
+      ],
+      "num": 700
+    },
+    "die Reihe,": {
+      "ex": [
+        "-n Ich habe Karten für das Konzert. Wir sitzen in der dritten Reihe.",
+        "Wer ist jetzt an der Reihe?"
+      ],
+      "num": 701
+    },
+    "die Reinigung,": {
+      "ex": [
+        "-en Bringst du bitte die Bluse in die Reinigung? Man darf sie nicht in der Waschmaschine waschen.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "num": 702
+    },
+    "der Reis": {
+      "ex": [
+        "(Sg.) Ich esse gern Reis mit Gemüse und Fisch. die Reise, -n Wir machen eine Reise nach Österreich.",
+        "Ich mache nächste Woche eine Geschäftsreise."
+      ],
+      "num": 703
+    },
+    "das Reisebüro,": {
+      "ex": [
+        "-s Wir organisieren eine Rundreise durch Deutschland.",
+        "Wir buchen die Reise im Reisebüro."
+      ],
+      "num": 704
+    },
+    "der Reiseführer,": {
+      "ex": [
+        "- Ich kaufe mir einen Reiseführer von Berlin.",
+        "Unser Reiseführer heißt Robert und ist sehr sympathisch."
+      ],
+      "num": 705
+    },
+    "reisen,": {
+      "ex": [
+        "reist, Ich reise gern. ist gereist"
+      ],
+      "num": 706
+    },
+    "reiten,": {
+      "ex": [
+        "reitet, Möchtest du reiten lernen? ist geritten"
+      ],
+      "num": 707
+    },
+    "renovieren,": {
+      "ex": [
+        "Wir renovieren das ganze Haus. renoviert,",
+        "hat renoviert",
+        "de Rentner, - / Mein Onkel arbeitet nicht mehr. Er ist Rentner. die Rentnerin, -nen"
+      ],
+      "num": 708
+    },
+    "die Reparatur,": {
+      "ex": [
+        "-en Die Reparatur ist sehr teuer."
+      ],
+      "num": 709
+    },
+    "reparieren,": {
+      "ex": [
+        "Er muss den Motor reparieren. repariert,",
+        "hat repariert"
+      ],
+      "num": 710
+    },
+    "reservieren,": {
+      "ex": [
+        "Reservieren Sie bitte ein Doppelzimmer. reserviert, Ich möchte gern einen Tisch für fünf Personen reservierte, reservieren.",
+        "hat reserviert"
+      ],
+      "num": 711
+    },
+    "der Rest,": {
+      "ex": [
+        "-e Hier sind 50 Euro. Den Rest gebe ich dir später. Es ist noch ein Rest Suppe da. Möchtest du noch?"
+      ],
+      "num": 712
+    },
+    "das Restaurant,": {
+      "ex": [
+        "-s Wir essen heute in einem Restaurant."
+      ],
+      "num": 713
+    },
+    "das Rezept,": {
+      "ex": [
+        "-e Dieser Kuchen schmeckt super! Kannst du mir bitte das Rezept geben?",
+        "Dieses Medikament gibt es nur auf Rezept."
+      ],
+      "num": 714
+    },
+    "die Rezeption,": {
+      "ex": [
+        "en Geben Sie bitte den Schlüssel an der Rezeption ab. richtig Habe ich das richtig verstanden?",
+        "Das ist richtig."
+      ],
+      "num": 715
+    },
+    "riechen,": {
+      "ex": [
+        "riecht, Diese Blumen riechen gut. hat gerochen Hier riecht es nach Fisch."
+      ],
+      "num": 716
+    },
+    "das Rind": {
+      "ex": [
+        "Ich esse nur Fleisch vom Rind. der Ring, -e Ich habe meinen Ring verloren. der Rock, ¨-e Der Rock ist zu eng."
+      ],
+      "num": 717
+    },
+    "romantisch": {
+      "ex": [
+        "Dieser Film ist sehr romantisch.",
+        "Meine Freundin ist total romantisch."
+      ],
+      "num": 718
+    },
+    "die Rose,": {
+      "ex": [
+        "-n Er schenkt seiner Freundin rote Rosen zum",
+        "Geburtstag."
+      ],
+      "num": 719
+    },
+    "der Rücken,": {
+      "ex": [
+        "- Mein Rücken tut mir weh."
+      ],
+      "num": 720
+    },
+    "der Rucksack,": {
+      "ex": [
+        "¨-e Ich nehme lieber einen Rucksack als einen",
+        "Koffer mit."
+      ],
+      "num": 721
+    },
+    "rufen,": {
+      "ex": [
+        "ruft, Rufst du bitte die Kinder. Das Essen ist fertig. hat gerufen Wir müssen einen Arzt rufen."
+      ],
+      "num": 722
+    },
+    "die Ruhe": {
+      "ex": [
+        "(Sg.) Ruhe, bitte! Hier in der Bibliothek darf man nicht laut sprechen.",
+        "Meine Großmutter ist krank. Sie braucht viel Ruhe."
+      ],
+      "num": 723
+    },
+    "ruhig": {
+      "ex": [
+        "Ich möchte ein ruhiges Zimmer.",
+        ""
+      ],
+      "num": 724
+    },
+    "rund": {
+      "ex": [
+        "Unser Wohnzimmertisch ist rund.",
+        "Bis Berlin sind es noch rund 80 Kilometer."
+      ],
+      "num": 725
+    },
+    "der Rundgang,": {
+      "ex": [
+        "¨-e Der Rundgang durch das Schloss beginnt in wenigen Minuten.",
+        ""
+      ],
+      "num": 726
+    },
+    "die Sache,": {
+      "ex": [
+        "-n Ihr könnt eure Sachen im Hotel lassen.",
+        "Nimm deine Sachen und komm! Das ist meine Sache."
+      ],
+      "num": 727
+    },
+    "der Saft,": {
+      "ex": [
+        "¨-e Möchtest du einen Apfelsaft?"
+      ],
+      "num": 728
+    },
+    "sagen,": {
+      "ex": [
+        "sagt, Entschuldigung, was haben Sie gesagt? hat gesagt Wie sagt man „sorry“ auf Deutsch?"
+      ],
+      "num": 729
+    },
+    "Sag": {
+      "ex": [
+        "mal, wie geht es dir denn?"
+      ],
+      "num": 730
+    },
+    "der Salat,": {
+      "ex": [
+        "-e Wie schmeckt dir der Salat?",
+        "Möchten Sie zum Fisch einen Salat?"
+      ],
+      "num": 731
+    },
+    "das Salz,": {
+      "ex": [
+        "-e Entschuldigung, kann ich bitte Salz haben? sammeln, Peter sammelt Briefmarken."
+      ],
+      "num": 732
+    },
+    "sammelt,": {
+      "ex": [
+        "Im Herbst sammeln wir im Wald bunte Blätter. hat gesammelt"
+      ],
+      "num": 733
+    },
+    "der Satz,": {
+      "ex": [
+        "¨-e Den letzten Satz verstehe ich nicht. sauber Bringen Sie mir bitte ein sauberes Glas!"
+      ],
+      "num": 734
+    },
+    "sauer": {
+      "ex": [
+        "Zitronen sind mir zu sauer.",
+        "Was ist los? – Ich bin sauer. Ich muss am Wochen- ende zu Hause bleiben und darf nicht mit meinen Freunden ins Kino gehen."
+      ],
+      "num": 735
+    },
+    "schade": {
+      "ex": [
+        "Schade, dass du nicht kommen kannst. schädlich Rauchen ist schädlich für die Gesundheit."
+      ],
+      "num": 736
+    },
+    "schaffen,": {
+      "ex": [
+        "schafft, Kannst du mir bitte helfen? Ich schaffe das nicht hat geschafft alleine.",
+        "Geschafft! Das Projekt ist endlich fertig."
+      ],
+      "num": 737
+    },
+    "der Schalter,": {
+      "ex": [
+        "- Gehen Sie bitte zum Schalter drei!",
+        "Der Lichtschalter ist neben der Tür."
+      ],
+      "num": 738
+    },
+    "scharf": {
+      "ex": [
+        "Die Suppe ist mir zu scharf.",
+        "Pass auf! Das Messer ist sehr scharf."
+      ],
+      "num": 739
+    },
+    "scheinen,": {
+      "ex": [
+        "scheint, Die Sonne scheint. hat geschienen"
+      ],
+      "num": 740
+    },
+    "schenken,": {
+      "ex": [
+        "Was schenken wir Michael zum Geburtstag? schenkt,",
+        "hat geschenkt"
+      ],
+      "num": 741
+    },
+    "die Schere,": {
+      "ex": [
+        "-n Die Schere schneidet nicht gut. Hast du eine",
+        "andere?"
+      ],
+      "num": 742
+    },
+    "schicken,": {
+      "ex": [
+        "schickt, Bitte schicken Sie mir eine E-Mail. hat geschickt Ich schicke dir den Brief nach Hause."
+      ],
+      "num": 743
+    },
+    "das Schiff,": {
+      "ex": [
+        "-e Wir fahren mit dem Schiff von Basel nach Köln."
+      ],
+      "num": 744
+    },
+    "das Schild,": {
+      "ex": [
+        "-er Haben Sie das Schild nicht gesehen?"
+      ],
+      "num": 745
+    },
+    "schimpfen,": {
+      "ex": [
+        "Warum schimpfst du denn so laut? – Ich ärgere schimpft, mich über mein Auto.",
+        "hat geschimpft Alle schimpfen über/auf das Wetter."
+      ],
+      "num": 746
+    },
+    "der Schirm": {
+      "ex": [
+        "Nimm den Schirm mit, es regnet."
+      ],
+      "num": 747
+    },
+    "schlafen,": {
+      "ex": [
+        "schläft, Ich schlafe meistens acht Stunden. hat geschlafen Haben Sie gut geschlafen?",
+        "Gute Nacht! Schlaf gut und träum süß!",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "num": 748
+    },
+    "das Schlafzimmer,": {
+      "ex": [
+        "- Hier ist das Schlafzimmer."
+      ],
+      "num": 749
+    },
+    "schlecht": {
+      "ex": [
+        "Das Wetter ist schlecht. Wir haben schon seit einer Woche schlechtes Wetter.",
+        "Mir ist schlecht!",
+        "Mir geht es schlecht. Ich habe Fieber."
+      ],
+      "num": 750
+    },
+    "schließen,": {
+      "ex": [
+        "Bitte schließen Sie die Tür."
+      ],
+      "num": 751
+    },
+    "schließt,": {
+      "ex": [
+        "Wir müssen uns beeilen, die Bank schließt um hat geschlossen 18 Uhr."
+      ],
+      "num": 752
+    },
+    "schlimm": {
+      "ex": [
+        "Kein Problem, das ist nicht so schlimm."
+      ],
+      "num": 753
+    },
+    "das Schloss,": {
+      "ex": [
+        "¨-er Am Wochenende besichtigen wir Schloss",
+        "Neuschwanstein.",
+        "An unserer Tür ist das Schloss kaputt."
+      ],
+      "num": 754
+    },
+    "der Schluss,": {
+      "ex": [
+        "¨-e Zum Schluss nochmals herzlichen Dank.",
+        "Ich muss jetzt Schluss machen. Bis bald!"
+      ],
+      "num": 755
+    },
+    "der Schlüssel,": {
+      "ex": [
+        "- Ich gebe Ihnen noch den Zimmerschlüssel.",
+        "Ich finde meinen Schlüssel nicht."
+      ],
+      "num": 756
+    },
+    "schmecken,": {
+      "ex": [
+        "Schmeckt dir die Suppe? schmeckt, Hat es Ihnen geschmeckt? hat geschmeckt Schmeckt's?"
+      ],
+      "num": 757
+    },
+    "der Schmerz,": {
+      "ex": [
+        "-en Haben Sie Schmerzen?",
+        "Ich habe Bauchschmerzen."
+      ],
+      "num": 758
+    },
+    "schmutzig": {
+      "ex": [
+        "Das Handtuch ist schmutzig. der Schnee (Sg.) In den Bergen liegt viel Schnee."
+      ],
+      "num": 759
+    },
+    "schneiden": {
+      "ex": [
+        "(sich), Das Messer schneidet nicht gut. schneidet, Wer schneidet dir die Haare? hat geschnitten Aua! Ich habe mich geschnitten!"
+      ],
+      "num": 760
+    },
+    "schneien,": {
+      "ex": [
+        "Morgen schneit es. schneit,",
+        "hat geschneit"
+      ],
+      "num": 761
+    },
+    "schnell": {
+      "ex": [
+        "Warum fährst du so schnell? die Schokolade Julia liebt Schokolade.",
+        "(Sg.)"
+      ],
+      "num": 762
+    },
+    "schon": {
+      "ex": [
+        "Ist das Essen schon fertig?",
+        "Ich wohne schon seit fünf Jahren in Freiburg."
+      ],
+      "num": 763
+    },
+    "schön": {
+      "ex": [
+        "Schöne Ferien!",
+        "Das Bild ist sehr schön. Schön, dass du kommst."
+      ],
+      "num": 764
+    },
+    "der Schrank,": {
+      "ex": [
+        "¨-e Die Gläser stehen im Schrank.",
+        "Legst du bitte die Handtücher in den Schrank?"
+      ],
+      "num": 765
+    },
+    "schrecklich": {
+      "ex": [
+        "Ich finde ihren Rock schrecklich. Er sieht furchtbar aus!",
+        "Ich finde den Film schrecklick. Er macht mir Angst."
+      ],
+      "num": 766
+    },
+    "schreiben,": {
+      "ex": [
+        "Ich schreibe dir eine E-Mail. schreibt,",
+        "hat geschrieben"
+      ],
+      "num": 767
+    },
+    "schriftlich": {
+      "ex": [
+        "Sie müssen sich schriftlich anmelden.",
+        "Die schriftliche Prüfung dauert 70 Minuten."
+      ],
+      "num": 768
+    },
+    "der Schuh,": {
+      "ex": [
+        "-e Zieh die Schuhe aus!",
+        "Die neuen Schuhe sind mir zu eng. Sie drücken."
+      ],
+      "num": 769
+    },
+    "die Schule,": {
+      "ex": [
+        "-n Meine Tochter geht schon in die Schule.",
+        "Die Schule ist gleich hier um die Ecke.",
+        ""
+      ],
+      "num": 770
+    },
+    "der Schüler,": {
+      "ex": [
+        "- / In meinem Kurs sind acht Schülerinnen und fünf die Schülerin, -nen Schüler."
+      ],
+      "num": 771
+    },
+    "schwach": {
+      "ex": [
+        "Er ist krank und schwach.",
+        "Ich fühle mich sehr schwach.",
+        "Die Tabletten sind zu schwach. Sie helfen nicht. schwanger Lena ist schwanger. Sie bekommt im Juli ein Kind. das Schwein, -e Ich esse kein Schweinefleisch."
+      ],
+      "num": 772
+    },
+    "schwer": {
+      "ex": [
+        "Wie schwer ist das Paket? Das ist eine schwere Arbeit."
+      ],
+      "num": 773
+    },
+    "schwierig": {
+      "ex": [
+        "Die Prüfung war nicht schwierig."
+      ],
+      "num": 774
+    },
+    "das Schwimm-": {
+      "ex": [
+        "Kommst du mit ins Schwimmbad? bad, ¨-er"
+      ],
+      "num": 775
+    },
+    "schwimmen,": {
+      "ex": [
+        "Ich schwimme täglich einen Kilometer. schwimmt,",
+        "ist geschwommen"
+      ],
+      "num": 776
+    },
+    "der See,": {
+      "ex": [
+        "-n Morgen fahren wir mal an einen See schwimmen.",
+        "Komm, wir fahren an den Bodensee."
+      ],
+      "num": 777
+    },
+    "die See": {
+      "ex": [
+        "(Sg) Die See ist heute ruhig.",
+        "Wir machen Urlaub an der Nordsee."
+      ],
+      "num": 778
+    },
+    "sehen,": {
+      "ex": [
+        "sieht, Ich kann dich nicht sehen.",
+        "hat gesehen Möchtest du einen Film sehen?",
+        "Ich habe Lisa lange nicht gesehen. Ist sie im Urlaub? Darf ich mal Ihren Ausweis sehen?"
+      ],
+      "num": 779
+    },
+    "die Sehens-": {
+      "ex": [
+        "Welche Sehenswürdigkeiten gibt es in Frankfurt? würdigkeit, -en"
+      ],
+      "num": 780
+    },
+    "sehr": {
+      "ex": [
+        "Danke sehr!",
+        "Das Wetter ist heute sehr schön. die Seife, -n Hier gibt es keine Seife."
+      ],
+      "num": 781
+    },
+    "sein,": {
+      "ex": [
+        "ist, war, Das sind meine Kollegen. ist gewesen Ich bin Mechaniker.",
+        "Die Cola ist kalt. Mir ist kalt.",
+        "Ich bin dreiundzwanzig. Um halb elf ist Pause. Frau Berger ist im Urlaub.",
+        "an sein / aus sein Das Licht ist noch an/schon aus. auf sein Das Fenster ist noch auf.",
+        "weg sein Herr Meier ist schon weg.",
+        "zu sein Die Tür ist zu."
+      ],
+      "num": 782
+    },
+    "seit": {
+      "ex": [
+        "Ich wohne seit drei Jahren in Köln. die Seite, -n Öffnen Sie das Kursbuch auf Seite 20.",
+        "Das ist die Bachstraße. Mein Haus ist auf der linken Seite."
+      ],
+      "num": 783
+    },
+    "selbst": {
+      "ex": [
+        "Du musst mir nicht helfen, ich mache das selbst."
+      ],
+      "num": 784
+    },
+    "die Sendung,": {
+      "ex": [
+        "-en Welche Sendungen schaust du gern an? – Ich mag Sportsendungen.",
+        "Diese Sendung ist nicht für Jugendliche unter 18 Jahren."
+      ],
+      "num": 785
+    },
+    "der Service": {
+      "ex": [
+        "(Sg.) Ich bin mit dem Service in der Werkstatt sehr",
+        "zufrieden.",
+        "Rufst du beim Pizza-Service an?"
+      ],
+      "num": 786
+    },
+    "setzen": {
+      "ex": [
+        "(sich), Setz dich doch! setzt, hat gesetzt",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "num": 787
+    },
+    "sicher": {
+      "ex": [
+        "Dieses Auto ist besonders sicher. Ich bin ganz sicher, dass er kommt. Er ist sicher gleich da."
+      ],
+      "num": 788
+    },
+    "singen,": {
+      "ex": [
+        "singt, Er singt gern. hat gesungen"
+      ],
+      "num": 789
+    },
+    "die Situation,": {
+      "ex": [
+        "-en Ich bin in einer schwierigen Situation. Ich weiß nicht, was ich tun soll.",
+        "Lesen Sie die Anzeigen und die Aufgaben 11-15. Welche Anzeige passt zu welcher Situation?"
+      ],
+      "num": 790
+    },
+    "sitzen,": {
+      "ex": [
+        "sitzt, Wo möchten Sie sitzen? – Bitte ganz hinten. hat/ist gesessen"
+      ],
+      "num": 791
+    },
+    "der Ski,": {
+      "ex": [
+        "-, -er Gehen wir am Wochenende Ski fahren?",
+        "Er kauft sich neue Ski."
+      ],
+      "num": 792
+    },
+    "so": {
+      "ex": [
+        "Sie müssen das so machen!",
+        "Fahren Sie bitte nicht so schnell! Meine Frau ist so groß wie ich. So, das war‘s/wär‘s!"
+      ],
+      "num": 793
+    },
+    "das Sofa,": {
+      "ex": [
+        "-s Das Sofa ist bequem."
+      ],
+      "num": 794
+    },
+    "sofort": {
+      "ex": [
+        "Bitte antworten Sie sofort."
+      ],
+      "num": 795
+    },
+    "Sie": {
+      "ex": [
+        "können sich ab sofort für den Kurs anmelden."
+      ],
+      "num": 796
+    },
+    "sogar": {
+      "ex": [
+        "Heute ist es sehr kalt. In den Bergen schneit es sogar.",
+        "Zu meiner Hochzeit kommen viele Gäste. Sogar meine Tante aus Kanada kommt."
+      ],
+      "num": 797
+    },
+    "sollen,": {
+      "ex": [
+        "soll, Wann soll ich kommen und was soll ich mitbringen? sollte Und, was hat der Arzt gesagt? – Ich soll drei Tage",
+        "im Bett bleiben und viel Tee trinken. die Sonne, -n Die Sonne scheint."
+      ],
+      "num": 798
+    },
+    "sonnig": {
+      "ex": [
+        "Morgen ist das Wetter wieder warm und sonnig."
+      ],
+      "num": 799
+    },
+    "sonst": {
+      "ex": [
+        "Haben Sie sonst noch einen Wunsch? – Nein danke, das ist alles.",
+        "Beeil dich, sonst kommen wir zu spät! spannend Ich finde den Film sehr spannend."
+      ],
+      "num": 800
+    },
+    "sparen,": {
+      "ex": [
+        "spart, Ein neues Auto ist sehr teuer. Ich muss sparen. hat gespart"
+      ],
+      "num": 801
+    },
+    "der Spaß": {
+      "ex": [
+        "(Sg.) Meine Arbeit macht mir Spaß.",
+        "Ich will nicht aufräumen. Das macht mir keinen Spaß.",
+        "Viel Spaß!"
+      ],
+      "num": 802
+    },
+    "spät": {
+      "ex": [
+        "Es ist schon spät, ich muss gehen."
+      ],
+      "num": 803
+    },
+    "später": {
+      "ex": [
+        "Das können wir später machen."
+      ],
+      "num": 804
+    },
+    "spazieren": {
+      "ex": [
+        "gehen, Wir gehen sonntags immer spazieren. geht spazieren,",
+        "ist spazieren gegangen"
+      ],
+      "num": 805
+    },
+    "der Spazier-": {
+      "ex": [
+        "Abends mache ich immer einen Spaziergang. gang, ¨-e"
+      ],
+      "num": 806
+    },
+    "speichern,": {
+      "ex": [
+        "Sie müssen die Datei speichern. speichert,",
+        "hat gespeichert"
+      ],
+      "num": 807
+    },
+    "die Speisekarte,": {
+      "ex": [
+        "-n Entschuldigung, bringen Sie uns bitte die"
+      ],
+      "num": 808
+    },
+    "Speisekarte.": {
+      "ex": [
+        ""
+      ],
+      "num": 809
+    },
+    "das Spiel,": {
+      "ex": [
+        "-e Welche Kartenspiele kennen Sie?",
+        "Monopoly ist ein sehr bekanntes Spiel.",
+        ""
+      ],
+      "num": 810
+    },
+    "spielen,": {
+      "ex": [
+        "Die Kinder spielen draußen."
+      ],
+      "num": 811
+    },
+    "spielt,": {
+      "ex": [
+        "Spielen Sie Karten?",
+        "hat gespielt Jakob spielt Klavier. der Sport (Sg.) Ich mache viel Sport. sportlich Tom ist sehr sportlich."
+      ],
+      "num": 812
+    },
+    "der Sportplatz,": {
+      "ex": [
+        "¨-e Das Fußballtraining ist um 17 Uhr auf dem"
+      ],
+      "num": 813
+    },
+    "Sportplatz.": {
+      "ex": [
+        ""
+      ],
+      "num": 814
+    },
+    "die Sprache,": {
+      "ex": [
+        "-n Welche Sprachen sprichst du? – Ich spreche Englisch und Spanisch."
+      ],
+      "num": 815
+    },
+    "sprechen,": {
+      "ex": [
+        "Kann ich (mit) Herrn Klein sprechen? spricht,",
+        "hat gesprochen"
+      ],
+      "num": 816
+    },
+    "die Sprech-": {
+      "ex": [
+        "Frau Doktor Weiß hat von 9:00 bis 12:30 Uhr stunde, -n Sprechstunde."
+      ],
+      "num": 817
+    },
+    "die Stadt,": {
+      "ex": [
+        "¨-e Heidelberg ist eine alte Stadt."
+      ],
+      "num": 818
+    },
+    "der Stadtplan,": {
+      "ex": [
+        "¨-e Haben Sie einen Stadtplan von Salzburg? der Star, -s Diese Sängerin ist ein Star in Deutschland. stark Ich habe starke Kopfschmerzen.",
+        "Es regnet stark.",
+        "Der Kaffee ist sehr stark."
+      ],
+      "num": 819
+    },
+    "stattfinden,": {
+      "ex": [
+        "Das Spiel findet auch bei Regen statt. findet statt,",
+        "hat stattgefunden"
+      ],
+      "num": 820
+    },
+    "stehen,": {
+      "ex": [
+        "steht, Der Bus steht schon an der Haltestelle.",
+        "hat/ist gestanden Ich bin Verkäuferin. In meinem Beruf muss ich",
+        "viel stehen.",
+        "Was steht heute in der Zeitung?"
+      ],
+      "num": 821
+    },
+    "die Stelle,": {
+      "ex": [
+        "-n Ich habe eine neue Stelle. Ich arbeite jetzt bei",
+        "Mercedes.",
+        "Wir treffen uns hier an dieser Stelle."
+      ],
+      "num": 822
+    },
+    "stellen,": {
+      "ex": [
+        "stellt, Stell die Milch bitte in den Kühlschrank! hat gestellt"
+      ],
+      "num": 823
+    },
+    "sterben,": {
+      "ex": [
+        "stirbt, Herr Müller kommt heute nicht. Sein Vater ist ist gestorben gestern gestorben."
+      ],
+      "num": 824
+    },
+    "der Stiefel,": {
+      "ex": [
+        "- Wie viel kosten die roten Stiefel?"
+      ],
+      "num": 825
+    },
+    "der Stift,": {
+      "ex": [
+        "-e Kannst du mir bitte einen Stift geben? - Was",
+        "brauchst du? Einen Farbstift oder einen Bleistift oder einen Kugelschreiber?"
+      ],
+      "num": 826
+    },
+    "das Stipen-": {
+      "ex": [
+        "Wenn ich ein gutes Zeugnis habe, bekomme ich dium, -en ein Stipendium."
+      ],
+      "num": 827
+    },
+    "der Stock,": {
+      "ex": [
+        "¨-e; Unsere Wohnung liegt im ersten Stock. das Stockwerk, -e Das Gebäude hat zwanzig Stockwerke."
+      ],
+      "num": 828
+    },
+    "stören,": {
+      "ex": [
+        "stört, Störe ich?",
+        "hat gestört Darf ich Sie kurz stören?",
+        "Mach die Musik leiser! Sie stört mich. der Strand, ¨-e Im Urlaub bin ich am liebsten am Strand. die Straße, -n In welcher Straße wohnen Sie?"
+      ],
+      "num": 829
+    },
+    "die Straßen-": {
+      "ex": [
+        "Fahren wir mit der Straßenbahn oder mit der bahn, -en U-Bahn?"
+      ],
+      "num": 830
+    },
+    "streiten": {
+      "ex": [
+        "(sich), Die Kinder streiten (sich) oft. streitet,",
+        "hat gestritten",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "num": 831
+    },
+    "streng": {
+      "ex": [
+        "Der Lehrer von meiner Tochter ist sehr streng. der Stress (Sg.) Ich habe bei der Arbeit viel Stress."
+      ],
+      "num": 832
+    },
+    "stressig": {
+      "ex": [
+        "Meine Arbeit ist stressig."
+      ],
+      "num": 833
+    },
+    "das Stück,": {
+      "ex": [
+        "-e Möchten Sie noch ein Stück Kuchen?",
+        "Im Theater spielen sie heute das Stück",
+        "„Romeo und Julia“."
+      ],
+      "num": 834
+    },
+    "der Student,": {
+      "ex": [
+        "-en, Ich bin Studentin. die Studentin, -nen"
+      ],
+      "num": 835
+    },
+    "studieren,": {
+      "ex": [
+        "Ich studiere in Mainz. studiert,",
+        "hat studiert"
+      ],
+      "num": 836
+    },
+    "das Studium": {
+      "ex": [
+        "(Sg.) Das Studium dauert drei Jahre. der Stuhl, ¨-e Ist der Stuhl frei?"
+      ],
+      "num": 837
+    },
+    "suchen,": {
+      "ex": [
+        "sucht, Suchst du etwas?",
+        "hat gesucht Ich suche meine Brille.",
+        "Wir suchen eine größere Wohnung."
+      ],
+      "num": 838
+    },
+    "super": {
+      "ex": [
+        "Der Film ist super.",
+        "Er kann super tanzen."
+      ],
+      "num": 839
+    },
+    "der Supermarkt,": {
+      "ex": [
+        "¨-e Ich kaufe oft im Supermarkt ein. die Suppe, -n Schmeckt dir die Suppe?"
+      ],
+      "num": 840
+    },
+    "surfen,": {
+      "ex": [
+        "surft, Ich möchte gern surfen lernen. hat/ist gesurft Surfst du oft im Internet?"
+      ],
+      "num": 841
+    },
+    "süß": {
+      "ex": [
+        "Ich finde die Torte zu süß.",
+        "Ist das deine Tochter? Die ist ja süß!"
+      ],
+      "num": 842
+    },
+    "die Süßigkeiten": {
+      "ex": [
+        "Welche Süßigkeiten isst du am liebsten? (Pl.) - Schokolade und Eis."
+      ],
+      "num": 843
+    },
+    "sympathisch": {
+      "ex": [
+        "Der neue Chef ist sehr sympathisch.",
+        ""
+      ],
+      "num": 844
+    },
+    "das Tablet,": {
+      "ex": [
+        "-s Hast du ein Tablet? - Nein, ich habe einen Laptop und ein Handy."
+      ],
+      "num": 845
+    },
+    "die Tablette,": {
+      "ex": [
+        "-n Du sollst am Abend zwei Tabletten nehmen."
+      ],
+      "num": 846
+    },
+    "die Tafel,": {
+      "ex": [
+        "-n Der Lehrer schreibt das neue Wort an die Tafel. (z. B. Infotafel) Am Eingang gibt es Tafeln mit Informationen.",
+        "Die Infotafel ist am Eingang."
+      ],
+      "num": 847
+    },
+    "tanzen,": {
+      "ex": [
+        "tanzt, Tanzen Sie gern? hat getanzt"
+      ],
+      "num": 848
+    },
+    "die Tasche,": {
+      "ex": [
+        "-n Ich habe die Schlüssel in der Tasche.",
+        "Ich habe nicht viel Gepäck. Nur eine Tasche."
+      ],
+      "num": 849
+    },
+    "das Taschengeld": {
+      "ex": [
+        "Wie viel Taschengeld bekommen deine Kinder? (Sg.)"
+      ],
+      "num": 850
+    },
+    "die Tasse,": {
+      "ex": [
+        "-n Möchten Sie eine Tasse Kaffee?",
+        "(aus)tauschen, Können wir bitte die Plätze tauschen? tauscht (aus), Können wir unsere Adressen austauschen? hat (aus)getauscht"
+      ],
+      "num": 851
+    },
+    "das Taxi,": {
+      "ex": [
+        "-s Bitte rufen Sie mir ein Taxi."
+      ],
+      "num": 852
+    },
+    "das Team,": {
+      "ex": [
+        "-s Ich arbeite gern in einem Team.",
+        "Welches Fußballteam findest du am besten? der Tee, -s Ich trinke morgens immer Tee."
+      ],
+      "num": 853
+    },
+    "teilen,": {
+      "ex": [
+        "teilt, Wollen wir die Pizza teilen?",
+        "",
+        "hat geteilt Mein Mann und ich teilen uns die Arbeit."
+      ],
+      "num": 854
+    },
+    "teilnehmen,": {
+      "ex": [
+        "Ich möchte an dem Tanzkurs teilnehmen. nimmt teil,",
+        "hat teilgenommen"
+      ],
+      "num": 855
+    },
+    "das Telefon,": {
+      "ex": [
+        "-e Darf ich bitte Ihr Telefon benutzen?"
+      ],
+      "num": 856
+    },
+    "telefonieren,": {
+      "ex": [
+        "Ich muss kurz telefonieren. telefoniert,",
+        "hat telefoniert"
+      ],
+      "num": 857
+    },
+    "der Teller,": {
+      "ex": [
+        "- Stell die Teller bitte auf den Tisch!",
+        "Möchtest du noch einen Teller Suppe? das Tennis (Sg.) Steffi spielt sehr gut Tennis."
+      ],
+      "num": 858
+    },
+    "der Termin,": {
+      "ex": [
+        "-e Am besten machen wir sofort einen Termin.",
+        "Ich habe heute einen Termin bei meiner Zahnärztin."
+      ],
+      "num": 859
+    },
+    "teuer": {
+      "ex": [
+        "Das ist mir zu teuer."
+      ],
+      "num": 860
+    },
+    "der Text,": {
+      "ex": [
+        "-e Lesen Sie bitte den Text."
+      ],
+      "num": 861
+    },
+    "das Theater,": {
+      "ex": [
+        "- Ich gehe nicht gern ins Theater."
+      ],
+      "num": 862
+    },
+    "das Thema,": {
+      "ex": [
+        "-en Heute heißt unser Thema: „Essen und Trinken“. das Ticket, -s Wie viel kostet das Ticket?"
+      ],
+      "num": 863
+    },
+    "tief": {
+      "ex": [
+        "Vorsicht, das Wasser ist tief!"
+      ],
+      "num": 864
+    },
+    "das Tier,": {
+      "ex": [
+        "-e Wir dürfen keine Tiere in der Wohnung haben.",
+        "Meine Lieblingstiere sind Katzen."
+      ],
+      "num": 865
+    },
+    "der Tipp,": {
+      "ex": [
+        "-s Kannst du mir einen guten Tipp geben? der Tisch, -e Das Essen steht schon auf dem Tisch."
+      ],
+      "num": 866
+    },
+    "der Titel,": {
+      "ex": [
+        "- Wie heißt der Film? - Ich weiß den Titel nicht mehr. die Toilette, -n Wo ist die Toilette, bitte?"
+      ],
+      "num": 867
+    },
+    "toll": {
+      "ex": [
+        "Der Urlaub war toll."
+      ],
+      "num": 868
+    },
+    "die Tomate,": {
+      "ex": [
+        "-n Die Tomate ist noch grün."
+      ],
+      "num": 869
+    },
+    "der Topf,": {
+      "ex": [
+        "¨-e Hast du keinen größeren Topf? Ich möchte",
+        "Kartoffeln kochen."
+      ],
+      "num": 870
+    },
+    "die Torte,": {
+      "ex": [
+        "-n Zum Geburtstag backe ich dir eine Torte. tot Meine Großeltern sind schon lange tot."
+      ],
+      "num": 871
+    },
+    "total": {
+      "ex": [
+        "Der Film ist total langweilig."
+      ],
+      "num": 872
+    },
+    "die Tour,": {
+      "ex": [
+        "-en Wo kann ich eine Stadttour buchen?",
+        "Wir gehen am Wochenende wandern. Ich kenne eine schöne Tour in den Bergen."
+      ],
+      "num": 873
+    },
+    "der Tourist,": {
+      "ex": [
+        "-en, Im Sommer kommen viele Touristen in diese Stadt. die Touristin, -nen"
+      ],
+      "num": 874
+    },
+    "tragen,": {
+      "ex": [
+        "trägt, Ich kann den Koffer nicht tragen, er ist zu schwer. hat getragen Er trägt heute einen blauen Anzug."
+      ],
+      "num": 875
+    },
+    "trainieren,": {
+      "ex": [
+        "Wir trainieren einmal pro Woche im Sportverein. trainiert,",
+        "hat trainiert"
+      ],
+      "num": 876
+    },
+    "das Training,": {
+      "ex": [
+        "-s Das Training ist immer dienstags.",
+        "Ich gehe jede Woche zum Training."
+      ],
+      "num": 877
+    },
+    "der Traum,": {
+      "ex": [
+        "¨-e Ich möchte eine eigene Firma, das ist mein Traum. träumen, Ich habe schlecht geträumt."
+      ],
+      "num": 878
+    },
+    "träumt,": {
+      "ex": [
+        "Ich träume von einem großen Haus mit Garten. hat geträumt"
+      ],
+      "num": 879
+    },
+    "traurig": {
+      "ex": [
+        "Ich bin sehr traurig. Meine Katze ist weggelaufen. treffen (sich), Ich treffe in der Stadt einen Kollegen.",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "num": 880
+    },
+    "trifft,": {
+      "ex": [
+        "Wir treffen uns immer freitags. hat getroffen"
+      ],
+      "num": 881
+    },
+    "die Treppe,": {
+      "ex": [
+        "-n Ich nehme die Treppe, nicht den Aufzug.",
+        "Wo ist die Toilette? - Die Treppe hoch und dann links."
+      ],
+      "num": 882
+    },
+    "trinken,": {
+      "ex": [
+        "trinkt, Möchtest du etwas trinken? hat getrunken"
+      ],
+      "num": 883
+    },
+    "trocken": {
+      "ex": [
+        "Die Wäsche ist bald trocken."
+      ],
+      "num": 884
+    },
+    "tschüs": {
+      "ex": [
+        "Tschüs, bis morgen!"
+      ],
+      "num": 885
+    },
+    "das T-Shirt,": {
+      "ex": [
+        "-s Haben Sie dieses T-Shirt auch in M? tun, tut, Mein Rücken tut weh.",
+        "hat getan Es tut mir leid, ich kann leider nicht kommen.",
+        "Was kann ich für Sie tun?"
+      ],
+      "num": 886
+    },
+    "die Tür,": {
+      "ex": [
+        "-en Mach bitte die Tür zu!"
+      ],
+      "num": 887
+    },
+    "typisch": {
+      "ex": [
+        "Diese Musik ist typisch für dieses Land."
+      ],
+      "num": 888
+    },
+    "Typisch": {
+      "ex": [
+        "Anna, sie kommt natürlich wieder zu spät.",
+        "",
+        "üben, übt, Ich lerne gerade Gitarre spielen. Ich übe jeden Tag hat geübt zwei Stunden.",
+        "über Gehen Sie lieber hier über die Straße. Über uns wohnt Familie Schneider. Sind Sie über 18?",
+        "überall Ich habe überall gesucht, aber ich kann meine Brille nicht finden.",
+        "übermorgen Morgen habe ich frei. Ich komme übermorgen",
+        "wieder ins Büro.",
+        "übernachten, Du kannst bei mir übernachten. übernachtet,",
+        "hat übernachtet",
+        "übersetzen, Können Sie mir den Brief bitte übersetzen? übersetzt,",
+        "hat übersetzt",
+        "die Über- Ich brauche eine Übersetzung von meinem Zeugnis. setzung, -en",
+        "überweisen, Sie können das Geld auch überweisen. überweist, Ich überweise dir das Geld.",
+        "hat überwiesen"
+      ],
+      "num": 889
+    },
+    "die Uhr,": {
+      "ex": [
+        "-en Es ist vier Uhr.",
+        "Geht deine Uhr richtig?"
+      ],
+      "num": 890
+    },
+    "um": {
+      "ex": [
+        "Er kommt um sieben Uhr.",
+        "Die Apotheke ist gleich um die Ecke."
+      ],
+      "num": 891
+    },
+    "umsteigen,": {
+      "ex": [
+        "Sie müssen in Mannheim umsteigen. steigt um,",
+        "ist umgestiegen"
+      ],
+      "num": 892
+    },
+    "umziehen,": {
+      "ex": [
+        "Nächsten Monat ziehen wir um. zieht um,",
+        "ist umgezogen",
+        "sich umziehen, Warte bitte, ich muss mich noch umziehen. zieht sich um,",
+        "zog sich um,",
+        "hat sich umgezogen"
+      ],
+      "num": 893
+    },
+    "der Umzug,": {
+      "ex": [
+        "¨-e Der Umzug ist nächste Woche.",
+        ""
+      ],
+      "num": 894
+    },
+    "unbedingt": {
+      "ex": [
+        "Ich muss unbedingt mit dir sprechen. und Ich habe heute und morgen frei.",
+        "Ich kaufe ein und mein Mann kocht."
+      ],
+      "num": 895
+    },
+    "der Unfall,": {
+      "ex": [
+        "¨-e Ich hatte gestern einen Unfall.",
+        "Wie ist der Unfall passiert?"
+      ],
+      "num": 896
+    },
+    "die Universität,": {
+      "ex": [
+        "-en Er studiert an der Universität Freiburg. unten Er wohnt ganz unten im Haus."
+      ],
+      "num": 897
+    },
+    "unter": {
+      "ex": [
+        "Unter uns wohnt eine Familie mit drei Kindern."
+      ],
+      "num": 898
+    },
+    "unterhalten": {
+      "ex": [
+        "(sich), Andreas und Nessrin unterhalten sich."
+      ],
+      "num": 899
+    },
+    "unterhält,": {
+      "ex": [
+        "Wir haben uns über das Fußballspiel unterhalten. hat unterhalten"
+      ],
+      "num": 900
+    },
+    "die Unterkunft,": {
+      "ex": [
+        "¨-e Ich suche noch eine Unterkunft in Basel. Kennst du ein günstiges Hotel?"
+      ],
+      "num": 901
+    },
+    "unternehmen,": {
+      "ex": [
+        "Wollen wir heute Abend etwas unternehmen? unternimmt,",
+        "hat unternommen"
+      ],
+      "num": 902
+    },
+    "der Unterricht": {
+      "ex": [
+        "(Sg.) Der Unterricht dauert bis 19 Uhr."
+      ],
+      "num": 903
+    },
+    "der Unterschied,": {
+      "ex": [
+        "-e Was ist der Unterschied zwischen den beiden",
+        "Kursen? - Die Kurse sind gleich. Es gibt keinen Unterschied."
+      ],
+      "num": 904
+    },
+    "unterschreiben,": {
+      "ex": [
+        "Wo muss ich unterschreiben? unterschreibt,",
+        "hat unterschrieben"
+      ],
+      "num": 905
+    },
+    "die Unterschrift,": {
+      "ex": [
+        "-en Hier fehlt noch Ihre Unterschrift."
+      ],
+      "num": 906
+    },
+    "untersuchen,": {
+      "ex": [
+        "Der Arzt hat mich untersucht. untersucht, Der Arzt muss dein Bein untersuchen. hat untersucht"
+      ],
+      "num": 907
+    },
+    "unterwegs": {
+      "ex": [
+        "sein, Warte bitte auf mich. Ich bin unterwegs und ist unterwegs, komme gleich.",
+        "war unterwegs,",
+        "ist unterwegs gewesen"
+      ],
+      "num": 908
+    },
+    "der Urlaub,": {
+      "ex": [
+        "-e Ich nehme im September Urlaub.",
+        ""
+      ],
+      "num": 909
+    },
+    "verabredet": {
+      "ex": [
+        "sein, Ich bin mit meiner Freundin verabredet. ist verabredet,",
+        "war verabredet,",
+        "ist verabredet gewesen"
+      ],
+      "num": 910
+    },
+    "die Veranstal-": {
+      "ex": [
+        "Am Samstag ist unser Restaurant geschlossen. Wir tung, -en haben eine Veranstaltung."
+      ],
+      "num": 911
+    },
+    "verbieten": {
+      "ex": [
+        "/ Hier ist Rauchen verboten. verboten sein"
+      ],
+      "num": 912
+    },
+    "verdienen,": {
+      "ex": [
+        "Ich verdiene 1.500 Euro im Monat. verdient,",
+        "hat verdient"
+      ],
+      "num": 913
+    },
+    "der Verein,": {
+      "ex": [
+        "-e Er ist seit vielen Jahren im Verein.",
+        "Es gibt einen neuen Sportverein in der Stadt."
+      ],
+      "num": 914
+    },
+    "vereinbaren,": {
+      "ex": [
+        "Können wir einen Termin vereinbaren? vereinbart,",
+        "hat vereinbart"
+      ],
+      "num": 915
+    },
+    "vergessen,": {
+      "ex": [
+        "Ich habe meine Hausaufgaben vergessen. vergisst, Vergiss deinen Arzttermin nicht!",
+        "hat vergessen",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "num": 916
+    },
+    "vergleichen,": {
+      "ex": [
+        "Vergleichen Sie die Angebote! vergleicht, Können wir die Antworten vergleichen? hat verglichen"
+      ],
+      "num": 917
+    },
+    "verkaufen,": {
+      "ex": [
+        "Er verkauft sein altes Auto. verkauft,",
+        "hat verkauft"
+      ],
+      "num": 918
+    },
+    "der Verkehr": {
+      "ex": [
+        "(Sg.) Morgens gibt es hier immer viel Verkehr."
+      ],
+      "num": 919
+    },
+    "das Verkehrs-": {
+      "ex": [
+        "Welche Verkehrsmittel benutzen Sie oft? mittel, -"
+      ],
+      "num": 920
+    },
+    "verletzen": {
+      "ex": [
+        "(sich), Sind Sie verletzt? – Ja, am Bein. verletzt, Haben Sie sich verletzt?",
+        "hat verletzt"
+      ],
+      "num": 921
+    },
+    "verlieben": {
+      "ex": [
+        "(sich), Ich bin total verliebt. verliebt,",
+        "hat verliebt"
+      ],
+      "num": 922
+    },
+    "verlieren,": {
+      "ex": [
+        "Ich habe meinen Schlüssel verloren. verliert, Michael hat seine Arbeit verloren. hat verloren Wir haben das Fußballspiel verloren."
+      ],
+      "num": 923
+    },
+    "vermieten,": {
+      "ex": [
+        "Die Wohnung ist schon vermietet. vermietet,",
+        "hat vermietet"
+      ],
+      "num": 924
+    },
+    "der Vermieter,": {
+      "ex": [
+        "- / Unser Vermieter ist nett. die Vermieterin, -nen"
+      ],
+      "num": 925
+    },
+    "verpassen,": {
+      "ex": [
+        "Ich habe den Zug verpasst. verpasst,",
+        "hat verpasst"
+      ],
+      "num": 926
+    },
+    "verreisen,": {
+      "ex": [
+        "Verreist ihr in den Ferien?"
+      ],
+      "num": 927
+    },
+    "verreist,": {
+      "ex": [
+        "Frau Doktor Müller ist zur Zeit verreist. Sie kommt ist verreist erst nächste Woche zurück."
+      ],
+      "num": 928
+    },
+    "verschieben,": {
+      "ex": [
+        "Leider muss ich den Termin verschieben. verschiebt,",
+        "hat verschoben"
+      ],
+      "num": 929
+    },
+    "verschieden": {
+      "ex": [
+        "Unsere beiden Kinder sind sehr verschieden.",
+        "Ich habe diese Schuhe in verschiedenen Farben. die Verspätung, -en Unser Zug hat leider 15 Minuten Verspätung."
+      ],
+      "num": 930
+    },
+    "verstehen,": {
+      "ex": [
+        "Können Sie mich verstehen? versteht, Ich verstehe diese Aufgabe nicht. hat verstanden"
+      ],
+      "num": 931
+    },
+    "versuchen,": {
+      "ex": [
+        "Kann ich es auch einmal versuchen? versucht, Haben Sie es schon einmal mit diesem Mittel hat versucht versucht?"
+      ],
+      "num": 932
+    },
+    "der Vertrag,": {
+      "ex": [
+        "¨-e Ich muss den Vertrag noch unterschreiben."
+      ],
+      "num": 933
+    },
+    "viel,": {
+      "ex": [
+        "e Ich habe leider nicht viel Zeit."
+      ],
+      "num": 934
+    },
+    "Viel": {
+      "ex": [
+        "Spaß!",
+        "Im Winter sind viele Leute erkältet."
+      ],
+      "num": 935
+    },
+    "vielleicht": {
+      "ex": [
+        "Vielleicht bekomme ich diesen Job.",
+        "Er besucht uns vielleicht am Wochenende.",
+        "Kannst du mir vielleicht ein bisschen Geld leihen?"
+      ],
+      "num": 936
+    },
+    "der Vogel,": {
+      "ex": [
+        "¨- Nadine mag Vögel.",
+        "Morgens singen die Vögel immer laut."
+      ],
+      "num": 937
+    },
+    "voll": {
+      "ex": [
+        "Morgens und abends sind die Züge immer sehr voll.",
+        "Die Flasche ist noch ganz voll.",
+        ""
+      ],
+      "num": 938
+    },
+    "der Volleyball,": {
+      "ex": [
+        "¨-e Ich spiele gern Volleyball. von Das Auto von Felix ist kaputt.",
+        "Er kommt gerade von Köln/von zu Hause. Die Brötchen sind leider von gestern."
+      ],
+      "num": 939
+    },
+    "vor": {
+      "ex": [
+        "Er ist vor einer Stunde gegangen.",
+        "Das Auto steht vor der Tür."
+      ],
+      "num": 940
+    },
+    "vorbei": {
+      "ex": [
+        "Die Linie 8 fährt am Krankenhaus vorbei.",
+        "Kommst du morgen bei mir vorbei?"
+      ],
+      "num": 941
+    },
+    "vorbereiten,": {
+      "ex": [
+        "Morgen mache ich eine Party. Ich muss noch viel bereitet vor, dafür vorbereiten.",
+        "hat vorbereitet Ich muss mich auf meine Prüfung vorbereiten. vorgestern Er hat mich vorgestern angerufen."
+      ],
+      "num": 942
+    },
+    "vorher": {
+      "ex": [
+        "Ich komme mit ins Café. Vorher muss ich aber noch zur Bank."
+      ],
+      "num": 943
+    },
+    "vorn(e)": {
+      "ex": [
+        "Bitte vorn(e) einsteigen!"
+      ],
+      "num": 944
+    },
+    "der Vorname,": {
+      "ex": [
+        "-n Ich heiße Müller, mein Vorname ist Eva."
+      ],
+      "num": 945
+    },
+    "der Vorschlag,": {
+      "ex": [
+        "¨-e Was machen wir am Wochenende? Hast du einen (haben/machen) guten Vorschlag? - Wir können ins Kino gehen.",
+        "Was schenken wir Christina zur Hochzeit? - Wir haben doch schon so viele Vorschläge gemacht."
+      ],
+      "num": 946
+    },
+    "vorsichtig": {
+      "ex": [
+        "Sei vorsichtig!",
+        "Du musst vorsichtig fahren, es ist neblig."
+      ],
+      "num": 947
+    },
+    "vorstellen": {
+      "ex": [
+        "(sich), Wir wollen uns kennenlernen. Können Sie sich stellt vor, bitte vorstellen?",
+        "hat vorgestellt Darf ich Ihnen meine Frau vorstellen? vorwärts Fahren Sie bitte noch ein Stück vorwärts.",
+        ""
+      ],
+      "num": 948
+    },
+    "wach": {
+      "ex": [
+        "Bist du schon lange wach?",
+        "Ich bin noch nicht ganz wach."
+      ],
+      "num": 949
+    },
+    "der Wagen,": {
+      "ex": [
+        "– Wo steht Ihr Wagen?",
+        "Im zweiten Wagen ist unser Zugrestaurant."
+      ],
+      "num": 950
+    },
+    "wählen,": {
+      "ex": [
+        "wählt, Sie müssen erst eine Null wählen. hat gewählt Wählen Sie bitte ein Getränk."
+      ],
+      "num": 951
+    },
+    "wahr": {
+      "ex": [
+        "Das ist (nicht) wahr!"
+      ],
+      "num": 952
+    },
+    "wahrscheinlich": {
+      "ex": [
+        "Wahrscheinlich mache ich im Herbst einen",
+        "Deutschkurs.",
+        "Er kommt wahrscheinlich nicht."
+      ],
+      "num": 953
+    },
+    "der Wald,": {
+      "ex": [
+        "¨-er Im Wald ist es ruhig.",
+        "Ich gehe gern im Wald spazieren."
+      ],
+      "num": 954
+    },
+    "wandern,": {
+      "ex": [
+        "Wir gehen oft wandern. wandert,",
+        "ist gewandert"
+      ],
+      "num": 955
+    },
+    "wann": {
+      "ex": [
+        "Wann bist du fertig?"
+      ],
+      "num": 956
+    },
+    "Wann": {
+      "ex": [
+        "kann ich Sie anrufen?"
+      ],
+      "num": 957
+    },
+    "warm": {
+      "ex": [
+        "Hier ist es sehr warm.",
+        "Mittags esse ich oft ein warmes Essen. Ich brauche einen warmen Pullover."
+      ],
+      "num": 958
+    },
+    "warten,": {
+      "ex": [
+        "Können Sie ein paar Minuten warten?"
+      ],
+      "num": 959
+    },
+    "wartet,": {
+      "ex": [
+        "Auf wen warten Sie? hat gewartet"
+      ],
+      "num": 960
+    },
+    "warum": {
+      "ex": [
+        "Warum kommt er nicht?",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "num": 961
+    },
+    "was": {
+      "ex": [
+        "Was ist das?"
+      ],
+      "num": 962
+    },
+    "Was": {
+      "ex": [
+        "möchten Sie?"
+      ],
+      "num": 963
+    },
+    "die Wäsche,": {
+      "ex": [
+        "-n Ich muss noch Wäsche waschen."
+      ],
+      "num": 964
+    },
+    "waschen": {
+      "ex": [
+        "(sich), Wo kann ich mir die Hände waschen? wäscht,",
+        "hat gewaschen"
+      ],
+      "num": 965
+    },
+    "das Wasser": {
+      "ex": [
+        "(Sg.) Ein Glas Wasser, bitte.",
+        "Gibt es hier kein warmes Wasser?"
+      ],
+      "num": 966
+    },
+    "die Webseite,": {
+      "ex": [
+        "-n Es gibt viele Webseiten mit Grammatikübungen. wechseln, Wir müssen den Reifen wechseln."
+      ],
+      "num": 967
+    },
+    "wechselt,": {
+      "ex": [
+        "Können Sie mir zehn Dollar wechseln? hat gewechselt"
+      ],
+      "num": 968
+    },
+    "wecken,": {
+      "ex": [
+        "Bitte wecken Sie mich morgen früh um fünf. weckt,",
+        "hat geweckt"
+      ],
+      "num": 969
+    },
+    "weg/weg-": {
+      "ex": [
+        "Meine Brille ist weg. Ich finde sie nicht mehr. (wegbringen/ Bringst du bitte den Müll weg?",
+        "-fahren/-gehen/ Können Sie Ihr Auto bitte wegfahren?",
+        "-laufen/-machen/ Ich gehe jetzt weg.",
+        "-nehmen/-werfen) Unser Hund ist weggelaufen.",
+        "Kannst du das bitte wegmachen?"
+      ],
+      "num": 970
+    },
+    "Warum": {
+      "ex": [
+        "hast du dem Kind den Ball weggenommen? Sie können diese Papiere wegwerfen."
+      ],
+      "num": 971
+    },
+    "der Weg,": {
+      "ex": [
+        "-e Das ist der kürzeste Weg.",
+        "Können Sie mir bitte den Weg zum Flughafen beschreiben?"
+      ],
+      "num": 972
+    },
+    "wegen": {
+      "ex": [
+        "Wegen seiner Arbeit kann er leider nicht kommen.",
+        "Ich rufe wegen meiner Tochter an."
+      ],
+      "num": 973
+    },
+    "wehtun,": {
+      "ex": [
+        "Wo tut es weh?",
+        "tut weh, Ich will dir nicht wehtun. hat wehgetan"
+      ],
+      "num": 974
+    },
+    "weiblich": {
+      "ex": [
+        "Wählen Sie bitte: „weiblich“ oder „männlich“."
+      ],
+      "num": 975
+    },
+    "weich": {
+      "ex": [
+        "Ich möchte zum Frühstück ein weiches Ei.",
+        "Das Bett im Hotel war zu weich."
+      ],
+      "num": 976
+    },
+    "weil": {
+      "ex": [
+        "Ich kann nicht kommen, weil ich arbeiten muss. der Wein, -e Nein danke, ich möchte keinen Wein."
+      ],
+      "num": 977
+    },
+    "weinen,": {
+      "ex": [
+        "weint, Warum weint das Baby? hat geweint Weine bitte nicht!"
+      ],
+      "num": 978
+    },
+    "weit": {
+      "ex": [
+        "Zum Bahnhof ist es nicht weit."
+      ],
+      "num": 979
+    },
+    "weiter": {
+      "ex": [
+        "Der Bus fährt nicht weiter.",
+        "(z. B. weiter- Können wir jetzt weitermachen?",
+        "machen/-helfen) Entschuldigung, können Sie mir bitte weiterhelfen?"
+      ],
+      "num": 980
+    },
+    "welcher,": {
+      "ex": [
+        "-e, -s Welcher Tag ist heute?"
+      ],
+      "num": 981
+    },
+    "Welchen": {
+      "ex": [
+        "Kurs möchtest du machen? Welche Bluse nehmen Sie?"
+      ],
+      "num": 982
+    },
+    "Welches": {
+      "ex": [
+        "Buch suchst du?"
+      ],
+      "num": 983
+    },
+    "die Welt,": {
+      "ex": [
+        "-en Ich möchte gern einmal um die Welt reisen.",
+        "Die Studenten kommen aus vielen Ländern. Sie kommen aus der ganzen Welt."
+      ],
+      "num": 984
+    },
+    "wenig,": {
+      "ex": [
+        "-e Ich habe leider nur wenig verstanden.",
+        "Er verdient wenig."
+      ],
+      "num": 985
+    },
+    "wenigstens": {
+      "ex": [
+        "ein Stück Kuchen.",
+        ""
+      ],
+      "num": 986
+    },
+    "wenn": {
+      "ex": [
+        "Wenn ich nicht arbeiten muss, komme ich. wer (wen, wem) Wer ist das?"
+      ],
+      "num": 987
+    },
+    "werden,": {
+      "ex": [
+        "wird, Mein Sohn will Arzt werden.",
+        "ist geworden Das Wetter am Wochenende wird gut. Das haben sie im Radio gesagt."
+      ],
+      "num": 988
+    },
+    "die Werkstatt,": {
+      "ex": [
+        "¨-en Mein Auto ist kaputt. Es ist in der Werkstatt."
+      ],
+      "num": 989
+    },
+    "der Wettbewerb,": {
+      "ex": [
+        "-e Mein Sohn hat bei einem Wettbewerb gewonnen. das Wetter (Sg.) Heute ist das Wetter gut: Es ist sonnig und warm."
+      ],
+      "num": 990
+    },
+    "Wir": {
+      "ex": [
+        "hatten im Urlaub wunderbares Wetter."
+      ],
+      "num": 1018
+    },
+    "wichtig": {
+      "ex": [
+        "Es ist wichtig, dass Sie auch kommen.",
+        "Morgen habe ich einen wichtigen Termin."
+      ],
+      "num": 992
+    },
+    "wie": {
+      "ex": [
+        "viel, -e Wie viel kostet diese Hose?"
+      ],
+      "num": 995
+    },
+    "Wie": {
+      "ex": [
+        "viele Kinder haben Sie?"
+      ],
+      "num": 996
+    },
+    "wieder": {
+      "ex": [
+        "Stefan kann wieder zum Fußballtraining kommen.",
+        "Geht es dir wieder besser?",
+        "Du kommst schon wieder zu spät. Wann kommst du wieder?"
+      ],
+      "num": 997
+    },
+    "wiederholen,": {
+      "ex": [
+        "Können Sie das bitte wiederholen? wiederholt,",
+        "hat wiederholt"
+      ],
+      "num": 998
+    },
+    "das Wiederhören,": {
+      "ex": [
+        "- Wir müssen jetzt Schluss machen. Also auf"
+      ],
+      "num": 999
+    },
+    "Wiederhören!": {
+      "ex": [
+        ""
+      ],
+      "num": 1000
+    },
+    "das Wiedersehen,": {
+      "ex": [
+        "- Auf Wiedersehen!"
+      ],
+      "num": 1001
+    },
+    "willkommen": {
+      "ex": [
+        "Herzlich willkommen in Berlin! der Wind, -e Der Wind ist kalt."
+      ],
+      "num": 1002
+    },
+    "windig": {
+      "ex": [
+        "Heute ist es sehr windig."
+      ],
+      "num": 1003
+    },
+    "wirklich": {
+      "ex": [
+        "Du glaubst mir nicht? Es ist aber wirklich so. wissen, weiß, Weißt du, wie der Hausmeister heißt?",
+        "hat gewusst Woher wissen Sie das?"
+      ],
+      "num": 1004
+    },
+    "der Witz,": {
+      "ex": [
+        "-e Wir haben Witze erzählt und viel gelacht. witzig Warum lachst du? Ich finde das nicht witzig."
+      ],
+      "num": 1005
+    },
+    "wo": {
+      "ex": [
+        "Wo waren Sie im Urlaub? - In Frankreich."
+      ],
+      "num": 1006
+    },
+    "Wo": {
+      "ex": [
+        "ist meine Uhr? Wo sind Sie geboren?"
+      ],
+      "num": 1007
+    },
+    "woher": {
+      "ex": [
+        "Woher kommen Sie? Woher wissen Sie das?"
+      ],
+      "num": 1008
+    },
+    "wohin": {
+      "ex": [
+        "Wohin fährt dieser Bus? - Nach Dresden. Wohin wollen Sie am Wochenende gehen?"
+      ],
+      "num": 1009
+    },
+    "wohnen,": {
+      "ex": [
+        "wohnt, Ich wohne in Kiel. hat gewohnt"
+      ],
+      "num": 1010
+    },
+    "die Wohnung,": {
+      "ex": [
+        "-en Haben Sie schon einen neue Wohnung gefunden?",
+        "Meine Wohnung ist sehr hell."
+      ],
+      "num": 1011
+    },
+    "das Wohnzimmer,": {
+      "ex": [
+        "- Die Kinder sitzen im Wohnzimmer und sehen fern."
+      ],
+      "num": 1012
+    },
+    "die Wolke,": {
+      "ex": [
+        "-n Heute gibt es viele Wolken."
+      ],
+      "num": 1013
+    },
+    "wollen,": {
+      "ex": [
+        "will, Wollen Sie einen Kaffee trinken? wollte,",
+        "hat gewollt",
+        "(hat wollen als Modalverb)"
+      ],
+      "num": 1014
+    },
+    "der Workshop,": {
+      "ex": [
+        "-s Das war ein toller Workshop. Ich habe viel gelernt. Am Freitag gibt es einen Computer-Workshop in meiner Firma."
+      ],
+      "num": 1015
+    },
+    "das Wort,¨-er": {
+      "ex": [
+        "Ich kenne das Wort nicht.",
+        "Ich muss das Wort im Wörterbuch suchen."
+      ],
+      "num": 1016
+    },
+    "wunderbar": {
+      "ex": [
+        "Diese Schokolade schmeckt wunderbar."
+      ],
+      "num": 1017
+    },
+    "der Wunsch,": {
+      "ex": [
+        "¨-e Ich wünsche Ihnen alles Gute!",
+        "Sie wünschen? – Ich möchte ein halbes Kilo Äpfel, bitte.",
+        "Haben Sie noch einen Wunsch? Was ist dein größter Wunsch?"
+      ],
+      "num": 1019
+    },
+    "wünschen": {
+      "ex": [
+        "Ich wünsche mir eine Kamera zum Geburtstag. die Wurst, ¨-e Eine Wurst mit Pommes, bitte."
+      ],
+      "num": 1020
+    },
+    "die Zahl,": {
+      "ex": [
+        "-en Können Sie die Zahl bitte wiederholen? zahlen, zahlt, Entschuldigung, zahlen bitte!",
+        "hat gezahlt"
+      ],
+      "num": 1021
+    },
+    "der Zahn,": {
+      "ex": [
+        "¨-e Der Zahn tut mir schon seit einer Woche weh."
+      ],
+      "num": 1022
+    },
+    "zeichnen,": {
+      "ex": [
+        "Caterina kann gut zeichnen. Sieh mal das Bild hier. zeichnet,",
+        "hat gezeichnet"
+      ],
+      "num": 1023
+    },
+    "zeigen,": {
+      "ex": [
+        "zeigt, Können Sie mir bitte den Weg zum Bahnhof zeigen? hat gezeigt"
+      ],
+      "num": 1024
+    },
+    "die Zeit,": {
+      "ex": [
+        "-en Ich habe heute keine Zeit."
+      ],
+      "num": 1025
+    },
+    "die Zeitschrift,": {
+      "ex": [
+        "-en Diese Zeitschrift kauft Andrea jede Woche. die Zeitung, -en Ich lese manchmal Zeitung.",
+        "Wo ist die Zeitung von heute?"
+      ],
+      "num": 1026
+    },
+    "das Zelt,": {
+      "ex": [
+        "-e Im Sommer schlafen wir manchmal im Zelt. das Zentrum, -en Der Bahnhof ist im Stadtzentrum.",
+        "Wohnst du im Zentrum? - Nein, ich wohne nicht direkt in der Stadt."
+      ],
+      "num": 1027
+    },
+    "der Zettel,": {
+      "ex": [
+        "- Hast du einen Zettel für mich? Ich muss etwas",
+        "notieren.",
+        "Schreiben Sie Ihre Telefonnummer bitte auf den Zettel."
+      ],
+      "num": 1028
+    },
+    "das Zeugnis,": {
+      "ex": [
+        "-se Morgen bekommen die Kinder ihr Zeugnis.",
+        "(an-)/(aus)ziehen, Ich ziehe (mir) eine Jacke an."
+      ],
+      "num": 1029
+    },
+    "zieht": {
+      "ex": [
+        "(an/aus), Er hat sein T-Shirt ausgezogen und ein Hemd hat/ist angezogen.",
+        "(an/aus)gezogen Die Nachbarn sind am Wochenende ausgezogen."
+      ],
+      "num": 1030
+    },
+    "das Ziel,": {
+      "ex": [
+        "-e John läuft sehr schnell. Er war als erster am Ziel.",
+        "Was ist dein Ziel im Leben?",
+        ""
+      ],
+      "num": 1031
+    },
+    "das Zimmer,": {
+      "ex": [
+        "- Das Zimmer ist am größten.",
+        "Mach im Schlafzimmer das Fenster zu! Die Wohnung hat drei Zimmer.",
+        "Ich habe im Hotel ein Zimmer bestellt."
+      ],
+      "num": 1032
+    },
+    "der Zirkus,": {
+      "ex": [
+        "-se Heute gehen wir mit den Kindern in den Zirkus. die Zitrone, -n Ich trinke den Tee mit Zitrone.",
+        "Lucia mag Zitroneneis."
+      ],
+      "num": 1033
+    },
+    "der Zoo,": {
+      "ex": [
+        "-s Am Sonntag gehen wir in den Zoo. zu Der Bus fährt zum Bahnhof.",
+        "Ich gehe zu Fuß. Ich bin zu Hause.",
+        "Das Kleid ist mir zu teuer.",
+        "Ich trinke zum Essen ein Bier."
+      ],
+      "num": 1034
+    },
+    "der Zucker": {
+      "ex": [
+        "(Sg.) Trinken Sie den Tee mit oder ohne Zucker? zuerst Zuerst müsst ihr die Hausaufgaben machen, dann",
+        "könnt ihr spielen."
+      ],
+      "num": 1035
+    },
+    "Zuerst": {
+      "ex": [
+        "hat mir die Arbeit gar nicht gefallen. Jetzt geht es besser."
+      ],
+      "num": 1036
+    },
+    "zufrieden": {
+      "ex": [
+        "Ich bin mit der Wohnung zufrieden. Sie ist nicht groß, aber sie hat einen Balkon."
+      ],
+      "num": 1037
+    },
+    "der Zug,": {
+      "ex": [
+        "¨-e Ich fahre gern mit dem Zug."
+      ],
+      "num": 1038
+    },
+    "zuhören,": {
+      "ex": [
+        "hört zu, Hör mir doch mal zu! Ich rede mit dir. hat zugehört"
+      ],
+      "num": 1039
+    },
+    "zuletzt": {
+      "ex": [
+        "Wir haben uns vor drei Jahren zuletzt gesehen.",
+        "Diese Aufgabe machen wir zuletzt."
+      ],
+      "num": 1040
+    },
+    "zum": {
+      "ex": [
+        "Beispiel Mein Freund hat viele Hobbys, zum Beispiel Kochen, Lesen und Tanzen."
+      ],
+      "num": 1041
+    },
+    "zumachen,": {
+      "ex": [
+        "Machst du bitte das Fenster zu? macht zu,",
+        "hat zugemacht"
+      ],
+      "num": 1042
+    },
+    "zurück": {
+      "ex": [
+        "Eine Fahrkarte nach Frankfurt und zurück, bitte."
+      ],
+      "num": 1043
+    },
+    "zurück-": {
+      "ex": [
+        "Fahrt ihr nach der Party zurück nach Hause? (fahren, geben, Wann muss ich das Buch zurückgeben? gehen, kommen, Wir gehen wieder zurück.",
+        "laufen) Wann kommst du zurück?",
+        "Ich habe mein Buch vergessen. Ich laufe schnell nach Hause zurück."
+      ],
+      "num": 1044
+    },
+    "zusammen": {
+      "ex": [
+        "Wollen wir zusammen essen gehen?"
+      ],
+      "num": 1045
+    },
+    "Zahlen,": {
+      "ex": [
+        "bitte. – Zusammen oder getrennt? Das macht zusammen 10 Euro 80."
+      ],
+      "num": 1046
+    },
+    "zwischen": {
+      "ex": [
+        "Heidelberg liegt zwischen Frankfurt und Stuttgart."
+      ],
+      "num": 1047
+    },
+    "Zwischen": {
+      "ex": [
+        "acht und zehn Uhr bin ich zu Hause."
+      ],
+      "num": 1048
+    }
+  }

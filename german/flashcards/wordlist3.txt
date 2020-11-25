@@ -1,0 +1,766 @@
+
+      "ex": [
+        "hat geworfen ins Wasser geworfen."
+      ],
+      "num": 2940
+    },
+    "das Werk,": {
+      "ex": [
+        "-e Wir haben gestern das Werk besichtigt."
+      ],
+      "num": 2941
+    },
+    "der Werkstatt.": {
+      "ex": [
+        ""
+      ],
+      "num": 2943
+    },
+    "das Werkzeug,": {
+      "ex": [
+        "-e Wir hatten kein Werkzeug für",
+        "die Reparatur dabei."
+      ],
+      "num": 2944
+    },
+    "wert": {
+      "ex": [
+        "Das Auto ist vielleicht noch 1000 Euro wert."
+      ],
+      "num": 2945
+    },
+    "der Wert,": {
+      "ex": [
+        "-e 1. Das Haus hat einen Wert von",
+        "ca. 1 Mio. Euro.",
+        "2. Ich trainiere nicht mehr. Es hat ja doch keinen Wert.",
+        "3. Auf Ihr Urteil lege ich großen Wert"
+      ],
+      "num": 2946
+    },
+    "wertvoll": {
+      "ex": [
+        "Ich habe einen sehr wertvollen Ring von meiner Großmutter."
+      ],
+      "num": 2947
+    },
+    "weshalb": {
+      "ex": [
+        "Weshalb rufst du nicht mal an?"
+      ],
+      "num": 2948
+    },
+    "der Westen,": {
+      "ex": [
+        "West, West- 1. Das Zimmer geht nach Westen.",
+        "2. Der Ort liegt ganz im Westen von Deutschland.",
+        "3. Westeuropa, Westwind, Westküste"
+      ],
+      "num": 2949
+    },
+    "westlich": {
+      "ex": [
+        "Das Dorf liegt westlich von Frankfurt."
+      ],
+      "num": 2950
+    },
+    "der Wetterbericht,": {
+      "ex": [
+        "-e Hast du schon den Wetterbericht gehört?"
+      ],
+      "num": 2953
+    },
+    "widersprechen,": {
+      "ex": [
+        "1. Da muss ich Ihnen widersprechen."
+      ],
+      "num": 2955
+    },
+    "widerspricht,": {
+      "ex": [
+        "2. Er widerspricht sich ständig!"
+      ],
+      "num": 2956
+    },
+    "widersprach,": {
+      "ex": [
+        "",
+        "hat widersprochen"
+      ],
+      "num": 2957
+    },
+    "wieder/wieder-": {
+      "ex": [
+        "1. Wann kommst du wieder?",
+        "2. Meine Mutter war krank. Jetzt ist sie aber wieder gesund.",
+        "3. Mein Bruder kommt schon wieder zu spät.",
+        "4. Meine Eltern sind zu Besuch gekommen. Morgen fahren sie wieder zurück."
+      ],
+      "num": 2959
+    },
+    "wiederholte,": {
+      "ex": [
+        "wiederholen?",
+        "hat wiederholt 2. Ich wiederhole: Die Nummer ist 3487."
+      ],
+      "num": 2961
+    },
+    "wiegen,": {
+      "ex": [
+        "wiegt, 1. Wie viel wiegst du?"
+      ],
+      "num": 2962
+    },
+    "wog,": {
+      "ex": [
+        "hat gewogen 2. Der Brief wiegt mehr als 20 Gramm."
+      ],
+      "num": 2963
+    },
+    "die Wiese,": {
+      "ex": [
+        "-n Vor unserem Haus ist eine Wiese mit Bäumen."
+      ],
+      "num": 2964
+    },
+    "wieso": {
+      "ex": [
+        "Wie lange sind Sie hier?",
+        "– Wieso fragen Sie?"
+      ],
+      "num": 2965
+    },
+    "der Wind,": {
+      "ex": [
+        "-e Der Wind kommt heute von Westen."
+      ],
+      "num": 2968
+    },
+    "winken,": {
+      "ex": [
+        "winkt, Wir haben meine Mutter zum Zug"
+      ],
+      "num": 2970
+    },
+    "winkte,": {
+      "ex": [
+        "hat gewinkt gebracht. Die Kinder haben gewinkt."
+      ],
+      "num": 2971
+    },
+    "wirken,": {
+      "ex": [
+        "wirkt, Die Tabletten haben nicht gewirkt."
+      ],
+      "num": 2972
+    },
+    "wirkte,": {
+      "ex": [
+        "hat gewirkt"
+      ],
+      "num": 2973
+    },
+    "die Wirkung,": {
+      "ex": [
+        "-en Welche Nebenwirkungen hat dieses Medikament?"
+      ],
+      "num": 2974
+    },
+    "die Wirklichkeit": {
+      "ex": [
+        "1. Im Reisebüro haben sie gesagt:",
+        "ein schönes Hotel. Die Wirklichkeit sieht ganz anders aus.",
+        "2. Die Kollegin war krank gemeldet, aber in Wirklichkeit hatte sie keine Lust."
+      ],
+      "num": 2976
+    },
+    "der Wirt,": {
+      "ex": [
+        "-e Ich kenne die Wirtin von diesem Lokal. Sie ist sehr nett."
+      ],
+      "num": 2977
+    },
+    "die Wirtschaft": {
+      "ex": [
+        "In der Schule lernen die Kinder viel über Wirtschaft und Politik."
+      ],
+      "num": 2978
+    },
+    "wissen,": {
+      "ex": [
+        "weiß, 1. Weißt du, wie der Hausmeister heißt?"
+      ],
+      "num": 2979
+    },
+    "wusste,": {
+      "ex": [
+        "hat gewusst 2. Wissen Sie zufällig die",
+        "Telefonnummer von Andreas?",
+        "3. Ich habe nicht gewusst, dass Pascal verheiratet ist.",
+        "4. Woher wissen Sie das?"
+      ],
+      "num": 2980
+    },
+    "wohl": {
+      "ex": [
+        "1. Kann ich nach Hause gehen? Ich fühle mich nicht wohl.",
+        "2. Wo ist deine Schwester? – Sie wird wohl noch in der Schule sein."
+      ],
+      "num": 2985
+    },
+    "wohnte,": {
+      "ex": [
+        "hat gewohnt 2. Ich wohne in München.",
+        "3. Wohnst du noch bei deinen Eltern?"
+      ],
+      "num": 2987
+    },
+    "das Wohngeld": {
+      "ex": [
+        "Wo kann ich Wohngeld beantragen?"
+      ],
+      "num": 2988
+    },
+    "die Wohngemeinschaft,": {
+      "ex": [
+        "Früher habe ich in einer",
+        "-en Wohngemeinschaft gewohnt."
+      ],
+      "num": 2989
+    },
+    "der Wohnort,": {
+      "ex": [
+        "-e Tragen Sie bitte Straße und"
+      ],
+      "num": 2990
+    },
+    "Wohnort": {
+      "ex": [
+        "ein."
+      ],
+      "num": 2991
+    },
+    "das Wohnungsamt,": {
+      "ex": [
+        "-er Sie müssen aufs Wohnungsamt gehen."
+      ],
+      "num": 2993
+    },
+    "die Wolle": {
+      "ex": [
+        "Dieser Pullover ist aus reiner Wolle."
+      ],
+      "num": 2996
+    },
+    "worüber": {
+      "ex": [
+        "Worüber lachen Sie?"
+      ],
+      "num": 2998
+    },
+    "worum": {
+      "ex": [
+        "Kann ich Herrn Meier sprechen?",
+        "– Worum geht es denn?"
+      ],
+      "num": 2999
+    },
+    "das Wörterbuch,": {
+      "ex": [
+        "-er Ich muss das Wort im Wörterbuch",
+        "nachschlagen."
+      ],
+      "num": 3002
+    },
+    "die Wunde,": {
+      "ex": [
+        "-n Die Wunde müssen wir sofort verbinden."
+      ],
+      "num": 3003
+    },
+    "wundern,": {
+      "ex": [
+        "wundert, 1. Es wundert mich, dass das Essen"
+      ],
+      "num": 3004
+    },
+    "wunderte,": {
+      "ex": [
+        "hat gewundert hier so günstig ist.",
+        "2. Ich wundere mich, dass du schon so früh aus der Schule kommst. Was ist los?"
+      ],
+      "num": 3005
+    },
+    "das Wunder,": {
+      "ex": [
+        "- 1. Ich bin mit dem Fahrrad gestürzt.",
+        "Es war ein Wunder, dass nichts Schlimmes passiert ist.",
+        "2. Du isst zu viel Schokolade. Kein Wunder, dass die Hose nicht mehr passt."
+      ],
+      "num": 3006
+    },
+    "wunderbares": {
+      "ex": [
+        "Wetter.",
+        "2. Diese Schokolade schmeckt wunderbar."
+      ],
+      "num": 3008
+    },
+    "wunderschön": {
+      "ex": [
+        "1. Wir haben einen Ausflug gemacht.",
+        "Es war wunderschön.",
+        "2. Ich habe mir ein wunderschönes Kleid gekauft."
+      ],
+      "num": 3009
+    },
+    "wünschen,": {
+      "ex": [
+        "wünscht, 1. Ich wünsche Ihnen alles Gute."
+      ],
+      "num": 3010
+    },
+    "wünschte,": {
+      "ex": [
+        "hat gewünscht 2. Was wünschst du dir zum Geburtstag?",
+        "3. Wünsch mir Glück!"
+      ],
+      "num": 3011
+    },
+    "die Wurst,": {
+      "ex": [
+        "-e Diese Wurst ist mir zu fett."
+      ],
+      "num": 3013
+    },
+    "wütend": {
+      "ex": [
+        "1. Warum bist du so wütend?",
+        "2. Ich bin wütend auf meinen Bruder. Er hat wieder nicht auf mich gewartet."
+      ],
+      "num": 3014
+    },
+    "zahlen,": {
+      "ex": [
+        "zahlt, 1. Herr Ober, zahlen bitte!"
+      ],
+      "num": 3016
+    },
+    "zahlte,": {
+      "ex": [
+        "hat gezahlt 2. Ich hatte keinen Fahrschein und",
+        "musste 60 Euro Strafe zahlen.",
+        "3. Wir müssen im nächsten Jahr mehr Steuern zahlen."
+      ],
+      "num": 3017
+    },
+    "die Zahlung,": {
+      "ex": [
+        "-en Bitte geben Sie bei der Zahlung",
+        "die Rechnungsnummer an."
+      ],
+      "num": 3018
+    },
+    "zählen,": {
+      "ex": [
+        "zählt, 1. Bitte zählen Sie das Wechselgeld"
+      ],
+      "num": 3019
+    },
+    "zählte,": {
+      "ex": [
+        "hat gezählt sofort nach.",
+        "2. Ich habe das Geld noch nicht gezählt.",
+        "3. Mein Sohn kann schon bis 100 zählen.",
+        "4. Ich zähle auf dich!"
+      ],
+      "num": 3020
+    },
+    "die Zahncreme/": {
+      "ex": [
+        "Die neue Zahncreme riecht sehr gut."
+      ],
+      "num": 3022
+    },
+    "die Zahnpasta": {
+      "ex": [
+        ""
+      ],
+      "num": 3023
+    },
+    "das Zeichen,": {
+      "ex": [
+        "- Bitte fangen Sie erst an, wenn ich Ihnen ein Zeichen gebe.",
+        "das Verkehrszeichen, - Meine Kinder lernen in der Schule",
+        "gerade die Verkehrszeichen."
+      ],
+      "num": 3024
+    },
+    "zeichnete,": {
+      "ex": [
+        "hat gezeichnet zeichnen."
+      ],
+      "num": 3026
+    },
+    "zeigte,": {
+      "ex": [
+        "hat gezeigt 2. Der Bahnhof ist nicht weit.",
+        "Ich zeige Ihnen den Weg.",
+        "3. Soll ich dir meine Urlaubsfotos zeigen?",
+        "4. Können Sie mir zeigen,",
+        "wie der Apparat funktioniert?"
+      ],
+      "num": 3028
+    },
+    "die Zeitarbeit": {
+      "ex": [
+        "Ich habe einen Job bei einer"
+      ],
+      "num": 3030
+    },
+    "Zeitarbeitsfirma": {
+      "ex": [
+        "bekommen."
+      ],
+      "num": 3031
+    },
+    "der Zeitpunkt,": {
+      "ex": [
+        "-e Er ist krank. Das ist kein guter"
+      ],
+      "num": 3032
+    },
+    "Zeitpunkt": {
+      "ex": [
+        "für einen Besuch."
+      ],
+      "num": 3033
+    },
+    "zentral": {
+      "ex": [
+        "Wir suchen eine Zweizimmer- wohnung in zentraler Lage."
+      ],
+      "num": 3038
+    },
+    "das Zentrum,": {
+      "ex": [
+        "Zentren Im Zentrum gibt es fast keine",
+        "Parkplätze."
+      ],
+      "num": 3039
+    },
+    "zerstören,": {
+      "ex": [
+        "zerstört, Der Sturm hat viele Häuser zerstört."
+      ],
+      "num": 3040
+    },
+    "zerstörte,": {
+      "ex": [
+        "hat zerstört"
+      ],
+      "num": 3041
+    },
+    "das Zertifikat,": {
+      "ex": [
+        "-e Wenn ich die Prüfung schaffe, bekomme ich ein Zertifikat."
+      ],
+      "num": 3042
+    },
+    "das Zeug/-zeug": {
+      "ex": [
+        "1. Was hast du mit meinen Sachen gemacht? – Ich habe dein ganzes Zeug in dein Zimmer getan.",
+        "2. z. B.: Spielzeug, Feuerzeug, …"
+      ],
+      "num": 3044
+    },
+    "der Zeuge,": {
+      "ex": [
+        "-n Die Polizei sucht noch Zeugen für den Unfall."
+      ],
+      "num": 3045
+    },
+    "ziehen,": {
+      "ex": [
+        "zieht, 1. Sie müssen ziehen, nicht drücken. zog, hat gezogen/ 2. Wir müssen den Zahn leider ziehen. ist gezogen 3. Wir sind vor drei Wochen nach",
+        "Hamburg gezogen.",
+        "4. Machen Sie bitte die Tür zu, es zieht."
+      ],
+      "num": 3047
+    },
+    "ziemlich": {
+      "ex": [
+        "1. Ich bin ziemlich müde.",
+        "Ich gehe ins Bett.",
+        "2. Es ist schon ziemlich spät. Wir müssen gehen.",
+        "3. Ich musste beim Arzt ziemlich lange warten."
+      ],
+      "num": 3049
+    },
+    "die Zinsen": {
+      "ex": [
+        "(nur Pl.) Wie viele Zinsen bekomme ich für mein Sparkonto?"
+      ],
+      "num": 3052
+    },
+    "zirka/circa": {
+      "ex": [
+        "Meine Wohnung ist zirka fünf Minuten vom Zentrum entfernt."
+      ],
+      "num": 3053
+    },
+    "die Zitrone,": {
+      "ex": [
+        "-n 1. Ich hätte gern einen Tee mit Zitrone.",
+        "2. Bring bitte vom Markt noch Zitronen mit."
+      ],
+      "num": 3054
+    },
+    "der Zoll,": {
+      "ex": [
+        "-e Das war die Passkontrolle. Wir müssen jetzt noch durch den Zoll."
+      ],
+      "num": 3055
+    },
+    "die Zone,": {
+      "ex": [
+        "-n Hier musst du langsam fahren. Das ist eine verkehrsberuhigte Zone."
+      ],
+      "num": 3056
+    },
+    "zuerst": {
+      "ex": [
+        "1. Wer war zuerst? – Der Herr hier.",
+        "2. Zuerst gibt es Mittagessen.",
+        "Dann könnt ihr Schokolade essen.",
+        "3. Zuerst hat mir die Arbeit gar nicht gefallen. Jetzt geht es besser."
+      ],
+      "num": 3060
+    },
+    "der Zufall,": {
+      "ex": [
+        "-e 1. So ein Zufall, dass ich dich hier treffe.",
+        "2. Durch Zufall habe ich gehört, dass die Wohnung frei ist."
+      ],
+      "num": 3061
+    },
+    "zufällig": {
+      "ex": [
+        "1. Wir haben uns zufällig am Bahnhof getroffen.",
+        "2. Hast du zufällig meine Brille gesehen?"
+      ],
+      "num": 3062
+    },
+    "zugehen": {
+      "ex": [
+        "1. Die Tür geht nicht zu. Kannst du mir helfen?",
+        "2. Ich habe zugenommen. Die Hose geht nicht mehr zu."
+      ],
+      "num": 3065
+    },
+    "das Zuhause": {
+      "ex": [
+        "Ich fühle mich hier wohl.",
+        "Das ist mein Zuhause."
+      ],
+      "num": 3066
+    },
+    "der Zuhörer,": {
+      "ex": [
+        "- Liebe Zuhörer. Ihre Meinung",
+        "interessiert uns. Bitte rufen Sie an."
+      ],
+      "num": 3068
+    },
+    "die Zukunft": {
+      "ex": [
+        "1. Du musst mehr für die Schule lernen.",
+        "Denk an die Zukunft.",
+        "2. In Zukunft werde ich vorsichtiger sein."
+      ],
+      "num": 3069
+    },
+    "zukünftig": {
+      "ex": [
+        "Das ist Ihr zukünftiger Chef, Herr Weber."
+      ],
+      "num": 3070
+    },
+    "zulassen,": {
+      "ex": [
+        "lässt zu, 1. Lassen Sie bitte die Fenster zu.",
+        "ließ zu, hat zugelassen 2. Sie müssen das Auto erst zulassen."
+      ],
+      "num": 3071
+    },
+    "die Zulassung,": {
+      "ex": [
+        "-en 1. Ihre Zulassung, bitte.",
+        "2. Ich habe von der Universität keine Zulassung bekommen."
+      ],
+      "num": 3072
+    },
+    "zumindest": {
+      "ex": [
+        "Ich möchte nicht in der Stadt wohnen, zumindest jetzt nicht, wenn die Kinder noch so klein sind."
+      ],
+      "num": 3075
+    },
+    "zunehmen,": {
+      "ex": [
+        "nimmt zu, Ich habe im Urlaub ein Kilo",
+        "nahm zu, hat zugenommen zugenommen."
+      ],
+      "num": 3076
+    },
+    "zurechtkommen,": {
+      "ex": [
+        "kommt 1. Soll ich Ihnen helfen?"
+      ],
+      "num": 3077
+    },
+    "zurecht,": {
+      "ex": [
+        "kam zurecht, – Danke. Ich komme schon zurecht.",
+        "ist zurechtgekommen 2. Kommen Sie allein zurecht?"
+      ],
+      "num": 3078
+    },
+    "zurück/zurück-": {
+      "ex": [
+        "1. Einmal Frankfurt und zurück!",
+        "2. Du musst schnell zurückkommen."
+      ],
+      "num": 3079
+    },
+    "zusagen,": {
+      "ex": [
+        "sagt zu, 1. Meine Eltern haben uns zum Essen",
+        "sagte zu, hat zugesagt eingeladen. Ich habe zugesagt.",
+        "2. Sie müssen bis Montag zusagen, wenn Sie die Stelle nehmen."
+      ],
+      "num": 3080
+    },
+    "zusammen/zusammen-": {
+      "ex": [
+        "1. Wir haben als Kinder oft"
+      ],
+      "num": 3081
+    },
+    "die Zusammenarbeit": {
+      "ex": [
+        "Sie sind der neue Kollege?",
+        "Auf gute Zusammenarbeit!"
+      ],
+      "num": 3083
+    },
+    "zusammenfassen,": {
+      "ex": [
+        "Können Sie das bitte noch einmal",
+        "fasst zusammen, kurz zusammenfassen?",
+        "fasste zusammen, hat zusammengefasst"
+      ],
+      "num": 3084
+    },
+    "zusätzlich": {
+      "ex": [
+        "Sie müssen in Zukunft eine Stunde zusätzlich arbeiten."
+      ],
+      "num": 3085
+    },
+    "zuschauen,": {
+      "ex": [
+        "schaut zu, Willst du mitspielen?",
+        "schaute zu, hat zugeschaut – Nein, ich schaue lieber nur zu."
+      ],
+      "num": 3086
+    },
+    "der Zuschauer,": {
+      "ex": [
+        "- Liebe Zuschauer, wir wünschen Ihnen",
+        "gute Unterhaltung."
+      ],
+      "num": 3087
+    },
+    "der Zustand,": {
+      "ex": [
+        "-e Als wir in die Wohnung eingezogen sind, war sie in sehr schlechtem Zustand."
+      ],
+      "num": 3089
+    },
+    "zuständig": {
+      "ex": [
+        "Wir haben ein Problem mit der",
+        "Heizung. Wer ist dafür zuständig?"
+      ],
+      "num": 3090
+    },
+    "die Zustimmung,": {
+      "ex": [
+        "-en Wir brauchen vor der Klassenfahrt"
+      ],
+      "num": 3091
+    },
+    "die Zustimmung": {
+      "ex": [
+        "der Eltern."
+      ],
+      "num": 3092
+    },
+    "zuverlässig": {
+      "ex": [
+        "Der Kollege kommt bestimmt gleich.",
+        "Er ist immer sehr zuverlässig."
+      ],
+      "num": 3093
+    },
+    "der Zuwanderer,": {
+      "ex": [
+        "- In Bremen leben besonders viele Zuwanderer aus der Türkei."
+      ],
+      "num": 3094
+    },
+    "zwar": {
+      "ex": [
+        "1. Diese Schuhe sind zwar teuer, aber gut.",
+        "2. Ich kriege jetzt doch eine Woche Urlaub, und zwar nächsten Monat."
+      ],
+      "num": 3095
+    },
+    "der Zweck,": {
+      "ex": [
+        "-e Ich glaube, es hat keinen Zweck, sich zu bewerben. Der Job ist sicher schon weg."
+      ],
+      "num": 3096
+    },
+    "zweifeln,": {
+      "ex": [
+        "zweifelt, Ich zweifle nicht daran,"
+      ],
+      "num": 3097
+    },
+    "zweifelte,": {
+      "ex": [
+        "hat gezweifelt dass Sie recht haben."
+      ],
+      "num": 3098
+    },
+    "die Zwiebel,": {
+      "ex": [
+        "-n Eine Zwiebel in kleine Stücke schneiden und zusammen mit dem Fleisch braten."
+      ],
+      "num": 3099
+    },
+    "zwingen,": {
+      "ex": [
+        "zwingt, Ich zwinge meine Kinder nicht,"
+      ],
+      "num": 3100
+    },
+    "zwang,": {
+      "ex": [
+        "hat gezwungen wenn sie nicht essen wollen."
+      ],
+      "num": 3101
+    }
+  }

@@ -1,0 +1,7419 @@
+{
+    "abgeben,": {
+      "ex": [
+        "Ich muss meinen Schlüssel an der Rezeption gibt ab, abgeben.",
+        "hat abgegeben"
+      ],
+      "num": 2,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#7222f2"
+    },
+    "abholen,": {
+      "ex": [
+        "holt ab, Wann kann ich die Sachen bei dir abholen? hat abgeholt Wir müssen noch meinen Bruder abholen."
+      ],
+      "num": 3,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2d6acc"
+    },
+    "abschließen,": {
+      "ex": [
+        "Hast du die Tür abgeschlossen?",
+        "schließt ab, Ich schließe dieses Jahr mein Studium/ hat abgeschlossen meine Ausbildung ab."
+      ],
+      "num": 4,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2d6acc"
+    },
+    "Achtung!": {
+      "ex": [
+        "Pass auf! Der Verkehr ist hier gefährlich. die Adresse, -n Können Sie mir Ihre Adresse geben?"
+      ],
+      "num": 6,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2248f2"
+    },
+    "die Ahnung,": {
+      "ex": [
+        "-en Ich hatte keine Ahnung, dass du heute Geburtstag hast.",
+        "Wie spät ist es? - Ich habe keine Ahnung."
+      ],
+      "num": 7,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5edbd5"
+    },
+    "aktiv": {
+      "ex": [
+        "Peter ist sehr aktiv und macht viel Sport."
+      ],
+      "num": 8,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#7222f2"
+    },
+    "aktuell": {
+      "ex": [
+        "Das ist das aktuelle Kinoprogramm."
+      ],
+      "num": 9,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2248f2"
+    },
+    "als": {
+      "ex": [
+        "Hector ist jünger als seine Schwester.",
+        "Sie arbeitet als Krankenschwester."
+      ],
+      "num": 12,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5e75db"
+    },
+    "die Ampel,": {
+      "ex": [
+        "-n Du kannst fahren, die Ampel ist grün.",
+        "Nach der Ampel musst du nach links fahren."
+      ],
+      "num": 16,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5edbd5"
+    },
+    "anbieten,": {
+      "ex": [
+        "Darf ich Ihnen/dir ein Stück Kuchen anbieten? bietet an,",
+        "hat angeboten Er hat mir eine Stelle als Verkäuferin angeboten. das Angebot, -e Heute sind Bananen im Angebot.",
+        "Stellenangebote finden Sie in der Zeitung oder im Internet."
+      ],
+      "num": 18,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5e75db"
+    },
+    "anders": {
+      "ex": [
+        "Anders geht das leider nicht.",
+        "Oliver ist anders als seine Freunde."
+      ],
+      "num": 20,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#7222f2"
+    },
+    "anfangen,": {
+      "ex": [
+        "Hier fängt die Bahnhofstraße an. fängt an, Der Unterricht fängt gleich an.",
+        "hat angefangen Würden Sie bitte anfangen?",
+        "Ich fange im Herbst meine Ausbildung an."
+      ],
+      "num": 21,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5edbd5"
+    },
+    "der Anfang,": {
+      "ex": [
+        "¨-e Sie wohnt am Anfang der Straße.",
+        "Wir machen Anfang Juli Urlaub."
+      ],
+      "num": 22,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2d6acc"
+    },
+    "die Angst,": {
+      "ex": [
+        "¨-e Hab keine Angst!",
+        "Ich habe Angst vor großen Hunden."
+      ],
+      "num": 23,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5e75db"
+    },
+    "ankommen,": {
+      "ex": [
+        "Wann kommt dieser Zug in Hamburg an?",
+        "kommt an, Auf diesem Fahrplan steht nur die Ankunft der Züge. ist angekommen"
+      ],
+      "num": 24,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5edbd5"
+    },
+    "die Ankunft,": {
+      "ex": [
+        "-¨e"
+      ],
+      "num": 25,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5edbd5"
+    },
+    "anmachen,": {
+      "ex": [
+        "Mach bitte das Licht an! macht an,",
+        "hat angemacht"
+      ],
+      "num": 26,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#7222f2"
+    },
+    "anmelden": {
+      "ex": [
+        "(sich), Wo kann ich mich anmelden?",
+        "meldet an, Eine Anmeldung für diesen Kurs ist nicht mehr hat angemeldet möglich."
+      ],
+      "num": 27,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2248f2"
+    },
+    "die Anmeldung,-en": {
+      "ex": [
+        "Wo bekomme ich das Formular für die Anmeldung?"
+      ],
+      "num": 28,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2248f2"
+    },
+    "anrufen,": {
+      "ex": [
+        "ruft an, Kann ich Sie heute Abend anrufen? hat angerufen Juan ruft seine Freundin an."
+      ],
+      "num": 30,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5ea3db"
+    },
+    "der Anschluss,": {
+      "ex": [
+        "¨-e In Mannheim haben Sie Anschluss nach",
+        "Saarbrücken.",
+        "In Stuttgart erreichen Sie alle Anschlüsse. Auch der Zug nach Paris wartet.",
+        "Gibt es in der Wohnung einen Waschmaschinen- anschluss?"
+      ],
+      "num": 32,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#7222f2"
+    },
+    "ansehen,": {
+      "ex": [
+        "sieht an, Darf ich eure Urlaubsfotos ansehen?",
+        "hat angesehen Ich sehe (mir) diese Sendung jeden Tag an."
+      ],
+      "num": 33,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2248f2"
+    },
+    "antworten,": {
+      "ex": [
+        "Er antwortet nicht. antwortet,",
+        "hat geantwortet"
+      ],
+      "num": 34,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5edbd5"
+    },
+    "die Antwort,": {
+      "ex": [
+        "-en Er gibt leider keine Antwort."
+      ],
+      "num": 35,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#7222f2"
+    },
+    "die Anzeige,": {
+      "ex": [
+        "-n Ich habe Ihre Anzeige in der Zeitung gelesen."
+      ],
+      "num": 36,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5edbd5"
+    },
+    "der Anzug,": {
+      "ex": [
+        "¨-e Mein Mann muss sich einen neuen Anzug kaufen. der Apfel, ¨- Ein Kilo Äpfel, bitte."
+      ],
+      "num": 37,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5edbd5"
+    },
+    "die Apotheke,": {
+      "ex": [
+        "-n Das Medikament bekommen Sie in der Apotheke."
+      ],
+      "num": 38,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5ea3db"
+    },
+    "der Apparat,": {
+      "ex": [
+        "-e Was machen wir mit deinem alten Apparat?",
+        "Ich habe einen neuen Fotoapparat. arbeiten, arbeitet, Wo arbeiten Sie?",
+        "hat gearbeitet Ich arbeite als Krankenschwester in einem",
+        "Krankenhaus."
+      ],
+      "num": 39,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2248f2"
+    },
+    "die Arbeit,": {
+      "ex": [
+        "-en Mein Bruder sucht Arbeit."
+      ],
+      "num": 40,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2d6acc"
+    },
+    "arbeitslos": {
+      "ex": [
+        "Seit wann ist er schon arbeitslos?",
+        "Es gibt bei uns viele Leute, die schon lange arbeitslos sind.",
+        "ärgern (sich), Warum ärgerst du dich? - Ich ärgere mich, weil das ärgert, Wetter schlecht ist.",
+        "hat geärgert"
+      ],
+      "num": 41,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2248f2"
+    },
+    "arm": {
+      "ex": [
+        "Sie haben nicht viel Geld, sie sind arm."
+      ],
+      "num": 42,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2248f2"
+    },
+    "der Arm,": {
+      "ex": [
+        "-e Mein Arm tut weh."
+      ],
+      "num": 43,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2248f2"
+    },
+    "der Artikel,": {
+      "ex": [
+        "- Im Deutschen gibt es drei Artikel: der, die und das. Ich habe in der Zeitung einen interessanten Artikel gelesen."
+      ],
+      "num": 44,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5e75db"
+    },
+    "auch": {
+      "ex": [
+        "Ich bin auch Spanier.",
+        "Maria muss auch am Wochenende arbeiten."
+      ],
+      "num": 45,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5e75db"
+    },
+    "auf": {
+      "ex": [
+        "jeden/ Ich möchte auf jeden Fall den neuen James-Bond- keinen Fall Film sehen. - Wirklich? Ich finde James-Bond-Filme",
+        "langweilig. Ich sehe ihn auf keinen Fall an!"
+      ],
+      "num": 48,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5ea3db"
+    },
+    "aufhören,": {
+      "ex": [
+        "Wann hört ihr mit der Arbeit auf?",
+        "hört auf, Kannst du bitte damit aufhören? Ich muss jetzt hat aufgehört arbeiten."
+      ],
+      "num": 49,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2248f2"
+    },
+    "aufmachen,": {
+      "ex": [
+        "Kannst du bitte die Tür aufmachen? macht auf,",
+        "hat aufgemacht"
+      ],
+      "num": 50,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5ea3db"
+    },
+    "aufpassen,": {
+      "ex": [
+        "Pass auf, der Teller fällt gleich auf den Boden! passt auf, Der Babysitter passt heute Abend auf die Kinder"
+      ],
+      "num": 51,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5e75db"
+    },
+    "auf.": {
+      "ex": [
+        "",
+        "hat aufgepasst Er passt im Unterricht nicht auf."
+      ],
+      "num": 52,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2d6acc"
+    },
+    "aufräumen,": {
+      "ex": [
+        "Die Kinder müssen ihr Zimmer aufräumen. räumt auf,",
+        "hat aufgeräumt"
+      ],
+      "num": 53,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2d6acc"
+    },
+    "aufregend": {
+      "ex": [
+        "Die letzte Woche war sehr aufregend.",
+        "Der Film ist nicht besonders aufregend."
+      ],
+      "num": 54,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2d6acc"
+    },
+    "aufstehen,": {
+      "ex": [
+        "Ich stehe jeden Morgen um sieben Uhr auf. steht auf,",
+        "ist aufgestanden"
+      ],
+      "num": 55,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5ea3db"
+    },
+    "der Aufzug,": {
+      "ex": [
+        "¨-e In diesem Haus gibt es keinen Aufzug.",
+        "Der Aufzug ist leider kaputt."
+      ],
+      "num": 56,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2d6acc"
+    },
+    "das Auge,": {
+      "ex": [
+        "-n Er hat blaue Augen.",
+        "Mein rechtes Auge tut seit Sonntag weh."
+      ],
+      "num": 57,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#7222f2"
+    },
+    "aus": {
+      "ex": [
+        "Michele kommt aus Brasilien.",
+        "Frau Müller geht immer um acht Uhr aus dem Haus. Der Tisch ist aus Glas.",
+        "Ich sehe nichts. Das Licht ist aus."
+      ],
+      "num": 58,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5edbd5"
+    },
+    "die Ausbildung,-en": {
+      "ex": [
+        "Ich möchte eine Ausbildung zum Krankenpfleger machen."
+      ],
+      "num": 59,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5e75db"
+    },
+    "der Ausflug,": {
+      "ex": [
+        "¨-e Morgen machen wir einen Ausflug nach Heidelberg/ an die Ostsee."
+      ],
+      "num": 60,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2248f2"
+    },
+    "ausfüllen,": {
+      "ex": [
+        "Füllen Sie/Füll bitte dieses Formular aus! füllt aus,",
+        "hat ausgefüllt"
+      ],
+      "num": 61,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#7222f2"
+    },
+    "der Ausgang,": {
+      "ex": [
+        "¨-e Entschuldigung, wo ist der Ausgang?"
+      ],
+      "num": 62,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2248f2"
+    },
+    "ausgeben,": {
+      "ex": [
+        "Agata gibt viel Geld für Bücher aus. gibt aus, Ich möchte nicht so viel Geld ausgeben. hat ausgegeben"
+      ],
+      "num": 63,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5e75db"
+    },
+    "ausgehen,": {
+      "ex": [
+        "Gehen wir am Freitag zusammen aus? geht aus, Plötzlich ist das Licht ausgegangen. ist ausgegangen"
+      ],
+      "num": 64,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5e75db"
+    },
+    "die Auskunft,": {
+      "ex": [
+        "¨-e Wo ist die Auskunft?",
+        "Können Sie mir bitte eine Auskunft geben? das Ausland (Sg.) Fahren Sie ins Ausland?"
+      ],
+      "num": 65,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2d6acc"
+    },
+    "ausmachen,": {
+      "ex": [
+        "Mach bitte das Licht aus! macht aus,",
+        "hat ausgemacht"
+      ],
+      "num": 66,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2248f2"
+    },
+    "auspacken,": {
+      "ex": [
+        "Packst du bitte den Koffer aus? packt aus,",
+        "hat ausgepackt"
+      ],
+      "num": 67,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#7222f2"
+    },
+    "ausruhen": {
+      "ex": [
+        "(sich), Ruh dich erst mal aus! Du bist sicher müde. ruht aus, Er ruht sich nach der Arbeit immer aus. hat ausgeruht"
+      ],
+      "num": 68,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#7222f2"
+    },
+    "aussehen,": {
+      "ex": [
+        "Wie sieht er aus? - Groß und blond. sieht aus, Sie sieht wie ihre Mutter aus.",
+        "hat ausgesehen Das Kleid sieht hübsch aus."
+      ],
+      "num": 69,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#7222f2"
+    },
+    "außer": {
+      "ex": [
+        "Außer Lisa möchte niemand den Film sehen. Wir haben täglich außer Samstag geöffnet."
+      ],
+      "num": 70,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2248f2"
+    },
+    "außerdem": {
+      "ex": [
+        "Vier Brötchen, möchten Sie außerdem noch etwas?"
+      ],
+      "num": 71,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5e75db"
+    },
+    "außerhalb": {
+      "ex": [
+        "Die Wohnung ist nicht in der Stadt, sie liegt etwas außerhalb."
+      ],
+      "num": 72,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5edbd5"
+    },
+    "aussprechen,": {
+      "ex": [
+        "Wie spricht man das Wort aus? spricht aus,",
+        "hat ausgesprochen"
+      ],
+      "num": 73,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2d6acc"
+    },
+    "aussteigen,": {
+      "ex": [
+        "Wo müssen wir aussteigen? – An der nächsten steigt aus, Haltestelle.",
+        "ist ausgestiegen"
+      ],
+      "num": 74,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2248f2"
+    },
+    "die Ausstellung,-en": {
+      "ex": [
+        "Gehen wir morgen zusammen in die Ausstellung? austragen, Er trägt jeden Morgen die Zeitung aus.",
+        "trägt aus,",
+        "hat ausgetragen"
+      ],
+      "num": 75,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#7222f2"
+    },
+    "der Ausweis,": {
+      "ex": [
+        "-e Darf ich bitte mal Ihren Ausweis sehen? – Hier ist mein Ausweis."
+      ],
+      "num": 76,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2248f2"
+    },
+    "das Auto,": {
+      "ex": [
+        "-s Er fährt mit dem Auto."
+      ],
+      "num": 77,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5edbd5"
+    },
+    "die Autobahn,": {
+      "ex": [
+        "-en Darf ich mit dem Motorroller auf der Autobahn fahren?",
+        "Das Dorf liegt direkt an der Autobahn."
+      ],
+      "num": 78,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5edbd5"
+    },
+    "der Automat,": {
+      "ex": [
+        "-en Fahrkarten gibt es nur am Automaten.",
+        "In Berlin ist der Fahrkartenautomat auf dem Bahnsteig."
+      ],
+      "num": 79,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2d6acc"
+    },
+    "automatisch": {
+      "ex": [
+        "Achtung, die Türen schließen automatisch!"
+      ],
+      "num": 80,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#7222f2"
+    },
+    "backen,": {
+      "ex": [
+        "Wenn du kommst, backe ich einen Kuchen. bäckt/backt,",
+        "hat gebacken"
+      ],
+      "num": 82,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5edbd5"
+    },
+    "die Bäckerei,": {
+      "ex": [
+        "-en Ich geh mal schnell zur Bäckerei."
+      ],
+      "num": 83,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#7222f2"
+    },
+    "das Bad,": {
+      "ex": [
+        "¨-er Das Haus ist sehr alt. Es hat kein Bad.",
+        "Im Winter nehme ich gern ein warmes Bad."
+      ],
+      "num": 84,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5ea3db"
+    },
+    "baden,": {
+      "ex": [
+        "badet, Ich bade nicht so gern, ich dusche lieber. hat gebadet In diesem See darf man nicht baden."
+      ],
+      "num": 85,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5ea3db"
+    },
+    "die Bahn,": {
+      "ex": [
+        "-en Wir fahren lieber mit der Bahn als mit dem Bus.",
+        "Ich nehme die nächste S-Bahn."
+      ],
+      "num": 86,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5edbd5"
+    },
+    "der Bahnhof,": {
+      "ex": [
+        "¨-e Entschuldigung, komme ich hier zum Bahnhof?"
+      ],
+      "num": 87,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#7222f2"
+    },
+    "der Bahnsteig,": {
+      "ex": [
+        "-e Auf Hauptbahnhöfen gibt es meist viele Bahnsteige. bald Ich komme bald.",
+        "Auf Wiedersehen! Bis bald!"
+      ],
+      "num": 88,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5ea3db"
+    },
+    "der Balkon,": {
+      "ex": [
+        "-e Die Wohnung hat auch einen kleinen Balkon. der Ball, ¨-e Meine Kinder spielen gern Ball."
+      ],
+      "num": 89,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5edbd5"
+    },
+    "die Band,": {
+      "ex": [
+        "-s Was ist deine Lieblingsband? Anton spielt in einer Band."
+      ],
+      "num": 91,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#7222f2"
+    },
+    "die Bank,": {
+      "ex": [
+        "-en Bei welcher Bank haben Sie Ihr Konto? die Bank, ¨-e Kommt, wir setzen uns auf diese Bank."
+      ],
+      "num": 92,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5e75db"
+    },
+    "basteln,": {
+      "ex": [
+        "bastelt, Die Kinder haben etwas gebastelt. hat gebastelt"
+      ],
+      "num": 94,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2248f2"
+    },
+    "der Bauch,": {
+      "ex": [
+        "¨-e Seit gestern tut mir der Bauch weh."
+      ],
+      "num": 95,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5e75db"
+    },
+    "bauen,": {
+      "ex": [
+        "baut, Unsere Nachbarn bauen ein neues Haus. hat gebaut"
+      ],
+      "num": 96,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#7222f2"
+    },
+    "beantworten,": {
+      "ex": [
+        "Können Sie meine Frage bitte beantworten? beantwortet, Hast du die Mail schon beantwortet?",
+        "hat beantwortet"
+      ],
+      "num": 98,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2248f2"
+    },
+    "bedanken": {
+      "ex": [
+        "(sich), Ich möchte mich noch einmal sehr herzlich für Ihre bedankt, Hilfe bedanken.",
+        "hat bedankt"
+      ],
+      "num": 99,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5ea3db"
+    },
+    "bedeuten,": {
+      "ex": [
+        "Was bedeutet das Wort? bedeutet,",
+        "hat bedeutet"
+      ],
+      "num": 100,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5ea3db"
+    },
+    "beeilen": {
+      "ex": [
+        "(sich), Kannst du dich bitte beeilen? Der Bus fährt beeilt, gleich ab!",
+        "hat beeilt"
+      ],
+      "num": 101,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#7222f2"
+    },
+    "beenden,": {
+      "ex": [
+        "Du musst deine Ausbildung auf jeden Fall beenden. beendet,",
+        "hat beendet"
+      ],
+      "num": 102,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5edbd5"
+    },
+    "beginnen,": {
+      "ex": [
+        "Das Spiel beginnt um 15.30 Uhr. beginnt,",
+        "hat begonnen"
+      ],
+      "num": 103,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2248f2"
+    },
+    "begründen,": {
+      "ex": [
+        "Bitte begründen Sie Ihre Meinung. begründet,",
+        "hat begründet"
+      ],
+      "num": 104,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2248f2"
+    },
+    "Bekannte,": {
+      "ex": [
+        "-n"
+      ],
+      "num": 109,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2248f2"
+    },
+    "bekommen,": {
+      "ex": [
+        "Haben Sie meinen Brief bekommen? bekommt, Aspirin bekommen Sie in der Apotheke. hat bekommen"
+      ],
+      "num": 110,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5e75db"
+    },
+    "beliebt": {
+      "ex": [
+        "Fußball ist bei vielen Menschen beliebt."
+      ],
+      "num": 111,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5e75db"
+    },
+    "benutzen,": {
+      "ex": [
+        "Die Aufzüge bitte nicht benutzen! benutzt,",
+        "hat benutzt"
+      ],
+      "num": 112,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5e75db"
+    },
+    "bequem": {
+      "ex": [
+        "Das Sofa ist sehr bequem.",
+        "Meine Kinder ziehen am liebsten bequeme Schuhe an."
+      ],
+      "num": 113,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5ea3db"
+    },
+    "beraten,": {
+      "ex": [
+        "berät, Unsere Sekretärin berät Sie gern, wenn Sie hat beraten Fragen haben."
+      ],
+      "num": 114,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#7222f2"
+    },
+    "der Berg,": {
+      "ex": [
+        "-e Die Zugspitze ist der höchste Berg in Deutschland.",
+        "Wir fahren am Wochenende in die Berge."
+      ],
+      "num": 115,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2248f2"
+    },
+    "berichten,": {
+      "ex": [
+        "Alle Zeitungen berichten von dem Unfall. berichtet,",
+        "hat berichtet"
+      ],
+      "num": 116,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5ea3db"
+    },
+    "berühmt": {
+      "ex": [
+        "Thomas Müller ist ein berühmter Fußballspieler."
+      ],
+      "num": 118,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2248f2"
+    },
+    "der Bescheid": {
+      "ex": [
+        "Kann Lisa in Heidelberg studieren? - Sie weiß es (bekommen/ noch nicht. Sie bekommt erst nächste Woche geben/sagen) Bescheid.",
+        "Kannst du mir bis morgen Bescheid geben? Ich frage Herrn Maier und sage Ihnen dann Bescheid."
+      ],
+      "num": 119,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5e75db"
+    },
+    "beschreiben,": {
+      "ex": [
+        "Kannst du mir den Weg zum Bahnhof beschreiben? beschreibt,",
+        "hat beschrieben"
+      ],
+      "num": 120,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5e75db"
+    },
+    "beschweren": {
+      "ex": [
+        "(sich), Hier ist es zu laut. Wo können wir uns beschweren? beschwert, Mein Nachbar beschwert sich immer über unsere hat beschwert Kinder, wenn sie im Garten spielen."
+      ],
+      "num": 121,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2d6acc"
+    },
+    "besichtigen,": {
+      "ex": [
+        "Ich möchte gern das Schloss besichtigen. besichtigt, Sie können die Wohnung am Mittwochabend hat besichtigt besichtigen."
+      ],
+      "num": 123,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5edbd5"
+    },
+    "besonders": {
+      "ex": [
+        "Dieses Angebot ist besonders günstig.",
+        "Hier ist die Pizza besonders gut. Wie geht's? - Nicht besonders."
+      ],
+      "num": 124,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2248f2"
+    },
+    "bestätigen,": {
+      "ex": [
+        "Ich kann bestätigen, dass er hier war. bestätigt,",
+        "hat bestätigt"
+      ],
+      "num": 125,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#7222f2"
+    },
+    "bestehen,": {
+      "ex": [
+        "Ich habe die Prüfung bestanden!"
+      ],
+      "num": 126,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#7222f2"
+    },
+    "besteht,": {
+      "ex": [
+        "Die Prüfung besteht aus vier Teilen: Hören, Lesen, hat bestanden Schreiben und Sprechen."
+      ],
+      "num": 127,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5e75db"
+    },
+    "bestellen,": {
+      "ex": [
+        "Wir möchten bitte bestellen."
+      ],
+      "num": 128,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2248f2"
+    },
+    "bestellt,": {
+      "ex": [
+        "Dieses Buch haben wir nicht da. Sollen wir es für hat bestellt Sie bestellen?"
+      ],
+      "num": 129,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5ea3db"
+    },
+    "der Besuch,": {
+      "ex": [
+        "-e Wir bekommen am Wochenende Besuch.",
+        "Ich mache einen Besuch im Krankenhaus."
+      ],
+      "num": 130,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5edbd5"
+    },
+    "besuchen,": {
+      "ex": [
+        "Darf ich dich mal besuchen?"
+      ],
+      "num": 131,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2d6acc"
+    },
+    "besucht,": {
+      "ex": [
+        "Möchtest du mich in den Ferien besuchen? hat besucht"
+      ],
+      "num": 132,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5e75db"
+    },
+    "bewerben": {
+      "ex": [
+        "(sich), Ich möchte mich um diese Stelle bewerben. bewirbt, Kannst du mir bei meiner Bewerbung helfen? hat beworben"
+      ],
+      "num": 134,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2248f2"
+    },
+    "die Bewerbung,": {
+      "ex": [
+        "-en"
+      ],
+      "num": 135,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2d6acc"
+    },
+    "bewölkt": {
+      "ex": [
+        "Heute ist es bewölkt.",
+        "die Wolke, -n Es gibt viele Wolken am Himmel."
+      ],
+      "num": 136,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5e75db"
+    },
+    "bezahlen,": {
+      "ex": [
+        "Wo kann ich bezahlen? bezahlt,",
+        "hat bezahlt"
+      ],
+      "num": 137,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5e75db"
+    },
+    "die Bibliothek,": {
+      "ex": [
+        "-en Sie lernt jeden Tag in der Bibliothek. das Bier, -e Noch ein Bier, bitte."
+      ],
+      "num": 138,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5edbd5"
+    },
+    "bitten,": {
+      "ex": [
+        "Darf ich Sie um etwas bitten? bittet,",
+        "hat gebeten"
+      ],
+      "num": 144,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5e75db"
+    },
+    "bleiben,": {
+      "ex": [
+        "Wir bleiben drei Tage in Berlin."
+      ],
+      "num": 146,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5e75db"
+    },
+    "bleibt,": {
+      "ex": [
+        "Bitte bleiben Sie stehen!",
+        "ist geblieben Oh nein, meine Uhr ist stehen geblieben. Wie spät ist es?",
+        "Ich bleibe heute zu Hause. der Bleistift, -e Hast du einen Bleistift?"
+      ],
+      "num": 147,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2d6acc"
+    },
+    "blöd": {
+      "ex": [
+        "Ich finde es blöd, dass du morgen gehen musst. der/das Blog, -s Ich schreibe einen Blog über Mode."
+      ],
+      "num": 148,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2d6acc"
+    },
+    "blond": {
+      "ex": [
+        "Lisa hat blonde Haare. die Blume, -n Gefallen dir die Blumen?"
+      ],
+      "num": 149,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2d6acc"
+    },
+    "die Bluse,": {
+      "ex": [
+        "-n Ich suche eine weiße Bluse. die Bohne, -n Hans isst nicht gern Bohnen."
+      ],
+      "num": 150,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2248f2"
+    },
+    "braten,": {
+      "ex": [
+        "Braten Sie das Fleisch in etwas Öl!"
+      ],
+      "num": 152,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5edbd5"
+    },
+    "brät,": {
+      "ex": [
+        "Der Fisch brät in der Pfanne. hat gebraten"
+      ],
+      "num": 153,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5edbd5"
+    },
+    "brauchen,": {
+      "ex": [
+        "Ich brauche ein neues Auto."
+      ],
+      "num": 154,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5ea3db"
+    },
+    "braucht,": {
+      "ex": [
+        "Brauchst du die Zeitung noch oder kann ich sie hat gebraucht haben?",
+        "Meine Großmutter ist krank. Sie braucht viel Ruhe. der Brief, -e Haben Sie einen Brief für mich?"
+      ],
+      "num": 155,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5edbd5"
+    },
+    "die Brille,": {
+      "ex": [
+        "-n Wo ist meine Brille?",
+        "Mit dieser Brille kann ich nicht mehr gut sehen."
+      ],
+      "num": 157,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5ea3db"
+    },
+    "bringen,": {
+      "ex": [
+        "Bringen Sie mir bitte noch einen Kaffee! bringt, Wir müssen Max ins Krankenhaus bringen. hat gebracht"
+      ],
+      "num": 158,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5ea3db"
+    },
+    "buchen,": {
+      "ex": [
+        "Morgen buche ich unsere Urlaubsreise. bucht,",
+        "hat gebucht"
+      ],
+      "num": 162,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2248f2"
+    },
+    "buchstabieren,": {
+      "ex": [
+        "Würden Sie bitte Ihren Namen buchstabieren? buchstabiert,",
+        "hat buchstabiert"
+      ],
+      "num": 164,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5ea3db"
+    },
+    "bunt": {
+      "ex": [
+        "Anna trägt gern bunte Kleider.",
+        "Meine Wohnung ist sehr bunt: Das Wohnzimmer ist rot, die Küche grün und das Bad blau."
+      ],
+      "num": 165,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#7222f2"
+    },
+    "das Büro,": {
+      "ex": [
+        "-s Ich arbeite in einem Büro.",
+        "Unser Büro ist bis Dienstag geschlossen. der Bus, -se Wann kommt der nächste Bus?"
+      ],
+      "num": 166,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2d6acc"
+    },
+    "die Cafeteria,": {
+      "ex": [
+        "-s Ich gehe jetzt in die Cafeteria. Soll ich dir etwas mitbringen?"
+      ],
+      "num": 169,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5e75db"
+    },
+    "chatten,": {
+      "ex": [
+        "Luis chattet gern mit seinen Freunden im Internet. chattet,",
+        "hat gechattet"
+      ],
+      "num": 170,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5ea3db"
+    },
+    "der Chef,": {
+      "ex": [
+        "-s /"
+      ],
+      "num": 171,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2d6acc"
+    },
+    "die Chefin,-nen": {
+      "ex": [
+        "Wir haben eine neue Chefin."
+      ],
+      "num": 172,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2d6acc"
+    },
+    "der Club,": {
+      "ex": [
+        "-s / Gibt es hier einen Tennis-Club/Klub?",
+        "Klub, -s Ich möchte gern tanzen gehen. Wo gibt es hier",
+        "einen Club/Klub mit guter Musik? der/das Comic, -s Mein Sohn liest immer nur Comics."
+      ],
+      "num": 173,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5e75db"
+    },
+    "die Creme,": {
+      "ex": [
+        "-s/-n Ich suche eine Creme für die Hände.",
+        "Der Kuchen schmeckt super! Was ist in der Creme?",
+        "– Das ist eine Buttercreme mit viel Schokolade."
+      ],
+      "num": 175,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5ea3db"
+    },
+    "da(r)": {
+      "ex": [
+        "(Bsp. darauf, Darauf fällt mir keine Antwort ein. darüber) Darüber spreche ich nicht gern."
+      ],
+      "num": 177,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2248f2"
+    },
+    "dabei": {
+      "ex": [
+        "(sein), Hast du einen Stift dabei?",
+        "ist dabei, Schön, dass du da bist. Ist deine Familie auch war dabei, dabei?",
+        "ist dabei gewesen"
+      ],
+      "num": 178,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5ea3db"
+    },
+    "dafür/dagegen": {
+      "ex": [
+        "sein, Ich bin dafür/dagegen. ist dafür/dagegen,",
+        "war dafür/dagegen, ist dafür/"
+      ],
+      "num": 179,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#7222f2"
+    },
+    "dagegen": {
+      "ex": [
+        "gewesen"
+      ],
+      "num": 180,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#7222f2"
+    },
+    "damals": {
+      "ex": [
+        "Als Student hatte ich viel Zeit und wollte reisen.",
+        "Aber damals hatte ich kein Geld."
+      ],
+      "num": 181,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#7222f2"
+    },
+    "danken,": {
+      "ex": [
+        "dankt, Ich danke Ihnen für die Einladung. hat gedankt"
+      ],
+      "num": 186,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5ea3db"
+    },
+    "dass": {
+      "ex": [
+        "Rico hat gesagt, dass er auch zur Party kommt.",
+        "Ich finde es super, dass du mich besuchst."
+      ],
+      "num": 188,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5e75db"
+    },
+    "dauern,": {
+      "ex": [
+        "dauert, Wie lange dauert die Pause? - Eine halbe Stunde. hat gedauert"
+      ],
+      "num": 191,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5e75db"
+    },
+    "denken,": {
+      "ex": [
+        "denkt, Ich denke, du hast recht.",
+        "hat gedacht Ich denke oft an meine Freundin.",
+        "Was denktst du? Sollen wir heute Abend ins Kino gehen?"
+      ],
+      "num": 192,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5ea3db"
+    },
+    "deshalb": {
+      "ex": [
+        "Ich bin krank. Deshalb komme ich heute nicht ins Büro."
+      ],
+      "num": 194,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5ea3db"
+    },
+    "deutlich": {
+      "ex": [
+        "Sprechen Sie bitte deutlich!",
+        "Können Sie das bitte deutlicher schreiben? Ich kann das nicht lesen."
+      ],
+      "num": 195,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2248f2"
+    },
+    "dick": {
+      "ex": [
+        "Ich bin zu dick. Ich muss weniger essen."
+      ],
+      "num": 196,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5edbd5"
+    },
+    "direkt": {
+      "ex": [
+        "Wir wohnen direkt über dem Café.",
+        "Gibt es keinen direkten Zug nach Hamburg? - Nein, Sie müssen immer umsteigen.",
+        "Ich möchte nicht direkt nach der Schule studieren. Ich möchte erst reisen.",
+        "Wir liefern Ihnen das Sofa direkt ins Haus."
+      ],
+      "num": 198,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#7222f2"
+    },
+    "diskutieren,": {
+      "ex": [
+        "Ich möchte das mit meinen Kollegen diskutieren. diskutiert,",
+        "hat diskutiert"
+      ],
+      "num": 200,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2248f2"
+    },
+    "doch": {
+      "ex": [
+        "Hast du keinen Hunger? - Doch, ich bin sehr hungrig.",
+        "Kannst du morgen nicht kommen? - Doch. Geh doch mal wieder ins Kino!"
+      ],
+      "num": 201,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2d6acc"
+    },
+    "Das": {
+      "ex": [
+        "macht doch nichts!"
+      ],
+      "num": 202,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5ea3db"
+    },
+    "Deine": {
+      "ex": [
+        "Tasche kannst du dorthin stellen. Kommst du mit in die Stadt? - Nein, ich komme gerade dorther/von dort."
+      ],
+      "num": 206,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2248f2"
+    },
+    "dringend": {
+      "ex": [
+        "Bitte kommen Sie schnell. Es ist dringend. drinnen Wollen Sie drinnen oder draußen sitzen?",
+        "Hier drinnen ist es sehr warm."
+      ],
+      "num": 208,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#7222f2"
+    },
+    "drüben": {
+      "ex": [
+        "Da drüben ist die Haltestelle."
+      ],
+      "num": 209,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2d6acc"
+    },
+    "drücken,": {
+      "ex": [
+        "drückt, An dieser Tür musst du drücken, nicht ziehen, hat gedrückt dann geht sie auf."
+      ],
+      "num": 210,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5ea3db"
+    },
+    "Drücken": {
+      "ex": [
+        "Sie „Bestätigen“! Meine Schuhe drücken."
+      ],
+      "num": 211,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5edbd5"
+    },
+    "drucken,": {
+      "ex": [
+        "druckt, Wähle einfach „Datei drucken“! hat gedruckt"
+      ],
+      "num": 212,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5ea3db"
+    },
+    "dumm": {
+      "ex": [
+        "Ich finde den Film dumm.",
+        "Entschuldigung, das war dumm von mir. Das ist mir zu dumm."
+      ],
+      "num": 214,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2d6acc"
+    },
+    "dunkel": {
+      "ex": [
+        "Um sechs Uhr ist es schon dunkel. Meine Schwester hat dunkle Haare.",
+        "Ich will eine dunkelblaue Bluse kaufen."
+      ],
+      "num": 215,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2d6acc"
+    },
+    "dünn": {
+      "ex": [
+        "Das Buch ist sehr dünn. Es hat nur 40 Seiten. Mein Bruder ist 1,80 Meter groß und 62 Kilo schwer, er ist zu dünn."
+      ],
+      "num": 216,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2d6acc"
+    },
+    "dürfen,": {
+      "ex": [
+        "darf, Sie dürfen hier nicht parken. durfte, Dürfen wir heute länger fernsehen?",
+        "hat gedurft Darf ich Sie zu einem Kaffee einladen?"
+      ],
+      "num": 218,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2248f2"
+    },
+    "duschen": {
+      "ex": [
+        "(sich), Ich bade nicht so gern, ich dusche lieber."
+      ],
+      "num": 220,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#7222f2"
+    },
+    "duscht,": {
+      "ex": [
+        "Möchten Sie sich duschen? Das Badezimmer ist dort hat geduscht hinten links."
+      ],
+      "num": 221,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2d6acc"
+    },
+    "das E-Book,": {
+      "ex": [
+        "-s Liest du lieber E-Books oder Bücher aus Papier? Entschuldigung, kann man hier E-Books kaufen?"
+      ],
+      "num": 222,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2d6acc"
+    },
+    "echt": {
+      "ex": [
+        "Ist das Bild ein echter Picasso?",
+        "Der Film ist echt gut."
+      ],
+      "num": 223,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5e75db"
+    },
+    "die Ecke,": {
+      "ex": [
+        "-n Gehen Sie an der nächsten Ecke links. Dann",
+        "kommen Sie zur Apotheke.",
+        "Wir stellen das Regal in die Ecke."
+      ],
+      "num": 224,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2d6acc"
+    },
+    "egal": {
+      "ex": [
+        "Das ist mir egal.",
+        "Willst du Tee oder Kaffee trinken? – Egal."
+      ],
+      "num": 225,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#7222f2"
+    },
+    "die Ehefrau,": {
+      "ex": [
+        "-en /"
+      ],
+      "num": 226,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5edbd5"
+    },
+    "eigen-": {
+      "ex": [
+        "Nicht alle Kinder haben ein eigenes Zimmer. eigentlich Wir wollten eigentlich Freunde besuchen, aber dann",
+        "sind wir doch zu Hause geblieben. Kennst du eigentlich Susanne?"
+      ],
+      "num": 229,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#7222f2"
+    },
+    "der Eingang,": {
+      "ex": [
+        "¨-e Der Eingang ist um die Ecke."
+      ],
+      "num": 232,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5edbd5"
+    },
+    "einig-": {
+      "ex": [
+        "In diesem Text sind einige Fehler.",
+        "Das dauert noch einige Zeit, bis das Essen fertig ist."
+      ],
+      "num": 233,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5ea3db"
+    },
+    "einkaufen,": {
+      "ex": [
+        "Ich muss noch für morgen einkaufen. kauft ein,",
+        "hat eingekauft"
+      ],
+      "num": 234,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5e75db"
+    },
+    "das Einkaufs-": {
+      "ex": [
+        "Kommst du morgen mit ins Einkaufszentrum? zentrum, -en"
+      ],
+      "num": 235,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5edbd5"
+    },
+    "einladen,": {
+      "ex": [
+        "Darf ich Sie zu einem Kaffee einladen? lädt ein,",
+        "hat eingeladen"
+      ],
+      "num": 236,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5e75db"
+    },
+    "die Einladung,": {
+      "ex": [
+        "-en Danke für die Einladung zu deinem Geburtstag! einmal Rufen Sie/Ruf mich bitte morgen noch einmal an.",
+        "Diese Prüfung mache ich nicht noch einmal. Warst du schon einmal in Paris?"
+      ],
+      "num": 237,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2248f2"
+    },
+    "einpacken,": {
+      "ex": [
+        "Pack bitte die Handtücher ein !",
+        "packt ein, Soll ich Ihnen das als Geschenk einpacken? hat eingepackt"
+      ],
+      "num": 238,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2d6acc"
+    },
+    "einsteigen,": {
+      "ex": [
+        "Schnell, steig ein, der Zug fährt gleich ab. steigt ein, Bitte ab 20 Uhr vorn im Bus einsteigen. ist eingestiegen"
+      ],
+      "num": 239,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5edbd5"
+    },
+    "eintragen": {
+      "ex": [
+        "(sich), Tragen Sie sich bitte in diese Liste ein! trägt ein, Sie müssen Ihren Namen und Ihre Adresse hat eingetragen eintragen."
+      ],
+      "num": 240,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2248f2"
+    },
+    "der Eintritt,": {
+      "ex": [
+        "-e Der Eintritt kostet fünf Euro.",
+        "Der Eintritt ist frei. Sie müssen nichts bezahlen."
+      ],
+      "num": 241,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5edbd5"
+    },
+    "einverstanden": {
+      "ex": [
+        "Als Termin schlage ich den 11. Juni vor. - Gut, (ich sein, bin) einverstanden.",
+        "ist einverstanden, Bist du einverstanden, wenn wir bald nach Hause war einverstanden, gehen?",
+        "ist einverstanden gewesen"
+      ],
+      "num": 242,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5ea3db"
+    },
+    "einzel-": {
+      "ex": [
+        "Nicht alle zusammen. Könnt ihr bitte einzeln sprechen?",
+        "Florian ist ein Einzelkind. Er hat keine Geschwister. Ein Einzelzimmer ist noch frei."
+      ],
+      "num": 243,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2248f2"
+    },
+    "einziehen,": {
+      "ex": [
+        "Im Juni ziehen unsere neuen Nachbarn ein. zieht ein, Wann können wir in die Wohnung einziehen? ist eingezogen"
+      ],
+      "num": 244,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5edbd5"
+    },
+    "das Eis": {
+      "ex": [
+        "(Sg.) Möchtest du auch ein Eis?",
+        "die (E-)Mail, -s Ich schreibe Ihnen/dir eine E-Mail."
+      ],
+      "num": 245,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#7222f2"
+    },
+    "empfehlen,": {
+      "ex": [
+        "Welchen Wein können Sie mir empfehlen? empfiehlt,",
+        "hat empfohlen"
+      ],
+      "num": 247,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2d6acc"
+    },
+    "das Ende,": {
+      "ex": [
+        "-n Sie wohnt am Ende der Straße."
+      ],
+      "num": 248,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5ea3db"
+    },
+    "enden,": {
+      "ex": [
+        "endet, Die Straße endet hier.",
+        "hat geendet Der Kurs endet in einer Woche."
+      ],
+      "num": 250,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5e75db"
+    },
+    "endlich": {
+      "ex": [
+        "Wann kommst du endlich? Der Film fängt gleich an."
+      ],
+      "num": 251,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5edbd5"
+    },
+    "Endlich": {
+      "ex": [
+        "bist du da!"
+      ],
+      "num": 252,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2d6acc"
+    },
+    "eng": {
+      "ex": [
+        "Diese Hose ist zu eng. Gibt es sie auch eine Nummer größer?"
+      ],
+      "num": 253,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2d6acc"
+    },
+    "die Entschuldi-": {
+      "ex": [
+        "Oh, Entschuldigung! – Macht nichts. Kein Problem. gung, -en"
+      ],
+      "num": 255,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5e75db"
+    },
+    "das Erdgeschoss,-e": {
+      "ex": [
+        "Ich wohne im Erdgeschoss."
+      ],
+      "num": 256,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2d6acc"
+    },
+    "die Erfahrung,": {
+      "ex": [
+        "-en Ich habe zehn Jahre Erfahrung in diesem Beruf."
+      ],
+      "num": 257,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#7222f2"
+    },
+    "erinnern": {
+      "ex": [
+        "(sich), Erinnerst du dich an José? - Nein, ich erinnere mich erinnert, nicht an ihn, tut mir leid.",
+        "hat erinnert Kannst du mich morgen bitte an meinen Arzttermin erinnern?"
+      ],
+      "num": 258,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2248f2"
+    },
+    "erkältet": {
+      "ex": [
+        "sein, Lisa ist erkältet. Sie kann heute nicht zur Schule ist erkältet, gehen.",
+        "war erkältet, ist erkältet gewesen"
+      ],
+      "num": 259,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5edbd5"
+    },
+    "erklären,": {
+      "ex": [
+        "erklärt, Ich verstehe das nicht. Kannst du mir das erklären? hat erklärt"
+      ],
+      "num": 260,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5ea3db"
+    },
+    "erlauben,": {
+      "ex": [
+        "erlaubt, Meine Kinder dürfen diesen Film sehen. Ich habe es hat erlaubt ihnen erlaubt."
+      ],
+      "num": 261,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5ea3db"
+    },
+    "erlaubt": {
+      "ex": [
+        "sein, Parken ist hier nicht erlaubt. ist erlaubt,",
+        "war erlaubt,",
+        "ist erlaubt gewesen"
+      ],
+      "num": 262,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2d6acc"
+    },
+    "die Erlaubnis": {
+      "ex": [
+        "(Sg.) Haben Sie eine Arbeitserlaubnis?"
+      ],
+      "num": 263,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2d6acc"
+    },
+    "die Ermäßigung,-en": {
+      "ex": [
+        "Für Schüler, Studenten und Rentner gibt es eine Ermäßigung."
+      ],
+      "num": 264,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2d6acc"
+    },
+    "erreichen,": {
+      "ex": [
+        "Wenn wir uns beeilen, erreichen wir noch den Zug erreicht, um acht Uhr.",
+        "hat erreicht Bis 18 Uhr können Sie mich im Büro erreichen."
+      ],
+      "num": 265,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2d6acc"
+    },
+    "erst": {
+      "ex": [
+        "Wir können erst morgen kommen.",
+        "Dina ist keine 18, sie ist erst 16 Jahre alt."
+      ],
+      "num": 266,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2d6acc"
+    },
+    "erzählen,": {
+      "ex": [
+        "erzählt, Wir müssen euch etwas erzählen! hat erzählt Erzählst du mir eine Geschichte?"
+      ],
+      "num": 268,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#7222f2"
+    },
+    "essen,": {
+      "ex": [
+        "isst, Was gibt es zu essen? hat gegessen"
+      ],
+      "num": 269,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2248f2"
+    },
+    "das Essen,": {
+      "ex": [
+        "- Das Essen in der Cafeteria ist meistens ganz gut.",
+        "Darf ich Sie zum Essen einladen?"
+      ],
+      "num": 270,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5e75db"
+    },
+    "etwas": {
+      "ex": [
+        "Ich muss dir etwas erzählen!",
+        "Haben Sie etwas zum Schreiben?",
+        "Ich habe leider nur Tee. Etwas anderes kann ich dir leider nicht anbieten."
+      ],
+      "num": 271,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2248f2"
+    },
+    "das Fach,": {
+      "ex": [
+        "¨-er Welches Fach magst du in der Schule am liebsten? (ab)fahren, Ich fahre mit dem Auto zur Arbeit."
+      ],
+      "num": 272,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5ea3db"
+    },
+    "fährt": {
+      "ex": [
+        "(ab), Achtung an Gleis 17! Der Zug München - Paris fährt ist (ab)gefahren jetzt ab.",
+        "die Abfahrt, -en Wir haben noch zwanzig Minuten bis zur Abfahrt."
+      ],
+      "num": 273,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5edbd5"
+    },
+    "der Fahrplan,": {
+      "ex": [
+        "¨-e Ist das der neue Fahrplan?",
+        "das (Fahr)Rad, ¨-er Wenn es nicht regnet, fahre ich mit dem Fahrrad. fallen, fällt, Pass auf, das Glas fällt gleich vom Tisch.",
+        "ist gefallen"
+      ],
+      "num": 275,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5e75db"
+    },
+    "der Familien-": {
+      "ex": [
+        "Mein Familienname ist González. name, -n"
+      ],
+      "num": 278,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2d6acc"
+    },
+    "der Fan,": {
+      "ex": [
+        "-s Er ist ein großer Fußballfan.",
+        "Bella ist ein Fan von Rammstein."
+      ],
+      "num": 279,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5e75db"
+    },
+    "fantastisch": {
+      "ex": [
+        "Dein neues Kleid sieht fantastisch aus!",
+        "Das Buch ist fantastisch. Du musst es unbedingt lesen!"
+      ],
+      "num": 280,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2248f2"
+    },
+    "fast": {
+      "ex": [
+        "Der Film ist fast zu Ende.",
+        "Ich habe fast alles verstanden."
+      ],
+      "num": 282,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#7222f2"
+    },
+    "faul": {
+      "ex": [
+        "Heute sind wir faul: Wir machen keine Hausauf- gaben und arbeiten nicht."
+      ],
+      "num": 283,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5edbd5"
+    },
+    "fehlen,": {
+      "ex": [
+        "fehlt, Herr Müller ist nicht da, er fehlt schon seit drei hat gefehlt Tagen.",
+        "Was fehlt Ihnen?"
+      ],
+      "num": 284,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5edbd5"
+    },
+    "feiern,": {
+      "ex": [
+        "feiert, Wir feiern heute meinen Geburtstag. hat gefeiert Die Feier war sehr schön."
+      ],
+      "num": 286,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5e75db"
+    },
+    "das Fenster,": {
+      "ex": [
+        "- Kannst du bitte das Fenster öffnen?"
+      ],
+      "num": 287,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2248f2"
+    },
+    "die Ferien": {
+      "ex": [
+        "(Pl.) Bald haben wir Ferien."
+      ],
+      "num": 288,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2d6acc"
+    },
+    "Fährst": {
+      "ex": [
+        "du in den Ferien weg oder bleibst du zu Hause?"
+      ],
+      "num": 289,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2248f2"
+    },
+    "fernsehen,": {
+      "ex": [
+        "Lass uns heute Abend mal fernsehen. sieht fern,",
+        "hat ferngesehen"
+      ],
+      "num": 290,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2248f2"
+    },
+    "der Fernseher,": {
+      "ex": [
+        "- Der Fernseher ist kaputt."
+      ],
+      "num": 291,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2248f2"
+    },
+    "das Fest,": {
+      "ex": [
+        "-e Frohes Fest!",
+        "Am Wochenende feiern wir ein Fest. Meine Tochter hat Geburtstag."
+      ],
+      "num": 293,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5e75db"
+    },
+    "das Festival,": {
+      "ex": [
+        "-s Am Wochenende ist in der Stadt ein Musik-Festival. fett Die Wurst ist mir zu fett."
+      ],
+      "num": 294,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#7222f2"
+    },
+    "die Firma,": {
+      "ex": [
+        "-en Er arbeitet jetzt bei einer anderen Firma. der Fisch, -e Fisch mag ich lieber als Fleisch."
+      ],
+      "num": 297,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#7222f2"
+    },
+    "fit": {
+      "ex": [
+        "sein, ist fit, Tom will fit sein. Er geht jeden Tag ins Fitness- war fit, studio.",
+        "ist fit gewesen"
+      ],
+      "num": 298,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5ea3db"
+    },
+    "fleißig": {
+      "ex": [
+        "Ibrahim ist sehr fleißig. Er macht immer seine Hausaufgaben.",
+        "(ab)fliegen, Ich fliege nicht gern; ich fahre lieber mit dem Zug. fliegt (ab), Ich fliege in den Ferien nach Spanien.",
+        "ist (ab)geflogen Wann fliegst du ab?"
+      ],
+      "num": 300,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2248f2"
+    },
+    "der Flohmarkt,": {
+      "ex": [
+        "¨-e Ich gehe gern auf den Flohmarkt.",
+        "Diesen Hut habe ich auf dem Flohmarkt gekauft."
+      ],
+      "num": 301,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5ea3db"
+    },
+    "der Flug,": {
+      "ex": [
+        "¨-e Ich möchte einen Flug nach Kanada buchen.",
+        "Der Flug LH123 von München nach Frankfurt ist um 21:00 Uhr."
+      ],
+      "num": 302,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2248f2"
+    },
+    "der Flughafen,": {
+      "ex": [
+        "¨ Kannst du mich zum Flughafen bringen?"
+      ],
+      "num": 303,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5edbd5"
+    },
+    "das Flugzeug,": {
+      "ex": [
+        "-e Das Flugzeug aus Berlin hat Verspätung.",
+        "Das Flugzeug startet in einer halben Stunde. Wir müssen uns beeilen."
+      ],
+      "num": 304,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5ea3db"
+    },
+    "der Fluss,": {
+      "ex": [
+        "¨-e Der Rhein ist ein großer Fluss."
+      ],
+      "num": 305,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2248f2"
+    },
+    "fotografiert,": {
+      "ex": [
+        "hat fotografiert"
+      ],
+      "num": 307,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2248f2"
+    },
+    "fragen,": {
+      "ex": [
+        "fragt, Er fragt, wann er kommen kann. hat gefragt Ich möchte Sie etwas fragen."
+      ],
+      "num": 309,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2d6acc"
+    },
+    "freiwillig": {
+      "ex": [
+        "Manchmal bleibe ich freiwillig länger im Büro. die Freizeit (Sg.) In meiner Freizeit spiele ich oft Fußball."
+      ],
+      "num": 312,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2248f2"
+    },
+    "freuen": {
+      "ex": [
+        "(sich), Zum Geburtstag habe ich ein interessantes Buch bekommen. Ich freue mich sehr über das Geschenk."
+      ],
+      "num": 314,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2d6acc"
+    },
+    "freut,": {
+      "ex": [
+        "Die Kinder freuen sich schon auf die Ferien.",
+        "hat gefreut Ich freue mich, weil ich heute mit meinen Freunden Fußball spiele.",
+        "Es/Das freut mich!"
+      ],
+      "num": 315,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2248f2"
+    },
+    "die Freundin,": {
+      "ex": [
+        "-nen Das ist meine Freundin Susanne."
+      ],
+      "num": 317,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2248f2"
+    },
+    "freundlich": {
+      "ex": [
+        "Er ist immer sehr freundlich zu mir.",
+        "Mit freundlichen Grüßen"
+      ],
+      "num": 318,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2d6acc"
+    },
+    "frisch": {
+      "ex": [
+        "Das Brot ist noch ganz frisch. Ich habe es gerade gekauft."
+      ],
+      "num": 319,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5edbd5"
+    },
+    "froh": {
+      "ex": [
+        "Ich bin froh, dass du kommen kannst."
+      ],
+      "num": 320,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#7222f2"
+    },
+    "Frohes": {
+      "ex": [
+        "Fest!"
+      ],
+      "num": 321,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#7222f2"
+    },
+    "früh": {
+      "ex": [
+        "Geht es auch später? Sechs Uhr ist mir zu früh.",
+        "Ich muss morgen sehr früh aufstehen."
+      ],
+      "num": 322,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5edbd5"
+    },
+    "frühstücken,": {
+      "ex": [
+        "Ich frühstücke immer um 9:00 Uhr. frühstückt,",
+        "hat gefrühstückt"
+      ],
+      "num": 325,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5edbd5"
+    },
+    "fühlen": {
+      "ex": [
+        "(sich), Wie fühlen Sie sich?"
+      ],
+      "num": 326,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5edbd5"
+    },
+    "fühlt,": {
+      "ex": [
+        "hat gefühlt Ich fühle mich heute nicht gut."
+      ],
+      "num": 327,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2d6acc"
+    },
+    "der Führer-": {
+      "ex": [
+        "Hast du den Führerschein?",
+        "schein, -e Sie hat die Führerscheinprüfung bestanden. die Führung, -en Die nächste Führung beginnt um 15 Uhr."
+      ],
+      "num": 328,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2d6acc"
+    },
+    "die Fundsachen": {
+      "ex": [
+        "Haben Sie meinen Schirm gefunden? - Sie können (Pl.) dort bei den Fundsachen schauen."
+      ],
+      "num": 329,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2d6acc"
+    },
+    "furchtbar": {
+      "ex": [
+        "Er hat furchtbare Schmerzen.",
+        "Die Hose sieht ja furchtbar aus. So kannst du nicht zur Arbeit gehen!"
+      ],
+      "num": 331,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5edbd5"
+    },
+    "die Gabel,": {
+      "ex": [
+        "-n Kann ich bitte eine Gabel haben?"
+      ],
+      "num": 333,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5ea3db"
+    },
+    "ganz": {
+      "ex": [
+        "Oh nein! Was ist passiert? Ist deine Brille jetzt kaputt? - Nein, zum Glück ist sie noch ganz! Morgen haben wir den ganzen Tag Schule.",
+        "Ich bin ganz sicher, dass dein Termin am Montag ist.",
+        "Ich finde Lara ganz nett.",
+        "Oh, ich habe meinen Zahnarzttermin ganz vergessen."
+      ],
+      "num": 334,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5e75db"
+    },
+    "die Garage,": {
+      "ex": [
+        "-n Hier ist eine Garage für dein Auto. der Garten, ¨ Wir haben leider keinen Garten. der Gast, ¨-e Heute Abend haben wir Gäste."
+      ],
+      "num": 335,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5edbd5"
+    },
+    "geben,": {
+      "ex": [
+        "gibt, Kannst du mir mal deinen Stift geben?",
+        "hat gegeben Es gibt keine Karten mehr für das Konzert."
+      ],
+      "num": 336,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5ea3db"
+    },
+    "Geburts-": {
+      "ex": [
+        "Das Geburtsjahr Ihres Sohnes, bitte?",
+        "(jahr, ort, tag), Bitte tragen Sie Ihren Geburtsort noch ein. (-e, -e, -e) Herzlichen Glückwunsch zum Geburtstag!"
+      ],
+      "num": 338,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5ea3db"
+    },
+    "geehrt-": {
+      "ex": [
+        "Sehr geehrte Damen und Herren,"
+      ],
+      "num": 339,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5ea3db"
+    },
+    "gefährlich": {
+      "ex": [
+        "Du darfst nicht bei Rot über die Straße gehen. Das ist gefährlich."
+      ],
+      "num": 340,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#7222f2"
+    },
+    "gefallen,": {
+      "ex": [
+        "gefällt, Das Bild gefällt mir.",
+        "hat gefallen Wie gefällt es Ihnen in Berlin?"
+      ],
+      "num": 341,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2d6acc"
+    },
+    "das Gegenteil": {
+      "ex": [
+        ", -e Das Gegenteil von „klein“ ist „groß“. gegenüber Die Post ist gegenüber vom Bahnhof.",
+        "Die Hausnummer 84 ist gleich gegenüber. das Gehalt, ¨-er Sie ist mit ihrem Gehalt zufrieden."
+      ],
+      "num": 343,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5e75db"
+    },
+    "gehen,": {
+      "ex": [
+        "geht, Ich weiß nicht, wie das geht. ist gegangen Wie geht‘s? - Es geht.",
+        "Ich muss jetzt leider gehen. Ich muss zum Arzt gehen. Das geht (doch) nicht!",
+        "Nimmst du die Straßenbahn? - Nein, ich gehe lieber zu Fuß."
+      ],
+      "num": 344,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2248f2"
+    },
+    "gehören,": {
+      "ex": [
+        "gehört, Gehört der Stift dir? hat gehört"
+      ],
+      "num": 345,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2d6acc"
+    },
+    "genau": {
+      "ex": [
+        "Sind Sie sicher, dass die Prüfung am 15. Juni ist? - Ja, das weiß ich genau.",
+        "Die Uhr geht genau. Es ist genau acht Uhr."
+      ],
+      "num": 348,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5edbd5"
+    },
+    "genug": {
+      "ex": [
+        "Es ist noch genug Pizza da. Möchtest du noch ein Stück?",
+        "Ich verdiene nicht genug."
+      ],
+      "num": 349,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5edbd5"
+    },
+    "das Gerät,": {
+      "ex": [
+        "-e Elektrogeräte finden Sie im dritten Stock. das Gericht, -e Mein Lieblingsgericht ist Pizza."
+      ],
+      "num": 353,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5edbd5"
+    },
+    "gern,": {
+      "ex": [
+        "lieber, Ich helfe Ihnen gern.",
+        "am liebsten Kaffee oder Tee? - Ich trinke lieber einen Tee.",
+        "Am liebsten trinke ich Kaffee."
+      ],
+      "num": 354,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5ea3db"
+    },
+    "die Geschichte,": {
+      "ex": [
+        "-n Erzählst du mir eine Geschichte?",
+        "Ich interessiere mich nicht für Geschichte. Paul hat gute Noten in Geschichte."
+      ],
+      "num": 356,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2248f2"
+    },
+    "das Geschirr": {
+      "ex": [
+        "(Sg.) Stellst du bitte das Geschirr in den Schrank?"
+      ],
+      "num": 357,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2d6acc"
+    },
+    "das Gesicht,": {
+      "ex": [
+        "-er Wasch dir bitte das Gesicht.",
+        "Sie hat ein freundliches Gesicht."
+      ],
+      "num": 358,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2d6acc"
+    },
+    "gewinnen,": {
+      "ex": [
+        "Unsere Mannschaft hat gewonnen."
+      ],
+      "num": 360,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#7222f2"
+    },
+    "gewinnt,": {
+      "ex": [
+        "Mein Sohn will bei diesem Spiel immer gewinnen. hat gewonnen"
+      ],
+      "num": 361,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#7222f2"
+    },
+    "das Gewitter,": {
+      "ex": [
+        "- Ich glaube, es gibt heute ein Gewitter. die Gitarre, -n Er kann gut Gitarre spielen."
+      ],
+      "num": 362,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5ea3db"
+    },
+    "glauben,": {
+      "ex": [
+        "glaubt, Sie können mir glauben, es ist so. hat geglaubt Ich glaube, er kommt gleich."
+      ],
+      "num": 364,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#7222f2"
+    },
+    "der Glück-": {
+      "ex": [
+        "Herzlichen Glückwunsch zum Geburtstag! wunsch, ¨-e"
+      ],
+      "num": 369,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2248f2"
+    },
+    "gratulieren,": {
+      "ex": [
+        "Ich gratuliere dir! gratuliert,",
+        "hat gratuliert"
+      ],
+      "num": 370,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#7222f2"
+    },
+    "grillen,": {
+      "ex": [
+        "grillt, Heute grillen wir im Garten. hat gegrillt"
+      ],
+      "num": 371,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2d6acc"
+    },
+    "die Grippe": {
+      "ex": [
+        "(Sg.) Ich habe eine Grippe und kann leider nicht",
+        "kommen."
+      ],
+      "num": 372,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5ea3db"
+    },
+    "die Größe,": {
+      "ex": [
+        "-n Haben Sie das T-Shirt auch in Größe M?"
+      ],
+      "num": 374,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5e75db"
+    },
+    "gut,": {
+      "ex": [
+        "besser, Das finde ich gut.",
+        "am besten Ich komme um 17 Uhr. – Gut!"
+      ],
+      "num": 379,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2248f2"
+    },
+    "gesund": {
+      "ex": [
+        "Ich hatte Grippe. Jetzt bin ich wieder gesund. die Gesundheit Gesundheit! Sind Sie erkältet?",
+        "(Sg.)"
+      ],
+      "num": 382,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#7222f2"
+    },
+    "haben,": {
+      "ex": [
+        "hat, Ich habe ein neues Auto. hatte, hat gehabt Hast du kurz Zeit?"
+      ],
+      "num": 385,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5ea3db"
+    },
+    "die Halle,": {
+      "ex": [
+        "-n Wir treffen uns in Halle B.",
+        "Wo ist die neue Sporthalle?"
+      ],
+      "num": 387,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5edbd5"
+    },
+    "halten,": {
+      "ex": [
+        "hält, Dieser Zug hält nicht in Rüdesheim."
+      ],
+      "num": 389,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2d6acc"
+    },
+    "hat": {
+      "ex": [
+        "gehustet"
+      ],
+      "num": 437,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#7222f2"
+    },
+    "die Haltestelle,": {
+      "ex": [
+        "-n An der nächsten Haltestelle müssen Sie aussteigen. der Hamburger, - Einen Hamburger ohne Salat, bitte."
+      ],
+      "num": 391,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2248f2"
+    },
+    "hängen,": {
+      "ex": [
+        "hängt, Im Museum hängen moderne Bilder."
+      ],
+      "num": 394,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5e75db"
+    },
+    "hart": {
+      "ex": [
+        "Ich finde das Bett zu hart.",
+        "Die Brötchen sind ja ganz hart."
+      ],
+      "num": 396,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2d6acc"
+    },
+    "hässlich": {
+      "ex": [
+        "Ich finde das Kleid hässlich. Es gefällt mir nicht. die Hauptstadt, ¨-e Berlin ist die Hauptstadt von Deutschland."
+      ],
+      "num": 397,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2248f2"
+    },
+    "der Haushalt,": {
+      "ex": [
+        "-e Wer macht bei euch den Haushalt? - Meine Frau und ich machen den Haushalt zusammen:",
+        "Ich wasche die Wäsche und sie putzt und räumt auf. das Heft, -e Hast du dein Heft dabei?"
+      ],
+      "num": 399,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5e75db"
+    },
+    "heiraten,": {
+      "ex": [
+        "heiratet, Meine Schwester heiratet nächsten Monat. hat geheiratet"
+      ],
+      "num": 401,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5edbd5"
+    },
+    "heiß": {
+      "ex": [
+        "Vorsicht, der Tee ist heiß!",
+        "Mir ist heiß. Kannst du das Fenster öffnen?"
+      ],
+      "num": 402,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5e75db"
+    },
+    "heißen,": {
+      "ex": [
+        "heißt, Ich heiße Charlotte Meier. hat geheißen Wie heißt das auf Deutsch?"
+      ],
+      "num": 403,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2d6acc"
+    },
+    "die Heizung,": {
+      "ex": [
+        "-en Es ist kalt. Ist die Heizung kaputt?"
+      ],
+      "num": 404,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5edbd5"
+    },
+    "helfen,": {
+      "ex": [
+        "hilft, Würden Sie mir bitte helfen? hat geholfen"
+      ],
+      "num": 405,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5e75db"
+    },
+    "Haben": {
+      "ex": [
+        "Sie das T-Shirt auch in hellblau? das Hemd, -en Nick trägt heute ein neues Hemd."
+      ],
+      "num": 407,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2d6acc"
+    },
+    "her/her-/-her": {
+      "ex": [
+        "Komm bitte mal her!"
+      ],
+      "num": 408,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#7222f2"
+    },
+    "Herein!": {
+      "ex": [
+        "Die Tür ist offen. Woher kommen Sie?"
+      ],
+      "num": 409,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5e75db"
+    },
+    "heraus/raus": {
+      "ex": [
+        "Möchtet ihr nicht rauskommen? Das Wetter ist",
+        "so schön.",
+        "Kannst du bitte den Müll rausbringen?"
+      ],
+      "num": 410,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2d6acc"
+    },
+    "herein/rein": {
+      "ex": [
+        "Herein! Die Tür ist offen.",
+        "Möchtest du nicht reinkommen? Ich kann uns einen Tee machen."
+      ],
+      "num": 411,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2d6acc"
+    },
+    "der Herd,": {
+      "ex": [
+        "-e In der neuen Küche fehlt noch der Herd. der Herr, -en Guten Tag, Herr Sommer!"
+      ],
+      "num": 412,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#7222f2"
+    },
+    "herstellen,": {
+      "ex": [
+        "In unserer Firma stellen wir Möbel her. stellt her,"
+      ],
+      "num": 413,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5ea3db"
+    },
+    "herunterladen,": {
+      "ex": [
+        "Er lädt die Musik aus dem Internet herunter. lädt herunter,"
+      ],
+      "num": 415,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2248f2"
+    },
+    "Heute": {
+      "ex": [
+        "muss ich nur bis 16 Uhr arbeiten."
+      ],
+      "num": 419,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5ea3db"
+    },
+    "der Himmel": {
+      "ex": [
+        "(Sg.) Heute ist so tolles Wetter: Der Himmel ist blau und es gibt keine Wolken."
+      ],
+      "num": 422,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5edbd5"
+    },
+    "hin/hin-/-hin": {
+      "ex": [
+        "Wo gehst du hin?/Wohin gehst du?",
+        "Wohin ist Paul gegangen? – Ich glaube dorthin. Er geht in den Garten hinaus.",
+        "Wir gehen ins Haus hinein."
+      ],
+      "num": 423,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5edbd5"
+    },
+    "hinter": {
+      "ex": [
+        "Hinter dem Haus haben wir einen Garten. das Hobby, -s Meine Hobbys sind Joggen und Schwimmen."
+      ],
+      "num": 425,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2248f2"
+    },
+    "die Hochzeit,": {
+      "ex": [
+        "-en Zu seiner Hochzeit kommen mehr als einhundert Gäste."
+      ],
+      "num": 427,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5edbd5"
+    },
+    "hoffen,": {
+      "ex": [
+        "hofft, Ich hoffe, dass es dir gut geht. hat gehofft"
+      ],
+      "num": 428,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5ea3db"
+    },
+    "hoffentlich": {
+      "ex": [
+        "Hoffentlich hat unser Zug keine Verspätung."
+      ],
+      "num": 429,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2248f2"
+    },
+    "holen,": {
+      "ex": [
+        "holt, Soll ich uns etwas zu trinken holen? hat geholt"
+      ],
+      "num": 430,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2d6acc"
+    },
+    "die Homepage,": {
+      "ex": [
+        "-s Auf der Homepage von Freiburg gibt es alle",
+        "wichtigen Informationen über die Stadt.",
+        "Kennst du eine Homepage mit Deutschübungen?"
+      ],
+      "num": 431,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#7222f2"
+    },
+    "hören,": {
+      "ex": [
+        "hört, Hör mal! Was ist das?"
+      ],
+      "num": 432,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2d6acc"
+    },
+    "die Idee,": {
+      "ex": [
+        "-n Was machen wir heute Abend? Hast du eine gute Idee?"
+      ],
+      "num": 438,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#7222f2"
+    },
+    "die Information,-en": {
+      "ex": [
+        "Wir haben hier einige wichtige Informationen",
+        "für Sie.",
+        "Wenn Sie Fragen haben, gehen Sie zur Information."
+      ],
+      "num": 441,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5ea3db"
+    },
+    "informieren": {
+      "ex": [
+        "Ich möchte mich vor der Reise über das Land (sich) (über), informieren."
+      ],
+      "num": 442,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2248f2"
+    },
+    "informiert,": {
+      "ex": [
+        "Hast du dich über die Prüfung informiert? hat informiert"
+      ],
+      "num": 443,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2d6acc"
+    },
+    "die Insel,": {
+      "ex": [
+        "-n Ich möchte im Sommer auf einer Insel Urlaub",
+        "machen.",
+        "Rügen ist die größte deutsche Insel."
+      ],
+      "num": 444,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2248f2"
+    },
+    "das Instrument,": {
+      "ex": [
+        "-e Ich spiele Klavier. Spielen Sie auch ein Instrument? intelligent Einstein war sehr intelligent."
+      ],
+      "num": 445,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5e75db"
+    },
+    "das Interesse,": {
+      "ex": [
+        "-n Ich habe viele Interessen: Sport, Lesen, Kultur,",
+        "Reisen."
+      ],
+      "num": 446,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5ea3db"
+    },
+    "interessieren": {
+      "ex": [
+        "(sich), Ich interessiere mich für Fußball. interessiert, Den Artikel über Brasilien finde ich sehr hat interessiert interessant."
+      ],
+      "num": 447,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5e75db"
+    },
+    "interessant": {
+      "ex": [
+        "Ich lese gerade ein interessantes Buch."
+      ],
+      "num": 448,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#7222f2"
+    },
+    "das Interview,": {
+      "ex": [
+        "-s Komm schnell! Im Radio kommt ein Interview mit deinem Lieblingssänger."
+      ],
+      "num": 451,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2d6acc"
+    },
+    "jeder,": {
+      "ex": [
+        "e, s Das Restaurant hat jeden Tag geöffnet."
+      ],
+      "num": 453,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5edbd5"
+    },
+    "Jedes": {
+      "ex": [
+        "Kind bekommt einen Ball."
+      ],
+      "num": 454,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5ea3db"
+    },
+    "jemand": {
+      "ex": [
+        "Hat jemand meinen Stift?",
+        "Hallo, ist jemand da?"
+      ],
+      "num": 455,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5e75db"
+    },
+    "joggen,": {
+      "ex": [
+        "joggt, Ich jogge gern im Park. ist/hat gejoggt"
+      ],
+      "num": 458,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2d6acc"
+    },
+    "die Jugend-": {
+      "ex": [
+        "Wir übernachten in einer Jugendherberge. herberge, -n",
+        "der/die Viele Jugendliche hören den ganzen Tag Musik."
+      ],
+      "num": 459,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#7222f2"
+    },
+    "Jugendliche,": {
+      "ex": [
+        "-n Der Eintritt für Kinder und Jugendliche bis 16 Jahre ist frei."
+      ],
+      "num": 460,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2248f2"
+    },
+    "der Kaffee,": {
+      "ex": [
+        "-s Zum Frühstück trinke ich immer Kaffee.",
+        "Einen Kaffee, bitte."
+      ],
+      "num": 463,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2248f2"
+    },
+    "der Kalender,": {
+      "ex": [
+        "- Haben Sie am Montag Zeit? - Einen Moment, ich schaue in meinem Kalender.",
+        "Ich schreibe alle Termine in meinen Kalender."
+      ],
+      "num": 464,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#7222f2"
+    },
+    "kalt": {
+      "ex": [
+        "Heute ist es sehr kalt.",
+        "Der Kaffee ist kalt. Ich möchte ihn nicht mehr trinken.",
+        "Mir ist kalt."
+      ],
+      "num": 465,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5e75db"
+    },
+    "die Kamera,": {
+      "ex": [
+        "-s Hannes hat eine neue Kamera. Er kann mit der"
+      ],
+      "num": 466,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5edbd5"
+    },
+    "Kamera": {
+      "ex": [
+        "Fotos und Filme machen."
+      ],
+      "num": 467,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2d6acc"
+    },
+    "die Kasse,": {
+      "ex": [
+        "-n Zahlen Sie bitte an der Kasse."
+      ],
+      "num": 471,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2248f2"
+    },
+    "die Katze,": {
+      "ex": [
+        "-n Meine Tochter wünscht sich eine Katze. kaufen, kauft, Tim kauft sich ein neues Auto.",
+        "hat gekauft"
+      ],
+      "num": 472,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5e75db"
+    },
+    "das Kaufhaus,": {
+      "ex": [
+        "-¨er Meine Pullover kaufe ich immer im Kaufhaus",
+        "Hertie."
+      ],
+      "num": 473,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2d6acc"
+    },
+    "kein,": {
+      "ex": [
+        "e Hast du keinen Hunger?",
+        "Ich habe heute leider keine Zeit. Ich spreche leider kein Chinesisch. Ich habe keine Kinder."
+      ],
+      "num": 474,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2248f2"
+    },
+    "der Keller,": {
+      "ex": [
+        "- Bitte bring die Kartoffeln in den Keller!",
+        "Die Waschmaschinen sind im Keller."
+      ],
+      "num": 475,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5ea3db"
+    },
+    "kennen,": {
+      "ex": [
+        "kennt, Kennen Sie diese Frau? – Nein, leider nicht. hat gekannt Kennen Sie Berlin? – Ja, eine tolle Stadt."
+      ],
+      "num": 476,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5e75db"
+    },
+    "kennenlernen,": {
+      "ex": [
+        "Wo habt ihr euch kennengelernt? – Wir haben uns lernt kennen, in München kennengelernt.",
+        "hat kennengelernt"
+      ],
+      "num": 477,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5edbd5"
+    },
+    "die Kenntnisse": {
+      "ex": [
+        "(Pl.) Deine Deutschkenntnisse sind sehr gut!",
+        "Ich möchte meine Computerkenntnisse verbessern."
+      ],
+      "num": 478,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2248f2"
+    },
+    "die Kette,": {
+      "ex": [
+        "-n Meine Mutter bekommt eine schöne Kette zum",
+        "Geburtstag."
+      ],
+      "num": 479,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5e75db"
+    },
+    "der Kindergarten,¨-": {
+      "ex": [
+        "Die kleine Laura geht schon in den Kindergarten. das Kino, -s Gehen wir heute Abend zusammen ins Kino?"
+      ],
+      "num": 481,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2d6acc"
+    },
+    "klappen,": {
+      "ex": [
+        "klappt, Können wir uns heute Mittag treffen? – Ja, das hat geklappt klappt.",
+        "Wie war die Reise? - Gut, es hat alles super geklappt."
+      ],
+      "num": 483,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#7222f2"
+    },
+    "das Klavier,": {
+      "ex": [
+        "-e Jakob kann sehr gut Klavier spielen. das Kleid, -er Julia möchte ein rotes Kleid kaufen."
+      ],
+      "num": 485,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2d6acc"
+    },
+    "klug": {
+      "ex": [
+        "Molly ist ein kluges Mädchen.",
+        "Lisa ist sehr klug. Sie bekommt immer gute Noten. Das ist klug von dir."
+      ],
+      "num": 488,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5edbd5"
+    },
+    "kochen,": {
+      "ex": [
+        "kocht, Herr Georgi kann gut kochen. hat gekocht Das Wasser kocht."
+      ],
+      "num": 489,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2d6acc"
+    },
+    "komisch": {
+      "ex": [
+        "Der Film war sehr komisch. Wir haben viel gelacht.",
+        "Eine grüne Hose und gelbe Schuhe? Das sieht komisch aus.",
+        "Das Essen schmeckt komisch. Probier mal!"
+      ],
+      "num": 492,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2248f2"
+    },
+    "kommen,": {
+      "ex": [
+        "kommt, Woher kommen Sie? – Aus Frankreich. ist gekommen Er wird bald kommen."
+      ],
+      "num": 493,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2d6acc"
+    },
+    "können,": {
+      "ex": [
+        "kann, Ich kann Deutsch und Russisch. Aber Englisch kann konnte, ich nicht.",
+        "hat gekonnt Können Sie mir helfen?",
+        "Du kannst durch den Park laufen, das ist am schnellsten."
+      ],
+      "num": 494,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5edbd5"
+    },
+    "Kann": {
+      "ex": [
+        "ich Sie kurz sprechen?"
+      ],
+      "num": 523,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#7222f2"
+    },
+    "der Kontakt,": {
+      "ex": [
+        "-e Ich habe wenig Kontakt zu meinen Kollegen.",
+        "Bitte schicken Sie mir Ihre Kontaktdaten!"
+      ],
+      "num": 496,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2248f2"
+    },
+    "das Konto,": {
+      "ex": [
+        "-en Das Geld überweisen wir am ersten März auf Ihr Konto."
+      ],
+      "num": 497,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2248f2"
+    },
+    "kontrollieren,": {
+      "ex": [
+        "Können Sie bei meinem Auto bitte das Öl kontrolliert, kontrollieren?",
+        "hat kontrolliert Bitte öffnen Sie Ihren Koffer, wir müssen Ihr",
+        "Gepäck kontrollieren."
+      ],
+      "num": 498,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2d6acc"
+    },
+    "das Konzert,": {
+      "ex": [
+        "-e Für das Konzert am Sonntag gibt es noch Karten. der Kopf, ¨-e Mein Kopf tut weh!"
+      ],
+      "num": 499,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2248f2"
+    },
+    "der Körper,": {
+      "ex": [
+        "- Der Arzt sagt, ich muss etwas für meinen Körper tun, z. B. schwimmen oder Fahrrad fahren."
+      ],
+      "num": 500,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#7222f2"
+    },
+    "die Kosmetik": {
+      "ex": [
+        "(Sg.) Kosmetik können Sie im Erdgeschoss kaufen."
+      ],
+      "num": 501,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5e75db"
+    },
+    "kosten,": {
+      "ex": [
+        "kostet,",
+        "hat gekostet Wie viel kostet das Buch? – 20 Euro."
+      ],
+      "num": 502,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2d6acc"
+    },
+    "kostenlos": {
+      "ex": [
+        "Diese Zeitschrift kostet nichts. Sie ist kostenlos. krank Ich kann heute nicht zur Arbeit kommen, ich bin"
+      ],
+      "num": 503,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2248f2"
+    },
+    "das Kranken-": {
+      "ex": [
+        "Meine Tante ist im Krankenhaus.",
+        "haus, ¨-er Er hat sich verletzt und muss ins Krankenhaus."
+      ],
+      "num": 505,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5edbd5"
+    },
+    "die Kranken-": {
+      "ex": [
+        "Bei welcher Krankenkasse sind Sie? kasse, -n"
+      ],
+      "num": 506,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2d6acc"
+    },
+    "die Krankheit,": {
+      "ex": [
+        "-en Welche Krankheit hat Herr Brandner?"
+      ],
+      "num": 507,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5ea3db"
+    },
+    "der Kredit,": {
+      "ex": [
+        "-e Ich brauche einen Kredit von der Bank.",
+        "Bezahlen Sie mit Kreditkarte?"
+      ],
+      "num": 508,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#7222f2"
+    },
+    "die Kreuzung,": {
+      "ex": [
+        "-en Fahren Sie an der nächsten Kreuzung rechts."
+      ],
+      "num": 509,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2d6acc"
+    },
+    "kriegen,": {
+      "ex": [
+        "kriegt, Ich kriege 15 Euro pro Stunde für meinen Job. hat gekriegt Auch wenn du schnell läufst: Ich kriege dich.",
+        "Was kriegen Sie? – Ein Käsebrötchen, bitte."
+      ],
+      "num": 510,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5ea3db"
+    },
+    "der Krimi,": {
+      "ex": [
+        "-s Miriam liest gern spannende Krimis.",
+        "Schauen wir am Sonntag zusammen den Tatort?",
+        "– Nein, ich mag keine Krimis."
+      ],
+      "num": 511,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#7222f2"
+    },
+    "die Küche,": {
+      "ex": [
+        "-n Ich suche eine neue Wohnung mit drei Zimmern, Küche und Bad."
+      ],
+      "num": 512,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#7222f2"
+    },
+    "der Kuchen,": {
+      "ex": [
+        "- Er ißt sonntags ein Stück Kuchen.",
+        "Schokoladenkuchen schmeckt mir am besten."
+      ],
+      "num": 513,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5ea3db"
+    },
+    "kühl": {
+      "ex": [
+        "Es ist kühl draußen. Zieh dir eine Jacke an."
+      ],
+      "num": 514,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5ea3db"
+    },
+    "der Kühl-": {
+      "ex": [
+        "Haben wir noch Milch? – Ja, im Kühlschrank. schrank, ¨-e"
+      ],
+      "num": 515,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5edbd5"
+    },
+    "die Kultur,": {
+      "ex": [
+        "-en Ich finde fremde Länder und Kulturen sehr",
+        "interessant.",
+        "Jana interessiert sich sehr für Kultur. Sie geht jede Woche ins Theater oder ins Museum."
+      ],
+      "num": 516,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#7222f2"
+    },
+    "kümmern": {
+      "ex": [
+        "(sich), Sonja kann nicht arbeiten. Sie muss sich um ihre kümmert, Tochter kümmern.",
+        "hat gekümmert Ich habe jetzt keine Zeit. Ich muss mich um das Essen kümmern."
+      ],
+      "num": 517,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2d6acc"
+    },
+    "kündigen,": {
+      "ex": [
+        "kündigt, Meine Arbeit gefällt mir nicht mehr. Ich habe heute hat gekündigt gekündigt."
+      ],
+      "num": 519,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2248f2"
+    },
+    "die Kunst,": {
+      "ex": [
+        "¨-e Ich verstehe nichts von moderner Kunst."
+      ],
+      "num": 520,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2248f2"
+    },
+    "Kunst": {
+      "ex": [
+        "war mein Lieblingsfach in der Schule. der Kurs, -e Der Deutschkurs dauert zwei Monate."
+      ],
+      "num": 521,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5e75db"
+    },
+    "lachen,": {
+      "ex": [
+        "lacht, Die Kinder lachen über den Witz. hat gelacht Lachen ist gesund."
+      ],
+      "num": 524,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#7222f2"
+    },
+    "die Lampe,": {
+      "ex": [
+        "-n Mach bitte die Lampe an. Es ist so dunkel."
+      ],
+      "num": 526,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2248f2"
+    },
+    "die Landschaft,": {
+      "ex": [
+        "-en Die Landschaft ist sehr schön."
+      ],
+      "num": 528,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2248f2"
+    },
+    "lassen,": {
+      "ex": [
+        "lässt, Lass mich in Ruhe!",
+        "hat gelassen Kann ich mein Auto hier stehen lassen?",
+        "Ich kann meine kleine Tochter noch nicht allein lassen."
+      ],
+      "num": 531,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5e75db"
+    },
+    "laufen,": {
+      "ex": [
+        "läuft, Ich gehe jeden Morgen laufen.",
+        "ist gelaufen Unsere Tochter ist erst ein Jahr alt, aber sie kann schon laufen.",
+        "Wann läuft der Film?"
+      ],
+      "num": 532,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5edbd5"
+    },
+    "leer": {
+      "ex": [
+        "Die Kanne ist fast leer. Ich mache neuen Tee."
+      ],
+      "num": 535,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#7222f2"
+    },
+    "legen,": {
+      "ex": [
+        "legt, Legen Sie das Buch auf den Tisch. hat gelegt"
+      ],
+      "num": 536,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2248f2"
+    },
+    "leihen,": {
+      "ex": [
+        "leiht, Kannst du mir fünf Euro leihen? hat geliehen"
+      ],
+      "num": 539,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5edbd5"
+    },
+    "lernen,": {
+      "ex": [
+        "lernt, Wie lange lernen Sie schon Deutsch? hat gelernt"
+      ],
+      "num": 541,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5edbd5"
+    },
+    "lesen,": {
+      "ex": [
+        "liest, In der Schule lesen wir ein Buch von Goethe. hat gelesen"
+      ],
+      "num": 542,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5edbd5"
+    },
+    "das Licht,": {
+      "ex": [
+        "-er Es ist so dunkel. Mach bitte das Licht an!"
+      ],
+      "num": 544,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5ea3db"
+    },
+    "lieben,": {
+      "ex": [
+        "liebt, Ich liebe dich! hat geliebt"
+      ],
+      "num": 546,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5ea3db"
+    },
+    "liefern,": {
+      "ex": [
+        "liefert, Wir liefern Ihnen den Schrank nach Hause. hat geliefert"
+      ],
+      "num": 549,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#7222f2"
+    },
+    "liegen,": {
+      "ex": [
+        "liegt, Die Zeitung liegt auf dem Tisch. hat/ist gelegen Judith liegt noch im Bett.",
+        "Frankfurt liegt am Main."
+      ],
+      "num": 550,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#7222f2"
+    },
+    "der Link,": {
+      "ex": [
+        "-s Ich schicke dir einen Link zu Deutschübungen. links Gehen Sie die nächste Straße links."
+      ],
+      "num": 551,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5edbd5"
+    },
+    "der Löffel,": {
+      "ex": [
+        "- Bitte bringen Sie mir einen Löffel."
+      ],
+      "num": 552,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5edbd5"
+    },
+    "das Lokal,": {
+      "ex": [
+        "-e Gibt es hier in der Nähe ein gutes Lokal? die Lüge, -n Das stimmt nicht! Das ist eine Lüge! lügen, lügt, Du sollst nicht lügen.",
+        "hat gelogen Glaub ihm nicht, er lügt."
+      ],
+      "num": 553,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2248f2"
+    },
+    "die Lust": {
+      "ex": [
+        "(Sg.) Gehen wir heute Abend ins Kino? - Nein, ich habe keine Lust.",
+        "Ich habe Lust auf Schokolade."
+      ],
+      "num": 554,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5e75db"
+    },
+    "machen,": {
+      "ex": [
+        "macht, Was machst du heute Abend? hat gemacht Ich muss jetzt das Essen machen.",
+        "Das macht 5 Euro 95.",
+        "Entschuldigung! - Das macht doch nichts."
+      ],
+      "num": 556,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5e75db"
+    },
+    "Mädchen?": {
+      "ex": [
+        ""
+      ],
+      "num": 558,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#7222f2"
+    },
+    "der Magen,": {
+      "ex": [
+        "¨- Mein Magen tut weh."
+      ],
+      "num": 559,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#7222f2"
+    },
+    "die Mailbox,": {
+      "ex": [
+        "-en Hier ist die Mailbox von Susanne König.",
+        "Ich habe dir auf die Mailbox gesprochen."
+      ],
+      "num": 560,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2d6acc"
+    },
+    "mal": {
+      "ex": [
+        "/ das Mal Sag mal, wie gefällt dir mein neues Kleid?",
+        "Das erste Mal war ich vor fünf Jahren in England. Tschüss, bis zum nächsten Mal!"
+      ],
+      "num": 561,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2248f2"
+    },
+    "malen,": {
+      "ex": [
+        "malt, Mein Sohn kann gut malen. hat gemalt"
+      ],
+      "num": 562,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#7222f2"
+    },
+    "manch-": {
+      "ex": [
+        "Manche Nachbarn sind unfreundlich. manchmal Manchmal essen wir im Restaurant.",
+        "Rauchen Sie? - Manchmal. der Mann, ¨-er Mein Mann ist Polizist."
+      ],
+      "num": 564,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5e75db"
+    },
+    "der Markt,": {
+      "ex": [
+        "¨-e Ich gehe heute auf den Markt.",
+        "Samstags ist hier Markt."
+      ],
+      "num": 566,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#7222f2"
+    },
+    "das Medikament,": {
+      "ex": [
+        "-e Nehmen Sie dieses Medikament dreimal pro Tag! das Meer, -e Wir machen Urlaub am Meer."
+      ],
+      "num": 568,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5ea3db"
+    },
+    "Mehr": {
+      "ex": [
+        "kann ich nicht essen! Ich möchte mehr Taschengeld."
+      ],
+      "num": 570,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5edbd5"
+    },
+    "meinen,": {
+      "ex": [
+        "meint, Wie meinst du das? Erklär mir das bitte genauer! hat gemeint Der Film ist gut. Was meinst du?"
+      ],
+      "num": 571,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5ea3db"
+    },
+    "die Meinung,": {
+      "ex": [
+        "-en Meine Meinung zu dem Thema ist: …",
+        "Was ist deine Meinung dazu?",
+        "Ich habe meine Meinung geändert."
+      ],
+      "num": 572,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#7222f2"
+    },
+    "meistens": {
+      "ex": [
+        "Meistens trinke ich zum Frühstück nur einen Kaffee. die Menge, -n Wir haben noch eine Menge Zeit.",
+        "Ich kenne eine Menge Leute in dieser Stadt."
+      ],
+      "num": 574,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#7222f2"
+    },
+    "merken,": {
+      "ex": [
+        "merkt, Ich kann mir keine Zahlen merken. Ich vergesse sie hat gemerkt sofort."
+      ],
+      "num": 576,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5ea3db"
+    },
+    "Merkst": {
+      "ex": [
+        "du, dass es wärmer wird?"
+      ],
+      "num": 577,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5ea3db"
+    },
+    "die Messe,": {
+      "ex": [
+        "-n Kommst du mit zur Buchmesse nach Frankfurt? das Messer, - Das Messer schneidet nicht gut.",
+        "Ich habe nur ein Messer. Kannst du mir bitte noch eine Gabel bringen?"
+      ],
+      "num": 578,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#7222f2"
+    },
+    "die Miete,": {
+      "ex": [
+        "-n Wie viel Miete bezahlst du für deine Wohnung?"
+      ],
+      "num": 579,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2d6acc"
+    },
+    "mieten,": {
+      "ex": [
+        "mietet, Ich möchte ein Auto mieten. hat gemietet"
+      ],
+      "num": 580,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5ea3db"
+    },
+    "mindestens": {
+      "ex": [
+        "Bitte kommen Sie mindestens zwei Stunden vor Ihrem Flug zum Flughafen.",
+        "Schreiben Sie mindestens sieben Sätze!",
+        "Ich warte schon mindestens 20 Minuten. Wann kommst du denn endlich?"
+      ],
+      "num": 582,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2248f2"
+    },
+    "das Mineral-": {
+      "ex": [
+        "Ein Glas Mineralwasser, bitte. wasser (Sg.)"
+      ],
+      "num": 583,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2d6acc"
+    },
+    "der Mitarbeiter,": {
+      "ex": [
+        "- Unsere Firma hat sieben Mitarbeiter. das Mittagessen, - Um zwölf Uhr gibt es Mittagessen."
+      ],
+      "num": 585,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5ea3db"
+    },
+    "die Mitte,": {
+      "ex": [
+        "-n Den Schrank stellen wir an die Wand, den Tisch in die Mitte.",
+        "Ich habe bis Mitte August frei."
+      ],
+      "num": 586,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2248f2"
+    },
+    "das Mittel,": {
+      "ex": [
+        "- Haben Sie ein Mittel gegen Magenschmerzen?",
+        "Das neue Waschmittel ist sehr gut. die Möbel (Pl.) Eure Möbel sind sehr schön."
+      ],
+      "num": 587,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5e75db"
+    },
+    "das Mobil-": {
+      "ex": [
+        "Wie kann ich Sie erreichen? Haben Sie ein telefon, -e Mobiltelefon?"
+      ],
+      "num": 588,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5ea3db"
+    },
+    "möchten,": {
+      "ex": [
+        "möchte, Was möchten Sie trinken? mochte,",
+        "hat gemocht"
+      ],
+      "num": 589,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#7222f2"
+    },
+    "die Mode,": {
+      "ex": [
+        "-n Wie findest du die neue Mode?"
+      ],
+      "num": 590,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2248f2"
+    },
+    "modern": {
+      "ex": [
+        "Das Stadtzentrum von Frankfurt ist sehr modern."
+      ],
+      "num": 591,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5edbd5"
+    },
+    "mögen,": {
+      "ex": [
+        "mag, Magst du Schokolade? - Nein, ich mag keine mochte, Süßigkeiten.",
+        "hat gemocht"
+      ],
+      "num": 592,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#7222f2"
+    },
+    "der Moment,": {
+      "ex": [
+        "-e Einen Moment, bitte.",
+        "Warten Sie bitte einen Moment.",
+        "Ich habe im Moment sehr viel zu tun. morgen Morgen beginnt die Schule erst um zehn Uhr."
+      ],
+      "num": 594,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5e75db"
+    },
+    "der Motor,": {
+      "ex": [
+        "-en Der Motor ist kaputt. Das Auto fährt nicht mehr. der Motorroller, - Oskar fährt mit dem Motorroller zur Arbeit. müde Ich bin müde. Ich gehe schlafen."
+      ],
+      "num": 595,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2248f2"
+    },
+    "der Müll": {
+      "ex": [
+        "(Sg.) Bringst du bitte den Müll raus?",
+        "Kann ich die Zeitungen wegwerfen? - Ja, sie sind alt. Bring/Wirf sie bitte in den Müll!"
+      ],
+      "num": 596,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5ea3db"
+    },
+    "der Mund,": {
+      "ex": [
+        "¨-er Öffnen Sie bitte den Mund. Ich möchte in Ihren",
+        "Hals sehen."
+      ],
+      "num": 597,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5e75db"
+    },
+    "das Museum,": {
+      "ex": [
+        "-een Im Kunstmuseum gibt es eine neue Ausstellung. die Musik (Sg.) Wie findest du die Musik?",
+        "Spanische Musik gefällt mir gut."
+      ],
+      "num": 598,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2248f2"
+    },
+    "müssen,": {
+      "ex": [
+        "muss, Ich muss jeden Tag von 8 Uhr bis 18 Uhr arbeiten. musste"
+      ],
+      "num": 599,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5ea3db"
+    },
+    "die Mütze,": {
+      "ex": [
+        "-n Haben Sie rote Mützen?"
+      ],
+      "num": 600,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2248f2"
+    },
+    "der Nachbar,": {
+      "ex": [
+        "-n, Mein Nachbar kommt aus Brasilien und meine die Nachbarin,-nen Nachbarin ist Italienerin.",
+        "Die neuen Nachbarn sind sehr nett."
+      ],
+      "num": 602,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5e75db"
+    },
+    "die Nachricht,": {
+      "ex": [
+        "-en Ich sehe abends immer die Nachrichten im",
+        "Fernsehen.",
+        "Kommst du mit ins Kino? - Ich weiß es noch nicht. Ich schreibe dir später eine Nachricht.",
+        "Sie haben keine neuen Nachrichten."
+      ],
+      "num": 603,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5edbd5"
+    },
+    "nächste,": {
+      "ex": [
+        "-er, -es Sehen wir uns nächste Woche?",
+        "Ihr nächster Termin ist in einem Monat. Bis nächstes Mal!"
+      ],
+      "num": 604,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5e75db"
+    },
+    "die Nähe": {
+      "ex": [
+        "(Sg.) Die Post ist in der Nähe vom Bahnhof."
+      ],
+      "num": 605,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5ea3db"
+    },
+    "nass": {
+      "ex": [
+        "Geh nicht mit den nassen Schuhen ins Wohnzimmer!",
+        "Du bist ja ganz nass. Hast du den Regenschirm vergessen?"
+      ],
+      "num": 607,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#7222f2"
+    },
+    "die Natur": {
+      "ex": [
+        "(Sg.) Ich bin gern draußen in der Natur."
+      ],
+      "num": 608,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5edbd5"
+    },
+    "natürlich": {
+      "ex": [
+        "Natürlich helfen wir dir.",
+        "Kommst du zu meiner Party? – Natürlich."
+      ],
+      "num": 609,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5ea3db"
+    },
+    "neben": {
+      "ex": [
+        "Neben mir ist noch ein Platz frei. Die Apotheke ist neben der Post."
+      ],
+      "num": 610,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2248f2"
+    },
+    "nebenan": {
+      "ex": [
+        "Das ist José. Er wohnt nebenan."
+      ],
+      "num": 611,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#7222f2"
+    },
+    "neblig": {
+      "ex": [
+        "Fahr vorsichtig! Es ist neblig."
+      ],
+      "num": 612,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5e75db"
+    },
+    "nehmen,": {
+      "ex": [
+        "nimmt, Nehmen Sie die Tabletten vor dem Essen!",
+        "hat genommen Was möchten Sie? – Ich nehme einen Salat.",
+        "Ich nehme den Bus."
+      ],
+      "num": 613,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5e75db"
+    },
+    "nennen,": {
+      "ex": [
+        "nennt, Mein Freund heißt Alexander, aber alle nennen hat genannt ihn Alex."
+      ],
+      "num": 615,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5e75db"
+    },
+    "nervös": {
+      "ex": [
+        "Bei Prüfungen bin ich immer sehr nervös."
+      ],
+      "num": 616,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2d6acc"
+    },
+    "nett": {
+      "ex": [
+        "Ich habe viele nette Kollegen.",
+        "Vielen Dank! Das ist sehr nett von dir."
+      ],
+      "num": 617,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5ea3db"
+    },
+    "niemand": {
+      "ex": [
+        "Hier ist niemand.",
+        "Hier ist der Anrufbeantworter von Familie Klein. Leider ist im Moment niemand zu Hause."
+      ],
+      "num": 622,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2248f2"
+    },
+    "nirgends": {
+      "ex": [
+        "Hier kann man nirgends parken.",
+        "Wo ist Stefan? Ich kann ihn nirgends sehen."
+      ],
+      "num": 623,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5e75db"
+    },
+    "die Note,": {
+      "ex": [
+        "-n Eva hat immer sehr gute Noten in Deutsch."
+      ],
+      "num": 626,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5ea3db"
+    },
+    "notieren,": {
+      "ex": [
+        "notiert, Notieren Sie bitte alle wichtigen Informationen. hat notiert"
+      ],
+      "num": 627,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5edbd5"
+    },
+    "die Notiz,": {
+      "ex": [
+        "-en Schreib mir bitte eine Notiz.",
+        "Haben Sie einen Notizzettel für mich?"
+      ],
+      "num": 628,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5edbd5"
+    },
+    "notwendig": {
+      "ex": [
+        "Muss ich noch einmal kommen? – Nein, das ist"
+      ],
+      "num": 629,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2d6acc"
+    },
+    "die Nudel,": {
+      "ex": [
+        "-n Möchten Sie lieber Reis oder Nudeln?",
+        "– Lieber Nudeln, bitte."
+      ],
+      "num": 631,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2d6acc"
+    },
+    "nützlich": {
+      "ex": [
+        "Danke für den Tipp. Er war sehr nützlich."
+      ],
+      "num": 634,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2248f2"
+    },
+    "offen": {
+      "ex": [
+        "Ist das Fenster im Bad noch offen?",
+        "Ich glaube, der Supermarkt ist jetzt noch offen.",
+        "öffnen, öffnet, Ich öffne die Tür.",
+        "hat geöffnet Der Laden ist samstags bis 16.00 Uhr geöffnet. oft Ich gehe nicht oft ins Kino."
+      ],
+      "num": 638,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2248f2"
+    },
+    "das Ohr,": {
+      "ex": [
+        "-en Ich habe Ohrenschmerzen.",
+        "das Öl, -e Machen wir den Salat mit Öl?",
+        "Können Sie bei meinem Auto bitte das Öl kontrollieren?"
+      ],
+      "num": 640,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#7222f2"
+    },
+    "online": {
+      "ex": [
+        "Wann bist du wieder online?",
+        "Ich habe hier kein Internet. Ich bin erst heute Abend wieder online.",
+        "Sie können das Geld auch online überweisen. die Orange, -n Ich esse gern Orangen."
+      ],
+      "num": 641,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5edbd5"
+    },
+    "die Ordnung,": {
+      "ex": [
+        "-en Er hat seine Hausaufgabe gut gemacht. Das ist alles in Ordnung.",
+        "Ich mache gleich Ordnung in meinem Zimmer."
+      ],
+      "num": 642,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5ea3db"
+    },
+    "organisieren,": {
+      "ex": [
+        "Frau Gomez organisiert unseren Ausflug. organisiert, Hast du schon alles für deinen Urlaub organisiert? hat organisiert"
+      ],
+      "num": 643,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#7222f2"
+    },
+    "das Paar,": {
+      "ex": [
+        "-e Romeo und Julia sind ein Paar.",
+        "Ich brauche ein Paar Schuhe.",
+        "ein paar Wir fahren ein paar Tage ans Meer.",
+        "Hast du ein paar Minuten Zeit?"
+      ],
+      "num": 645,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2d6acc"
+    },
+    "packen,": {
+      "ex": [
+        "packt, Ich muss noch meinen Koffer packen. hat gepackt"
+      ],
+      "num": 646,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#7222f2"
+    },
+    "das Paket,": {
+      "ex": [
+        "-e Bringst du bitte das Paket zur Post? das Papier, -e Hier sind Papier und Bleistift."
+      ],
+      "num": 647,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5ea3db"
+    },
+    "das Parfüm,": {
+      "ex": [
+        "-s Ich suche ein Parfum als Geschenk für meine Frau. der Park, -s Ich gehe gern im Park spazieren."
+      ],
+      "num": 649,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5edbd5"
+    },
+    "parken,": {
+      "ex": [
+        "parkt, Darf ich hier parken?",
+        "hat geparkt Hier ist Parken verboten."
+      ],
+      "num": 650,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#7222f2"
+    },
+    "die Party,": {
+      "ex": [
+        "-s Heute Abend machen wir eine Party."
+      ],
+      "num": 652,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2d6acc"
+    },
+    "passieren,": {
+      "ex": [
+        "Wie ist der Unfall passiert?"
+      ],
+      "num": 654,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5e75db"
+    },
+    "passiert,": {
+      "ex": [
+        "Was ist passiert? ist passiert"
+      ],
+      "num": 655,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2d6acc"
+    },
+    "das Passwort,": {
+      "ex": [
+        "¨-er Bitte schreiben Sie Ihr Passwort.",
+        "Sie brauchen ein Passwort.",
+        "Ich habe mein Passwort vergessen."
+      ],
+      "num": 656,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2248f2"
+    },
+    "das Pferd,": {
+      "ex": [
+        "-e Amira liebt Pferde. Sie reitet seit zehn Jahren."
+      ],
+      "num": 658,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5e75db"
+    },
+    "die Pflanze,": {
+      "ex": [
+        "-n Können Sie sich bitte um unsere Pflanzen",
+        "kümmern? Wir sind nächste Woche im Urlaub."
+      ],
+      "num": 659,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5ea3db"
+    },
+    "die Pizza,": {
+      "ex": [
+        "-s/-en Mein Lieblingsessen ist Pizza.",
+        "Eine Pizza mit viel Käse, bitte."
+      ],
+      "num": 660,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#7222f2"
+    },
+    "das Plakat,": {
+      "ex": [
+        "-e Wir machen im Unterricht ein Plakat zum Thema",
+        "„Essen und Trinken“."
+      ],
+      "num": 661,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5e75db"
+    },
+    "planen,": {
+      "ex": [
+        "plant, Wir sollen zusammen eine Klassenparty planen. hat geplant Morgen schwimmen ... ist ein guter Plan."
+      ],
+      "num": 663,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#7222f2"
+    },
+    "plötzlich": {
+      "ex": [
+        "Plötzlich war das Licht aus. die Polizei (Sg.) Rufen Sie die Polizei!"
+      ],
+      "num": 665,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2d6acc"
+    },
+    "die Portion,": {
+      "ex": [
+        "-en Ich nehme eine kleine Portion Eis."
+      ],
+      "num": 667,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5e75db"
+    },
+    "das Poster,": {
+      "ex": [
+        "- Das Poster hängt über dem Bett."
+      ],
+      "num": 669,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2d6acc"
+    },
+    "die Postkarte,": {
+      "ex": [
+        "-n Schreibst du mir eine Postkarte aus Kanada? die Postleit- Wie ist Ihre Postleitzahl?",
+        "zahl, -en"
+      ],
+      "num": 670,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5e75db"
+    },
+    "das Praktikum,": {
+      "ex": [
+        "-a Ich mache ein Praktikum bei Siemens."
+      ],
+      "num": 671,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5e75db"
+    },
+    "praktisch": {
+      "ex": [
+        "Mit meinem neuen Handy kann ich auch im Internet surfen und Fotos machen. Das finde ich sehr praktisch."
+      ],
+      "num": 672,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#7222f2"
+    },
+    "die Praxis,": {
+      "ex": [
+        "-en Unsere Praxis ist ab acht Uhr geöffnet. Frau Doktor Weiß hat ab neun Uhr Sprechstunde."
+      ],
+      "num": 673,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2248f2"
+    },
+    "privat": {
+      "ex": [
+        "Das ist meine Nummer im Büro und das ist meine private Handynummer.",
+        "Dieser Strand ist privat. Wir dürfen hier nicht schwimmen gehen.",
+        "Hey, du darfst die Mail nicht lesen! Sie ist privat."
+      ],
+      "num": 675,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5edbd5"
+    },
+    "pro": {
+      "ex": [
+        "Das Zimmer kostet 100 Euro pro Nacht."
+      ],
+      "num": 676,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2248f2"
+    },
+    "probieren,": {
+      "ex": [
+        "Möchten Sie den Käse probieren? probiert, Die Tür geht schwer auf. Probier mal! hat probiert"
+      ],
+      "num": 677,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#7222f2"
+    },
+    "das Programm,": {
+      "ex": [
+        "-e Dieses Programm im Radio interessiert mich nicht. Was kommt heute im Kino? Hast du das Programm hier?"
+      ],
+      "num": 679,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2248f2"
+    },
+    "das Projekt,": {
+      "ex": [
+        "-e Wir machen ein Projekt über Sehenswürdigkeiten in unserer Stadt."
+      ],
+      "num": 680,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2248f2"
+    },
+    "prüfen,": {
+      "ex": [
+        "prüft, Bitte prüfen Sie die Rechnung sofort. hat geprüft"
+      ],
+      "num": 682,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2d6acc"
+    },
+    "die Prüfung,": {
+      "ex": [
+        "-en Ich habe die Prüfung bestanden. der Pullover, - Ich muss mir einen Pullover kaufen."
+      ],
+      "num": 683,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#7222f2"
+    },
+    "putzen,": {
+      "ex": [
+        "putzt, Ich muss heute noch das Bad putzen. hat geputzt"
+      ],
+      "num": 685,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2248f2"
+    },
+    "die Qualität,": {
+      "ex": [
+        "-en Dieser Fernseher hat eine gute Qualität.",
+        "Ich finde die Qualität wichtiger als den Preis."
+      ],
+      "num": 686,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#7222f2"
+    },
+    "das Quiz": {
+      "ex": [
+        "(Sg.) Er schaut gern Quizsendungen an.",
+        "Sie hat beim Quiz gewonnen."
+      ],
+      "num": 687,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5e75db"
+    },
+    "das Radio,": {
+      "ex": [
+        "-s Ich höre im Auto gern Radio."
+      ],
+      "num": 688,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2248f2"
+    },
+    "raten,": {
+      "ex": [
+        "rät, Ich weiß nicht, welches Handy ich kaufen soll. Was hat geraten raten Sie mir?"
+      ],
+      "num": 689,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2248f2"
+    },
+    "Rate": {
+      "ex": [
+        "mal, wen ich heute gesehen habe! Deinen Lehrer."
+      ],
+      "num": 690,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2248f2"
+    },
+    "das Rathaus,": {
+      "ex": [
+        "¨-er Das Formular bekommen Sie im Rathaus.",
+        "Sie müssen sich im Rathaus anmelden."
+      ],
+      "num": 691,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5ea3db"
+    },
+    "das Rätsel,": {
+      "ex": [
+        "- Das Rätsel ist schwierig! Ich weiß die Antwort nicht. rauchen, raucht, Stört es Sie, wenn ich rauche?",
+        "hat geraucht Rauchen ist hier verboten!"
+      ],
+      "num": 692,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5e75db"
+    },
+    "recht": {
+      "ex": [
+        "haben, Du hast (nicht) recht. hat recht,",
+        "hatte recht,",
+        "hat recht gehabt"
+      ],
+      "num": 695,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2d6acc"
+    },
+    "reden,": {
+      "ex": [
+        "redet, Mit meiner Freundin kann ich über alles reden. hat geredet Rede nicht so viel!"
+      ],
+      "num": 697,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5e75db"
+    },
+    "regnen,": {
+      "ex": [
+        "regnet, Wenn es regnet, bleiben wir zu Hause. hat geregnet"
+      ],
+      "num": 699,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5e75db"
+    },
+    "reich": {
+      "ex": [
+        "Lotte ist reich. Sie hat sehr viel Geld. der Reifen, - Ich brauche neue Reifen für mein Auto."
+      ],
+      "num": 700,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5edbd5"
+    },
+    "die Reihe,": {
+      "ex": [
+        "-n Ich habe Karten für das Konzert. Wir sitzen in der dritten Reihe.",
+        "Wer ist jetzt an der Reihe?"
+      ],
+      "num": 701,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2248f2"
+    },
+    "die Reinigung,": {
+      "ex": [
+        "-en Bringst du bitte die Bluse in die Reinigung? Man darf sie nicht in der Waschmaschine waschen."
+      ],
+      "num": 702,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5ea3db"
+    },
+    "der Reiseführer,": {
+      "ex": [
+        "- Ich kaufe mir einen Reiseführer von Berlin.",
+        "Unser Reiseführer heißt Robert und ist sehr sympathisch."
+      ],
+      "num": 705,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2248f2"
+    },
+    "reisen,": {
+      "ex": [
+        "reist, Ich reise gern. ist gereist"
+      ],
+      "num": 706,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5edbd5"
+    },
+    "reiten,": {
+      "ex": [
+        "reitet, Möchtest du reiten lernen? ist geritten"
+      ],
+      "num": 707,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5e75db"
+    },
+    "renovieren,": {
+      "ex": [
+        "Wir renovieren das ganze Haus. renoviert,",
+        "hat renoviert",
+        "de Rentner, - / Mein Onkel arbeitet nicht mehr. Er ist Rentner. die Rentnerin, -nen"
+      ],
+      "num": 708,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5edbd5"
+    },
+    "die Reparatur,": {
+      "ex": [
+        "-en Die Reparatur ist sehr teuer."
+      ],
+      "num": 709,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2d6acc"
+    },
+    "reparieren,": {
+      "ex": [
+        "Er muss den Motor reparieren. repariert,",
+        "hat repariert"
+      ],
+      "num": 710,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5e75db"
+    },
+    "reservieren,": {
+      "ex": [
+        "Reservieren Sie bitte ein Doppelzimmer. reserviert, Ich möchte gern einen Tisch für fünf Personen reservierte, reservieren.",
+        "hat reserviert"
+      ],
+      "num": 711,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5ea3db"
+    },
+    "der Rest,": {
+      "ex": [
+        "-e Hier sind 50 Euro. Den Rest gebe ich dir später. Es ist noch ein Rest Suppe da. Möchtest du noch?"
+      ],
+      "num": 712,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5ea3db"
+    },
+    "das Rezept,": {
+      "ex": [
+        "-e Dieser Kuchen schmeckt super! Kannst du mir bitte das Rezept geben?",
+        "Dieses Medikament gibt es nur auf Rezept."
+      ],
+      "num": 714,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5e75db"
+    },
+    "die Rezeption,": {
+      "ex": [
+        "en Geben Sie bitte den Schlüssel an der Rezeption ab. richtig Habe ich das richtig verstanden?",
+        "Das ist richtig."
+      ],
+      "num": 715,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5e75db"
+    },
+    "riechen,": {
+      "ex": [
+        "riecht, Diese Blumen riechen gut. hat gerochen Hier riecht es nach Fisch."
+      ],
+      "num": 716,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2d6acc"
+    },
+    "das Rind": {
+      "ex": [
+        "Ich esse nur Fleisch vom Rind. der Ring, -e Ich habe meinen Ring verloren. der Rock, ¨-e Der Rock ist zu eng."
+      ],
+      "num": 717,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#7222f2"
+    },
+    "romantisch": {
+      "ex": [
+        "Dieser Film ist sehr romantisch.",
+        "Meine Freundin ist total romantisch."
+      ],
+      "num": 718,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2d6acc"
+    },
+    "die Rose,": {
+      "ex": [
+        "-n Er schenkt seiner Freundin rote Rosen zum",
+        "Geburtstag."
+      ],
+      "num": 719,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#7222f2"
+    },
+    "der Rücken,": {
+      "ex": [
+        "- Mein Rücken tut mir weh."
+      ],
+      "num": 720,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#7222f2"
+    },
+    "der Rucksack,": {
+      "ex": [
+        "¨-e Ich nehme lieber einen Rucksack als einen",
+        "Koffer mit."
+      ],
+      "num": 721,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5edbd5"
+    },
+    "rufen,": {
+      "ex": [
+        "ruft, Rufst du bitte die Kinder. Das Essen ist fertig. hat gerufen Wir müssen einen Arzt rufen."
+      ],
+      "num": 722,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5edbd5"
+    },
+    "die Ruhe": {
+      "ex": [
+        "(Sg.) Ruhe, bitte! Hier in der Bibliothek darf man nicht laut sprechen.",
+        "Meine Großmutter ist krank. Sie braucht viel Ruhe."
+      ],
+      "num": 723,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5ea3db"
+    },
+    "rund": {
+      "ex": [
+        "Unser Wohnzimmertisch ist rund.",
+        "Bis Berlin sind es noch rund 80 Kilometer."
+      ],
+      "num": 725,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2248f2"
+    },
+    "der Rundgang,": {
+      "ex": [
+        "¨-e Der Rundgang durch das Schloss beginnt in wenigen Minuten."
+      ],
+      "num": 726,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#7222f2"
+    },
+    "die Sache,": {
+      "ex": [
+        "-n Ihr könnt eure Sachen im Hotel lassen.",
+        "Nimm deine Sachen und komm! Das ist meine Sache."
+      ],
+      "num": 727,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2248f2"
+    },
+    "der Saft,": {
+      "ex": [
+        "¨-e Möchtest du einen Apfelsaft?"
+      ],
+      "num": 728,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#7222f2"
+    },
+    "sagen,": {
+      "ex": [
+        "sagt, Entschuldigung, was haben Sie gesagt? hat gesagt Wie sagt man „sorry“ auf Deutsch?"
+      ],
+      "num": 729,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5edbd5"
+    },
+    "Sag": {
+      "ex": [
+        "mal, wie geht es dir denn?"
+      ],
+      "num": 730,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#7222f2"
+    },
+    "der Salat,": {
+      "ex": [
+        "-e Wie schmeckt dir der Salat?",
+        "Möchten Sie zum Fisch einen Salat?"
+      ],
+      "num": 731,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2d6acc"
+    },
+    "das Salz,": {
+      "ex": [
+        "-e Entschuldigung, kann ich bitte Salz haben? sammeln, Peter sammelt Briefmarken."
+      ],
+      "num": 732,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5edbd5"
+    },
+    "sammelt,": {
+      "ex": [
+        "Im Herbst sammeln wir im Wald bunte Blätter. hat gesammelt"
+      ],
+      "num": 733,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2d6acc"
+    },
+    "der Satz,": {
+      "ex": [
+        "¨-e Den letzten Satz verstehe ich nicht. sauber Bringen Sie mir bitte ein sauberes Glas!"
+      ],
+      "num": 734,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5ea3db"
+    },
+    "sauer": {
+      "ex": [
+        "Zitronen sind mir zu sauer.",
+        "Was ist los? – Ich bin sauer. Ich muss am Wochen- ende zu Hause bleiben und darf nicht mit meinen Freunden ins Kino gehen."
+      ],
+      "num": 735,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#7222f2"
+    },
+    "schade": {
+      "ex": [
+        "Schade, dass du nicht kommen kannst. schädlich Rauchen ist schädlich für die Gesundheit."
+      ],
+      "num": 736,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5e75db"
+    },
+    "schaffen,": {
+      "ex": [
+        "schafft, Kannst du mir bitte helfen? Ich schaffe das nicht hat geschafft alleine.",
+        "Geschafft! Das Projekt ist endlich fertig."
+      ],
+      "num": 737,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2d6acc"
+    },
+    "der Schalter,": {
+      "ex": [
+        "- Gehen Sie bitte zum Schalter drei!",
+        "Der Lichtschalter ist neben der Tür."
+      ],
+      "num": 738,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5ea3db"
+    },
+    "scharf": {
+      "ex": [
+        "Die Suppe ist mir zu scharf.",
+        "Pass auf! Das Messer ist sehr scharf."
+      ],
+      "num": 739,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#7222f2"
+    },
+    "scheinen,": {
+      "ex": [
+        "scheint, Die Sonne scheint. hat geschienen"
+      ],
+      "num": 740,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#7222f2"
+    },
+    "schenken,": {
+      "ex": [
+        "Was schenken wir Michael zum Geburtstag? schenkt,",
+        "hat geschenkt"
+      ],
+      "num": 741,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2248f2"
+    },
+    "die Schere,": {
+      "ex": [
+        "-n Die Schere schneidet nicht gut. Hast du eine",
+        "andere?"
+      ],
+      "num": 742,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5ea3db"
+    },
+    "schicken,": {
+      "ex": [
+        "schickt, Bitte schicken Sie mir eine E-Mail. hat geschickt Ich schicke dir den Brief nach Hause."
+      ],
+      "num": 743,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5e75db"
+    },
+    "das Schiff,": {
+      "ex": [
+        "-e Wir fahren mit dem Schiff von Basel nach Köln."
+      ],
+      "num": 744,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5edbd5"
+    },
+    "schimpfen,": {
+      "ex": [
+        "Warum schimpfst du denn so laut? – Ich ärgere schimpft, mich über mein Auto.",
+        "hat geschimpft Alle schimpfen über/auf das Wetter."
+      ],
+      "num": 746,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2d6acc"
+    },
+    "der Schirm": {
+      "ex": [
+        "Nimm den Schirm mit, es regnet."
+      ],
+      "num": 747,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5ea3db"
+    },
+    "schlafen,": {
+      "ex": [
+        "schläft, Ich schlafe meistens acht Stunden. hat geschlafen Haben Sie gut geschlafen?",
+        "Gute Nacht! Schlaf gut und träum süß!"
+      ],
+      "num": 748,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2d6acc"
+    },
+    "das Schlafzimmer,": {
+      "ex": [
+        "- Hier ist das Schlafzimmer."
+      ],
+      "num": 749,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5e75db"
+    },
+    "schließen,": {
+      "ex": [
+        "Bitte schließen Sie die Tür."
+      ],
+      "num": 751,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2248f2"
+    },
+    "schließt,": {
+      "ex": [
+        "Wir müssen uns beeilen, die Bank schließt um hat geschlossen 18 Uhr."
+      ],
+      "num": 752,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5edbd5"
+    },
+    "schlimm": {
+      "ex": [
+        "Kein Problem, das ist nicht so schlimm."
+      ],
+      "num": 753,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#7222f2"
+    },
+    "das Schloss,": {
+      "ex": [
+        "¨-er Am Wochenende besichtigen wir Schloss",
+        "Neuschwanstein.",
+        "An unserer Tür ist das Schloss kaputt."
+      ],
+      "num": 754,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5ea3db"
+    },
+    "der Schluss,": {
+      "ex": [
+        "¨-e Zum Schluss nochmals herzlichen Dank.",
+        "Ich muss jetzt Schluss machen. Bis bald!"
+      ],
+      "num": 755,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2d6acc"
+    },
+    "schmecken,": {
+      "ex": [
+        "Schmeckt dir die Suppe? schmeckt, Hat es Ihnen geschmeckt? hat geschmeckt Schmeckt's?"
+      ],
+      "num": 757,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2248f2"
+    },
+    "der Schmerz,": {
+      "ex": [
+        "-en Haben Sie Schmerzen?",
+        "Ich habe Bauchschmerzen."
+      ],
+      "num": 758,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5e75db"
+    },
+    "schmutzig": {
+      "ex": [
+        "Das Handtuch ist schmutzig. der Schnee (Sg.) In den Bergen liegt viel Schnee."
+      ],
+      "num": 759,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5edbd5"
+    },
+    "schneiden": {
+      "ex": [
+        "(sich), Das Messer schneidet nicht gut. schneidet, Wer schneidet dir die Haare? hat geschnitten Aua! Ich habe mich geschnitten!"
+      ],
+      "num": 760,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5e75db"
+    },
+    "schneien,": {
+      "ex": [
+        "Morgen schneit es. schneit,",
+        "hat geschneit"
+      ],
+      "num": 761,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5ea3db"
+    },
+    "schrecklich": {
+      "ex": [
+        "Ich finde ihren Rock schrecklich. Er sieht furchtbar aus!",
+        "Ich finde den Film schrecklick. Er macht mir Angst."
+      ],
+      "num": 766,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5edbd5"
+    },
+    "schreiben,": {
+      "ex": [
+        "Ich schreibe dir eine E-Mail. schreibt,",
+        "hat geschrieben"
+      ],
+      "num": 767,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2248f2"
+    },
+    "schriftlich": {
+      "ex": [
+        "Sie müssen sich schriftlich anmelden.",
+        "Die schriftliche Prüfung dauert 70 Minuten."
+      ],
+      "num": 768,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2d6acc"
+    },
+    "die Schule,": {
+      "ex": [
+        "-n Meine Tochter geht schon in die Schule.",
+        "Die Schule ist gleich hier um die Ecke."
+      ],
+      "num": 770,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2d6acc"
+    },
+    "schwach": {
+      "ex": [
+        "Er ist krank und schwach.",
+        "Ich fühle mich sehr schwach.",
+        "Die Tabletten sind zu schwach. Sie helfen nicht. schwanger Lena ist schwanger. Sie bekommt im Juli ein Kind. das Schwein, -e Ich esse kein Schweinefleisch."
+      ],
+      "num": 772,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5ea3db"
+    },
+    "schwierig": {
+      "ex": [
+        "Die Prüfung war nicht schwierig."
+      ],
+      "num": 774,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2248f2"
+    },
+    "das Schwimm-": {
+      "ex": [
+        "Kommst du mit ins Schwimmbad? bad, ¨-er"
+      ],
+      "num": 775,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5edbd5"
+    },
+    "schwimmen,": {
+      "ex": [
+        "Ich schwimme täglich einen Kilometer. schwimmt,",
+        "ist geschwommen"
+      ],
+      "num": 776,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5e75db"
+    },
+    "der See,": {
+      "ex": [
+        "-n Morgen fahren wir mal an einen See schwimmen.",
+        "Komm, wir fahren an den Bodensee."
+      ],
+      "num": 777,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5ea3db"
+    },
+    "die See": {
+      "ex": [
+        "(Sg) Die See ist heute ruhig.",
+        "Wir machen Urlaub an der Nordsee."
+      ],
+      "num": 778,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5edbd5"
+    },
+    "sehen,": {
+      "ex": [
+        "sieht, Ich kann dich nicht sehen.",
+        "hat gesehen Möchtest du einen Film sehen?",
+        "Ich habe Lisa lange nicht gesehen. Ist sie im Urlaub? Darf ich mal Ihren Ausweis sehen?"
+      ],
+      "num": 779,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2d6acc"
+    },
+    "die Sehens-": {
+      "ex": [
+        "Welche Sehenswürdigkeiten gibt es in Frankfurt? würdigkeit, -en"
+      ],
+      "num": 780,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2d6acc"
+    },
+    "sein,": {
+      "ex": [
+        "ist, war, Das sind meine Kollegen. ist gewesen Ich bin Mechaniker.",
+        "Die Cola ist kalt. Mir ist kalt.",
+        "Ich bin dreiundzwanzig. Um halb elf ist Pause. Frau Berger ist im Urlaub.",
+        "an sein / aus sein Das Licht ist noch an/schon aus. auf sein Das Fenster ist noch auf.",
+        "weg sein Herr Meier ist schon weg.",
+        "zu sein Die Tür ist zu."
+      ],
+      "num": 782,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2d6acc"
+    },
+    "selbst": {
+      "ex": [
+        "Du musst mir nicht helfen, ich mache das selbst."
+      ],
+      "num": 784,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2248f2"
+    },
+    "die Sendung,": {
+      "ex": [
+        "-en Welche Sendungen schaust du gern an? – Ich mag Sportsendungen.",
+        "Diese Sendung ist nicht für Jugendliche unter 18 Jahren."
+      ],
+      "num": 785,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2248f2"
+    },
+    "der Service": {
+      "ex": [
+        "(Sg.) Ich bin mit dem Service in der Werkstatt sehr",
+        "zufrieden.",
+        "Rufst du beim Pizza-Service an?"
+      ],
+      "num": 786,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2d6acc"
+    },
+    "setzen": {
+      "ex": [
+        "(sich), Setz dich doch! setzt, hat gesetzt"
+      ],
+      "num": 787,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5ea3db"
+    },
+    "sicher": {
+      "ex": [
+        "Dieses Auto ist besonders sicher. Ich bin ganz sicher, dass er kommt. Er ist sicher gleich da."
+      ],
+      "num": 788,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2248f2"
+    },
+    "singen,": {
+      "ex": [
+        "singt, Er singt gern. hat gesungen"
+      ],
+      "num": 789,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5ea3db"
+    },
+    "die Situation,": {
+      "ex": [
+        "-en Ich bin in einer schwierigen Situation. Ich weiß nicht, was ich tun soll.",
+        "Lesen Sie die Anzeigen und die Aufgaben 11-15. Welche Anzeige passt zu welcher Situation?"
+      ],
+      "num": 790,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2248f2"
+    },
+    "sitzen,": {
+      "ex": [
+        "sitzt, Wo möchten Sie sitzen? – Bitte ganz hinten. hat/ist gesessen"
+      ],
+      "num": 791,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#7222f2"
+    },
+    "der Ski,": {
+      "ex": [
+        "-, -er Gehen wir am Wochenende Ski fahren?",
+        "Er kauft sich neue Ski."
+      ],
+      "num": 792,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2248f2"
+    },
+    "das Sofa,": {
+      "ex": [
+        "-s Das Sofa ist bequem."
+      ],
+      "num": 794,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5ea3db"
+    },
+    "sogar": {
+      "ex": [
+        "Heute ist es sehr kalt. In den Bergen schneit es sogar.",
+        "Zu meiner Hochzeit kommen viele Gäste. Sogar meine Tante aus Kanada kommt."
+      ],
+      "num": 797,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5ea3db"
+    },
+    "sollen,": {
+      "ex": [
+        "soll, Wann soll ich kommen und was soll ich mitbringen? sollte Und, was hat der Arzt gesagt? – Ich soll drei Tage",
+        "im Bett bleiben und viel Tee trinken. die Sonne, -n Die Sonne scheint."
+      ],
+      "num": 798,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2248f2"
+    },
+    "sonnig": {
+      "ex": [
+        "Morgen ist das Wetter wieder warm und sonnig."
+      ],
+      "num": 799,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5edbd5"
+    },
+    "sonst": {
+      "ex": [
+        "Haben Sie sonst noch einen Wunsch? – Nein danke, das ist alles.",
+        "Beeil dich, sonst kommen wir zu spät! spannend Ich finde den Film sehr spannend."
+      ],
+      "num": 800,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2248f2"
+    },
+    "sparen,": {
+      "ex": [
+        "spart, Ein neues Auto ist sehr teuer. Ich muss sparen. hat gespart"
+      ],
+      "num": 801,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5ea3db"
+    },
+    "der Spaß": {
+      "ex": [
+        "(Sg.) Meine Arbeit macht mir Spaß.",
+        "Ich will nicht aufräumen. Das macht mir keinen Spaß.",
+        "Viel Spaß!"
+      ],
+      "num": 802,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2d6acc"
+    },
+    "spazieren": {
+      "ex": [
+        "gehen, Wir gehen sonntags immer spazieren. geht spazieren,",
+        "ist spazieren gegangen"
+      ],
+      "num": 805,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5edbd5"
+    },
+    "der Spazier-": {
+      "ex": [
+        "Abends mache ich immer einen Spaziergang. gang, ¨-e"
+      ],
+      "num": 806,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5ea3db"
+    },
+    "speichern,": {
+      "ex": [
+        "Sie müssen die Datei speichern. speichert,",
+        "hat gespeichert"
+      ],
+      "num": 807,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2d6acc"
+    },
+    "die Speisekarte,": {
+      "ex": [
+        "-n Entschuldigung, bringen Sie uns bitte die"
+      ],
+      "num": 808,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5edbd5"
+    },
+    "Speisekarte.": {
+      "ex": [
+        ""
+      ],
+      "num": 809,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5ea3db"
+    },
+    "das Spiel,": {
+      "ex": [
+        "-e Welche Kartenspiele kennen Sie?",
+        "Monopoly ist ein sehr bekanntes Spiel."
+      ],
+      "num": 810,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5edbd5"
+    },
+    "spielen,": {
+      "ex": [
+        "Die Kinder spielen draußen."
+      ],
+      "num": 811,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5ea3db"
+    },
+    "spielt,": {
+      "ex": [
+        "Spielen Sie Karten?",
+        "hat gespielt Jakob spielt Klavier. der Sport (Sg.) Ich mache viel Sport. sportlich Tom ist sehr sportlich."
+      ],
+      "num": 812,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2d6acc"
+    },
+    "der Sportplatz,": {
+      "ex": [
+        "¨-e Das Fußballtraining ist um 17 Uhr auf dem"
+      ],
+      "num": 813,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#7222f2"
+    },
+    "Sportplatz.": {
+      "ex": [
+        ""
+      ],
+      "num": 814,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2d6acc"
+    },
+    "sprechen,": {
+      "ex": [
+        "Kann ich (mit) Herrn Klein sprechen? spricht,",
+        "hat gesprochen"
+      ],
+      "num": 816,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2248f2"
+    },
+    "die Sprech-": {
+      "ex": [
+        "Frau Doktor Weiß hat von 9:00 bis 12:30 Uhr stunde, -n Sprechstunde."
+      ],
+      "num": 817,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5e75db"
+    },
+    "der Stadtplan,": {
+      "ex": [
+        "¨-e Haben Sie einen Stadtplan von Salzburg? der Star, -s Diese Sängerin ist ein Star in Deutschland. stark Ich habe starke Kopfschmerzen.",
+        "Es regnet stark.",
+        "Der Kaffee ist sehr stark."
+      ],
+      "num": 819,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#7222f2"
+    },
+    "stattfinden,": {
+      "ex": [
+        "Das Spiel findet auch bei Regen statt. findet statt,",
+        "hat stattgefunden"
+      ],
+      "num": 820,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5ea3db"
+    },
+    "stehen,": {
+      "ex": [
+        "steht, Der Bus steht schon an der Haltestelle.",
+        "hat/ist gestanden Ich bin Verkäuferin. In meinem Beruf muss ich",
+        "viel stehen.",
+        "Was steht heute in der Zeitung?"
+      ],
+      "num": 821,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#7222f2"
+    },
+    "stellen,": {
+      "ex": [
+        "stellt, Stell die Milch bitte in den Kühlschrank! hat gestellt"
+      ],
+      "num": 823,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2d6acc"
+    },
+    "sterben,": {
+      "ex": [
+        "stirbt, Herr Müller kommt heute nicht. Sein Vater ist ist gestorben gestern gestorben."
+      ],
+      "num": 824,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5ea3db"
+    },
+    "der Stiefel,": {
+      "ex": [
+        "- Wie viel kosten die roten Stiefel?"
+      ],
+      "num": 825,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2d6acc"
+    },
+    "der Stift,": {
+      "ex": [
+        "-e Kannst du mir bitte einen Stift geben? - Was",
+        "brauchst du? Einen Farbstift oder einen Bleistift oder einen Kugelschreiber?"
+      ],
+      "num": 826,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2d6acc"
+    },
+    "das Stipen-": {
+      "ex": [
+        "Wenn ich ein gutes Zeugnis habe, bekomme ich dium, -en ein Stipendium."
+      ],
+      "num": 827,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2248f2"
+    },
+    "der Stock,": {
+      "ex": [
+        "¨-e; Unsere Wohnung liegt im ersten Stock. das Stockwerk, -e Das Gebäude hat zwanzig Stockwerke."
+      ],
+      "num": 828,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#7222f2"
+    },
+    "stören,": {
+      "ex": [
+        "stört, Störe ich?",
+        "hat gestört Darf ich Sie kurz stören?",
+        "Mach die Musik leiser! Sie stört mich. der Strand, ¨-e Im Urlaub bin ich am liebsten am Strand. die Straße, -n In welcher Straße wohnen Sie?"
+      ],
+      "num": 829,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#7222f2"
+    },
+    "die Straßen-": {
+      "ex": [
+        "Fahren wir mit der Straßenbahn oder mit der bahn, -en U-Bahn?"
+      ],
+      "num": 830,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#7222f2"
+    },
+    "streiten": {
+      "ex": [
+        "(sich), Die Kinder streiten (sich) oft. streitet,",
+        "hat gestritten"
+      ],
+      "num": 831,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#7222f2"
+    },
+    "streng": {
+      "ex": [
+        "Der Lehrer von meiner Tochter ist sehr streng. der Stress (Sg.) Ich habe bei der Arbeit viel Stress."
+      ],
+      "num": 832,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2d6acc"
+    },
+    "stressig": {
+      "ex": [
+        "Meine Arbeit ist stressig."
+      ],
+      "num": 833,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#7222f2"
+    },
+    "das Stück,": {
+      "ex": [
+        "-e Möchten Sie noch ein Stück Kuchen?",
+        "Im Theater spielen sie heute das Stück",
+        "„Romeo und Julia“."
+      ],
+      "num": 834,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2d6acc"
+    },
+    "studieren,": {
+      "ex": [
+        "Ich studiere in Mainz. studiert,",
+        "hat studiert"
+      ],
+      "num": 836,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5edbd5"
+    },
+    "suchen,": {
+      "ex": [
+        "sucht, Suchst du etwas?",
+        "hat gesucht Ich suche meine Brille.",
+        "Wir suchen eine größere Wohnung."
+      ],
+      "num": 838,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2248f2"
+    },
+    "super": {
+      "ex": [
+        "Der Film ist super.",
+        "Er kann super tanzen."
+      ],
+      "num": 839,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5ea3db"
+    },
+    "der Supermarkt,": {
+      "ex": [
+        "¨-e Ich kaufe oft im Supermarkt ein. die Suppe, -n Schmeckt dir die Suppe?"
+      ],
+      "num": 840,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5edbd5"
+    },
+    "surfen,": {
+      "ex": [
+        "surft, Ich möchte gern surfen lernen. hat/ist gesurft Surfst du oft im Internet?"
+      ],
+      "num": 841,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5e75db"
+    },
+    "süß": {
+      "ex": [
+        "Ich finde die Torte zu süß.",
+        "Ist das deine Tochter? Die ist ja süß!"
+      ],
+      "num": 842,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2d6acc"
+    },
+    "die Süßigkeiten": {
+      "ex": [
+        "Welche Süßigkeiten isst du am liebsten? (Pl.) - Schokolade und Eis."
+      ],
+      "num": 843,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2248f2"
+    },
+    "sympathisch": {
+      "ex": [
+        "Der neue Chef ist sehr sympathisch."
+      ],
+      "num": 844,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2248f2"
+    },
+    "das Tablet,": {
+      "ex": [
+        "-s Hast du ein Tablet? - Nein, ich habe einen Laptop und ein Handy."
+      ],
+      "num": 845,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#7222f2"
+    },
+    "die Tablette,": {
+      "ex": [
+        "-n Du sollst am Abend zwei Tabletten nehmen."
+      ],
+      "num": 846,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#7222f2"
+    },
+    "die Tafel,": {
+      "ex": [
+        "-n Der Lehrer schreibt das neue Wort an die Tafel. (z. B. Infotafel) Am Eingang gibt es Tafeln mit Informationen.",
+        "Die Infotafel ist am Eingang."
+      ],
+      "num": 847,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5edbd5"
+    },
+    "tanzen,": {
+      "ex": [
+        "tanzt, Tanzen Sie gern? hat getanzt"
+      ],
+      "num": 848,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2d6acc"
+    },
+    "das Taschengeld": {
+      "ex": [
+        "Wie viel Taschengeld bekommen deine Kinder? (Sg.)"
+      ],
+      "num": 850,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5e75db"
+    },
+    "die Tasse,": {
+      "ex": [
+        "-n Möchten Sie eine Tasse Kaffee?",
+        "(aus)tauschen, Können wir bitte die Plätze tauschen? tauscht (aus), Können wir unsere Adressen austauschen? hat (aus)getauscht"
+      ],
+      "num": 851,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5edbd5"
+    },
+    "das Team,": {
+      "ex": [
+        "-s Ich arbeite gern in einem Team.",
+        "Welches Fußballteam findest du am besten? der Tee, -s Ich trinke morgens immer Tee."
+      ],
+      "num": 853,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#7222f2"
+    },
+    "teilen,": {
+      "ex": [
+        "teilt, Wollen wir die Pizza teilen?",
+        "hat geteilt Mein Mann und ich teilen uns die Arbeit."
+      ],
+      "num": 854,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2248f2"
+    },
+    "teilnehmen,": {
+      "ex": [
+        "Ich möchte an dem Tanzkurs teilnehmen. nimmt teil,",
+        "hat teilgenommen"
+      ],
+      "num": 855,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2d6acc"
+    },
+    "das Telefon,": {
+      "ex": [
+        "-e Darf ich bitte Ihr Telefon benutzen?"
+      ],
+      "num": 856,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5edbd5"
+    },
+    "telefonieren,": {
+      "ex": [
+        "Ich muss kurz telefonieren. telefoniert,",
+        "hat telefoniert"
+      ],
+      "num": 857,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5ea3db"
+    },
+    "der Teller,": {
+      "ex": [
+        "- Stell die Teller bitte auf den Tisch!",
+        "Möchtest du noch einen Teller Suppe? das Tennis (Sg.) Steffi spielt sehr gut Tennis."
+      ],
+      "num": 858,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5edbd5"
+    },
+    "das Theater,": {
+      "ex": [
+        "- Ich gehe nicht gern ins Theater."
+      ],
+      "num": 862,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#7222f2"
+    },
+    "das Thema,": {
+      "ex": [
+        "-en Heute heißt unser Thema: „Essen und Trinken“. das Ticket, -s Wie viel kostet das Ticket?"
+      ],
+      "num": 863,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5ea3db"
+    },
+    "tief": {
+      "ex": [
+        "Vorsicht, das Wasser ist tief!"
+      ],
+      "num": 864,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5e75db"
+    },
+    "das Tier,": {
+      "ex": [
+        "-e Wir dürfen keine Tiere in der Wohnung haben.",
+        "Meine Lieblingstiere sind Katzen."
+      ],
+      "num": 865,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#7222f2"
+    },
+    "der Tipp,": {
+      "ex": [
+        "-s Kannst du mir einen guten Tipp geben? der Tisch, -e Das Essen steht schon auf dem Tisch."
+      ],
+      "num": 866,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5e75db"
+    },
+    "der Titel,": {
+      "ex": [
+        "- Wie heißt der Film? - Ich weiß den Titel nicht mehr. die Toilette, -n Wo ist die Toilette, bitte?"
+      ],
+      "num": 867,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2d6acc"
+    },
+    "toll": {
+      "ex": [
+        "Der Urlaub war toll."
+      ],
+      "num": 868,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5e75db"
+    },
+    "der Topf,": {
+      "ex": [
+        "¨-e Hast du keinen größeren Topf? Ich möchte",
+        "Kartoffeln kochen."
+      ],
+      "num": 870,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5e75db"
+    },
+    "die Torte,": {
+      "ex": [
+        "-n Zum Geburtstag backe ich dir eine Torte. tot Meine Großeltern sind schon lange tot."
+      ],
+      "num": 871,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#7222f2"
+    },
+    "total": {
+      "ex": [
+        "Der Film ist total langweilig."
+      ],
+      "num": 872,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5e75db"
+    },
+    "die Tour,": {
+      "ex": [
+        "-en Wo kann ich eine Stadttour buchen?",
+        "Wir gehen am Wochenende wandern. Ich kenne eine schöne Tour in den Bergen."
+      ],
+      "num": 873,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#7222f2"
+    },
+    "der Tourist,": {
+      "ex": [
+        "-en, Im Sommer kommen viele Touristen in diese Stadt. die Touristin, -nen"
+      ],
+      "num": 874,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2d6acc"
+    },
+    "tragen,": {
+      "ex": [
+        "trägt, Ich kann den Koffer nicht tragen, er ist zu schwer. hat getragen Er trägt heute einen blauen Anzug."
+      ],
+      "num": 875,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2d6acc"
+    },
+    "trainieren,": {
+      "ex": [
+        "Wir trainieren einmal pro Woche im Sportverein. trainiert,",
+        "hat trainiert"
+      ],
+      "num": 876,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5edbd5"
+    },
+    "das Training,": {
+      "ex": [
+        "-s Das Training ist immer dienstags.",
+        "Ich gehe jede Woche zum Training."
+      ],
+      "num": 877,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5e75db"
+    },
+    "der Traum,": {
+      "ex": [
+        "¨-e Ich möchte eine eigene Firma, das ist mein Traum. träumen, Ich habe schlecht geträumt."
+      ],
+      "num": 878,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#7222f2"
+    },
+    "träumt,": {
+      "ex": [
+        "Ich träume von einem großen Haus mit Garten. hat geträumt"
+      ],
+      "num": 879,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5edbd5"
+    },
+    "traurig": {
+      "ex": [
+        "Ich bin sehr traurig. Meine Katze ist weggelaufen. treffen (sich), Ich treffe in der Stadt einen Kollegen."
+      ],
+      "num": 880,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2d6acc"
+    },
+    "trifft,": {
+      "ex": [
+        "Wir treffen uns immer freitags. hat getroffen"
+      ],
+      "num": 881,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5e75db"
+    },
+    "trinken,": {
+      "ex": [
+        "trinkt, Möchtest du etwas trinken? hat getrunken"
+      ],
+      "num": 883,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5ea3db"
+    },
+    "trocken": {
+      "ex": [
+        "Die Wäsche ist bald trocken."
+      ],
+      "num": 884,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5edbd5"
+    },
+    "tschüs": {
+      "ex": [
+        "Tschüs, bis morgen!"
+      ],
+      "num": 885,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5edbd5"
+    },
+    "das T-Shirt,": {
+      "ex": [
+        "-s Haben Sie dieses T-Shirt auch in M? tun, tut, Mein Rücken tut weh.",
+        "hat getan Es tut mir leid, ich kann leider nicht kommen.",
+        "Was kann ich für Sie tun?"
+      ],
+      "num": 886,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5e75db"
+    },
+    "die Tür,": {
+      "ex": [
+        "-en Mach bitte die Tür zu!"
+      ],
+      "num": 887,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5e75db"
+    },
+    "typisch": {
+      "ex": [
+        "Diese Musik ist typisch für dieses Land."
+      ],
+      "num": 888,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5edbd5"
+    },
+    "Typisch": {
+      "ex": [
+        "Anna, sie kommt natürlich wieder zu spät.",
+        "üben, übt, Ich lerne gerade Gitarre spielen. Ich übe jeden Tag hat geübt zwei Stunden.",
+        "über Gehen Sie lieber hier über die Straße. Über uns wohnt Familie Schneider. Sind Sie über 18?",
+        "überall Ich habe überall gesucht, aber ich kann meine Brille nicht finden.",
+        "übermorgen Morgen habe ich frei. Ich komme übermorgen",
+        "wieder ins Büro.",
+        "übernachten, Du kannst bei mir übernachten. übernachtet,",
+        "hat übernachtet",
+        "übersetzen, Können Sie mir den Brief bitte übersetzen? übersetzt,",
+        "hat übersetzt",
+        "die Über- Ich brauche eine Übersetzung von meinem Zeugnis. setzung, -en",
+        "überweisen, Sie können das Geld auch überweisen. überweist, Ich überweise dir das Geld.",
+        "hat überwiesen"
+      ],
+      "num": 889,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#7222f2"
+    },
+    "die Uhr,": {
+      "ex": [
+        "-en Es ist vier Uhr.",
+        "Geht deine Uhr richtig?"
+      ],
+      "num": 890,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2248f2"
+    },
+    "umsteigen,": {
+      "ex": [
+        "Sie müssen in Mannheim umsteigen. steigt um,",
+        "ist umgestiegen"
+      ],
+      "num": 892,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#7222f2"
+    },
+    "umziehen,": {
+      "ex": [
+        "Nächsten Monat ziehen wir um. zieht um,",
+        "ist umgezogen",
+        "sich umziehen, Warte bitte, ich muss mich noch umziehen. zieht sich um,",
+        "zog sich um,",
+        "hat sich umgezogen"
+      ],
+      "num": 893,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5ea3db"
+    },
+    "der Umzug,": {
+      "ex": [
+        "¨-e Der Umzug ist nächste Woche."
+      ],
+      "num": 894,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5edbd5"
+    },
+    "unbedingt": {
+      "ex": [
+        "Ich muss unbedingt mit dir sprechen. und Ich habe heute und morgen frei.",
+        "Ich kaufe ein und mein Mann kocht."
+      ],
+      "num": 895,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5e75db"
+    },
+    "der Unfall,": {
+      "ex": [
+        "¨-e Ich hatte gestern einen Unfall.",
+        "Wie ist der Unfall passiert?"
+      ],
+      "num": 896,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5edbd5"
+    },
+    "die Universität,": {
+      "ex": [
+        "-en Er studiert an der Universität Freiburg. unten Er wohnt ganz unten im Haus."
+      ],
+      "num": 897,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#7222f2"
+    },
+    "unterhalten": {
+      "ex": [
+        "(sich), Andreas und Nessrin unterhalten sich."
+      ],
+      "num": 899,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#7222f2"
+    },
+    "unterhält,": {
+      "ex": [
+        "Wir haben uns über das Fußballspiel unterhalten. hat unterhalten"
+      ],
+      "num": 900,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5e75db"
+    },
+    "die Unterkunft,": {
+      "ex": [
+        "¨-e Ich suche noch eine Unterkunft in Basel. Kennst du ein günstiges Hotel?"
+      ],
+      "num": 901,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2248f2"
+    },
+    "unternehmen,": {
+      "ex": [
+        "Wollen wir heute Abend etwas unternehmen? unternimmt,",
+        "hat unternommen"
+      ],
+      "num": 902,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2d6acc"
+    },
+    "der Unterschied,": {
+      "ex": [
+        "-e Was ist der Unterschied zwischen den beiden",
+        "Kursen? - Die Kurse sind gleich. Es gibt keinen Unterschied."
+      ],
+      "num": 904,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5e75db"
+    },
+    "unterschreiben,": {
+      "ex": [
+        "Wo muss ich unterschreiben? unterschreibt,",
+        "hat unterschrieben"
+      ],
+      "num": 905,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#7222f2"
+    },
+    "die Unterschrift,": {
+      "ex": [
+        "-en Hier fehlt noch Ihre Unterschrift."
+      ],
+      "num": 906,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2d6acc"
+    },
+    "untersuchen,": {
+      "ex": [
+        "Der Arzt hat mich untersucht. untersucht, Der Arzt muss dein Bein untersuchen. hat untersucht"
+      ],
+      "num": 907,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#7222f2"
+    },
+    "unterwegs": {
+      "ex": [
+        "sein, Warte bitte auf mich. Ich bin unterwegs und ist unterwegs, komme gleich.",
+        "war unterwegs,",
+        "ist unterwegs gewesen"
+      ],
+      "num": 908,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2248f2"
+    },
+    "der Urlaub,": {
+      "ex": [
+        "-e Ich nehme im September Urlaub."
+      ],
+      "num": 909,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5edbd5"
+    },
+    "verabredet": {
+      "ex": [
+        "sein, Ich bin mit meiner Freundin verabredet. ist verabredet,",
+        "war verabredet,",
+        "ist verabredet gewesen"
+      ],
+      "num": 910,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5ea3db"
+    },
+    "die Veranstal-": {
+      "ex": [
+        "Am Samstag ist unser Restaurant geschlossen. Wir tung, -en haben eine Veranstaltung."
+      ],
+      "num": 911,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5ea3db"
+    },
+    "verbieten": {
+      "ex": [
+        "/ Hier ist Rauchen verboten. verboten sein"
+      ],
+      "num": 912,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#7222f2"
+    },
+    "verdienen,": {
+      "ex": [
+        "Ich verdiene 1.500 Euro im Monat. verdient,",
+        "hat verdient"
+      ],
+      "num": 913,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2d6acc"
+    },
+    "der Verein,": {
+      "ex": [
+        "-e Er ist seit vielen Jahren im Verein.",
+        "Es gibt einen neuen Sportverein in der Stadt."
+      ],
+      "num": 914,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2d6acc"
+    },
+    "vereinbaren,": {
+      "ex": [
+        "Können wir einen Termin vereinbaren? vereinbart,",
+        "hat vereinbart"
+      ],
+      "num": 915,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5edbd5"
+    },
+    "vergessen,": {
+      "ex": [
+        "Ich habe meine Hausaufgaben vergessen. vergisst, Vergiss deinen Arzttermin nicht!",
+        "hat vergessen"
+      ],
+      "num": 916,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2d6acc"
+    },
+    "vergleichen,": {
+      "ex": [
+        "Vergleichen Sie die Angebote! vergleicht, Können wir die Antworten vergleichen? hat verglichen"
+      ],
+      "num": 917,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5ea3db"
+    },
+    "verkaufen,": {
+      "ex": [
+        "Er verkauft sein altes Auto. verkauft,",
+        "hat verkauft"
+      ],
+      "num": 918,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2248f2"
+    },
+    "der Verkehr": {
+      "ex": [
+        "(Sg.) Morgens gibt es hier immer viel Verkehr."
+      ],
+      "num": 919,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#7222f2"
+    },
+    "das Verkehrs-": {
+      "ex": [
+        "Welche Verkehrsmittel benutzen Sie oft? mittel, -"
+      ],
+      "num": 920,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5ea3db"
+    },
+    "verletzen": {
+      "ex": [
+        "(sich), Sind Sie verletzt? – Ja, am Bein. verletzt, Haben Sie sich verletzt?",
+        "hat verletzt"
+      ],
+      "num": 921,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5ea3db"
+    },
+    "verlieben": {
+      "ex": [
+        "(sich), Ich bin total verliebt. verliebt,",
+        "hat verliebt"
+      ],
+      "num": 922,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2248f2"
+    },
+    "verlieren,": {
+      "ex": [
+        "Ich habe meinen Schlüssel verloren. verliert, Michael hat seine Arbeit verloren. hat verloren Wir haben das Fußballspiel verloren."
+      ],
+      "num": 923,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2d6acc"
+    },
+    "vermieten,": {
+      "ex": [
+        "Die Wohnung ist schon vermietet. vermietet,",
+        "hat vermietet"
+      ],
+      "num": 924,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#7222f2"
+    },
+    "der Vermieter,": {
+      "ex": [
+        "- / Unser Vermieter ist nett. die Vermieterin, -nen"
+      ],
+      "num": 925,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#7222f2"
+    },
+    "verpassen,": {
+      "ex": [
+        "Ich habe den Zug verpasst. verpasst,",
+        "hat verpasst"
+      ],
+      "num": 926,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2d6acc"
+    },
+    "verreisen,": {
+      "ex": [
+        "Verreist ihr in den Ferien?"
+      ],
+      "num": 927,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#7222f2"
+    },
+    "verreist,": {
+      "ex": [
+        "Frau Doktor Müller ist zur Zeit verreist. Sie kommt ist verreist erst nächste Woche zurück."
+      ],
+      "num": 928,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2248f2"
+    },
+    "verschieben,": {
+      "ex": [
+        "Leider muss ich den Termin verschieben. verschiebt,",
+        "hat verschoben"
+      ],
+      "num": 929,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5ea3db"
+    },
+    "verschieden": {
+      "ex": [
+        "Unsere beiden Kinder sind sehr verschieden.",
+        "Ich habe diese Schuhe in verschiedenen Farben. die Verspätung, -en Unser Zug hat leider 15 Minuten Verspätung."
+      ],
+      "num": 930,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2248f2"
+    },
+    "verstehen,": {
+      "ex": [
+        "Können Sie mich verstehen? versteht, Ich verstehe diese Aufgabe nicht. hat verstanden"
+      ],
+      "num": 931,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2d6acc"
+    },
+    "versuchen,": {
+      "ex": [
+        "Kann ich es auch einmal versuchen? versucht, Haben Sie es schon einmal mit diesem Mittel hat versucht versucht?"
+      ],
+      "num": 932,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5edbd5"
+    },
+    "der Vertrag,": {
+      "ex": [
+        "¨-e Ich muss den Vertrag noch unterschreiben."
+      ],
+      "num": 933,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2248f2"
+    },
+    "viel,": {
+      "ex": [
+        "e Ich habe leider nicht viel Zeit."
+      ],
+      "num": 934,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#7222f2"
+    },
+    "Viel": {
+      "ex": [
+        "Spaß!",
+        "Im Winter sind viele Leute erkältet."
+      ],
+      "num": 935,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5ea3db"
+    },
+    "der Vogel,": {
+      "ex": [
+        "¨- Nadine mag Vögel.",
+        "Morgens singen die Vögel immer laut."
+      ],
+      "num": 937,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5e75db"
+    },
+    "voll": {
+      "ex": [
+        "Morgens und abends sind die Züge immer sehr voll.",
+        "Die Flasche ist noch ganz voll."
+      ],
+      "num": 938,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2d6acc"
+    },
+    "der Volleyball,": {
+      "ex": [
+        "¨-e Ich spiele gern Volleyball. von Das Auto von Felix ist kaputt.",
+        "Er kommt gerade von Köln/von zu Hause. Die Brötchen sind leider von gestern."
+      ],
+      "num": 939,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5edbd5"
+    },
+    "vorbei": {
+      "ex": [
+        "Die Linie 8 fährt am Krankenhaus vorbei.",
+        "Kommst du morgen bei mir vorbei?"
+      ],
+      "num": 941,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2d6acc"
+    },
+    "vorbereiten,": {
+      "ex": [
+        "Morgen mache ich eine Party. Ich muss noch viel bereitet vor, dafür vorbereiten.",
+        "hat vorbereitet Ich muss mich auf meine Prüfung vorbereiten. vorgestern Er hat mich vorgestern angerufen."
+      ],
+      "num": 942,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2d6acc"
+    },
+    "vorher": {
+      "ex": [
+        "Ich komme mit ins Café. Vorher muss ich aber noch zur Bank."
+      ],
+      "num": 943,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5e75db"
+    },
+    "vorn(e)": {
+      "ex": [
+        "Bitte vorn(e) einsteigen!"
+      ],
+      "num": 944,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5edbd5"
+    },
+    "der Vorschlag,": {
+      "ex": [
+        "¨-e Was machen wir am Wochenende? Hast du einen (haben/machen) guten Vorschlag? - Wir können ins Kino gehen.",
+        "Was schenken wir Christina zur Hochzeit? - Wir haben doch schon so viele Vorschläge gemacht."
+      ],
+      "num": 946,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5ea3db"
+    },
+    "vorsichtig": {
+      "ex": [
+        "Sei vorsichtig!",
+        "Du musst vorsichtig fahren, es ist neblig."
+      ],
+      "num": 947,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2248f2"
+    },
+    "vorstellen": {
+      "ex": [
+        "(sich), Wir wollen uns kennenlernen. Können Sie sich stellt vor, bitte vorstellen?",
+        "hat vorgestellt Darf ich Ihnen meine Frau vorstellen? vorwärts Fahren Sie bitte noch ein Stück vorwärts."
+      ],
+      "num": 948,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5edbd5"
+    },
+    "wach": {
+      "ex": [
+        "Bist du schon lange wach?",
+        "Ich bin noch nicht ganz wach."
+      ],
+      "num": 949,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5ea3db"
+    },
+    "der Wagen,": {
+      "ex": [
+        "– Wo steht Ihr Wagen?",
+        "Im zweiten Wagen ist unser Zugrestaurant."
+      ],
+      "num": 950,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#7222f2"
+    },
+    "wählen,": {
+      "ex": [
+        "wählt, Sie müssen erst eine Null wählen. hat gewählt Wählen Sie bitte ein Getränk."
+      ],
+      "num": 951,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5ea3db"
+    },
+    "wahr": {
+      "ex": [
+        "Das ist (nicht) wahr!"
+      ],
+      "num": 952,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5edbd5"
+    },
+    "wahrscheinlich": {
+      "ex": [
+        "Wahrscheinlich mache ich im Herbst einen",
+        "Deutschkurs.",
+        "Er kommt wahrscheinlich nicht."
+      ],
+      "num": 953,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5edbd5"
+    },
+    "der Wald,": {
+      "ex": [
+        "¨-er Im Wald ist es ruhig.",
+        "Ich gehe gern im Wald spazieren."
+      ],
+      "num": 954,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5ea3db"
+    },
+    "wandern,": {
+      "ex": [
+        "Wir gehen oft wandern. wandert,",
+        "ist gewandert"
+      ],
+      "num": 955,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#7222f2"
+    },
+    "warm": {
+      "ex": [
+        "Hier ist es sehr warm.",
+        "Mittags esse ich oft ein warmes Essen. Ich brauche einen warmen Pullover."
+      ],
+      "num": 958,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5ea3db"
+    },
+    "warten,": {
+      "ex": [
+        "Können Sie ein paar Minuten warten?"
+      ],
+      "num": 959,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2d6acc"
+    },
+    "wartet,": {
+      "ex": [
+        "Auf wen warten Sie? hat gewartet"
+      ],
+      "num": 960,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5edbd5"
+    },
+    "die Wäsche,": {
+      "ex": [
+        "-n Ich muss noch Wäsche waschen."
+      ],
+      "num": 964,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2248f2"
+    },
+    "waschen": {
+      "ex": [
+        "(sich), Wo kann ich mir die Hände waschen? wäscht,",
+        "hat gewaschen"
+      ],
+      "num": 965,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2248f2"
+    },
+    "die Webseite,": {
+      "ex": [
+        "-n Es gibt viele Webseiten mit Grammatikübungen. wechseln, Wir müssen den Reifen wechseln."
+      ],
+      "num": 967,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2d6acc"
+    },
+    "wechselt,": {
+      "ex": [
+        "Können Sie mir zehn Dollar wechseln? hat gewechselt"
+      ],
+      "num": 968,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2d6acc"
+    },
+    "wecken,": {
+      "ex": [
+        "Bitte wecken Sie mich morgen früh um fünf. weckt,",
+        "hat geweckt"
+      ],
+      "num": 969,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2248f2"
+    },
+    "weg/weg-": {
+      "ex": [
+        "Meine Brille ist weg. Ich finde sie nicht mehr. (wegbringen/ Bringst du bitte den Müll weg?",
+        "-fahren/-gehen/ Können Sie Ihr Auto bitte wegfahren?",
+        "-laufen/-machen/ Ich gehe jetzt weg.",
+        "-nehmen/-werfen) Unser Hund ist weggelaufen.",
+        "Kannst du das bitte wegmachen?"
+      ],
+      "num": 970,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5edbd5"
+    },
+    "Warum": {
+      "ex": [
+        "hast du dem Kind den Ball weggenommen? Sie können diese Papiere wegwerfen."
+      ],
+      "num": 971,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#7222f2"
+    },
+    "der Weg,": {
+      "ex": [
+        "-e Das ist der kürzeste Weg.",
+        "Können Sie mir bitte den Weg zum Flughafen beschreiben?"
+      ],
+      "num": 972,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5ea3db"
+    },
+    "wegen": {
+      "ex": [
+        "Wegen seiner Arbeit kann er leider nicht kommen.",
+        "Ich rufe wegen meiner Tochter an."
+      ],
+      "num": 973,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5ea3db"
+    },
+    "wehtun,": {
+      "ex": [
+        "Wo tut es weh?",
+        "tut weh, Ich will dir nicht wehtun. hat wehgetan"
+      ],
+      "num": 974,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2d6acc"
+    },
+    "weich": {
+      "ex": [
+        "Ich möchte zum Frühstück ein weiches Ei.",
+        "Das Bett im Hotel war zu weich."
+      ],
+      "num": 976,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5edbd5"
+    },
+    "weil": {
+      "ex": [
+        "Ich kann nicht kommen, weil ich arbeiten muss. der Wein, -e Nein danke, ich möchte keinen Wein."
+      ],
+      "num": 977,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2d6acc"
+    },
+    "weinen,": {
+      "ex": [
+        "weint, Warum weint das Baby? hat geweint Weine bitte nicht!"
+      ],
+      "num": 978,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5ea3db"
+    },
+    "welcher,": {
+      "ex": [
+        "-e, -s Welcher Tag ist heute?"
+      ],
+      "num": 981,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5edbd5"
+    },
+    "Welchen": {
+      "ex": [
+        "Kurs möchtest du machen? Welche Bluse nehmen Sie?"
+      ],
+      "num": 982,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5e75db"
+    },
+    "Welches": {
+      "ex": [
+        "Buch suchst du?"
+      ],
+      "num": 983,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5e75db"
+    },
+    "die Welt,": {
+      "ex": [
+        "-en Ich möchte gern einmal um die Welt reisen.",
+        "Die Studenten kommen aus vielen Ländern. Sie kommen aus der ganzen Welt."
+      ],
+      "num": 984,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5edbd5"
+    },
+    "wenig,": {
+      "ex": [
+        "-e Ich habe leider nur wenig verstanden.",
+        "Er verdient wenig."
+      ],
+      "num": 985,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5e75db"
+    },
+    "wenigstens": {
+      "ex": [
+        "ein Stück Kuchen."
+      ],
+      "num": 986,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5e75db"
+    },
+    "wenn": {
+      "ex": [
+        "Wenn ich nicht arbeiten muss, komme ich. wer (wen, wem) Wer ist das?"
+      ],
+      "num": 987,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2248f2"
+    },
+    "werden,": {
+      "ex": [
+        "wird, Mein Sohn will Arzt werden.",
+        "ist geworden Das Wetter am Wochenende wird gut. Das haben sie im Radio gesagt."
+      ],
+      "num": 988,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5ea3db"
+    },
+    "die Werkstatt,": {
+      "ex": [
+        "¨-en Mein Auto ist kaputt. Es ist in der Werkstatt."
+      ],
+      "num": 989,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#7222f2"
+    },
+    "der Wettbewerb,": {
+      "ex": [
+        "-e Mein Sohn hat bei einem Wettbewerb gewonnen. das Wetter (Sg.) Heute ist das Wetter gut: Es ist sonnig und warm."
+      ],
+      "num": 990,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5e75db"
+    },
+    "Wir": {
+      "ex": [
+        "hatten im Urlaub wunderbares Wetter."
+      ],
+      "num": 1018,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5e75db"
+    },
+    "wieder": {
+      "ex": [
+        "Stefan kann wieder zum Fußballtraining kommen.",
+        "Geht es dir wieder besser?",
+        "Du kommst schon wieder zu spät. Wann kommst du wieder?"
+      ],
+      "num": 997,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5e75db"
+    },
+    "wiederholen,": {
+      "ex": [
+        "Können Sie das bitte wiederholen? wiederholt,",
+        "hat wiederholt"
+      ],
+      "num": 998,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2248f2"
+    },
+    "das Wiederhören,": {
+      "ex": [
+        "- Wir müssen jetzt Schluss machen. Also auf"
+      ],
+      "num": 999,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2248f2"
+    },
+    "Wiederhören!": {
+      "ex": [
+        ""
+      ],
+      "num": 1000,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5ea3db"
+    },
+    "das Wiedersehen,": {
+      "ex": [
+        "- Auf Wiedersehen!"
+      ],
+      "num": 1001,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5ea3db"
+    },
+    "windig": {
+      "ex": [
+        "Heute ist es sehr windig."
+      ],
+      "num": 1003,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5edbd5"
+    },
+    "wirklich": {
+      "ex": [
+        "Du glaubst mir nicht? Es ist aber wirklich so. wissen, weiß, Weißt du, wie der Hausmeister heißt?",
+        "hat gewusst Woher wissen Sie das?"
+      ],
+      "num": 1004,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5edbd5"
+    },
+    "der Witz,": {
+      "ex": [
+        "-e Wir haben Witze erzählt und viel gelacht. witzig Warum lachst du? Ich finde das nicht witzig."
+      ],
+      "num": 1005,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#7222f2"
+    },
+    "wohnen,": {
+      "ex": [
+        "wohnt, Ich wohne in Kiel. hat gewohnt"
+      ],
+      "num": 1010,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5ea3db"
+    },
+    "das Wohnzimmer,": {
+      "ex": [
+        "- Die Kinder sitzen im Wohnzimmer und sehen fern."
+      ],
+      "num": 1012,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5e75db"
+    },
+    "die Wolke,": {
+      "ex": [
+        "-n Heute gibt es viele Wolken."
+      ],
+      "num": 1013,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5e75db"
+    },
+    "wollen,": {
+      "ex": [
+        "will, Wollen Sie einen Kaffee trinken? wollte,",
+        "hat gewollt",
+        "(hat wollen als Modalverb)"
+      ],
+      "num": 1014,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#7222f2"
+    },
+    "der Workshop,": {
+      "ex": [
+        "-s Das war ein toller Workshop. Ich habe viel gelernt. Am Freitag gibt es einen Computer-Workshop in meiner Firma."
+      ],
+      "num": 1015,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2d6acc"
+    },
+    "das Wort,¨-er": {
+      "ex": [
+        "Ich kenne das Wort nicht.",
+        "Ich muss das Wort im Wörterbuch suchen."
+      ],
+      "num": 1016,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5ea3db"
+    },
+    "der Wunsch,": {
+      "ex": [
+        "¨-e Ich wünsche Ihnen alles Gute!",
+        "Sie wünschen? – Ich möchte ein halbes Kilo Äpfel, bitte.",
+        "Haben Sie noch einen Wunsch? Was ist dein größter Wunsch?"
+      ],
+      "num": 1019,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2248f2"
+    },
+    "wünschen": {
+      "ex": [
+        "Ich wünsche mir eine Kamera zum Geburtstag. die Wurst, ¨-e Eine Wurst mit Pommes, bitte."
+      ],
+      "num": 1020,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2d6acc"
+    },
+    "die Zahl,": {
+      "ex": [
+        "-en Können Sie die Zahl bitte wiederholen? zahlen, zahlt, Entschuldigung, zahlen bitte!",
+        "hat gezahlt"
+      ],
+      "num": 1021,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5edbd5"
+    },
+    "der Zahn,": {
+      "ex": [
+        "¨-e Der Zahn tut mir schon seit einer Woche weh."
+      ],
+      "num": 1022,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2248f2"
+    },
+    "zeichnen,": {
+      "ex": [
+        "Caterina kann gut zeichnen. Sieh mal das Bild hier. zeichnet,",
+        "hat gezeichnet"
+      ],
+      "num": 1023,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5edbd5"
+    },
+    "zeigen,": {
+      "ex": [
+        "zeigt, Können Sie mir bitte den Weg zum Bahnhof zeigen? hat gezeigt"
+      ],
+      "num": 1024,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2d6acc"
+    },
+    "die Zeit,": {
+      "ex": [
+        "-en Ich habe heute keine Zeit."
+      ],
+      "num": 1025,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5edbd5"
+    },
+    "die Zeitschrift,": {
+      "ex": [
+        "-en Diese Zeitschrift kauft Andrea jede Woche. die Zeitung, -en Ich lese manchmal Zeitung.",
+        "Wo ist die Zeitung von heute?"
+      ],
+      "num": 1026,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#7222f2"
+    },
+    "das Zelt,": {
+      "ex": [
+        "-e Im Sommer schlafen wir manchmal im Zelt. das Zentrum, -en Der Bahnhof ist im Stadtzentrum.",
+        "Wohnst du im Zentrum? - Nein, ich wohne nicht direkt in der Stadt."
+      ],
+      "num": 1027,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#7222f2"
+    },
+    "der Zettel,": {
+      "ex": [
+        "- Hast du einen Zettel für mich? Ich muss etwas",
+        "notieren.",
+        "Schreiben Sie Ihre Telefonnummer bitte auf den Zettel."
+      ],
+      "num": 1028,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5edbd5"
+    },
+    "das Zeugnis,": {
+      "ex": [
+        "-se Morgen bekommen die Kinder ihr Zeugnis.",
+        "(an-)/(aus)ziehen, Ich ziehe (mir) eine Jacke an."
+      ],
+      "num": 1029,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5e75db"
+    },
+    "zieht": {
+      "ex": [
+        "(an/aus), Er hat sein T-Shirt ausgezogen und ein Hemd hat/ist angezogen.",
+        "(an/aus)gezogen Die Nachbarn sind am Wochenende ausgezogen."
+      ],
+      "num": 1030,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5ea3db"
+    },
+    "das Ziel,": {
+      "ex": [
+        "-e John läuft sehr schnell. Er war als erster am Ziel.",
+        "Was ist dein Ziel im Leben?"
+      ],
+      "num": 1031,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#7222f2"
+    },
+    "der Zirkus,": {
+      "ex": [
+        "-se Heute gehen wir mit den Kindern in den Zirkus. die Zitrone, -n Ich trinke den Tee mit Zitrone.",
+        "Lucia mag Zitroneneis."
+      ],
+      "num": 1033,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5edbd5"
+    },
+    "der Zoo,": {
+      "ex": [
+        "-s Am Sonntag gehen wir in den Zoo. zu Der Bus fährt zum Bahnhof.",
+        "Ich gehe zu Fuß. Ich bin zu Hause.",
+        "Das Kleid ist mir zu teuer.",
+        "Ich trinke zum Essen ein Bier."
+      ],
+      "num": 1034,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2d6acc"
+    },
+    "der Zucker": {
+      "ex": [
+        "(Sg.) Trinken Sie den Tee mit oder ohne Zucker? zuerst Zuerst müsst ihr die Hausaufgaben machen, dann",
+        "könnt ihr spielen."
+      ],
+      "num": 1035,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5ea3db"
+    },
+    "Zuerst": {
+      "ex": [
+        "hat mir die Arbeit gar nicht gefallen. Jetzt geht es besser."
+      ],
+      "num": 1036,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5e75db"
+    },
+    "zuhören,": {
+      "ex": [
+        "hört zu, Hör mir doch mal zu! Ich rede mit dir. hat zugehört"
+      ],
+      "num": 1039,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2d6acc"
+    },
+    "zuletzt": {
+      "ex": [
+        "Wir haben uns vor drei Jahren zuletzt gesehen.",
+        "Diese Aufgabe machen wir zuletzt."
+      ],
+      "num": 1040,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2248f2"
+    },
+    "zum": {
+      "ex": [
+        "Beispiel Mein Freund hat viele Hobbys, zum Beispiel Kochen, Lesen und Tanzen."
+      ],
+      "num": 1041,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5edbd5"
+    },
+    "zumachen,": {
+      "ex": [
+        "Machst du bitte das Fenster zu? macht zu,",
+        "hat zugemacht"
+      ],
+      "num": 1042,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#7222f2"
+    },
+    "zurück-": {
+      "ex": [
+        "Fahrt ihr nach der Party zurück nach Hause? (fahren, geben, Wann muss ich das Buch zurückgeben? gehen, kommen, Wir gehen wieder zurück.",
+        "laufen) Wann kommst du zurück?",
+        "Ich habe mein Buch vergessen. Ich laufe schnell nach Hause zurück."
+      ],
+      "num": 1044,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#5ea3db"
+    },
+    "Zahlen,": {
+      "ex": [
+        "bitte. – Zusammen oder getrennt? Das macht zusammen 10 Euro 80."
+      ],
+      "num": 1046,
+      "seen": 0,
+      "mastered": 0,
+      "color": "#2d6acc"
+    }
+  }
