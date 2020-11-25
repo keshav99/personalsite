@@ -144,7 +144,7 @@ $("#back").click(function(){
     }
     saveCookie("wordVocabForGermanFlashcards",wordVocab);
     var i=0;
-    sentences[item].forEach(e => {
+    item["ex"].forEach(e => {
         $("#sentences").append('<li>'+e+" ("+item_en["ex"][i]+')</li>');
         i++;
     });
