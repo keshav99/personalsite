@@ -267,7 +267,7 @@ h3{
     }
     #top{
         margin-top: 5vh;
-        
+        display: inline-block;
     }
     .scores{
         font-size: 1em;
