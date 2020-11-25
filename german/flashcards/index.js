@@ -83,6 +83,9 @@ $.getJSON( "./wordlist3_eng.json", function( data ) {
   wordVocab3_en = data;
  
 
+})
+.done(function(){
+  loadWord();
 });
 
 });
@@ -223,7 +226,7 @@ var loadWord = function(){
       nums[1].push(wordVocab2[value]["num"]);
     });
 
-    $.each(Object.keys(wordVocab1), function(index, value){
+    $.each(Object.keys(wordVocab3), function(index, value){
       nums[2].push(wordVocab3[value]["num"]);
     });
 
