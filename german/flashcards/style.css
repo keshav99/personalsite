@@ -262,15 +262,16 @@ h3{
 
     }
     #container{
-        margin-top: 10vh;
-        height: 70vh;
+        margin-top: 5vh;
+        height: 75vh;
     }
     #top{
         margin-top: 5vh;
         
     }
     .scores{
-        font-size: 2em;;
+        font-size: 1em;
+        width: 25vw;
     }
     #youveseen{
         width: 50vw;
