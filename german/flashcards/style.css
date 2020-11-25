@@ -261,8 +261,9 @@ h3{
         transform:translate(-50%,-50%);   
     }
 
-    #container{
+    #container, .go{
         height: 60vh;
         top: 20vh;
     }
+
 }
