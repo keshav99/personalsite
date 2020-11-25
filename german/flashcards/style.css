@@ -105,6 +105,10 @@ body{
     cursor: pointer;   
 }
 
+#next:active,#back:active{
+    outline: none;
+}
+
 #wordName, #sentences, #meaning{
     position: absolute;
     left: 50%;
@@ -245,6 +249,7 @@ h3{
         background: rgba(230, 194, 194, 0);
         font-size: 10em;
         color: rgb(122, 122, 122);
+        margin-top: -5vh;
     }
     #meaning{
         font-size: 1.5em;
@@ -268,9 +273,6 @@ h3{
     #top{
         margin-top: 5vh;
         display: inline-flex;
-    }
-    .go{
-        margin-top: -5vh;
     }
     .scores{
         font-size: 1em;
