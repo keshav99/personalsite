@@ -81,7 +81,7 @@ $.getJSON( "./wordlist3_eng.json", function( data ) {
 
 
 });
-
+loadWord();
 });
 
 var get_item_en = function(no, dict){
