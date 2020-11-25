@@ -72,7 +72,7 @@ $.getJSON( "./wordlist_eng.json", function( data ) {
 $.getJSON( "./wordlist2_eng.json", function( data ) {
 
   wordVocab2_en = data;
-  $.done(function(){
+  .done(function(){
     loadWord();
   });
 
