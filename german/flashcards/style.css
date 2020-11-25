@@ -257,13 +257,13 @@ h3{
         margin-top: -5vh;
     }
     #next:hover{
-        background: rgba(44, 38, 38, 0.1);
+        background: rgba(44, 38, 38, 0.02);
         color: #fff;
         cursor: pointer;   
     }
     
     #back:hover{
-        background: rgba(44, 38, 38, 0.1);
+        background: rgba(44, 38, 38, 0.02);
         color: #fff;
         cursor: pointer;   
     }
