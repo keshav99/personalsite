@@ -224,21 +224,21 @@ var loadWord = function(){
     var item = vocab[ranword];
     var sentences = item["ex"];
     var ranword_en = "";
-    var item_en = {};
+    var item_eng = {};
 
     console.log(ranword);
     console.log(item["num"]);
     if(ranLevel==0){
-      item_en = get_item_en(item["num"], wordVocab1_en);
+      item_eng = get_item_en(item["num"], wordVocab1_en);
       ranword_en = Object.keys(wordVocab1_en).find(key => wordVocab1_en[key] == item_en)
     }
       
     else if(ranLevel==1){
-      item_en = get_item_en(item["num"], wordVocab2_en);
+      item_eng = get_item_en(item["num"], wordVocab2_en);
       ranword_en = Object.keys(wordVocab2_en).find(key => wordVocab2_en[key] == item_en)
     }
     else if(ranLevel==2){
-      item_en = get_item_en(item["num"], wordVocab3_en);
+      item_eng = get_item_en(item["num"], wordVocab3_en);
       ranword_en = Object.keys(wordVocab3_en).find(key => wordVocab3_en[key] == item_en)
     }
     var newword = ranword;
@@ -266,7 +266,7 @@ var loadWord = function(){
     saveCookie("wordVocabForGermanFlashcards",wordVocab);
     var j=0;
     sentences.forEach(e => {
-      $("#sentences").append('<li>'+e+" ("+item_en["ex"][j]+')</li>');
+      $("#sentences").append('<li>'+e+" ("+item_eng["ex"][j]+')</li>');
       j++;
     });
     $("#container").css('background-color', item["color"]);
