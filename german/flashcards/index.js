@@ -57,6 +57,122 @@ $.getJSON( "./wordlist_compressed.json", function( data ) {
 }).done(function(){
   loadWord();
 });
+
+$("#next").click(function(){
+  $("#inner").css("transform", "rotateY(0deg)");
+
+
+  pointer+=1;
+  $("#sentences").html("");
+  if(pointer>=doneWords.length)
+  loadWord();
+  else{
+    var word = doneWords[pointer];
+    var item, item_en;
+    if(wordVocab1[word]){
+      item = wordVocab1[word];
+      item_en = get_item_en(wordVocab1[no], wordVocab1_en);
+    }
+    if(wordVocab2[word]){
+      item = wordVocab2[word];
+      item_en = get_item_en(wordVocab2[no], wordVocab2_en);
+    }
+    if(wordVocab3[word]){
+      item = wordVocab3[word];
+      item_en = get_item_en(wordVocab3[no], wordVocab3_en);
+    }
+    $("#wordName").text(word);
+    console.log( word);
+    if(typeof wordVocab[word] == 'undefined'){
+      wordVocab[word] = item;
+      $("#youveseen").text("You haven't seen this word before");
+      $("#seenno").text(Object.keys(wordVocab).length);
+    }
+    else{
+      wordVocab[word]["seen"]++;
+      $("#youveseen").text("You have seen this "+wordVocab[word]["seen"]+" time(s)");
+      $("#seenno").text(Object.keys(wordVocab).length);
+    }
+    saveCookie("wordVocabForGermanFlashcards",wordVocab);
+    var i = 0;
+    item["ex"].forEach(e => {
+      $("#sentences").append('<li>'+e+" ("+item_en["ex"][i]+')</li>');
+      // console.log(sentenceengs[item][i])
+      i++;
+    });
+    $("#container").css('background-color', item["color"]);
+    // $("#sample").attr("src",imgs[item]);
+    // $("#meaning").text(wordengs[item]);
+    ``
+  }
+});
+
+$("#back").click(function(){
+  $("#inner").css("transform", "rotateY(0deg)");
+  if(pointer>0){
+    $("#inner").css("transform", "rotateY(0deg)");
+    $("#sentences").html("");
+    pointer--;
+    var word = doneWords[pointer];
+    var item, item_en;
+    if(wordVocab1[word]){
+      item = wordVocab1[word];
+      item_en = get_item_en(wordVocab1[no], wordVocab1_en);
+    }
+    if(wordVocab2[word]){
+      item = wordVocab2[word];
+      item_en = get_item_en(wordVocab1[no], wordVocab2_en);
+    }
+    if(wordVocab3[word]){
+      item = wordVocab3[word];
+      item_en = get_item_en(wordVocab1[no], wordVocab3_en);
+    }
+    $("#wordName").text(word);
+    
+  console.log(wordVocab[word]);
+    if(typeof wordVocab[word] == 'undefined'){
+      wordVocab[word] = item;
+      $("#youveseen").text("You haven't seen this word before");
+      $("#seenno").text(Object.keys(wordVocab).length);
+
+    }
+    else{
+      
+      $("#youveseen").text("You have seen this "+wordVocab[word]["seen"]+" time(s)");
+      $("#seenno").text(Object.keys(wordVocab).length);
+      wordVocab[word]["seen"]++;
+    }
+    saveCookie("wordVocabForGermanFlashcards",wordVocab);
+    var i=0;
+    sentences[item].forEach(e => {
+        $("#sentences").append('<li>'+e+" ("+item_en["ex"][i]+')</li>');
+        i++;
+    });
+    $("#container").css('background-color', item["color"]);
+    // $("#sample").attr("src",imgs[item]);
+    $("#meaning").text();
+  }
+});
+
+$("#inner").click(function(){
+  console.log(frontorback);
+  var word = doneWords[pointer];
+
+  if(frontorback == 0){
+    $("#inner").css("transform", "rotateY(0deg)");
+    frontorback = 1;
+    // wordVocab[word]["seen"++;
+    $("#youveseen").text("You have seen this "+wordVocab[word]["seen"]+" time(s)");
+    $("#seenno").text(Object.keys(wordVocab).length);
+  }
+  else{
+    $("#inner").css("transform", "rotateY(180deg)");
+    frontorback = 0;
+    
+  }
+  // alert('flipped');
+});
+
 });
 
 function get_item_en(no, dict){
@@ -71,120 +187,7 @@ function get_item_en(no, dict){
   return res;
 }
 
-  $("#next").click(function(){
-    $("#inner").css("transform", "rotateY(0deg)");
-
-
-    pointer+=1;
-    $("#sentences").html("");
-    if(pointer>=doneWords.length)
-    loadWord();
-    else{
-      var word = doneWords[pointer];
-      var item, item_en;
-      if(wordVocab1[word]){
-        item = wordVocab1[word];
-        item_en = get_item_en(wordVocab1[no], wordVocab1_en);
-      }
-      if(wordVocab2[word]){
-        item = wordVocab2[word];
-        item_en = get_item_en(wordVocab2[no], wordVocab2_en);
-      }
-      if(wordVocab3[word]){
-        item = wordVocab3[word];
-        item_en = get_item_en(wordVocab3[no], wordVocab3_en);
-      }
-      $("#wordName").text(word);
-      console.log( word);
-      if(typeof wordVocab[word] == 'undefined'){
-        wordVocab[word] = item;
-        $("#youveseen").text("You haven't seen this word before");
-        $("#seenno").text(Object.keys(wordVocab).length);
-      }
-      else{
-        wordVocab[word]["seen"]++;
-        $("#youveseen").text("You have seen this "+wordVocab[word]["seen"]+" time(s)");
-        $("#seenno").text(Object.keys(wordVocab).length);
-      }
-      saveCookie("wordVocabForGermanFlashcards",wordVocab);
-      var i = 0;
-      item["ex"].forEach(e => {
-        $("#sentences").append('<li>'+e+" ("+item_en["ex"][i]+')</li>');
-        // console.log(sentenceengs[item][i])
-        i++;
-      });
-      $("#container").css('background-color', item["color"]);
-      // $("#sample").attr("src",imgs[item]);
-      // $("#meaning").text(wordengs[item]);
-      ``
-    }
-  });
-
-  $("#back").click(function(){
-    $("#inner").css("transform", "rotateY(0deg)");
-    if(pointer>0){
-      $("#inner").css("transform", "rotateY(0deg)");
-      $("#sentences").html("");
-      pointer--;
-      var word = doneWords[pointer];
-      var item, item_en;
-      if(wordVocab1[word]){
-        item = wordVocab1[word];
-        item_en = get_item_en(wordVocab1[no], wordVocab1_en);
-      }
-      if(wordVocab2[word]){
-        item = wordVocab2[word];
-        item_en = get_item_en(wordVocab1[no], wordVocab2_en);
-      }
-      if(wordVocab3[word]){
-        item = wordVocab3[word];
-        item_en = get_item_en(wordVocab1[no], wordVocab3_en);
-      }
-      $("#wordName").text(word);
-      
-    console.log(wordVocab[word]);
-      if(typeof wordVocab[word] == 'undefined'){
-        wordVocab[word] = item;
-        $("#youveseen").text("You haven't seen this word before");
-        $("#seenno").text(Object.keys(wordVocab).length);
-  
-      }
-      else{
-        
-        $("#youveseen").text("You have seen this "+wordVocab[word]["seen"]+" time(s)");
-        $("#seenno").text(Object.keys(wordVocab).length);
-        wordVocab[word]["seen"]++;
-      }
-      saveCookie("wordVocabForGermanFlashcards",wordVocab);
-      var i=0;
-      sentences[item].forEach(e => {
-          $("#sentences").append('<li>'+e+" ("+item_en["ex"][i]+')</li>');
-          i++;
-      });
-      $("#container").css('background-color', item["color"]);
-      // $("#sample").attr("src",imgs[item]);
-      $("#meaning").text();
-    }
-  });
-
-  $("#inner").click(function(){
-    console.log(frontorback);
-    var word = doneWords[pointer];
-
-    if(frontorback == 0){
-      $("#inner").css("transform", "rotateY(0deg)");
-      frontorback = 1;
-      // wordVocab[word]["seen"++;
-      $("#youveseen").text("You have seen this "+wordVocab[word]["seen"]+" time(s)");
-      $("#seenno").text(Object.keys(wordVocab).length);
-    }
-    else{
-      $("#inner").css("transform", "rotateY(180deg)");
-      frontorback = 0;
-      
-    }
-    // alert('flipped');
-  });
+ 
  
 
 var loadWord = function(){
