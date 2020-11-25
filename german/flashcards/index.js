@@ -162,6 +162,8 @@ $("#inner").click(function(){
     $("#inner").css("transform", "rotateY(0deg)");
     frontorback = 1;
     // wordVocab[word]["seen"++;
+    if(wordVocab[word]["seen"] == 0)
+    $("#youveseen").text("You haven't seen this word before");
     $("#youveseen").text("You have seen this "+wordVocab[word]["seen"]+" time(s)");
     $("#seenno").text(Object.keys(wordVocab).length);
   }
