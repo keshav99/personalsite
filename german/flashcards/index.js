@@ -78,10 +78,12 @@ $.getJSON( "./wordlist2_eng.json", function( data ) {
 $.getJSON( "./wordlist3_eng.json", function( data ) {
 
   wordVocab3_en = data;
-
+  $.done(function(){
+    loadWord();
+  });
 
 });
-loadWord();
+
 });
 
 var get_item_en = function(no, dict){
