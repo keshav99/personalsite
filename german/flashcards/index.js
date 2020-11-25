@@ -71,12 +71,12 @@ $.getJSON( "./wordlist_eng.json", function( data ) {
 });
 $.getJSON( "./wordlist2_eng.json", function( data ) {
 
-  wordVocab2_en = data;
-  .done(function(){
+    wordVocab2_en = data;
+  }).done(function(){
     loadWord();
   });
 
-});
+
 $.getJSON( "./wordlist3_eng.json", function( data ) {
 
   wordVocab3_en = data;
