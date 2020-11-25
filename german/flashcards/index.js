@@ -59,27 +59,11 @@ $.getJSON( "./wordlist_compressed2.json", function( data ) {
 });
 
 
-
-
-
-
-$.getJSON( "./wordlist3_eng.json", function( data ) {
-
-  wordVocab3_en = data;
- 
-
-})
-.done(function(){
-  loadWord();
-});
-
-});
-
 var get_item_en = function(no, dict){
   $.each(Object.keys(dict), function(i, item) {
     if(dict[item]["num"] == no){
       
-      console.log(item);
+      console.log(dict[item]);
       return dict[item];
     }
   });
