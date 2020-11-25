@@ -10,6 +10,11 @@ function getCookie(cook) {
   return result;
 } 
 
+function saveCookie(cook, cvalue) {
+  var cookie = [cook, '=', JSON.stringify(cvalue), '; domain=.', window.location.host.toString(), '; path=/;'].join('');
+  document.cookie = cookie;
+}
+
 function copyToClipboard(text) {
   var dummy = document.createElement("textarea");
   var t = "";
@@ -308,7 +313,4 @@ var loadWord = function(){
 
 
 
-function saveCookie(cook, cvalue) {
-  var cookie = [cook, '=', JSON.stringify(cvalue), '; domain=.', window.location.host.toString(), '; path=/;'].join('');
-  document.cookie = cookie;
-}
+
