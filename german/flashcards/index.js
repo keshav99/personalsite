@@ -234,7 +234,9 @@ var loadWord = function(){
 
     var ranLevel = (Math.floor(Math.random() * $(levels).length) + 1)-1;
     console.log(ranLevel);
-    console.log(levels);
+    console.log(wordVocab1);
+    console.log(wordVocab2);
+    console.log(wordVocab3);
     var vocab = levels[ranLevel];
 
     var itemsInLevel = Object.keys(vocab);
