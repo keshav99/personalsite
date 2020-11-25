@@ -286,14 +286,14 @@ var loadWord = function(){
       wordVocab[newword] = item;
       $("#youveseen").text("You haven't seen this word before");
       $("#seenno").text(Object.keys(wordVocab).length);
-      $("#mastered").text(wordVocab[word]["mastered"]);
+      $("#mastered").text(wordVocab[newword]["mastered"]);
     }
     else{
       wordVocab[newword]["seen"]++;
       // var item = words.indexOf(doneWords[pointer]);
       $("#youveseen").text("You have seen this "+wordVocab[newword]+" time(s)");
       $("#seenno").text(Object.keys(wordVocab).length);
-      $("#mastered").text(wordVocab[word]["mastered"]);
+      $("#mastered").text(wordVocab[newword]["mastered"]);
     }
     saveCookie("wordVocabForGermanFlashcards",wordVocab);
     var j=0;
