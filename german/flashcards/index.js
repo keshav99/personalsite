@@ -78,6 +78,8 @@ $.getJSON( "./wordlist3_eng.json", function( data ) {
 var get_item_en = function(no, dict){
   $.each(Object.keys(dict), function(i, item) {
     if(dict[item]["num"] == no){
+      
+      console.log(item);
       return dict[item];
     }
   });
