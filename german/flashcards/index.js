@@ -179,6 +179,7 @@ $("#inner").click(function(){
     // wordVocab[word]["seen"++;
     if(wordVocab[word]["seen"] == 0)
     $("#youveseen").text("You haven't seen this word before");
+    else
     $("#youveseen").text("You have seen this "+wordVocab[word]["seen"]+" time(s)");
     $("#seenno").text(Object.keys(wordVocab).length);
     $("#mastered").text(wordVocab[word]["mastered"]);
