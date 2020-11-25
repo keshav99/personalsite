@@ -50,32 +50,40 @@ $.getJSON( "./wordlist.json", function( data ) {
     wordVocab1 = data;
  
 
-});
-$.getJSON( "./wordlist2_clean.json", function( data ) {
+}).done(function(){
+  $.getJSON( "./wordlist2_clean.json", function( data ) {
 
-  wordVocab2 = data;
+    wordVocab2 = data;
+  
+  
+  }).done(function(){
+    $.getJSON( "./wordlist3_clean.json", function( data ) {
 
+      wordVocab3 = data;
+    
+    
+    }).done(function(){
+      $.getJSON( "./wordlist_eng.json", function( data ) {
 
-});
-$.getJSON( "./wordlist3_clean.json", function( data ) {
+        wordVocab1_en = data;
+      
+      
+      }).done(function(){
+        $.getJSON( "./wordlist2_eng.json", function( data ) {
 
-  wordVocab3 = data;
-
-
-});
-$.getJSON( "./wordlist_eng.json", function( data ) {
-
-  wordVocab1_en = data;
-
-
-});
-$.getJSON( "./wordlist2_eng.json", function( data ) {
-
-    wordVocab2_en = data;
-  })
-  .done(function(){
-    loadWord();
+          wordVocab2_en = data;
+        })
+        .done(function(){
+          loadWord();
+        });
+      });
+    });
   });
+});
+
+
+
+
 
 
 $.getJSON( "./wordlist3_eng.json", function( data ) {
