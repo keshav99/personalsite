@@ -1,5 +1,6 @@
 var doneWords = [];
 var pointer = 0;
+var mastered = true;
 var a1 = true, a2 = true, b1 = true;
 
 function getCookie(cook) {
@@ -32,6 +33,7 @@ function copyToClipboard(text) {
 
 var wordVocab1 = {}, wordVocab2 = {}, wordVocab3 = {}, wordVocab = {}, wordVocab1_en = {}, wordVocab2_en = {}, wordVocab3_en = {};
 
+
 var frontorback = 1;
 $(window).load(function() {
   frontorback = 1;
@@ -60,8 +62,12 @@ $.getJSON( "./wordlist_compressed.json", function( data ) {
 
 $("#next").click(function(){
   $("#inner").css("transform", "rotateY(0deg)");
-
-
+  if(mastered)
+  wordVocab[doneWords[pointer]]["mastered"] = true;
+  else
+  wordVocab[doneWords[pointer]]["mastered"] = false;
+  mastered = true;
+  
   pointer+=1;
   $("#sentences").html("");
   if(pointer>=doneWords.length)
@@ -110,6 +116,11 @@ $("#next").click(function(){
 $("#back").click(function(){
   $("#inner").css("transform", "rotateY(0deg)");
   if(pointer>0){
+    if(mastered)
+    wordVocab[doneWords[pointer]]["mastered"] = true;
+    else
+    wordVocab[doneWords[pointer]]["mastered"] = false;
+    mastered = true;
     $("#inner").css("transform", "rotateY(0deg)");
     $("#sentences").html("");
     pointer--;
@@ -155,6 +166,7 @@ $("#back").click(function(){
 });
 
 $("#inner").click(function(){
+  mastered = false;
   console.log(frontorback);
   var word = doneWords[pointer];
 
