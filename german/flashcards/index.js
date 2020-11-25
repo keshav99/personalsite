@@ -93,11 +93,13 @@ $("#next").click(function(){
       wordVocab[word] = item;
       $("#youveseen").text("You haven't seen this word before");
       $("#seenno").text(Object.keys(wordVocab).length);
+      $("#mastered").text(wordVocab[word]["mastered"]);
     }
     else{
       wordVocab[word]["seen"]++;
       $("#youveseen").text("You have seen this "+wordVocab[word]["seen"]+" time(s)");
       $("#seenno").text(Object.keys(wordVocab).length);
+      $("#mastered").text(wordVocab[word]["mastered"]);
     }
     saveCookie("wordVocabForGermanFlashcards",wordVocab);
     var i = 0;
@@ -145,12 +147,13 @@ $("#back").click(function(){
       wordVocab[word] = item;
       $("#youveseen").text("You haven't seen this word before");
       $("#seenno").text(Object.keys(wordVocab).length);
-
+      $("#mastered").text(wordVocab[word]["mastered"]);
     }
     else{
       
       $("#youveseen").text("You have seen this "+wordVocab[word]["seen"]+" time(s)");
       $("#seenno").text(Object.keys(wordVocab).length);
+      $("#mastered").text(wordVocab[word]["mastered"]);
       wordVocab[word]["seen"]++;
     }
     saveCookie("wordVocabForGermanFlashcards",wordVocab);
@@ -178,6 +181,7 @@ $("#inner").click(function(){
     $("#youveseen").text("You haven't seen this word before");
     $("#youveseen").text("You have seen this "+wordVocab[word]["seen"]+" time(s)");
     $("#seenno").text(Object.keys(wordVocab).length);
+    $("#mastered").text(wordVocab[word]["mastered"]);
   }
   else{
     $("#inner").css("transform", "rotateY(180deg)");
@@ -282,12 +286,14 @@ var loadWord = function(){
       wordVocab[newword] = item;
       $("#youveseen").text("You haven't seen this word before");
       $("#seenno").text(Object.keys(wordVocab).length);
+      $("#mastered").text(wordVocab[word]["mastered"]);
     }
     else{
       wordVocab[newword]["seen"]++;
       // var item = words.indexOf(doneWords[pointer]);
       $("#youveseen").text("You have seen this "+wordVocab[newword]+" time(s)");
       $("#seenno").text(Object.keys(wordVocab).length);
+      $("#mastered").text(wordVocab[word]["mastered"]);
     }
     saveCookie("wordVocabForGermanFlashcards",wordVocab);
     var j=0;
