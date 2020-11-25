@@ -66,7 +66,6 @@ function get_item_en(no, dict){
       
       console.log(dict[item]);
       res = dict[item];
-      break;
     }
   });
   return res;
