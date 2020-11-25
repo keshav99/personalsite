@@ -64,6 +64,16 @@ $.getJSON( "./wordlist_compressed.json", function( data ) {
   loadWord();
 });
 
+$("#one").click(function(){
+  a1 = $(this).is(':checked')
+});
+$("#two").click(function(){
+  a2 = $(this).is(':checked')
+});
+$("#three").click(function(){
+  b1 = $(this).is(':checked')
+});
+
 $("#next").click(function(){
   $("#inner").css("transform", "rotateY(0deg)");
   if(mastered)
