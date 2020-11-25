@@ -228,8 +228,8 @@ var loadWord = function(){
     
     var nums = [[], [], []];
     console.log(a1);
-    console.log(a1);
-    console.log(a1);
+    console.log(a2);
+    console.log(b1);
 
 
     $.each(Object.keys(wordVocab1), function(index, value){
@@ -253,13 +253,7 @@ var loadWord = function(){
       levels.push(wordVocab3);
 
     var ranLevel = (Math.floor(Math.random() * $(levels).length) + 1)-1;
-    console.log(ranLevel);
-    console.log(wordVocab1);
-    console.log(wordVocab2);
-    console.log(wordVocab3);
-    console.log(wordVocab1_en);
-    console.log(wordVocab2_en);
-    console.log(wordVocab3_en);
+    
     var vocab = levels[ranLevel];
 
     var itemsInLevel = Object.keys(vocab);
@@ -269,12 +263,9 @@ var loadWord = function(){
     var ranword_en = "";
     var item_eng = {};
 
-    console.log(ranword);
-    console.log(item["num"]);
     if(ranLevel==0){
       item_eng = get_item_en(item["num"], wordVocab1_en);
       
-    console.log(get_item_en(item["num"], wordVocab1_en));
       ranword_en = Object.keys(wordVocab1_en).find(key => wordVocab1_en[key] == item_eng)
     }
       
