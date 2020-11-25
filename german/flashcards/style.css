@@ -6,7 +6,7 @@ body{
 
 #container{
     width: 100vw;
-    height: 80vh !important;
+    height: 80vh;
     vertical-align: center;
     /* margin-top:10vh; */
     text-align: center;
