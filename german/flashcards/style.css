@@ -233,6 +233,9 @@ h3{
   }
 
 @media (max-width: 1024px){
+    body{
+        font-size: 3em;
+    }
     #wordName{
         font-size: 8em;
         top:40%;
@@ -256,5 +259,10 @@ h3{
         /* padding:20px; */
         top: 75%;
         transform:translate(-50%,-50%);   
+    }
+
+    #container{
+        height: 60vh;
+        top: 20vh;
     }
 }
