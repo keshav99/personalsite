@@ -1,6 +1,6 @@
 var doneWords = [];
 var pointer = 0;
-var a1 = true, a2 = true, b1 = true;
+var a1 = true, a2 = true, b1 = false;
 
 function getCookie(cook) {
   var result = document.cookie.match(new RegExp(cook+ '=([^;]+)'));
