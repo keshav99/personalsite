@@ -252,16 +252,16 @@ var loadWord = function(){
     var ranword_en = "";
 
     if(ranLevel==0){
-      item_en = get_item_en(vocab[no], wordVocab1_en);
+      item_en = get_item_en(item["num"], wordVocab1_en);
       ranword_en = Object.keys(wordVocab1_en).find(key => wordVocab1_en[key] == item_en)
     }
       
     else if(ranLevel==1){
-      item_en = get_item_en(vocab[no], wordVocab2_en);
+      item_en = get_item_en(item["num"], wordVocab2_en);
       ranword_en = Object.keys(wordVocab2_en).find(key => wordVocab2_en[key] == item_en)
     }
     else if(ranLevel==2){
-      item_en = get_item_en(vocab[no], wordVocab3_en);
+      item_en = get_item_en(item["num"], wordVocab3_en);
       ranword_en = Object.keys(wordVocab3_en).find(key => wordVocab3_en[key] == item_en)
     }
     var newword = ranword;
