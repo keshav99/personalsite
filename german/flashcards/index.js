@@ -37,7 +37,6 @@ var wordVocab1 = {}, wordVocab2 = {}, wordVocab3 = {}, wordVocab = {}, wordVocab
 var frontorback = 1;
 $(window).load(function() {
   frontorback = 1;
-
   
 wordVocab = getCookie("wordVocabForGermanFlashcards");
 console.log(wordVocab);
@@ -150,11 +149,11 @@ $("#back").click(function(){
       $("#mastered").text(Boolean(wordVocab[word]["mastered"]));
     }
     else{
-      
+      wordVocab[word]["seen"]++;
       $("#youveseen").text("You have seen this "+wordVocab[word]["seen"]+" time(s)");
       $("#seenno").text(Object.keys(wordVocab).length);
       $("#mastered").text(Boolean(wordVocab[word]["mastered"]));
-      wordVocab[word]["seen"]++;
+      
     }
     saveCookie("wordVocabForGermanFlashcards",wordVocab);
     var i=0;
