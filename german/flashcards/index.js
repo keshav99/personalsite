@@ -86,7 +86,7 @@ $("#next").click(function(){
   $("#sentences").html("");
   $("#meaning").html("");
   if(pointer>=doneWords.length)
-  loadWord();
+  loadQuiz();
   else{
     var word = doneWords[pointer];
     var item, item_en;
