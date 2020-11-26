@@ -90,25 +90,30 @@ $("#next").click(function(){
   else{
     var word = doneWords[pointer];
     var item, item_en;
+    var level = "";
     if(wordVocab1[word]){
       item = wordVocab1[word];
       word_en = get_item_en(item["num"], wordVocab1_en)
       item_en = wordVocab1_en[word_en];
+      level = "a1";
     }
     if(wordVocab2[word]){
       item = wordVocab2[word];
       word_en = get_item_en(item["num"], wordVocab2_en)
       item_en = wordVocab2_en[word_en];
+      level = "a2";
     }
     if(wordVocab3[word]){
       item = wordVocab3[word];
       word_en = get_item_en(item["num"], wordVocab3_en)
       item_en = wordVocab3_en[word_en];
+      level = "b1";
     }
     $("#wordName").text(word);
     console.log( word);
     if(typeof wordVocab[word] == 'undefined'){
       wordVocab[word] = item;
+      wordVocab[word]["level"] = level;
       $("#youveseen").text("You haven't seen this word before");
       $("#seenno").text(Object.keys(wordVocab).length);
       $("#mastered").text(Boolean(wordVocab[word]["mastered"]));
@@ -147,26 +152,31 @@ $("#back").click(function(){
     pointer--;
     var word = doneWords[pointer];
     var item, item_en, word_en;
+    var level = "";
     if(wordVocab1[word]){
       item = wordVocab1[word];
       word_en = get_item_en(item["num"], wordVocab1_en)
       item_en = wordVocab1_en[word_en];
+      level = "a1";
     }
     if(wordVocab2[word]){
       item = wordVocab2[word];
       word_en = get_item_en(item["num"], wordVocab2_en)
       item_en = wordVocab2_en[word_en];
+      level = "a2";
     }
     if(wordVocab3[word]){
       item = wordVocab3[word];
       word_en = get_item_en(item["num"], wordVocab3_en)
       item_en = wordVocab3_en[word_en];
+      level = "b1";
     }
     $("#wordName").text(word);
     
   console.log(wordVocab[word]);
     if(typeof wordVocab[word] == 'undefined'){
       wordVocab[word] = item;
+      wordVocab[word]["level"] = level;
       $("#youveseen").text("You haven't seen this word before");
       $("#seenno").text(Object.keys(wordVocab).length);
       $("#mastered").text(Boolean(wordVocab[word]["mastered"]));
@@ -232,9 +242,15 @@ var loadQuiz = function(){
   if(Object.keys(wordVocab).length<10)
     loadWord();
   else{
-    $("#inner").css("visibility", "hidden");
-    $("#quiz").css("visibility", "visible");
+    var wordorquiz = ["word", "word", "word", "word", "word", "word", "word", "quiz", "quiz", "quiz"]
+    var ran = wordorquiz[(Math.floor(Math.random() * $(wordorquiz).length) + 1)-1];
 
+    if(ran === "word")
+    loadWord();
+    else{
+
+    }
+    
   }
 }
  
@@ -280,19 +296,23 @@ var loadWord = function(){
     var sentences = item["ex"];
     var ranword_en = "";
     var item_eng = {}, word_eng;
+    var level = "";
 
     if(vocab==wordVocab1){
       word_eng = get_item_en(item["num"], wordVocab1_en);
       item_eng = wordVocab1_en[word_eng];
+      level = "a1";
     }
       
     else if(vocab==wordVocab2){
       word_eng = get_item_en(item["num"], wordVocab2_en);
       item_eng = wordVocab2_en[word_eng];
+      level = "a2";
     }
     else if(vocab==wordVocab3){
       word_eng = get_item_en(item["num"], wordVocab3_en);
       item_eng = wordVocab3_en[word_eng];
+      level = "b1";
     }
     console.log(item_eng);
     var newword = ranword;
@@ -308,6 +328,7 @@ var loadWord = function(){
     $("#wordName").text(newword);
     if(typeof wordVocab[newword] == 'undefined'){
       wordVocab[newword] = item;
+      wordVocab[newword]["level"] =  level;
       $("#youveseen").text("You haven't seen this word before");
       $("#seenno").text(Object.keys(wordVocab).length);
       $("#mastered").text(Boolean(wordVocab[newword]["mastered"]));
