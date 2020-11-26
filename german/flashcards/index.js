@@ -84,7 +84,7 @@ $("#next").click(function(){
   
   pointer+=1;
   $("#sentences").html("");
-$("#meaning").html("");
+  $("#meaning").html("");
   if(pointer>=doneWords.length)
   loadWord();
   else{
@@ -92,15 +92,18 @@ $("#meaning").html("");
     var item, item_en;
     if(wordVocab1[word]){
       item = wordVocab1[word];
-      item_en = get_item_en(item["num"], wordVocab1_en);
+      word_en = get_item_en(item["num"], wordVocab1_en)
+      item_en = wordVocab1_en[word_en];
     }
     if(wordVocab2[word]){
       item = wordVocab2[word];
-      item_en = get_item_en(item["num"], wordVocab2_en);
+      word_en = get_item_en(item["num"], wordVocab2_en)
+      item_en = wordVocab2_en[word_en];
     }
     if(wordVocab3[word]){
       item = wordVocab3[word];
-      item_en = get_item_en(item["num"], wordVocab3_en);
+      word_en = get_item_en(item["num"], wordVocab3_en)
+      item_en = wordVocab3_en[word_en];
     }
     $("#wordName").text(word);
     console.log( word);
@@ -125,8 +128,8 @@ $("#meaning").html("");
     });
     $("#container").css('background-color', item["color"]);
     // $("#sample").attr("src",imgs[item]);
-    // $("#meaning").text(wordengs[item]);
-    ``
+    $("#meaning").text(word_en);
+    
   }
 });
 
@@ -143,20 +146,23 @@ $("#back").click(function(){
     $("#meaning").html("");
     pointer--;
     var word = doneWords[pointer];
-    var item, item_en;
+    var item, item_en, word_en;
     if(wordVocab1[word]){
       item = wordVocab1[word];
-      item_en = get_item_en(item["num"], wordVocab1_en);
+      word_en = get_item_en(item["num"], wordVocab1_en)
+      item_en = wordVocab1_en[word_en];
     }
     if(wordVocab2[word]){
       item = wordVocab2[word];
-      item_en = get_item_en(item["num"], wordVocab2_en);
+      word_en = get_item_en(item["num"], wordVocab2_en)
+      item_en = wordVocab2_en[word_en];
     }
     if(wordVocab3[word]){
       item = wordVocab3[word];
-      item_en = get_item_en(item["num"], wordVocab3_en);
+      word_en = get_item_en(item["num"], wordVocab3_en)
+      item_en = wordVocab3_en[word_en];
     }
-    $("#meaning").text(word);
+    $("#wordName").text(word);
     
   console.log(wordVocab[word]);
     if(typeof wordVocab[word] == 'undefined'){
@@ -180,7 +186,7 @@ $("#back").click(function(){
     });
     $("#container").css('background-color', item["color"]);
     // $("#sample").attr("src",imgs[item]);
-    $("#meaning").text();
+    $("#meaning").text(word_en);
   }
 });
 
@@ -216,7 +222,7 @@ function get_item_en(no, dict){
     if(dict[item]["num"] == no){
       
       console.log(dict[item]);
-      res = dict[item];
+      res = item;
     }
   });
   return res;
@@ -263,25 +269,20 @@ var loadWord = function(){
     var item = vocab[ranword];
     var sentences = item["ex"];
     var ranword_en = "";
-    var item_eng = {};
+    var item_eng = {}, word_eng;
 
     if(vocab==wordVocab1){
-      item_eng = get_item_en(item["num"], wordVocab1_en);
-      
-      ranword_en = Object.keys(wordVocab1_en).find(key => wordVocab1_en[key] == item_eng)
+      word_eng = get_item_en(item["num"], wordVocab1_en);
+      item_eng = wordVocab1_en[word_eng];
     }
       
     else if(vocab==wordVocab2){
-      item_eng = get_item_en(item["num"], wordVocab2_en);
-      
-    console.log(get_item_en(item["num"], wordVocab2_en));
-      ranword_en = Object.keys(wordVocab2_en).find(key => wordVocab2_en[key] == item_eng)
+      word_eng = get_item_en(item["num"], wordVocab2_en);
+      item_eng = wordVocab2_en[word_eng];
     }
     else if(vocab==wordVocab3){
-      item_eng = get_item_en(item["num"], wordVocab3_en);
-      
-    console.log(get_item_en(item["num"], wordVocab3_en));
-      ranword_en = Object.keys(wordVocab3_en).find(key => wordVocab3_en[key] == item_eng)
+      word_eng = get_item_en(item["num"], wordVocab3_en);
+      item_eng = wordVocab3_en[word_eng];
     }
     console.log(item_eng);
     var newword = ranword;
@@ -316,7 +317,7 @@ var loadWord = function(){
     });
     $("#container").css('background-color', item["color"]);
     // $("#sample").attr("src",i);
-    $("#meaning").text(ranword_en);
+    $("#meaning").text(word_eng);
 }
 
 
