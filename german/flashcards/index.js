@@ -82,7 +82,6 @@ $("#next").click(function(){
   wordVocab[doneWords[pointer]]["mastered"] = false;
   mastered = true;
   
-  pointer+=1;
   $("#sentences").html("");
   $("#meaning").html("");
   if(pointer>=doneWords.length)
@@ -242,16 +241,22 @@ function get_random_word_sentence(poswords){
   var ranword = poswords[(Math.floor(Math.random() * $(poswords).length) + 1)-1];
   if(wordVocab[ranword]["ex"].length <= 0)
   get_random_word_sentence(poswords);
-  var ransentence = wordVocab[ranword]["ex"][(Math.floor(Math.random() * $(wordVocab[ranword]["ex"]).length) + 1)-1];
+  else{
+    var ransentence = wordVocab[ranword]["ex"][(Math.floor(Math.random() * $(wordVocab[ranword]["ex"]).length) + 1)-1];
+    ranword = ranword.replace(",","").replace("-","").replace("der ","").replace("das ","").replace("die ","");
 
-  if(ransentence.indexOf(ranword) == -1)
-  get_random_word_sentence(poswords);
-
-  otherwords = [];
-  var ran1 = Object.keys(wordVocab)[(Math.floor(Math.random() * $(Object.keys(wordVocab)).length) + 1)-1];
-  var ran2 = Object.keys(wordVocab)[(Math.floor(Math.random() * $(Object.keys(wordVocab)).length) + 1)-1];
-  var ran3 = Object.keys(wordVocab)[(Math.floor(Math.random() * $(Object.keys(wordVocab)).length) + 1)-1];
-  return [ranword, ransentence, [ran1, ran2, ran3]];
+    if(ransentence.indexOf(ranword) == -1)
+    get_random_word_sentence(poswords);
+    else{
+      otherwords = [];
+      var ran1 = Object.keys(wordVocab)[(Math.floor(Math.random() * $(Object.keys(wordVocab)).length) + 1)-1];
+      var ran2 = Object.keys(wordVocab)[(Math.floor(Math.random() * $(Object.keys(wordVocab)).length) + 1)-1];
+      var ran3 = Object.keys(wordVocab)[(Math.floor(Math.random() * $(Object.keys(wordVocab)).length) + 1)-1];
+      return [ranword, ransentence, [ran1, ran2, ran3]];
+    }
+    
+  }
+  
 }
 
 function shuffle(a) {
@@ -311,6 +316,8 @@ var loadWord = function(){
     // console.log(imgs);
     $("#inner").css("visibility", "visible");
     $("#quiz").css("visibility", "hidden");
+
+    pointer+=1;
 
     var nums = [[], [], []];
     console.log(a1);
