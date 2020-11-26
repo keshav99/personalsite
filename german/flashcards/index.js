@@ -280,6 +280,7 @@ var loadQuiz = function(){
     if(ran === "word")
     loadWord();
     else{
+      pointer-=1;
       console.log("Quiz started");
       $("#inner").css("visibility", "hidden");
       $("#quiz").css("visibility", "visible");
