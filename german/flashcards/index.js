@@ -2,6 +2,7 @@ var doneWords = [];
 var pointer = 0;
 var mastered = true;
 var a1 = true, a2 = true, b1 = false;
+var correctword = "";
 
 function getCookie(cook) {
   var result = document.cookie.match(new RegExp(cook+ '=([^;]+)'));
@@ -137,6 +138,10 @@ $("#next").click(function(){
   }
 });
 
+$("#option1").click(function(){
+console.log($(this).text);
+});
+
 $("#back").click(function(){
   $("#inner").css("transform", "rotateY(0deg)");
   if(pointer>0){
@@ -236,7 +241,7 @@ function get_item_en(no, dict){
   });
   return res;
 }
-var correctword = "";
+
 function get_random_word_sentence(poswords){
   var ranword = poswords[(Math.floor(Math.random() * $(poswords).length) + 1)-1];
   if(wordVocab[ranword]["ex"].length <= 0)
