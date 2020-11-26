@@ -271,10 +271,11 @@ var loadQuiz = function(){
   else{
     var wordorquiz = ["word", "word", "word", "word", "word", "word", "word", "quiz", "quiz", "quiz"]
     var ran = wordorquiz[(Math.floor(Math.random() * $(wordorquiz).length) + 1)-1];
-    
+    console.log(ran);
     if(ran === "word")
     loadWord();
     else{
+      console.log("Quiz started");
       var poslevels = [];
       if(a1)
         poslevels.push("a1");
@@ -283,6 +284,7 @@ var loadQuiz = function(){
       if(b1)
         poslevels.push("b1");
       var poswords = [];
+      console.log(poswords);
       $.each(Object.keys(wordVocab), function(i, v){
         if(poslevels.includes(wordVocab[v]["level"]))
           poswords.push(v);
