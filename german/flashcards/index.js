@@ -139,7 +139,31 @@ $("#next").click(function(){
 });
 
 $("#option1").click(function(){
-console.log($(this).text());
+  if(correctword == $(this).text())
+  $("option1").css("text", "green");
+  else
+  $("option1").css("text", "red");
+});
+
+$("#option2").click(function(){
+  if(correctword == $(this).text())
+  $("option2").css("text", "green");
+  else
+  $("option2").css("text", "red");
+});
+
+$("#option3").click(function(){
+  if(correctword == $(this).text())
+  $("option3").css("text", "green");
+  else
+  $("option3").css("text", "red");
+});
+
+$("#option4").click(function(){
+  if(correctword == $(this).text())
+  $("option4").css("text", "green");
+  else
+  $("option4").css("text", "red");
 });
 
 $("#back").click(function(){
@@ -248,8 +272,9 @@ function get_random_word_sentence(poswords){
   get_random_word_sentence(poswords);
   else{
     var ransentence = wordVocab[ranword]["ex"][(Math.floor(Math.random() * $(wordVocab[ranword]["ex"]).length) + 1)-1];
+    var color = wordVocab[ranword]["color"];
     ranword = ranword.replace(",","").replace("-","").replace("der ","").replace("das ","").replace("die ","");
-
+    
     if(ransentence.indexOf(ranword) == -1)
     get_random_word_sentence(poswords);
     else{
@@ -257,7 +282,7 @@ function get_random_word_sentence(poswords){
       var ran1 = Object.keys(wordVocab)[(Math.floor(Math.random() * $(Object.keys(wordVocab)).length) + 1)-1].replace(",","").replace("-","").replace("der ","").replace("das ","").replace("die ","");;
       var ran2 = Object.keys(wordVocab)[(Math.floor(Math.random() * $(Object.keys(wordVocab)).length) + 1)-1].replace(",","").replace("-","").replace("der ","").replace("das ","").replace("die ","");;
       var ran3 = Object.keys(wordVocab)[(Math.floor(Math.random() * $(Object.keys(wordVocab)).length) + 1)-1].replace(",","").replace("-","").replace("der ","").replace("das ","").replace("die ","");;
-      return [ranword, ransentence, [ran1, ran2, ran3]];
+      return [ranword, ransentence, [ran1, ran2, ran3], color];
     }
     
   }
@@ -311,7 +336,7 @@ var loadQuiz = function(){
       $("#option2").text(wordsTodisp[1]);
       $("#option3").text(wordsTodisp[2]);
       $("#option4").text(wordsTodisp[3]);
-      
+      $("#container").css("background",color); 
     }
     
   }
