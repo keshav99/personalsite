@@ -2,7 +2,8 @@ var doneWords = [];
 var pointer = 0;
 var mastered = true;
 var a1 = true, a2 = true, b1 = false;
-var correctword = "";
+var correctword = "", firstchance = false;
+
 
 function getCookie(cook) {
   var result = document.cookie.match(new RegExp(cook+ '=([^;]+)'));
