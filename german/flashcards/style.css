@@ -31,6 +31,7 @@ body{
   transition: transform 0.8s;
   transform-style: preserve-3d;
   z-index:1;
+  visibility: hidden;
 }
 
 .front, .back{
@@ -156,10 +157,7 @@ h3{
 
 }
 
-#quiz{
-    width: 100vw;
-    height: 80vh;
-}
+
 
 #footer{
     display: inline-flex;
@@ -198,6 +196,10 @@ h3{
     border-color: #9c2754;
     box-shadow: 0px 0px 0px 15px #9c2754 inset;
   }
+  .box input:checked ~ .check.ans-one {
+    border-color: #39e664;
+    box-shadow: 0px 0px 0px 15px #220e46 inset;
+  }
   .box input:checked ~ .check::after {
     opacity: 1;
     transform: scale(1);
@@ -210,13 +212,20 @@ h3{
     align-items: center;
     position: relative;
     border-radius: 100px;
-    background-color: rgb(0, 0, 0);
+    background-color: rgb(0, 0, 0, 0);
     
     transition: all 0.15s cubic-bezier(0, 1.05, 0.72, 1.07);
   }
+
+  
+
   .box .check.one {
     border: 2px solid #e7e135;
     box-shadow: 0px 0px 0px 0px #e7e135 inset;
+  }
+  .box .check.ans-one {
+    border: 2px solid #192865;
+    box-shadow: 0px 0px 0px 0px #c985a4 inset;
   }
   .box .check.two {
     border: 2px solid #5e75db;
@@ -245,6 +254,37 @@ h3{
 ::-webkit-scrollbar-thumb{
     display: none;
   }
+
+  #quiz{
+    width: 100vw;
+    height: 80vh;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background: #9c2754;
+}
+
+#quiz .box{
+    display: initial;
+}
+
+#quiz .box span{
+    margin-left:30vw;
+    transform: translateX(-50%);
+}
+#quiz .box label{
+    width: 50vw;
+    text-align: left;
+    margin-left: 6vw;
+    /* margin-top: -5vh; */
+    color: #fff;
+    font-family: 'Source Sans Pro';
+    margin-top: -33px;
+    transform: translateX(-50%);
+    /* display: inline;*/
+}
+
+
 
 @media (max-width: 1024px){
     body{
