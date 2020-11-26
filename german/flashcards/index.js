@@ -84,6 +84,7 @@ $("#next").click(function(){
   
   pointer+=1;
   $("#sentences").html("");
+$("#meaning").html("");
   if(pointer>=doneWords.length)
   loadWord();
   else{
@@ -139,6 +140,7 @@ $("#back").click(function(){
     mastered = true;
     $("#inner").css("transform", "rotateY(0deg)");
     $("#sentences").html("");
+    $("#meaning").html("");
     pointer--;
     var word = doneWords[pointer];
     var item, item_en;
@@ -154,7 +156,7 @@ $("#back").click(function(){
       item = wordVocab3[word];
       item_en = get_item_en(item["num"], wordVocab3_en);
     }
-    $("#wordName").text(word);
+    $("#meaning").text(word);
     
   console.log(wordVocab[word]);
     if(typeof wordVocab[word] == 'undefined'){
