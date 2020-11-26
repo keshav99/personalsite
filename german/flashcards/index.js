@@ -140,31 +140,33 @@ $("#next").click(function(){
 });
 
 $("#option1").click(function(){
+  console.log("clicked opt1");
   if(correctword == $(this).text())
-  $("option1").css("text", "green");
+  $("#option1").css("text", "green");
   else
-  $("option1").css("text", "red");
+  $("#option1").css("text", "red");
 });
 
 $("#option2").click(function(){
+  console.log("clicked opt1");
   if(correctword == $(this).text())
-  $("option2").css("text", "green");
+  $("#option2").css("text", "green");
   else
-  $("option2").css("text", "red");
+  $("#option2").css("text", "red");
 });
 
 $("#option3").click(function(){
   if(correctword == $(this).text())
-  $("option3").css("text", "green");
+  $("#option3").css("text", "green");
   else
-  $("option3").css("text", "red");
+  $("#option3").css("text", "red");
 });
 
 $("#option4").click(function(){
   if(correctword == $(this).text())
-  $("option4").css("text", "green");
+  $("#option4").css("text", "green");
   else
-  $("option4").css("text", "red");
+  $("#option4").css("text", "red");
 });
 
 $("#back").click(function(){
