@@ -249,9 +249,9 @@ function get_random_word_sentence(poswords){
     get_random_word_sentence(poswords);
     else{
       otherwords = [];
-      var ran1 = Object.keys(wordVocab)[(Math.floor(Math.random() * $(Object.keys(wordVocab)).length) + 1)-1];
-      var ran2 = Object.keys(wordVocab)[(Math.floor(Math.random() * $(Object.keys(wordVocab)).length) + 1)-1];
-      var ran3 = Object.keys(wordVocab)[(Math.floor(Math.random() * $(Object.keys(wordVocab)).length) + 1)-1];
+      var ran1 = Object.keys(wordVocab)[(Math.floor(Math.random() * $(Object.keys(wordVocab)).length) + 1)-1].replace(",","").replace("-","").replace("der ","").replace("das ","").replace("die ","");;
+      var ran2 = Object.keys(wordVocab)[(Math.floor(Math.random() * $(Object.keys(wordVocab)).length) + 1)-1].replace(",","").replace("-","").replace("der ","").replace("das ","").replace("die ","");;
+      var ran3 = Object.keys(wordVocab)[(Math.floor(Math.random() * $(Object.keys(wordVocab)).length) + 1)-1].replace(",","").replace("-","").replace("der ","").replace("das ","").replace("die ","");;
       return [ranword, ransentence, [ran1, ran2, ran3]];
     }
     
