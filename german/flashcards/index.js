@@ -81,7 +81,7 @@ $("#next").click(function(){
   else
   wordVocab[doneWords[pointer]]["mastered"] = false;
   mastered = true;
-  
+  pointer++;
   $("#sentences").html("");
   $("#meaning").html("");
   if(pointer>=doneWords.length)
@@ -317,7 +317,6 @@ var loadWord = function(){
     $("#inner").css("visibility", "visible");
     $("#quiz").css("visibility", "hidden");
 
-    pointer+=1;
 
     var nums = [[], [], []];
     console.log(a1);
