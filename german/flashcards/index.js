@@ -139,7 +139,7 @@ $("#next").click(function(){
 });
 
 $("#option1").click(function(){
-console.log($(this).text);
+console.log($(this).text());
 });
 
 $("#back").click(function(){
