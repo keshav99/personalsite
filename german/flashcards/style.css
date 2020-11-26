@@ -31,7 +31,6 @@ body{
   transition: transform 0.8s;
   transform-style: preserve-3d;
   z-index:1;
-  visibility: hidden;
 }
 
 .front, .back{
@@ -264,6 +263,8 @@ h3{
     top: 0;
     left: 0;
     background: #9c2754;
+    visibility: hidden;
+
 }
 
 #quiz .box{

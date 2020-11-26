@@ -276,6 +276,8 @@ var loadQuiz = function(){
     loadWord();
     else{
       console.log("Quiz started");
+      $("#inner").css("visibility", "hidden");
+      $("#quiz").css("visibility", "visible");
       var poslevels = [];
       if(a1)
         poslevels.push("a1");
