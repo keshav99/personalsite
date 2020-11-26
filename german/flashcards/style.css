@@ -156,6 +156,11 @@ h3{
 
 }
 
+#quiz{
+    width: 100vw;
+    height: 80vh;
+}
+
 #footer{
     display: inline-flex;
     margin-left: 10px;
