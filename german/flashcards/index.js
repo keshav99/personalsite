@@ -228,12 +228,22 @@ function get_item_en(no, dict){
   return res;
 }
 
- 
+var loadQuiz = function(){
+  if(Object.keys(wordVocab).length<10)
+    loadWord();
+  else{
+    $("#inner").css("visibility", "hidden");
+    $("#quiz").css("visibility", "visible");
+
+  }
+}
  
 
 var loadWord = function(){
     // console.log(imgs);
-    
+    $("#inner").css("visibility", "visible");
+    $("#quiz").css("visibility", "hidden");
+
     var nums = [[], [], []];
     console.log(a1);
     console.log(a2);

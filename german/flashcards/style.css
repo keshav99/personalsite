@@ -157,7 +157,9 @@ h3{
 
 }
 
-
+#quiz h3{
+    font-size: 1.5em;
+}
 
 #footer{
     display: inline-flex;
