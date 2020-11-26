@@ -237,6 +237,33 @@ function get_item_en(no, dict){
   });
   return res;
 }
+var correctword = "";
+function get_random_word_sentence(poswords){
+  var ranword = poswords[(Math.floor(Math.random() * $(poswords).length) + 1)-1];
+  if(wordVocab[ranword]["ex"].length <= 0)
+  get_random_word_sentence(poswords);
+  var ransentence = wordVocab[ranword]["ex"][(Math.floor(Math.random() * $(wordVocab[ranword]["ex"]).length) + 1)-1];
+
+  if(ransentence.indexOf(ranword) == -1)
+  get_random_word_sentence(poswords);
+
+  otherwords = [];
+  var ran1 = Object.keys(wordVocab)[(Math.floor(Math.random() * $(Object.keys(wordVocab)).length) + 1)-1];
+  var ran2 = Object.keys(wordVocab)[(Math.floor(Math.random() * $(Object.keys(wordVocab)).length) + 1)-1];
+  var ran3 = Object.keys(wordVocab)[(Math.floor(Math.random() * $(Object.keys(wordVocab)).length) + 1)-1];
+  return [ranword, ransentence, [ran1, ran2, ran3]];
+}
+
+function shuffle(a) {
+  var j, x, i;
+  for (i = a.length - 1; i > 0; i--) {
+      j = Math.floor(Math.random() * (i + 1));
+      x = a[i];
+      a[i] = a[j];
+      a[j] = x;
+  }
+  return a;
+}
 
 var loadQuiz = function(){
   if(Object.keys(wordVocab).length<10)
@@ -244,11 +271,32 @@ var loadQuiz = function(){
   else{
     var wordorquiz = ["word", "word", "word", "word", "word", "word", "word", "quiz", "quiz", "quiz"]
     var ran = wordorquiz[(Math.floor(Math.random() * $(wordorquiz).length) + 1)-1];
-
+    
     if(ran === "word")
     loadWord();
     else{
-
+      var poslevels = [];
+      if(a1)
+        poslevels.push("a1");
+      if(a2)
+        poslevels.push("a2");
+      if(b1)
+        poslevels.push("b1");
+      var poswords = [];
+      $.each(Object.keys(wordVocab), function(i, v){
+        if(poslevels.includes(wordVocab[v]["level"]))
+          poswords.push(v);
+      });
+     
+      var randoms =  get_random_word_sentence(poswords);
+      correctword = randoms[0];
+      var wordsTodisp = shuffle([correctword, randoms[2][0], randoms[2][1], randoms[2][2]]);
+      $("#qsent").text(randoms[1].replace(correctword, "________"));
+      $("#option1").text(wordsTodisp[0]);
+      $("#option2").text(wordsTodisp[1]);
+      $("#option3").text(wordsTodisp[2]);
+      $("#option4").text(wordsTodisp[3]);
+      
     }
     
   }
