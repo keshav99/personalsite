@@ -272,14 +272,14 @@ function get_item_en(no, dict){
 function get_random_word_sentence(poswords){
   var ranword = poswords[(Math.floor(Math.random() * $(poswords).length) + 1)-1];
   if(wordVocab[ranword]["ex"].length <= 0)
-  get_random_word_sentence(poswords);
+  return get_random_word_sentence(poswords);
   else{
     var ransentence = wordVocab[ranword]["ex"][(Math.floor(Math.random() * $(wordVocab[ranword]["ex"]).length) + 1)-1];
     var color = wordVocab[ranword]["color"];
     ranword = ranword.replace(",","").replace("-","").replace("der ","").replace("das ","").replace("die ","");
     
     if(ransentence.indexOf(ranword) == -1)
-    get_random_word_sentence(poswords);
+    return get_random_word_sentence(poswords);
     else{
       otherwords = [];
       var ran1 = Object.keys(wordVocab)[(Math.floor(Math.random() * $(Object.keys(wordVocab)).length) + 1)-1].replace(",","").replace("-","").replace("der ","").replace("das ","").replace("die ","");;
@@ -339,7 +339,7 @@ var loadQuiz = function(){
       $("#option2").text(wordsTodisp[1]);
       $("#option3").text(wordsTodisp[2]);
       $("#option4").text(wordsTodisp[3]);
-      $("#container").css("background",color); 
+      $("#container").css("background",randoms[3]); 
     }
     
   }
