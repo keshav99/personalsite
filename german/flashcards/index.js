@@ -328,7 +328,7 @@ var loadQuiz = function(){
       $("#quiz").css("visibility", "visible");
       var options = ["#option1", "#option2", "#option3", "#option4"];
       options.forEach(function(v ){
-        $(v).css("pointer-events","none");
+        $(v).css("pointer-events","auto");
         });
       var poslevels = [];
       if(a1)
