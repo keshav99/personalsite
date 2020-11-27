@@ -143,6 +143,7 @@ $("#next").click(function(){
 $("#option1, #option2, #option3, #option4").click(function(){
   console.log("clicked opt1");
   var vocabWord = get_vocab_word_from_correctword(correctword);
+  levelchosen = wordVocab[vocabWord]["level"];
   if(correctword == $(this).text()){
     wordVocab[vocabWord]["mastered"] = true;
     $("#qsent").html($("#qsent").text().replace("________", "<i><p style='color: green'>"+correctword+"</p></i>")+
