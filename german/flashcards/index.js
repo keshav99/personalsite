@@ -146,13 +146,13 @@ $("#option1, #option2, #option3, #option4").click(function(){
   levelchosen = wordVocab[vocabWord]["level"];
   if(correctword == $(this).text()){
     wordVocab[vocabWord]["mastered"] = true;
-    $("#qsent").text($("#qsent").text().replace("________", "<i><p style='color: green'>"+correctword+"</p></i>")+
+    $("#qsent").html($("#qsent").text().replace("________", "<i><p style='color: green'>"+correctword+"</p></i>")+
     "\n("+wordlist[levelchosen+"_en"][get_item_en(wordVocab[vocabWord]["num"], wordlist[levelchosen+"_en"])]["ex"][correctsentenceno]+")");
 
   }
   else{
     wordVocab[vocabWord]["mastered"] = false;
-    $("#qsent").text($("#qsent").text().replace("________", "<i><p style='color: red'>"+correctword+"</p></i>")+
+    $("#qsent").html($("#qsent").text().replace("________", "<i><p style='color: red'>"+correctword+"</p></i>")+
     "\n("+wordlist[levelchosen+"_en"][get_item_en(wordVocab[vocabWord]["num"], wordlist[levelchosen+"_en"])]["ex"][correctsentenceno]+")");
   }
   var options = ["#option1", "#option2", "#option3", "#option4"];
