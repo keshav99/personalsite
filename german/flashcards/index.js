@@ -153,7 +153,7 @@ $("#option1, #option2, #option3, #option4").click(function(){
     
   }
   var options = ["#option1", "#option2", "#option3", "#option4"];
-    $.forEach(options, function(i,v ){
+  options.forEach(function(v ){
       if($(v).text()!=correctword)
       $(v).text($(v).text()+" ("+get_item_en($(v).text())+")");
       else
