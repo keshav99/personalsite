@@ -325,8 +325,9 @@ var loadQuiz = function(){
     else{
       pointer-=1;
       console.log("Quiz started");
-      $("#inner").css("visibility", "hidden");
+      $("#inner, .scores").css("visibility", "hidden");
       $("#quiz").css("visibility", "visible");
+      $("#youveseen").text("Quizzz Time!");
       var options = ["#option1", "#option2", "#option3", "#option4"];
       options.forEach(function(v ){
         $(v).css("pointer-events","auto");
@@ -364,7 +365,7 @@ var loadQuiz = function(){
 
 var loadWord = function(){
     // console.log(imgs);
-    $("#inner").css("visibility", "visible");
+    $("#inner, .scores").css("visibility", "visible");
     $("#quiz").css("visibility", "hidden");
 
 
