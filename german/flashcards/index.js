@@ -145,13 +145,13 @@ $("#option1, #option2, #option3, #option4").click(function(){
   var vocabWord = get_vocab_word_from_correctword(correctword);
   if(correctword == $(this).text()){
     wordVocab[vocabWord]["mastered"] = true;
-    $("#qsent").html($("#qsent").text().replace("________", "<i><div style='color: green'>"+correctword+"</div></i>")+
+    $("#qsent").html($("#qsent").text().replace("________", "<i><p style='color: green'>"+correctword+"</p></i>")+
     "\n("+correctsentenceno+")");
 
   }
   else{
     wordVocab[vocabWord]["mastered"] = false;
-    $("#qsent").html($("#qsent").text().replace("________", "<i><div style='color: red'>"+correctword+"</div></i>")+
+    $("#qsent").html($("#qsent").text().replace("________", "<i><p style='color: red'>"+correctword+"</p></i>")+
     "\n("+correctsentenceno+")");
   }
   var options = ["#option1", "#option2", "#option3", "#option4"];
@@ -329,6 +329,7 @@ var loadQuiz = function(){
       var options = ["#option1", "#option2", "#option3", "#option4"];
       options.forEach(function(v ){
         $(v).css("pointer-events","auto");
+        $(v).parent().find("input").prop('checked', false);
         });
       var poslevels = [];
       if(a1)
