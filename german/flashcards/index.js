@@ -142,10 +142,12 @@ $("#next").click(function(){
 $("#option1, #option2, #option3, #option4").click(function(){
   console.log("clicked opt1");
   if(correctword == $(this).text()){
+    $(this).text("correct");
     $(this).css("color", "green !important");
   }
   
   else{
+    $(this).text("incorrect");
     $(this).css("color", "red !important");
   }
   
