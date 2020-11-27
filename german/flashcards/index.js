@@ -266,7 +266,7 @@ function get_item_en(no, dict){
 
 function get_vocab_word_from_correctword(word){
   var a = "";
-  $.forEach(Object.keys(wordVocab), function(i, v){
+  Object.keys(wordVocab).forEach(function(v){
     if(v.indexOf(word) != -1){
       a = v;
       return false;
