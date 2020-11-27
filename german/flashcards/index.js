@@ -269,7 +269,6 @@ function get_vocab_word_from_correctword(word){
   $.forEach(Object.keys(wordVocab), function(i, v){
     if(v.indexOf(word) != -1){
       a = v;
-      break;
     }
   });
   return a;
