@@ -141,10 +141,14 @@ $("#next").click(function(){
 
 $("#option1, #option2, #option3, #option4").click(function(){
   console.log("clicked opt1");
-  if(correctword == $(this).text())
-  $(this).css("color", "green !important");
-  else
-  $(this).css("color", "red !important");
+  if(correctword == $(this).text()){
+    $(this).css("color", "green !important");
+  }
+  
+  else{
+    $(this).css("color", "red !important");
+  }
+  
 });
 
 $("#back").click(function(){
@@ -318,7 +322,7 @@ var loadQuiz = function(){
       $("#option2").text(wordsTodisp[1]);
       $("#option3").text(wordsTodisp[2]);
       $("#option4").text(wordsTodisp[3]);
-      $("#container").css("background",randoms[3]); 
+      $("#quiz").css("background",randoms[3]); 
     }
     
   }
