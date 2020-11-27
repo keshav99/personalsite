@@ -139,34 +139,12 @@ $("#next").click(function(){
   }
 });
 
-$("#option1").click(function(){
+$("#option1, #option2, #option3, #option4").click(function(){
   console.log("clicked opt1");
   if(correctword == $(this).text())
-  $("#option1").css("text", "green");
+  $(this).css("color", "green !important");
   else
-  $("#option1").css("text", "red");
-});
-
-$("#option2").click(function(){
-  console.log("clicked opt1");
-  if(correctword == $(this).text())
-  $("#option2").css("text", "green");
-  else
-  $("#option2").css("text", "red");
-});
-
-$("#option3").click(function(){
-  if(correctword == $(this).text())
-  $("#option3").css("text", "green");
-  else
-  $("#option3").css("text", "red");
-});
-
-$("#option4").click(function(){
-  if(correctword == $(this).text())
-  $("#option4").css("text", "green");
-  else
-  $("#option4").css("text", "red");
+  $(this).css("color", "red !important");
 });
 
 $("#back").click(function(){
@@ -317,6 +295,7 @@ var loadQuiz = function(){
       console.log("Quiz started");
       $("#inner").css("visibility", "hidden");
       $("#quiz").css("visibility", "visible");
+      $("#option1, #option2, #option3, #option4").css("color", "white !important");
       var poslevels = [];
       if(a1)
         poslevels.push("a1");
