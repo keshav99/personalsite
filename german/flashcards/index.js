@@ -155,9 +155,9 @@ $("#option1, #option2, #option3, #option4").click(function(){
   var options = ["#option1", "#option2", "#option3", "#option4"];
   options.forEach(function(v ){
       if($(v).text()!=correctword)
-      $(v).text($(v).text()+" ("+get_item_en($(v).text())+")");
+      $(v).text($(v).text()+" ("+get_item_en($(v).text(), wordlist[wordVocab[$(v).text()]["level"]])+")");
       else
-      $(v).text($(v).text()+" ("+get_item_en(vocabWord)+")");
+      $(v).text($(v).text()+" ("+get_item_en(vocabWord, wordlist[wordVocab[vocabWord]["level"]])+")");
       $(v).parent().find("input").attr("disabled",true);
     });
   
