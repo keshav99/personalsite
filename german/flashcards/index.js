@@ -159,7 +159,7 @@ $("#option1, #option2, #option3, #option4").click(function(){
       if($(v).text()!=correctword)
       $(v).text($(v).text()+" ("+get_item_en(wordVocab[get_vocab_word_from_correctword($(v).text())]["num"], wordlist[wordVocab[get_vocab_word_from_correctword($(v).text())]["level"]])+")");
       else
-      $(v).text($(v).text()+" ("+get_item_en(wordVocab[vocabWord]["num"]), wordlist[wordVocab[vocabWord]["level"]])+")");
+      $(v).text($(v).text()+" ("+get_item_en(wordVocab[vocabWord]["num"], wordlist[wordVocab[vocabWord]["level"]])+")");
       $(v).css("pointer-events","none");
     });
   
