@@ -291,7 +291,11 @@ function get_random_word_sentence(poswords){
     if(ransentence.indexOf(ranword) == -1)
     return get_random_word_sentence(poswords);
     else{
-      otherwords = [];
+      otherwords = Object.keys(wordVocab);
+      var index = array.indexOf(ranword);
+      if (index !== -1) {
+        otherwords.splice(index, 1);
+      }
       var ran1 = Object.keys(wordVocab)[(Math.floor(Math.random() * $(Object.keys(wordVocab)).length) + 1)-1].replace(",","").replace("-","").replace("der ","").replace("das ","").replace("die ","");;
       var ran2 = Object.keys(wordVocab)[(Math.floor(Math.random() * $(Object.keys(wordVocab)).length) + 1)-1].replace(",","").replace("-","").replace("der ","").replace("das ","").replace("die ","");;
       var ran3 = Object.keys(wordVocab)[(Math.floor(Math.random() * $(Object.keys(wordVocab)).length) + 1)-1].replace(",","").replace("-","").replace("der ","").replace("das ","").replace("die ","");;
