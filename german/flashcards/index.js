@@ -146,21 +146,21 @@ $("#option1, #option2, #option3, #option4").click(function(){
   levelchosen = wordVocab[vocabWord]["level"];
   if(correctword == $(this).text()){
     wordVocab[vocabWord]["mastered"] = true;
-    $("#qsent").html($("#qsent").text().replace("________", "<i><p style='color: green'>"+correctword+"</p></i>")+
+    $("#qsent").text($("#qsent").text().replace("________", "<i><p style='color: green'>"+correctword+"</p></i>")+
     "\n("+wordlist[levelchosen+"_en"][get_item_en(wordVocab[vocabWord]["num"], wordlist[levelchosen+"_en"])]["ex"][correctsentenceno]+")");
 
   }
   else{
     wordVocab[vocabWord]["mastered"] = false;
-    $("#qsent").html($("#qsent").text().replace("________", "<i><p style='color: red'>"+correctword+"</p></i>")+
+    $("#qsent").text($("#qsent").text().replace("________", "<i><p style='color: red'>"+correctword+"</p></i>")+
     "\n("+wordlist[levelchosen+"_en"][get_item_en(wordVocab[vocabWord]["num"], wordlist[levelchosen+"_en"])]["ex"][correctsentenceno]+")");
   }
   var options = ["#option1", "#option2", "#option3", "#option4"];
   options.forEach(function(v ){
       if($(v).text()!=correctword)
-      $(v).text($(v).text()+" ("+get_item_en(wordVocab[get_vocab_word_from_correctword($(v).text())]["num"], wordlist[wordVocab[get_vocab_word_from_correctword($(v).text())]["level"]+"_en"])+")");
+      $(v).text($(v).text()+" ("+get_item_en(wordVocab[get_vocab_word_from_correctword($(v).text())]["num"], wordlist[wordVocab[get_vocab_word_from_correctword($(v).text())]["level"]+"_en"]).replace(",","").replace("-","")+")");
       else
-      $(v).text($(v).text()+" ("+get_item_en(wordVocab[vocabWord]["num"], wordlist[wordVocab[vocabWord]["level"]+"_en"])+")");
+      $(v).text($(v).text()+" ("+get_item_en(wordVocab[vocabWord]["num"], wordlist[wordVocab[vocabWord]["level"]+"_en"]).replace(",","").replace("-","")+")");
       $(v).css("pointer-events","none");
     });
   
