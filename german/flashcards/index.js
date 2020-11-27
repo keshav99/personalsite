@@ -292,7 +292,7 @@ function get_random_word_sentence(poswords){
     return get_random_word_sentence(poswords);
     else{
       otherwords = Object.keys(wordVocab);
-      var index = array.indexOf(ranword);
+      var index = otherwords.indexOf(ranword);
       if (index !== -1) {
         otherwords.splice(index, 1);
       }
