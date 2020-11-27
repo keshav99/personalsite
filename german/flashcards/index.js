@@ -324,7 +324,10 @@ var loadQuiz = function(){
       console.log("Quiz started");
       $("#inner").css("visibility", "hidden");
       $("#quiz").css("visibility", "visible");
-      $("#option1, #option2, #option3, #option4").css("color", "white !important");
+      var options = ["#option1", "#option2", "#option3", "#option4"];
+      options.forEach(function(v ){
+          $(v).parent().find("input").remmoveAttr("disabled");
+        });
       var poslevels = [];
       if(a1)
         poslevels.push("a1");
