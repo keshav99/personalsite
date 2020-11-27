@@ -2,7 +2,7 @@ var doneWords = [];
 var pointer = 0;
 var mastered = true;
 var a1 = true, a2 = true, b1 = false;
-var correctword = "", firstchance = false;
+var correctword = "", firstchance = false, levelchosen = "", correctsentenceno = 0;
 
 
 function getCookie(cook) {
@@ -38,7 +38,7 @@ function copyToClipboard(text) {
   document.body.removeChild(dummy);
 }
 
-var wordVocab1 = {}, wordVocab2 = {}, wordVocab3 = {}, wordVocab = {}, wordVocab1_en = {}, wordVocab2_en = {}, wordVocab3_en = {};
+var wordVocab1 = {}, wordVocab2 = {}, wordVocab3 = {}, wordVocab = {}, wordVocab1_en = {}, wordVocab2_en = {}, wordVocab3_en = {}, wordlist = {};
 
 
 var frontorback = 1;
@@ -55,6 +55,7 @@ if(wordVocab == null){
 // var imgs = [];
 $.getJSON( "./wordlist_c.json", function( data ) {
 
+    wordlist = data;
     wordVocab1 = data["a1"];
     wordVocab2 = data["a2"];
     wordVocab3 = data["b1"];
@@ -141,15 +142,25 @@ $("#next").click(function(){
 
 $("#option1, #option2, #option3, #option4").click(function(){
   console.log("clicked opt1");
+  var vocabWord = get_vocab_word_from_correctword(correctword);
   if(correctword == $(this).text()){
-    $(this).text("correct");
-    $(this).css("color", "green !important");
+    wordVocab[vocabWord]["mastered"] = 1;
+    $("#qsent").html($("#qsent").text().replace("________", "<i><div style='color: green'>"+correctword+"</div></i>")+
+    "\n("+correctsentenceno+")");
+
   }
-  
   else{
-    $(this).text("incorrect");
-    $(this).css("color", "red !important");
+    
   }
+  var options = ["#option1", "#option2", "#option3", "#option4"];
+    $.forEach(options, function(i,v ){
+      if($(v).text()!=correctword)
+      $(v).text($(v).text()+" ("+get_item_en($(v).text())+")");
+      else
+      $(v).text($(v).text()+" ("+get_item_en(vocabWord)+")");
+      $(v).parent().find("input").attr("disabled",true);
+    });
+  
   
 });
 
@@ -253,12 +264,24 @@ function get_item_en(no, dict){
   return res;
 }
 
+function get_vocab_word_from_correctword(word){
+  var a = "";
+  $.forEach(Object.keys(wordVocab), function(i, v){
+    if(v.indexOf(word) != -1){
+      a = v;
+      break;
+    }
+  });
+  return a;
+}
+
 function get_random_word_sentence(poswords){
   var ranword = poswords[(Math.floor(Math.random() * $(poswords).length) + 1)-1];
   if(wordVocab[ranword]["ex"].length <= 0)
   return get_random_word_sentence(poswords);
   else{
-    var ransentence = wordVocab[ranword]["ex"][(Math.floor(Math.random() * $(wordVocab[ranword]["ex"]).length) + 1)-1];
+    correctsentenceno = (Math.floor(Math.random() * $(wordVocab[ranword]["ex"]).length) + 1)-1;
+    var ransentence = wordVocab[ranword]["ex"][correctsentenceno];
     var color = wordVocab[ranword]["color"];
     ranword = ranword.replace(",","").replace("-","").replace("der ","").replace("das ","").replace("die ","");
     
@@ -318,6 +341,7 @@ var loadQuiz = function(){
      
       var randoms =  get_random_word_sentence(poswords);
       correctword = randoms[0];
+      correctsentenceno 
       var wordsTodisp = shuffle([correctword, randoms[2][0], randoms[2][1], randoms[2][2]]);
       $("#qsent").text(randoms[1].replace(correctword, "________"));
       $("#option1").text(wordsTodisp[0]);
