@@ -326,7 +326,7 @@ var loadQuiz = function(){
       $("#quiz").css("visibility", "visible");
       var options = ["#option1", "#option2", "#option3", "#option4"];
       options.forEach(function(v ){
-          $(v).parent().find("input").remmoveAttr("disabled");
+          $(v).parent().find("input").attr("disabled", false);
         });
       var poslevels = [];
       if(a1)
