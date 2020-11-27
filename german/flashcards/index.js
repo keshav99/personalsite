@@ -144,21 +144,23 @@ $("#option1, #option2, #option3, #option4").click(function(){
   console.log("clicked opt1");
   var vocabWord = get_vocab_word_from_correctword(correctword);
   if(correctword == $(this).text()){
-    wordVocab[vocabWord]["mastered"] = 1;
+    wordVocab[vocabWord]["mastered"] = true;
     $("#qsent").html($("#qsent").text().replace("________", "<i><div style='color: green'>"+correctword+"</div></i>")+
     "\n("+correctsentenceno+")");
 
   }
   else{
-    
+    wordVocab[vocabWord]["mastered"] = false;
+    $("#qsent").html($("#qsent").text().replace("________", "<i><div style='color: red'>"+correctword+"</div></i>")+
+    "\n("+correctsentenceno+")");
   }
   var options = ["#option1", "#option2", "#option3", "#option4"];
   options.forEach(function(v ){
       if($(v).text()!=correctword)
-      $(v).text($(v).text()+" ("+get_item_en($(v).text(), wordlist[wordVocab[get_vocab_word_from_correctword($(v).text())]["level"]])+")");
+      $(v).text($(v).text()+" ("+get_item_en(get_vocab_word_from_correctword($(v).text()), wordlist[wordVocab[get_vocab_word_from_correctword($(v).text())]["level"]])+")");
       else
       $(v).text($(v).text()+" ("+get_item_en(vocabWord, wordlist[wordVocab[vocabWord]["level"]])+")");
-      $(v).parent().find("input").attr("disabled",true);
+      $(v).css("pointer-events","none");
     });
   
   
@@ -326,7 +328,7 @@ var loadQuiz = function(){
       $("#quiz").css("visibility", "visible");
       var options = ["#option1", "#option2", "#option3", "#option4"];
       options.forEach(function(v ){
-          $(v).parent().find("input").attr("disabled", false);
+        $(v).css("pointer-events","none");
         });
       var poslevels = [];
       if(a1)
