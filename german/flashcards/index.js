@@ -66,6 +66,7 @@ $.getJSON( "./wordlist_c.json", function( data ) {
 
 }).done(function(){
   // loadWord();
+  loadLogin();
 });
 
 $("#one").click(function(){
@@ -150,6 +151,16 @@ $("#next").click(function(){
     $("#meaning").text(word_en);
     
   }
+});
+
+$("#login").click(function(){
+  $("#login_screen,#login_screen_bg").animate({
+    opacity: 0;
+  }, 1000, function(){
+    $("#inner, #top").css("visibility", "visibile");
+    $("#login_screen,#login_screen_bg").css("visibility", "hidden");
+  });
+
 });
 
 $("#option1, #option2, #option3, #option4").click(function(){
@@ -277,6 +288,17 @@ function get_item_en(no, dict){
     }
   });
   return res;
+}
+
+function loadLogin(){
+  var username = getCookie("wordVocabLoginInfo");
+  if(username == null){
+    $("#inner, #top").css("visibility", "hidden");
+    $("login_screen, #login_screen_bg").css("visibility", "visibile");
+  }
+  else{
+    loadQuiz();
+  }
 }
 
 function get_vocab_word_from_correctword(word){

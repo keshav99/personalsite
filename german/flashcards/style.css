@@ -339,9 +339,9 @@ h3{
 #login_screen h3{
     margin-top: 30vh;
     width: 22.25vw;
-    transform: translate(-40%,-50%);
+    transform: translate(-50%,-50%);
     margin-bottom: 0;
-    margin-left: 37.75vw;
+    margin-left: 43.5vw;
     padding: 10px;
 }
 
@@ -370,7 +370,7 @@ h3{
     transition: 0.5s;
   }
   #input_user{
-      width: 20vw;
+      width: 15vw;
   }
   #login{
       width: 2.5vw;
