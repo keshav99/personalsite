@@ -157,7 +157,7 @@ $("#login").click(function(){
   $("#login_screen,#login_screen_bg").animate({
     opacity: 0
   }, 1000, function(){
-    $("#inner, #top").css("visibility", "visibile");
+    $("#inner, #top").css("opacity", "1");
     $("#login_screen,#login_screen_bg").css("visibility", "hidden");
     loadQuiz();
   });
@@ -294,7 +294,7 @@ function get_item_en(no, dict){
 function loadLogin(){
   var username = getCookie("wordVocabLoginInfo");
   if(username == null){
-    $("#inner, #top").css("visibility", "hidden");
+    $("#inner, #top").css("opacity", "0");
     $("login_screen, #login_screen_bg").css("visibility", "visibile");
   }
   else{
