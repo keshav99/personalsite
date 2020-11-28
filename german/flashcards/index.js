@@ -155,7 +155,7 @@ $("#next").click(function(){
 
 $("#login").click(function(){
   $("#login_screen,#login_screen_bg").animate({
-    opacity: 0;
+    opacity: 0
   }, 1000, function(){
     $("#inner, #top").css("visibility", "visibile");
     $("#login_screen,#login_screen_bg").css("visibility", "hidden");
