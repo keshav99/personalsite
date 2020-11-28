@@ -3,6 +3,7 @@ var pointer = 0;
 var mastered = true;
 var a1 = true, a2 = true, b1 = false;
 var correctword = "", firstchance = false, levelchosen = "", correctsentenceno = 0;
+var remember = 0;
 
 
 function getCookie(cook) {
@@ -64,7 +65,7 @@ $.getJSON( "./wordlist_c.json", function( data ) {
     wordVocab3_en = data["b1_en"];
 
 }).done(function(){
-  loadWord();
+  // loadWord();
 });
 
 $("#one").click(function(){
@@ -75,6 +76,17 @@ $("#two").click(function(){
 });
 $("#three").click(function(){
   b1 = $(this).is(':checked')
+});
+
+$("#remember").click(function(){
+  if(remember==0){
+    remember = 1;
+    $(this).css("opacity", "1");
+  }
+  else{
+    remember = 0;
+    $(this).css("opacity", "0.5");
+  }
 });
 
 $("#next").click(function(){
@@ -146,13 +158,13 @@ $("#option1, #option2, #option3, #option4").click(function(){
   levelchosen = wordVocab[vocabWord]["level"];
   if(correctword == $(this).text()){
     wordVocab[vocabWord]["mastered"] = true;
-    $("#qsent").html($("#qsent").text().replace("________", "<i><p style='color: green'>"+correctword+"</p></i>")+
+    $("#qsent").html($("#qsent").text().replace("________", "<i><p style='color: rgb(104, 253, 45)'>"+correctword+"</p></i>")+
     "\n("+wordlist[levelchosen+"_en"][get_item_en(wordVocab[vocabWord]["num"], wordlist[levelchosen+"_en"])]["ex"][correctsentenceno]+")");
 
   }
   else{
     wordVocab[vocabWord]["mastered"] = false;
-    $("#qsent").html($("#qsent").text().replace("________", "<i><p style='color: red'>"+correctword+"</p></i>")+
+    $("#qsent").html($("#qsent").text().replace("________", "<i><p style='color: rgb(253, 45, 45)'>"+correctword+"</p></i>")+
     "\n("+wordlist[levelchosen+"_en"][get_item_en(wordVocab[vocabWord]["num"], wordlist[levelchosen+"_en"])]["ex"][correctsentenceno]+")");
   }
   var options = ["#option1", "#option2", "#option3", "#option4"];
