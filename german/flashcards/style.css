@@ -60,10 +60,21 @@ body{
 
 .scores{
     margin: 0;
-    display: inline-block;
     text-align: center;
     font-size: 0.5em;
     width: 7vw;
+    display: inline;
+}
+
+#mastered, #seenno, #mastered_label, #seen_label{
+    display: inline;
+}
+#mastered, #mastered_label{
+    color: rgb(80, 224, 80);
+}
+
+#seenno, #seen_label{
+    color: rgb(247, 104, 60);
 }
 
 #youveseen{

@@ -154,14 +154,19 @@ $("#next").click(function(){
 });
 
 $("#login").click(function(){
-  $("#login_screen_bg").css("transform", "scale(1)");
-  $("#login_screen,#login_screen_bg").animate({
-    opacity: 0
-  }, 1000, function(){
-    $("#inner, #top").css("opacity", "1");
-    $("#login_screen,#login_screen_bg").css("visibility", "hidden");
-    loadQuiz();
-  });
+  if($("#input_user").val()=="")
+  alert("Username should be at least 5 characters long");
+  else{
+    $("#login_screen_bg").css("transform", "scale(1)");
+    $("#login_screen,#login_screen_bg").animate({
+      opacity: 0
+    }, 1000, function(){
+      $("#inner, #top").css("opacity", "1");
+      $("#login_screen,#login_screen_bg").css("visibility", "hidden");
+      loadQuiz();
+    });
+  }
+ 
 
 });
 
