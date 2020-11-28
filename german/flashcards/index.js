@@ -92,10 +92,10 @@ $("#remember").click(function(){
 
 $("#next").click(function(){
   $("#inner").css("transform", "rotateY(0deg)");
-  if(mastered)
-  wordVocab[doneWords[pointer]]["mastered"] = true;
-  else
-  wordVocab[doneWords[pointer]]["mastered"] = false;
+  // if(mastered)
+  // wordVocab[doneWords[pointer]]["mastered"] = true;
+  // else
+  // wordVocab[doneWords[pointer]]["mastered"] = false;
   mastered = true;
   pointer++;
   $("#sentences").html("");
