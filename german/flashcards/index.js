@@ -131,13 +131,13 @@ $("#next").click(function(){
       wordVocab[word]["level"] = level;
       $("#youveseen").text("You haven't seen this word before");
       $("#seenno").text(Object.keys(wordVocab).length);
-      $("#mastered").text(Boolean(wordVocab[word]["mastered"]));
+      // $("#mastered").text(Boolean(wordVocab[word]["mastered"]));
     }
     else{
       wordVocab[word]["seen"]++;
       $("#youveseen").text("You have seen this "+wordVocab[word]["seen"]+" time(s)");
       $("#seenno").text(Object.keys(wordVocab).length);
-      $("#mastered").text(Boolean(wordVocab[word]["mastered"]));
+      // $("#mastered").text(Boolean(wordVocab[word]["mastered"]));
     }
     saveCookie("wordVocabForGermanFlashcards",wordVocab);
     var i = 0;
@@ -169,13 +169,13 @@ $("#option1, #option2, #option3, #option4").click(function(){
   var vocabWord = get_vocab_word_from_correctword(correctword);
   levelchosen = wordVocab[vocabWord]["level"];
   if(correctword == $(this).text()){
-    wordVocab[vocabWord]["mastered"] = true;
+    // wordVocab[vocabWord]["mastered"] = true;
     $("#qsent").html($("#qsent").text().replace("________", "<i><p style='color: rgb(104, 253, 45)'>"+correctword+"</p></i>")+
     "\n("+wordlist[levelchosen+"_en"][get_item_en(wordVocab[vocabWord]["num"], wordlist[levelchosen+"_en"])]["ex"][correctsentenceno]+")");
 
   }
   else{
-    wordVocab[vocabWord]["mastered"] = false;
+    // wordVocab[vocabWord]["mastered"] = false;
     $("#qsent").html($("#qsent").text().replace("________", "<i><p style='color: rgb(253, 45, 45)'>"+correctword+"</p></i>")+
     "\n("+wordlist[levelchosen+"_en"][get_item_en(wordVocab[vocabWord]["num"], wordlist[levelchosen+"_en"])]["ex"][correctsentenceno]+")");
   }
@@ -194,10 +194,10 @@ $("#option1, #option2, #option3, #option4").click(function(){
 $("#back").click(function(){
   $("#inner").css("transform", "rotateY(0deg)");
   if(pointer>0){
-    if(mastered)
-    wordVocab[doneWords[pointer]]["mastered"] = true;
-    else
-    wordVocab[doneWords[pointer]]["mastered"] = false;
+    // if(mastered)
+    // wordVocab[doneWords[pointer]]["mastered"] = true;
+    // else
+    // wordVocab[doneWords[pointer]]["mastered"] = false;
     mastered = true;
     $("#inner").css("transform", "rotateY(0deg)");
     $("#sentences").html("");
@@ -232,13 +232,13 @@ $("#back").click(function(){
       wordVocab[word]["level"] = level;
       $("#youveseen").text("You haven't seen this word before");
       $("#seenno").text(Object.keys(wordVocab).length);
-      $("#mastered").text(Boolean(wordVocab[word]["mastered"]));
+      // $("#mastered").text(Boolean(wordVocab[word]["mastered"]));
     }
     else{
       wordVocab[word]["seen"]++;
       $("#youveseen").text("You have seen this "+wordVocab[word]["seen"]+" time(s)");
       $("#seenno").text(Object.keys(wordVocab).length);
-      $("#mastered").text(Boolean(wordVocab[word]["mastered"]));
+      // $("#mastered").text(Boolean(wordVocab[word]["mastered"]));
       
     }
     saveCookie("wordVocabForGermanFlashcards",wordVocab);
@@ -267,7 +267,7 @@ $("#inner").click(function(){
     else
     $("#youveseen").text("You have seen this "+wordVocab[word]["seen"]+" time(s)");
     $("#seenno").text(Object.keys(wordVocab).length);
-    $("#mastered").text(Boolean(wordVocab[word]["mastered"]));
+    // $("#mastered").text(Boolean(wordVocab[word]["mastered"]));
   }
   else{
     $("#inner").css("transform", "rotateY(180deg)");
@@ -479,7 +479,7 @@ var loadWord = function(){
       wordVocab[newword]["level"] =  level;
       $("#youveseen").text("You haven't seen this word before");
       $("#seenno").text(Object.keys(wordVocab).length);
-      $("#mastered").text(Boolean(wordVocab[newword]["mastered"]));
+      // $("#mastered").text(Boolean(wordVocab[newword]["mastered"]));
     }
     else{
       wordVocab[newword]["seen"]++;
