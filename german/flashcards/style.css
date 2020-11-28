@@ -70,11 +70,11 @@ body{
     display: inline;
 }
 #mastered, #mastered_label{
-    color: rgb(80, 224, 80);
+    color: rgb(116, 219, 116);
 }
 
 #seenno, #seen_label{
-    color: rgb(247, 104, 60);
+    color: rgb(233, 141, 113);
 }
 
 #youveseen{
@@ -476,5 +476,8 @@ h3{
    }
    #login{
        width:10vw
+   }
+   #mastered_label, #seen_label{
+       font-size: 0.5em;
    }
 }
