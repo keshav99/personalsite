@@ -439,7 +439,32 @@ h3{
     }
     #footer{
         font-size: 1.2em;
+        position: absolute;
+        margin-left: 10px;
+        width: 100vw;
+        bottom: 0;
+        margin-bottom: -10vh;
     }
-
-   
+    #footer label{
+        font-size: 1.4em;
+    }
+    #login_screen h3{
+        margin-left: 50vw;
+        transform: translate(-50%, -50%);
+        font-size: 2em;
+    }
+   #input_user, #login{
+       font-size: 1.5em;
+       height: 100px;
+       margin-top: 50px;
+   }
+   #input_user{
+       width: 40vw;
+   }
+   #remember{
+       font-size: 1.5em;;
+   }
+   #login{
+       width:10vw
+   }
 }
