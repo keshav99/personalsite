@@ -159,6 +159,7 @@ $("#login").click(function(){
   }, 1000, function(){
     $("#inner, #top").css("visibility", "visibile");
     $("#login_screen,#login_screen_bg").css("visibility", "hidden");
+    loadQuiz();
   });
 
 });
